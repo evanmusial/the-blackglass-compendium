@@ -1,8 +1,8 @@
 # The Codex of Arcane Engineering
 
-## Volume II: Entropic Systems  
+## Volume I: Entropic Systems  
 ### Book Seven: Instruments of Separation  
-### Entry E-7.01
+### Entry A-7.01
 
 # The Rzez
 
