@@ -61,8 +61,10 @@ galaxy. Human civilization occupies roughly eight to twelve known systems;
 Earth is not part of the confirmed record; and interstellar travel is possible
 through limited routes whose exact mechanism remains undesigned.
 
-Kharos, Valec, and Issa are the first celestial anchors. The remaining locations
-in the Rzez stay unassigned until later entries need to place them. See
+Kharos is the setting's designated home world and recurring civic, academic, and
+legal anchor. Valec and Issa provide the first contrasting celestial anchors.
+The remaining locations in the Rzez stay unassigned until later entries need to
+place them. See
 [`canon/setting-scope.md`](canon/setting-scope.md) for the complete provisional
 decision and the rules future designs must follow.
 

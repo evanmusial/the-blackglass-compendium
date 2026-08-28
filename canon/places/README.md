@@ -13,7 +13,7 @@ source_entries:
 | Place | Current role in shared canon | Status |
 | --- | --- | --- |
 | [Valec](valec.md) | Destroyed industrial world and Year Zero of the Compact Calendar. | Provisional |
-| [Kharos](kharos.md) | Surviving core world and legal-academic center associated with Rzez control. | Provisional |
+| [Kharos](kharos.md) | Designated home world; surviving core world and legal-academic center associated with Rzez control. | Provisional |
 | [Issa](issa.md) | Frontier gas giant with an anomalously separated inner moon. | Provisional |
 
 ## Named places retained in the Rzez entry

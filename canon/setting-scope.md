@@ -27,6 +27,11 @@ The known region has no adopted proper name yet. Until a future entry earns one,
 refer to it descriptively as **the known inhabited region**. Do not turn that
 phrase into a ceremonial in-world title.
 
+Within that region, **Kharos is the setting's designated home world**: the
+recurring point of reference for ordinary civic life, scholarship, law, and
+politics when another location is not more meaningful. This is an authorial role,
+not a claim that Kharos is humanity's cradle or the capital of a unified region.
+
 ## What kind of decision this is
 
 This document combines three layers that must remain distinguishable:
@@ -111,13 +116,27 @@ requiring an existing galactic atlas.
 
 ### Kharos
 
-[Kharos](places/kharos.md) is provisionally a surviving inhabited core world,
-separate from Valec. It is the leading legal and academic center associated with
-Rzez regulation, and the Sixth Compact was negotiated, ratified, or institutionally
-centered there.
+[Kharos](places/kharos.md) is the setting's designated home world and a surviving
+inhabited core world, separate from Valec. It is the leading legal and academic
+center associated with Rzez regulation, and the Sixth Compact was negotiated,
+ratified, or institutionally centered there.
 
-The name of its star, the composition of its system, and whether “Kharosi” also
-names a wider polity remain open.
+As the home world, Kharos should recur as the setting's most familiar inhabited
+place without becoming the location of every important event or institution.
+
+By out-of-world authorial comparison, Kharos is about 1.3 Earth diameters. It
+follows a circumbinary orbit around a Sun-like primary and a smaller, cooler dwarf
+companion. Its two moons are Odran, a barren rocky body comparable to Earth's
+Moon, and Avara, a habitable moon about 1.8 lunar diameters across. Avara is
+sparsely settled but supports extensive industrial, military, and scientific
+infrastructure.
+
+Kharos and both moons share an exceptional intrasystem laser-communications
+backbone with direct and relayed moon-to-moon links. Its throughput is enormous
+and its latency approaches the physical light-travel minimum.
+
+The stellar pair's proper names, exact classifications, and orbital architecture
+remain open, as does whether “Kharosi” also names a wider polity.
 
 ### Valec
 
@@ -156,6 +175,9 @@ with human emotional and biological legibility.
 **Earth is not part of confirmed history.** No current canon establishes that
 Earth is the cradle world, a surviving place, a destroyed place, or even a name
 known to the Codex's compilers.
+
+Kharos's designation as the setting's home world describes its authorial and
+narrative function. It does not establish Kharos as the origin of humanity.
 
 Possible cradle-world stories may later include:
 
