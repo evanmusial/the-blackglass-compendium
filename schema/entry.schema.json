@@ -1,0 +1,194 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:blackglass-compendium:schema:entry:1",
+  "title": "Blackglass Compendium entry metadata",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "document_type",
+    "id",
+    "title",
+    "slug",
+    "volume",
+    "book",
+    "canonical_designation",
+    "entry_scope",
+    "development_status",
+    "authorial_status",
+    "engineering",
+    "operational_scales",
+    "evidence_model"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "document_type": {
+      "const": "compendium-entry"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[A-Z]+-[0-9]+\\.[0-9]+$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "volume": {
+      "$ref": "#/$defs/numberedDivision"
+    },
+    "book": {
+      "$ref": "#/$defs/numberedDivision"
+    },
+    "canonical_designation": {
+      "type": "string",
+      "minLength": 1
+    },
+    "entry_scope": {
+      "enum": [
+        "single-instrument",
+        "device-type",
+        "technology-family",
+        "event",
+        "theoretical-system"
+      ]
+    },
+    "development_status": {
+      "enum": [
+        "draft",
+        "review",
+        "adopted",
+        "retired"
+      ]
+    },
+    "authorial_status": {
+      "enum": [
+        "provisional",
+        "established",
+        "superseded"
+      ]
+    },
+    "engineering": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "primary_system",
+        "traits"
+      ],
+      "properties": {
+        "primary_system": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "traits": {
+          "$ref": "#/$defs/slugList"
+        }
+      }
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "military_classification": {
+      "$ref": "#/$defs/slug"
+    },
+    "origin_classification": {
+      "$ref": "#/$defs/slug"
+    },
+    "operational_scales": {
+      "$ref": "#/$defs/slugList"
+    },
+    "legal_status": {
+      "$ref": "#/$defs/slug"
+    },
+    "evidence_model": {
+      "$ref": "#/$defs/slug"
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "exemplar",
+        "sha256",
+        "body_relation"
+      ],
+      "properties": {
+        "exemplar": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "body_relation": {
+          "enum": [
+            "exact-copy-after-front-matter",
+            "adapted-from-exemplar"
+          ]
+        }
+      }
+    },
+    "entities": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "people": {
+          "$ref": "#/$defs/slugList"
+        },
+        "places": {
+          "$ref": "#/$defs/slugList"
+        },
+        "institutions": {
+          "$ref": "#/$defs/slugList"
+        },
+        "events": {
+          "$ref": "#/$defs/slugList"
+        }
+      }
+    },
+    "themes": {
+      "$ref": "#/$defs/slugList"
+    }
+  },
+  "$defs": {
+    "numberedDivision": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "number",
+        "title"
+      ],
+      "properties": {
+        "number": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "slugList": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/slug"
+      },
+      "uniqueItems": true
+    }
+  }
+}

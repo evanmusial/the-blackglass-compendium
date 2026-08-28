@@ -1,0 +1,116 @@
+# Rzez Integration Record
+
+## Purpose
+
+This record explains how the original Rzez draft entered the structured
+Compendium repository. It exists so future editing can distinguish preservation,
+classification, canon extraction, and prose revision.
+
+## Source preservation
+
+The original manuscript remains at:
+
+`exemplars/Volume 1 - The Rzez.md`
+
+SHA-256 at the time of integration:
+
+`facbfa211443a253e057ef51343d5087a2b24df10d15e242fc26b7a9152c58a4`
+
+The exemplar was not renamed, reformatted, or given front matter.
+
+## Working manuscript
+
+The active copy is:
+
+`entries/volume-01/book-07/a-7-01-the-rzez.md`
+
+At initial integration, the working file consists of newly added YAML front
+matter followed by a body identical to the preserved exemplar. Future prose
+revision belongs in the working file, not the exemplar.
+
+## Taxonomy decisions supported by the manuscript
+
+The manuscript explicitly establishes:
+
+- **Publication hierarchy:** Volume I, *Entropic Systems*; Book Seven,
+  *Instruments of Separation*; Entry `A-7.01`.
+- **Entry scope:** a technology family rather than one artifact. “The Rzez” can
+  mean its principle, field, instrument, event, or legendary total technology.
+- **Primary engineering system:** entropic.
+- **Behavioral traits:** propagative and structure-selective.
+- **Original classification:** precision mineral-separation apparatus.
+- **Military classification:** proscribed world-terminal technology.
+- **Operational scales:** surgical, industrial, siege, strategic, continental,
+  and planetary.
+- **Evidence model:** Grades A through E, measuring historical support rather
+  than metaphysical truth.
+
+These dimensions are recorded separately because a single hierarchy cannot
+express mechanism, behavior, origin, threat, scale, and certainty without
+becoming ambiguous.
+
+## Shared canon extracted in this pass
+
+The initial extraction creates provisional shared records for:
+
+- the distinction between authorial canon and in-world evidence;
+- the Codex hierarchy and current classification axes;
+- Rzez-derived engineering principles and terms;
+- the relative chronology surrounding the Gentle Opening, Meridian Age, Valec,
+  and Sixth Compact;
+- Varek Ilyr and Olan Vey;
+- Valec and Kharos;
+- the First Quarry Houses, Compact Commission, and Sixth Compact of Kharos.
+
+This does not assert that every Rzez theory is objectively true. The supernatural
+origin traditions, identity-propagation theory, observational stabilization,
+institutional Rzez, and related claims remain disputed in-world.
+
+## Deliberately unresolved taxonomy questions
+
+One entry is not enough evidence to settle the entire Codex filing system. The
+following remain open:
+
+1. What does the `A` prefix in `A-7.01` encode?
+2. Are volumes always engineering systems, or can a volume use another organizing
+   principle?
+3. Are books mechanism families, use families, or editorial groupings?
+4. When should a variant receive a separate entry rather than a subsection?
+5. Does the Compact Calendar govern all future entries or only the cultures in
+   the Rzez's historical sphere?
+6. Which classification terms are universal, and which belong only to later
+   Kharosi scholarship?
+
+These questions are recorded rather than answered by invention. Two or three
+contrasting entries should be drafted before fixing the broader system.
+
+## Recommended next integration pass
+
+After the next weapon concept is selected:
+
+1. test whether it belongs under Entropic Systems or requires another volume;
+2. test whether “Instruments of Separation” is narrow enough to distinguish its
+   book from neighboring books;
+3. decide whether the `A` prefix carries meaning or is merely an archival series;
+4. add only the canon entities the new entry actually reuses;
+5. revise provisional taxonomy rules where the second entry provides contrary
+   evidence;
+6. add links inside the working Rzez manuscript only when those links materially
+   improve reading or editorial navigation.
+
+## Subsequent setting and frame decisions
+
+The initial manuscript migration deliberately left two matters unresolved. They
+were later recorded as provisional layers rather than inserted into the preserved
+exemplar:
+
+- `canon/setting-scope.md` establishes a small interstellar region, uncertain
+  human origin, limited routes, and the separate anchors of Kharos, Valec, and
+  Issa.
+- `frame/` distinguishes the formal *Codex of Arcane Engineering* from the later
+  *Blackglass Compendium* recension and records a provisional layered compilation
+  history.
+
+These are authorial development decisions supported by the Rzez's implications,
+not passages recovered from the exemplar. Future revisions must preserve that
+provenance distinction.
