@@ -10,6 +10,9 @@ These documents describe how the Compendium is organized and maintained.
   controlled vocabulary.
 - [`rzez-integration.md`](rzez-integration.md) records how the original Rzez
   exemplar was introduced into the new structure.
+- [`three-weapon-integration.md`](three-weapon-integration.md) records which
+  Unhidden and Manifold facts were promoted into shared provisional canon, how
+  they were distributed through Kelan–Ruva, and which decisions remain deferred.
 
 When documentation and an existing manuscript disagree, do not silently edit
 the manuscript to match the documentation. Record the disagreement and decide

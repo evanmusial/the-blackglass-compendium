@@ -1,13 +1,16 @@
 ---
 document_type: chronology
-title: Rzez-Derived Chronology
+title: Compendium Chronology
 authorial_status: provisional
 calendar_basis: compact-relative
 source_entries:
   - A-7.01
+source_concepts:
+  - the-unhidden
+  - the-manifold
 ---
 
-# Rzez-Derived Chronology
+# Compendium Chronology
 
 ## Calendar policy
 
@@ -19,6 +22,10 @@ Until another entry establishes broader usage, Compact-relative dates should not
 be assumed universal outside the Rzez's historical sphere. Under the provisional
 setting scope, the calendar is widely useful to the Codex's compilers and Compact
 core but not automatically native to every system or culture.
+
+Kharos's 299-day orbital period is an astronomical fact. It is not yet
+established as the length of a Compact Calendar year. Do not convert orbital
+periods into Compact-relative dates until the calendar itself is designed.
 
 ## Chronological anchors
 
@@ -42,6 +49,45 @@ core but not automatically native to every system or culture.
 | Compact Year +23 | Valec soil surveys confirm chemically ordinary matter unable to sustain large persistent structures. | A | Basis for the conclusion that Valec cannot become a world again. |
 | Approximately Compact Year +200 | The desert city of Meren vanishes above a buried pre-Compact research complex. | D | Official subsidence explanation remains classified and unconvincing locally. |
 | Current era | Rumors describe a regenerative Valeci vessel called the Orchard Ship. | E | No credible sighting; governments nevertheless plan for it. |
+
+## Developing chronological constraints
+
+The Unhidden and The Manifold do not yet have named, dated anchor incidents.
+Their current sequence belongs here as an authorial constraint rather than as
+false precision in the chronological table.
+
+### The Unhidden
+
+1. Human regenerative medicine develops vascularization-independent
+   total-boundary scaffolds.
+2. The first open wards operate on Kharos during the late Meridian or
+   post-Meridian span; the side of Valec on which they fall remains open.
+3. Clinical systems acquire sufficient autonomy for consciousness to become
+   recognizable; whether one first mantle defines that transition remains
+   reserved.
+4. One or more offworld states convert the lineage into an open-form combat
+   organism and conduct the first wet-cradle deployment.
+5. Recovery and humane-custody capacity develops on Avara, while personhood
+   proceedings bring the legal consequences back to Kharos.
+
+Exact dates, named facilities, governments, deployments, and judgments remain in
+the developing concept until its entry chooses an anchor.
+
+### The Manifold
+
+1. Early accounts predating modern instrumentation associate impossible places
+   or intervals with an extrinsic presence. Some records may be securely dated
+   even where their interpretation remains weak.
+2. A later frontier encounter produces separated instrumental records sufficient
+   to distinguish a Manifold rupture from ordinary route failure or folklore.
+3. Contemporary multisensor evidence confirms an associated extrinsic presence
+   without establishing authorship, motive, or strategy.
+4. Kharos, Avara, and Odran develop their present concordance practice in response
+   to evidence from outside the home system.
+
+The eventual entry needs at least one exterior Compact-relative anchor. Events
+inside a rupture may remain impossible to order even when incidence and
+quarantine are dated from unaffected clocks.
 
 ## Known period labels
 

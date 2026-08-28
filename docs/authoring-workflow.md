@@ -28,7 +28,10 @@ Create a file from `templates/concept-brief.md` in `concepts/proposed/`.
 A proposed concept should answer only enough to determine whether the idea has a
 distinct identity:
 
-- What ordinary or benevolent purpose produced it?
+- What is its provenance or reconstructable lineage?
+- What ordinary or benevolent purpose produced it, if that purpose is known?
+- If purpose is genuinely unknown, what evidence boundary prevents the concept
+  from inventing one?
 - What does it manipulate instead of merely delivering force?
 - What is the characteristic horror?
 - What limitation keeps it from being a generic solution to every conflict?
@@ -56,6 +59,9 @@ During development:
 8. Record any effect on the collection frame, including new editors, archives,
    source types, or reasons the entry survives.
 9. Record contradictions instead of solving them silently.
+10. Keep a canon-integration ledger if selected facts are deliberately promoted
+    before the concept becomes an entry. The ledger must distinguish shared
+    provisional facts from material that remains reserved.
 
 A concept is ready for promotion when its mechanism, cost, limitation, history,
 and thematic identity reinforce one another.
@@ -89,7 +95,7 @@ authorial fatigue.
 ## Stage 4: Canon extraction
 
 After the draft has found its identity, inspect every new setting fact and place
-it into one of four buckets:
+it into one of five buckets:
 
 | Bucket | Meaning | Action |
 | --- | --- | --- |
@@ -101,6 +107,11 @@ it into one of four buckets:
 
 Promote sparingly. A name appearing once does not require its own canon page.
 A treaty that defines the legality of an entire engineering class probably does.
+
+The deliberate early-reservation process described in Stage 2 is the exception:
+when cross-entry work cannot proceed without a shared fact, promote only that
+fact provisionally, record the decision under `docs/`, and keep an exact ledger
+in the still-developing concept. The concept itself remains noncanon.
 
 ## Stage 5: Continuity review
 

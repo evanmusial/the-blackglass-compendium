@@ -2,10 +2,13 @@
 document_type: canon-entity
 entity_type: star-system
 slug: kelan-ruva-system
-name: Kelan-Ruva system
+name: Kelan–Ruva system
 authorial_status: provisional
 source_entries:
   - A-7.01
+source_concepts:
+  - the-unhidden
+  - the-manifold
 decision_basis:
   - editorial-setting-decision
   - astronomical-dynamical-model
@@ -128,8 +131,8 @@ inside the usual long-lived prograde-satellite boundary:
 
 | Moon | Diameter and mass | Orbital radius | Period | Present condition |
 | --- | --- | ---: | ---: | --- |
-| **Odran** | approximately 3,475 km; 0.0123 Earth masses | 200,000 km | 6.37 days | Airless, barren, and rocky |
-| **Avara** | approximately 6,250 km; 0.11 Earth masses | 650,000 km | 36.67 days | Habitable, sparsely settled, and infrastructure-heavy |
+| [**Odran**](odran.md) | approximately 3,475 km; 0.0123 Earth masses | 200,000 km | 6.37 days | Airless, barren, and rocky |
+| [**Avara**](avara.md) | approximately 6,250 km; 0.11 Earth masses | 650,000 km | 36.67 days | Habitable, sparsely settled, and infrastructure-heavy |
 
 The moons are separated by approximately 4.2 mutual Hill radii. Avara orbits at
 approximately 0.36 of Kharos's Hill radius, leaving useful margin inside the
@@ -160,7 +163,39 @@ throughput while remaining limited by light travel:
 
 Relays preserve service through weather, rotation, horizons, and occultations.
 Links to the outer planets still incur delays of tens of minutes to hours. The
-Kharosi network is exceptional engineering, not faster-than-light communication.
+Kelan–Ruva network is exceptional engineering, not faster-than-light
+communication.
+
+## Civil and defensive geography
+
+The home system's three inhabited or heavily instrumented bodies have distinct
+roles in the developing three-weapon setting:
+
+| Body | Recurring role |
+| --- | --- |
+| [Kharos](kharos.md) | Civilian life, scholarship, courts, boundary medicine, and the public consequences of dangerous engineering. |
+| [Avara](avara.md) | Low-gravity medical and industrial scale, managed habitability, recovery facilities, and defensive infrastructure. |
+| [Odran](odran.md) | Dry laboratories, separated material standards, chronometry, ranging, and redundant archives. |
+
+Post-Valec infrastructure across the three bodies favors segmentation,
+sacrificial disconnects, and isolated redundancy. That practice is strongest in
+continuous foundations, pressure systems, utilities, and data trunks whose
+failure or deliberate severance could otherwise disable several settlements at
+once.
+
+The triworld optical backbone has two deliberately opposed modes. Under ordinary
+conditions it gives Kharos, Avara, and Odran exceptional shared throughput and
+precise ranging. When local shard conditions or participating infrastructure
+suggest that a link is involved in establishment, physical disconnects let each
+body continue observation on independent clocks. Merely receiving records of a
+distant rupture is safe and does not trigger severance. Records are compared
+after local collection, preserving disagreement that one synchronized master
+record might erase.
+
+Outer-system observatories, including stations in the Ravel Reach, can extend
+the timing and directional baseline. Their existence does not establish a route
+terminus, a Manifold detector of perfect reliability, or any physical connection
+between The Manifold and ordinary interstellar travel.
 
 ## Minor-body reservoirs
 

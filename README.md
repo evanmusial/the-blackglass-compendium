@@ -47,7 +47,9 @@ The Compendium uses a hybrid model:
 3. **Canon notes contain reusable setting commitments.** Entry-specific color
    stays in the entry until another document needs to rely on it.
 4. **Concept files contain uncertainty.** An attractive idea does not become
-   canon merely because it was written down.
+   canon merely because it was written down. If a few cross-entry facts are
+   deliberately reserved early, the concept and integration record must name
+   exactly what was promoted.
 5. **The exemplar is provenance, not the editing surface.** It makes it possible
    to compare later revisions with the source that established the voice.
 6. **The frame explains the book inside the world.** It records what the Codex
@@ -68,6 +70,24 @@ first contrasting celestial anchors. The remaining locations in the Rzez stay
 unassigned until later entries need to place them. See
 [`canon/setting-scope.md`](canon/setting-scope.md) for the complete provisional
 decision and the rules future designs must follow.
+
+## Current weapon landscape
+
+The collection now has three deliberately non-equivalent systems:
+
+- **The Rzez** is human entropic engineering that invalidates the relationships
+  by which matter remains whole.
+- **The Unhidden** is human morphogenic engineering descended from regenerative
+  medicine; its autonomous open forms are finite, conscious bodies wholly
+  present in ordinary space.
+- **The Manifold** is an extrinsic causal-topological complex of unknown purpose
+  whose rare ruptures leave local observations exact and global reality
+  irreconcilable. Human interference is indirect, unreliable, and prone to
+  unintended consequences.
+
+Kharos, Avara, and Odran respond through different laws, institutions, and
+infrastructure without implying that the weapons share one physics. See the
+[`three-system engineering landscape`](canon/engineering-landscape.md).
 
 ## Start here
 

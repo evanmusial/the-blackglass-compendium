@@ -4,6 +4,9 @@ entity_class: places
 authorial_status: provisional
 source_entries:
   - A-7.01
+source_concepts:
+  - the-unhidden
+  - the-manifold
 ---
 
 # Places
@@ -31,8 +34,8 @@ system-level physical model in shared canon.
 | **Neral** | Rocky planet | Cold ice-border world with limited activity. | Provisional |
 | **Vaskor** | Gas giant | Shapes the Serrin Belt and carries a large satellite system. | Provisional |
 | **Istra** | Ice giant | Outermost major planet. | Provisional |
-| **Odran** | Moon | Barren inner moon of Kharos. | Provisional |
-| **Avara** | Habitable moon | Sparsely settled industrial, military, and scientific world. | Provisional |
+| [**Odran**](odran.md) | Moon | Barren inner moon; separated material, chronometric, and archival reference world. | Provisional |
+| [**Avara**](avara.md) | Habitable moon | Sparsely settled partner world; low-gravity medical, industrial, military, and scientific center. | Provisional |
 
 ## Named places retained in the Rzez entry
 

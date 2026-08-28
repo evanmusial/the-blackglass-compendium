@@ -4,6 +4,11 @@ title: Compendium Taxonomy
 authorial_status: provisional
 source_entries:
   - A-7.01
+source_concepts:
+  - the-unhidden
+  - the-manifold
+decision_basis:
+  - three-weapon-integration
 ---
 
 # Compendium Taxonomy
@@ -27,6 +32,12 @@ The Rzez is therefore filed simultaneously as:
 
 None of these labels should be made to substitute for the others.
 
+The next two developing subjects make the separation more important. The
+Unhidden has a known human medical lineage but creates conscious military
+organisms. The Manifold has no known original purpose or local engineering
+lineage but produces consequences humans describe militarily. Provenance,
+purpose, mechanism, form, and consequence must therefore remain separate fields.
+
 ## Publication hierarchy
 
 ### Codex
@@ -41,6 +52,11 @@ represented by this project.
 
 The Rzez establishes `Volume I: Entropic Systems`. The provisional rule is that
 a volume groups entries by the primary domain or governing mode of engineering.
+
+`Morphogenic` and `causal-topological` are now provisional system values because
+The Unhidden and The Manifold require them. Neither has an assigned volume
+number. Do not infer that the order in which systems are developed determines
+their eventual publication order.
 
 This rule must be tested against future entries. Do not create a full list of
 volumes until actual technologies require them.
@@ -80,18 +96,45 @@ The Rzez is a `technology-family`. Its entry explicitly distinguishes the Rzez
 principle, a Rzez field, a Rzez instrument, a Rzez event, and the legendary total
 technology called the Rzez.
 
+### Reserved scope candidate
+
+`phenomenon-complex` would describe a recurring ensemble of signatures,
+manifestations, artifacts, presences, and events that must be reconstructed
+together even though its unity, number, or status as an engineered device
+remains unresolved.
+
+The Manifold is the first candidate `phenomenon-complex`. The classification
+prevents the entry from falsely deciding whether shards, ruptures, associated
+presences, and apparent deployments are one instrument, many instruments, one
+event crossing several epochs, or a natural process. It is **not currently a
+valid entry-metadata value**. The value should enter the metadata reference,
+schema, checker, and entry template together when a Manifold draft actually uses
+it.
+
 ## Engineering-system axis
 
 The primary system answers: **what governing mode of engineering produces the
 effect?**
 
-The only current controlled value is:
+The current entry-metadata value demonstrated by a manuscript is:
 
 - `entropic` — engineering that biases a target toward loss of organized or
   persistent structure rather than overcoming it through ordinary force.
 
-This definition is derived from one entry and is provisional. Add systems only
-when a developed concept demonstrates them.
+Shared prose reservations for the developing concepts are:
+
+- `morphogenic` — engineering that controls how living matter assigns form,
+  function, and organismal continuity through development and repair.
+- `causal-topological` — engineering, or an analytically classified phenomenon,
+  that changes whether locally coherent spatial adjacencies and causal sequences
+  can compose one global geometry and history.
+
+`Morphogenic` and `causal-topological` guide shared lore but are not yet part of
+the entry metadata contract. `Causal-topological` is a human classification of
+observed behavior. It does not claim that The Manifold is understood,
+manufactured, or intentionally a technology. Add further reservations only when
+a developed concept demonstrates them, and promote them into metadata only when
+an entry draft uses them.
 
 ## Behavioral-trait axis
 
@@ -112,14 +155,65 @@ The entry metadata records the two traits explicitly used in its own engineering
 class line. The remaining traits are available for thematic and analytical
 indexes without retroactively rewriting that line.
 
-## Origin axis
+Unhidden-derived traits:
 
-The origin classification asks what legitimate need first shaped the technology.
-For the Rzez, the answer is `precision-mineral-separation-apparatus`.
+- `boundary-exposed` — essential physiology is accessible through channels
+  continuous with the surrounding environment;
+- `function-distributed` — vital roles recur throughout the body rather than
+  belonging to discrete organs;
+- `self-remapping` — surviving tissue can change physiological role after
+  damage;
+- `regenerative` — living structure can be rebuilt given sufficient time,
+  matter, and nursery support;
+- `environment-coupled` — operation depends unusually strongly on direct
+  exchange with the surrounding medium.
+
+Manifold-derived traits:
+
+- `configuration-exploratory` — establishment samples an unbounded family of
+  possible configurations without producing a human-readable survey of them;
+- `topology-disjunctive` — locally valid adjacencies fail to compose one global
+  spatial chart;
+- `causally-disjunctive` — locally valid event sequences fail to compose one
+  global chronology.
+
+Do not turn `extrinsic`, `unknown`, `uncontrolled`, `world-terminal`, or
+`epoch-denial` into engineering traits. They describe provenance, knowledge,
+control, or consequence.
+
+## Original-purpose axis
+
+The metadata field remains `origin_classification` for compatibility. It asks
+what supported prior function or design pressure first shaped the subject. For
+the Rzez, the answer is `precision-mineral-separation-apparatus`. For The
+Unhidden, the working answer is
+`vascularization-independent-regenerative-scaffold`.
 
 Future values should remain specific enough to create history. “Industrial” is
 usually too broad by itself; “precision mineral separation” explains inventors,
 users, geometry, accident patterns, and the path toward weaponization.
+
+Original purpose may be genuinely unknown. Absence is more accurate than an
+`unknown` value when no evidence supports a prior function. The Manifold's
+suspected military use must not be backfilled as its origin classification.
+
+## Provenance axis
+
+Provenance asks where the reconstructable technology or phenomenon comes from,
+not what it was for and not how a repository manuscript was sourced.
+
+Current provisional values are:
+
+- `known-human-lineage` — the reconstructable lineage is human, without ruling
+  out unknown earlier analogues;
+- `extrinsic-unknown` — the subject lies outside every known human or regional
+  lineage and apparently outside ordinary local spacetime, while creator,
+  operator, home, and purpose remain unresolved.
+
+The Rzez and The Unhidden use `known-human-lineage`. The Manifold uses
+`extrinsic-unknown`. Add a dedicated entry-metadata field only when a draft first
+needs to encode the distinction; do not overload the existing repository
+`source` object, which records manuscript provenance.
 
 ## Military-consequence axis
 
@@ -129,24 +223,51 @@ does not define mechanism.
 The Rzez is `proscribed-world-terminal-technology`: verified in the manuscript as capable
 of ending a world's ability to persist as a world, and prohibited accordingly.
 
+The Unhidden's working military classification is
+`open-form-combat-organism`. The Manifold's is
+`suspected-epoch-denial-technology`. The latter describes a strategic reading of
+rare effects, not demonstrated doctrine, aim, ownership, or original purpose.
+
 Future entries may require other terms. Do not assume that every forbidden
 technology is world-terminal or that destructive magnitude is the only form of
 strategic danger.
 
 ## Operational-scale axis
 
-Current scales are:
+Current entry-demonstrated scales are:
 
-| Scale | Rzez interpretation |
+| Scale | Interpretation |
 | --- | --- |
-| `surgical` | Fractions-of-a-second separation of selected biological structures. |
-| `industrial` | Quarrying, demolition, recycling, extraction, or fabrication. |
-| `siege` | Failure of a fortress, gate, foundation, or bounded defensive work. |
-| `strategic` | Infrastructure-mediated failure of a city or region. |
-| `continental` | Failure propagated across geological or civilizational regions. |
-| `planetary` | A world becomes the transmission medium and terminal target. |
+| `surgical` | Precisely bounded action upon tissue or a comparably small target. |
+| `industrial` | Quarrying, demolition, recycling, extraction, fabrication, or sustained production. |
+| `siege` | Action against a fortress, gate, foundation, habitat, or bounded defensive work. |
+| `strategic` | Infrastructure-mediated consequence for a city, region, route, or campaign. |
+| `continental` | Consequence propagated across geological or civilizational regions. |
+| `planetary` | A world or its ability to persist becomes the terminal target. |
 
-Scales describe distinct engineering approaches, not merely output levels.
+The developing concepts reserve three additional prose values:
+
+| Reserved scale | Interpretation |
+| --- | --- |
+| `clinical` | Patient-coupled physiological support with care infrastructure and continuous monitoring. |
+| `tactical` | Deployable architecture acting within an encounter, vessel, or facility. |
+| `local` | One room, corridor, vessel section, facility, or comparably bounded site. |
+
+These reservations do not extend the entry metadata vocabulary until a draft
+uses them. Scales describe distinct engineering approaches, not merely output
+levels.
+
+The Rzez retains surgical through planetary architectures. The Unhidden
+currently demonstrates clinical, surgical, tactical, and siege forms. The
+Manifold most strongly demonstrates local, siege, and strategic consequences;
+planetary reach remains an exceptional threat model rather than routine use.
+
+### Temporal reach
+
+The Manifold shows that spatial scale and temporal reach cannot be one axis.
+Working prose may distinguish `incident-bounded`, `persistent`, and `epochal`
+reach. Do not add a metadata field until a full entry proves that these values
+support classification rather than merely describing incidents.
 
 ## Legal-status axis
 
@@ -165,6 +286,13 @@ history and Grade E myth in the same reconstruction.
 
 Do not store one overall evidence grade in entry metadata unless a later document
 type genuinely requires it.
+
+**Concordance is not a sixth grade.** A concordance bundle contains independently
+authenticated, internally coherent records whose histories cannot all occupy one
+causal chronology. Grade the custody, authenticity, and claims of each record in
+the normal way, then record incompatibility separately. The evidence model can
+strongly support the existence of contradictory histories without choosing one
+as metaphysically real.
 
 ## When a variant becomes another entry
 
@@ -190,9 +318,15 @@ technology to separate later.
 
 ## Taxonomy change policy
 
-The taxonomy is expected to change while the collection is young. When it does:
+The taxonomy is expected to change while the collection is young. An explicitly
+integrated developing concept may reserve a prose value before an entry exists,
+provided the concept and integration record preserve that status. Such a
+reservation does not alter the entry metadata contract.
 
-1. state which real entries forced the change;
+When a change affects entries or metadata:
+
+1. state which real entry or deliberate concept-integration decision forced the
+   change;
 2. update metadata documentation and schema together;
 3. review all affected entries;
 4. preserve stable entry IDs unless there is a compelling reason not to;

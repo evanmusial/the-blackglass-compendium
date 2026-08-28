@@ -55,6 +55,10 @@ Describes what the entry represents:
 The Rzez is a `technology-family` because its name covers the principle, field,
 instrument, event, and legendary total technology.
 
+The taxonomy may reserve a scope for a developing concept before it enters this
+list. Such a reservation is not valid entry metadata until this reference, the
+JSON schema, checker, and entry template are updated together.
+
 ### `development_status`
 
 The manuscript lifecycle:
@@ -129,6 +133,12 @@ engineering system.
 The original civil, industrial, medical, scientific, or other classification.
 This field helps preserve the Compendium's interest in how useful technology
 becomes forbidden technology.
+
+Use it only when evidence supports a prior function or design pressure. If
+original purpose is genuinely unknown, omit the field; do not write
+`origin_classification: unassigned`, and do not substitute a later military use.
+Technology provenance is a separate taxonomy question and does not yet have an
+entry-metadata field.
 
 ### `legal_status`
 

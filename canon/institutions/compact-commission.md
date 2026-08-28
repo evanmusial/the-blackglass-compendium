@@ -6,6 +6,9 @@ name: Compact Commission
 authorial_status: provisional
 source_entries:
   - A-7.01
+source_concepts:
+  - the-unhidden
+  - the-manifold
 ---
 
 # Compact Commission
@@ -27,3 +30,8 @@ The draft does not define the Commission's membership, jurisdictional structure,
 enforcement arm, headquarters, or relationship to national governments. The
 Forty-First Valec Commission may be a mission or commission in the same framework,
 but that relationship is not explicit and should not yet be fixed.
+
+Its operative mandate remains Rzez-specific. The Commission may lend isolation,
+forensic, or chain-of-custody expertise to an Unhidden custody case or suspected
+Manifold incident, but that cooperation does not give it automatic jurisdiction
+over created persons, extrinsic phenomena, or every dangerous technology.

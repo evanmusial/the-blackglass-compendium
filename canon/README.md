@@ -6,8 +6,10 @@ authorial_status: provisional
 # Canon
 
 This directory contains setting material that may be reused across Compendium
-entries. It begins as a Rzez-derived **provisional canon**, not a declaration
-that every claim in the Rzez is objectively true.
+entries. It began as Rzez-derived **provisional canon** and now also contains a
+small number of deliberate authorial reservations forced by The Unhidden and The
+Manifold. This does not make either developing concept an adopted entry or every
+claim inside it shared canon.
 
 ## The two truth systems
 
@@ -42,12 +44,15 @@ tells a Grade E story without making the supernatural content of that story true
 
 ## Core references
 
-- [`principles.md`](principles.md) — editorial and Rzez-derived technical
-  principles.
+- [`engineering-landscape.md`](engineering-landscape.md) — the three-system lore
+  spine, mechanism firewall, and Kelan–Ruva distribution.
+- [`principles.md`](principles.md) — editorial, shared, and family-specific
+  engineering principles.
 - [`setting-scope.md`](setting-scope.md) — the provisional interstellar scale,
   human-origin boundary, travel constraints, and celestial anchors.
 - [`taxonomy.md`](taxonomy.md) — publication hierarchy and classification axes.
-- [`chronology.md`](chronology.md) — relative dates and major Rzez anchors.
+- [`chronology.md`](chronology.md) — relative dates, major Rzez anchors, and
+  undated constraints for developing subjects.
 - [`glossary.md`](glossary.md) — controlled terms with current meanings.
 
 ## Entity registers
@@ -74,3 +79,9 @@ of that person's editorial role belongs in `frame/`.
 Promoting material from an entry into canon means that other authors and entries
 may discover it here. It does not necessarily mean the material is established.
 New extractions should be provisional unless adoption is deliberate.
+
+Canon front matter may list `source_concepts` separately from `source_entries`.
+A concept slug records where an authorial reservation was developed; it is not a
+permanent entry ID, evidence citation, or claim that the entire concept is canon.
+The corresponding concept should keep a canon-integration ledger naming exactly
+what was promoted and what remains development material.

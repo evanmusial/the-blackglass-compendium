@@ -52,6 +52,7 @@ entities:
     - issa
   institutions:
     - first-quarry-houses
+    - institute-of-applied-continuity
     - compact-commission
     - sixth-compact-of-kharos
   events:

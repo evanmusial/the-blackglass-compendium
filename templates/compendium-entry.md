@@ -19,7 +19,6 @@ engineering:
   traits: []
 aliases: []
 military_classification: unassigned
-origin_classification: unassigned
 operational_scales: []
 legal_status: unassigned
 evidence_model: codex-grade-a-through-e

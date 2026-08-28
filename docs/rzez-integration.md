@@ -81,22 +81,26 @@ following remain open:
 6. Which classification terms are universal, and which belong only to later
    Kharosi scholarship?
 
-These questions are recorded rather than answered by invention. Two or three
-contrasting entries should be drafted before fixing the broader system.
+These questions were recorded rather than answered by invention. The later
+[three-weapon integration](three-weapon-integration.md) reserves only the system
+values forced by two developing concepts; it does not settle the `A` prefix,
+volume numbering, book hierarchy, or Compact Calendar.
 
-## Recommended next integration pass
+## Historical next-pass checklist
 
-After the next weapon concept is selected:
+This checklist governed the initial Rzez-only repository. The three-weapon
+integration has now performed the parts that can be answered provisionally:
 
-1. test whether it belongs under Entropic Systems or requires another volume;
-2. test whether “Instruments of Separation” is narrow enough to distinguish its
-   book from neighboring books;
-3. decide whether the `A` prefix carries meaning or is merely an archival series;
-4. add only the canon entities the new entry actually reuses;
-5. revise provisional taxonomy rules where the second entry provides contrary
-   evidence;
-6. add links inside the working Rzez manuscript only when those links materially
-   improve reading or editorial navigation.
+1. The Unhidden and The Manifold require `morphogenic` and
+   `causal-topological` systems rather than placement under Entropic Systems.
+2. Their volume numbers and books remain unassigned; “Instruments of
+   Separation” remains Rzez-specific.
+3. The `A` prefix remains unresolved.
+4. Only recurring Kharos, Avara, Odran, and institutional anchors were promoted.
+5. Taxonomy prose was revised provisionally; entry-schema changes remain
+   deferred until a draft needs them.
+6. The Rzez body remains an exact copy of its exemplar. Only front-matter entity
+   navigation was extended to the Institute of Applied Continuity.
 
 ## Subsequent setting and frame decisions
 

@@ -6,7 +6,6 @@ development_status: developing
 authorial_status: reserved
 candidate_systems:
   - causal-topological
-  - chronotopological
 candidate_books:
   - instruments-of-nonconvergence
 created_from: original-concept
@@ -20,7 +19,7 @@ created_from: original-concept
   name is known.
 - **Tachyonic Manifold Rupture Complex** is the technical designation.
 - **Suspected epoch-denial technology** is the working military classification.
-- **Extrinsic-unknown** is the candidate provenance classification. Provenance
+- **Extrinsic-unknown** is the shared provisional provenance classification. Provenance
   is separate from military consequence and original purpose.
 - **Tachyon shards** is an observational term, not a proven statement that the
   detected phenomena are broken objects or ammunition.
@@ -33,8 +32,10 @@ created_from: original-concept
 “Complex” is deliberate. No evidence establishes whether The Manifold is one
 instrument, a class of instruments, a distributed organism, an environmental
 process, or one transtemporal operation intersecting known history many times.
-Its eventual entry scope therefore remains open among `single-instrument`,
-`technology-family`, `event`, and `theoretical-system`.
+Its working analytical scope is therefore `phenomenon-complex`: a human filing
+category that preserves uncertainty about unity, number, and devicehood. It is
+not yet a valid entry-metadata value; the schema will adopt it only if a draft
+actually uses it.
 
 ### Knowledge boundary
 
@@ -53,6 +54,13 @@ An extrinsic complex uses apparent tachyon shards to explore an unbounded set of
 possible spacetime foldings and prevents the explored possibilities from
 resolving into one geometry or history, leaving a bounded place or epoch locally
 exact but globally impossible.
+
+## Provenance
+
+`Extrinsic-unknown`. No known world, polity, archive, or developmental lineage
+accounts for The Manifold. Its signatures have no reconstructable continuous
+worldline within known spacetime. This does not establish a creator, home,
+civilization, or original name.
 
 ## Original purpose
 
@@ -89,7 +97,7 @@ that it mattered to an associated presence.
 
 ## Governing manipulation
 
-The candidate system manipulates **global spacetime consistency**: adjacency,
+The provisional system manipulates **global spacetime consistency**: adjacency,
 reachability, duration, causal order, and the compatibility rules by which
 locally coherent descriptions form one shared geometry and history.
 
@@ -468,7 +476,8 @@ observatory within the known inhabited region. It permits old local accounts,
 physically separated archives, limited communications, a strategically legible
 site, and a bounded quarantine without threatening every world.
 
-The concept requires a deliberate refinement of the current nonhuman boundary:
+The shared setting scope now makes the following narrow refinement to the
+nonhuman boundary:
 
 - The Manifold becomes established as extrinsic to known civilization and
   apparently to ordinary local spacetime.
@@ -485,9 +494,9 @@ It must not automatically establish how ordinary interstellar routes work. It
 provides no controllable instantaneous communication and no safe route through
 time.
 
-Adoption would require deliberate review of
-[`../../canon/setting-scope.md`](../../canon/setting-scope.md), especially its
-travel, communication, and nonhuman-intelligence boundaries.
+The integration review updated
+[`../../canon/setting-scope.md`](../../canon/setting-scope.md) while leaving
+ordinary travel, communication, and any mapped nonhuman civilization unresolved.
 
 ## Relationship to existing entries
 
@@ -541,45 +550,78 @@ It does not require the Rzez mechanism, Valec, Issa, or a new celestial body.
 
 ## Possible new canon
 
-If developed and adopted, The Manifold may justify:
+Already promoted provisionally:
 
-- `causal-topological` or `chronotopological` as a primary engineering system;
+- `causal-topological` as a primary human analytical system;
 - traits such as `configuration-exploratory`, `topology-disjunctive`,
-  `causally-disjunctive`, and possibly a boundedness or persistence trait;
+  and `causally-disjunctive`;
 - extrinsic provenance as a classification independent of original purpose;
 - a confirmed extrinsic complex without a confirmed nonhuman civilization;
-- empirical incidence, exploration, boundary-lock, and release phases;
 - concordance forensics for mutually authentic incompatible histories;
+- the working sequence of incidence, exploration, boundary-lock, and persistence
+  or release;
+- and the shared terms **tachyon shard**, **Manifold rupture**,
+  **boundary-lock**, **associated presence**, **concordance bundle**, and
+  **single-chart doctrine**.
+
+A full entry may still deepen or establish:
+
+- evidentiary thresholds and incident-specific timing for the establishment
+  phases;
 - a named contemporary rupture;
-- temporal quarantine law, rimkeepers, and single-chart rescue doctrine;
-- and recurring terminology for shard signatures, rupture, boundary-lock, and any
-  retained field terms.
+- a named temporal-quarantine authority and rimkeepers;
+- and a decision whether to retain **deadfold** and **uncounted hour** as shared
+  field terms.
 
 ### Candidate taxonomy work
 
-The concept exposes a structural gap in
+The concept exposed a structural gap now recorded in
 [`../../canon/taxonomy.md`](../../canon/taxonomy.md): provenance and original
 function are different questions.
 
-Development should consider:
+This development pass adopts these provisional rules:
 
 1. Retain `origin_classification` for a supported prior function.
 2. Permit it to be absent when purpose is unknown rather than filling it with
    `unknown`.
-3. Add an optional provenance axis, tentatively `extrinsic-unknown` for The
-   Manifold.
-4. Add a causal-topological engineering system only after the entry demonstrates
-   a stable definition.
-5. Add new behavioral traits only when detection and countermeasure sections use
+3. Use a separate provenance axis, with `extrinsic-unknown` for The Manifold.
+4. Use `causal-topological` as a human analytical engineering system.
+5. Use behavioral traits only where detection and countermeasure sections apply
    them consistently.
 6. Consider a separate temporal-reach axis only after the draft demonstrates
    useful controlled values.
-7. Keep the entry scope unresolved until the relation among shards, ruptures,
-   and associated presences becomes clearer.
+7. Use `phenomenon-complex` provisionally so the entry does not decide the
+   relation among shards, ruptures, and associated presences prematurely.
 
-If provenance becomes entry metadata, update the metadata reference, JSON
-schema, repository checker, and every affected entry together. No schema or
-taxonomy change belongs in the developing brief itself.
+When provenance or `phenomenon-complex` becomes entry metadata, update the
+metadata reference, JSON schema, repository checker, entry template, and every
+affected entry together. Those schema changes remain deferred until an entry
+draft actually uses them.
+
+## Canon integration status
+
+The integration recorded in
+[`../../docs/three-weapon-integration.md`](../../docs/three-weapon-integration.md)
+promotes the following as **shared provisional canon** while this document
+remains a developing concept:
+
+- `causal-topological` as the human analytical classification;
+- `extrinsic-unknown` provenance and a genuinely unknown original purpose;
+- the authorial reality of at least one associated extrinsic presence;
+- locally exact but globally irreconcilable ruptures with finite exterior bounds;
+- the working incidence, exploration, boundary-lock, and persistence-or-release
+  sequence;
+- rare, indirect, and unreliable human attempts to provoke or bias establishment;
+- no controllable prophecy, duplication, infinite resources, transit, or
+  faster-than-light communication;
+- and Kelan–Ruva's external observation, independent-clock, concordance, and
+  legal response without a confirmed home-system rupture.
+
+Named ruptures, associated-presence morphology, named or specific early
+traditions, induction programs, strategic purpose, authorship, final entry
+scope, temporal reach, and the exact conduct of any presence remain reserved to
+this concept. Promotion of the shared spine does not make this brief an adopted
+entry.
 
 ## Collection-frame impact
 

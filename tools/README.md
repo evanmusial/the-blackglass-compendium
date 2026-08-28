@@ -24,6 +24,7 @@ ruby tools/check_repository.rb
 The check uses only Ruby's standard library. It verifies:
 
 - parseable YAML front matter;
+- valid, resolvable `source_concepts` provenance lists;
 - required entry fields and controlled values;
 - JSON syntax for the metadata schema;
 - internal Markdown links;

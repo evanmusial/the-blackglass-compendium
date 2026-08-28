@@ -121,6 +121,25 @@ def check_slug_list(value, label, path)
   error("#{relative(path)}: #{label} contains duplicates") if value.uniq.length != value.length
 end
 
+def check_source_concepts(metadata, path)
+  return unless metadata.key?("source_concepts")
+
+  concepts = metadata["source_concepts"]
+  check_slug_list(concepts, "source_concepts", path)
+  return unless concepts.is_a?(Array)
+
+  concepts.each do |slug|
+    next unless slug.is_a?(String) && slug.match?(SLUG)
+
+    matches = ROOT.glob("concepts/{proposed,developing,rejected}/#{slug}.md")
+    if matches.empty?
+      error("#{relative(path)}: source_concepts references missing concept #{slug}")
+    elsif matches.length > 1
+      error("#{relative(path)}: source_concepts reference #{slug} is ambiguous")
+    end
+  end
+end
+
 def check_numbered_division(value, label, path)
   unless value.is_a?(Hash)
     error("#{relative(path)}: #{label} must contain number and title")
@@ -273,6 +292,7 @@ ROOT.glob("**/*.md").sort.each do |path|
   next unless parsed
 
   metadata, body = parsed
+  check_source_concepts(metadata, path)
   check_entry(path, metadata, body) if metadata["document_type"] == "compendium-entry"
 end
 

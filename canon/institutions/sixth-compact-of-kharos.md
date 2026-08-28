@@ -6,6 +6,9 @@ name: Sixth Compact of Kharos
 authorial_status: provisional
 source_entries:
   - A-7.01
+source_concepts:
+  - the-unhidden
+  - the-manifold
 ---
 
 # Sixth Compact of Kharos
@@ -41,11 +44,21 @@ before regional disconnection except when delay would create planetary risk.
 This conflict—when to cut and when to investigate—is a defining political legacy
 of the Rzez.
 
+## Scope boundary
+
+The Sixth Compact's operative prohibitions remain specific to the Rzez and its
+reconstruction, simulation, materials, and propagation risks. It is not a
+universal treaty against every dangerous or poorly understood system.
+
+Created-person and military-biological law governs The Unhidden's descendants.
+Manifold quarantine depends upon separate emergency and evidentiary authority.
+Those regimes may borrow Compact isolation practice without inheriting its
+substantive jurisdiction.
+
 ## Unresolved questions
 
 - What were the first five Compacts?
 - Which states signed, rejected, or enforce the Sixth?
 - How are tightly controlled industrial thresholds licensed?
 - What rights do accused researchers possess?
-- Does the Compact govern only Rzez technology or a wider class of forbidden
-  engineering?
+- Which later treaties borrow Compact procedure without expanding its mandate?

@@ -15,10 +15,18 @@ created_from: original-concept
 
 What does the instrument do, expressed without invented terminology?
 
+## Provenance
+
+What reconstructable lineage produced the subject? Distinguish a known human or
+regional lineage from extrinsic, disputed, or absent provenance. Do not treat
+military use as proof of who created it.
+
 ## Original purpose
 
-What useful, humane, scientific, medical, industrial, or protective problem was
-the technology created to solve?
+If supported, what useful, humane, scientific, medical, industrial, or protective
+problem was the technology created to solve? If purpose is genuinely unknown,
+state that boundary and preserve only the competing interpretations earned by
+evidence.
 
 ## Governing manipulation
 
@@ -70,6 +78,15 @@ would this concept need?
 
 What reusable setting material might the concept introduce? Keep this list
 provisional until the entry proves it useful.
+
+## Canon integration status
+
+Normally write “none” during concept development. If the author deliberately
+promotes a fact early, list separately:
+
+- shared provisional facts now recorded under `canon/`;
+- facts still reserved to this concept;
+- and the integration record that explains the exception.
 
 ## Collection-frame impact
 

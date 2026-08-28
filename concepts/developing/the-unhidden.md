@@ -16,8 +16,8 @@ created_from: original-concept
 
 ## Working vocabulary
 
-- **The Unhidden** is the working entry title and common name of the weaponized
-  lineage.
+- **The Unhidden** is the official human name and intended entry title of the
+  weaponized lineage.
 - **Total-Boundary Organism** is the technical designation.
 - **Open-form combat organism** is the military term.
 - **Plain Things** is the common plural; one autonomous weapon is a **Plain
@@ -39,9 +39,15 @@ a finite, surface-connected anatomy in ordinary space, so the apparent
 abomination is its complete body rather than a shell, projection,
 higher-dimensional cross-section, or lesser part of something hidden elsewhere.
 
+## Provenance
+
+`Known-human-lineage`. The clinical and military forms descend from human
+regenerative engineering. No alien organism, precursor artifact, remote body,
+or Manifold-associated presence supplies the lineage's missing step.
+
 ## Original purpose
 
-The current design commits to a human regenerative-medical origin.
+Shared provisional canon commits to a human regenerative-medical origin.
 
 Thick replacement tissue has a central problem: its interior dies before a
 vascular system can grow deeply enough to sustain it. Early total-boundary
@@ -81,13 +87,13 @@ The compact historical formulation is:
 > Medicine solved the hidden-organ problem by building a body with no
 > inaccessible physiology. War removed the patient and kept the body.
 
-This reserved design decision is not shared canon until an entry is adopted. It
-must nevertheless shape the weapon's behavior, failures, law, and culture rather
-than serving as ironic decoration.
+The integration record promotes this origin without fixing its inventors,
+facility, date, or first autonomous incident. It must shape the weapon's
+behavior, failures, law, and culture rather than serving as ironic decoration.
 
 ## Governing manipulation
 
-The candidate primary system is **morphogenic engineering**: control over the
+The provisional primary system is **morphogenic engineering**: control over the
 way living matter assigns form, tissue role, and organismal continuity during
 growth and repair.
 
@@ -444,6 +450,8 @@ No new world or system is required.
 The working placement is:
 
 - the first open wards and ordinary medical aftermath on Kharos;
+- large recovery mantles, wet-cradle practice, and humane-care capacity on
+  Avara, with gravity-specific bodies rather than interchangeable forms;
 - military conversion by one or more human states;
 - early deployments in a frontier or route conflict where wet-cradle logistics
   matter;
@@ -453,13 +461,13 @@ The lineage is human and probably post-Meridian or late-Meridian. Exact dates
 should wait until historical incidents are chosen.
 
 The concept does not change route physics, communication limits, Earth, the size
-of the inhabited region, or the nonhuman-intelligence boundary.
+of the inhabited region, or the extrinsic-intelligence boundary.
 
-Adoption would establish that known humanity can manufacture conscious organisms
-with distributed cognition. If self-governing Plain Things persist as a
-community, that would require a deliberate update to
-[`../../canon/setting-scope.md`](../../canon/setting-scope.md). Isolated military
-survivors would not necessarily require the same change.
+Shared provisional canon now establishes that known humanity can manufacture
+conscious organisms with distributed cognition. If self-governing Plain Things
+persist as a community, that would still require a deliberate update to
+[`../../canon/setting-scope.md`](../../canon/setting-scope.md); the present
+integration establishes persons and proceedings, not a new people or polity.
 
 ## Relationship to existing entries
 
@@ -508,7 +516,7 @@ The concept needs only broad existing commitments:
 - advanced medicine within the known inhabited region;
 - route-limited travel that makes remote trauma medicine valuable;
 - multiple states capable of military research and concealment;
-- Kharos as a possible legal and academic venue;
+- Kharos as the shared provisional legal and academic venue;
 - claim-level Grades A through E;
 - and the Blackglass model of technical records, testimony, law, folklore, and
   censorship.
@@ -518,28 +526,34 @@ Rzez-derived metaphysical theory.
 
 ## Possible new canon
 
-If developed and adopted, the concept could establish:
+Already promoted provisionally:
 
 - **morphogenic engineering** as a primary engineering system;
 - vascularization-independent boundary scaffolds as a medical lineage;
 - limited engineered tissue-role reassignment;
 - distributed cultivated cognition;
-- created-person and military-organism law;
+- the shared terms **total boundary**, **Total-Boundary Organism**, **open
+  form**, **Plain Thing**, **wet cradle**, and **ward reflex**;
+- basic environmental countermeasure and humane-custody doctrine;
+- and the existence of created-person and military-organism law distinct from
+  the Sixth Compact.
+
+A full entry could still deepen or establish:
+
 - wet-cradle military logistics;
-- open-form countermeasure doctrine;
 - clinicians, scaffold growers, custody specialists, and occlusion crews;
 - discrimination against patients who retain boundary grafts;
 - and disputed free or surviving Plain Things.
 
 ### Candidate taxonomy work
 
-Candidate primary system:
+Provisional primary system:
 
 - `morphogenic` — engineering that controls how living matter assigns form,
   function, and organismal continuity through development rather than applying
   ordinary force to a completed body.
 
-Candidate behavioral traits:
+Provisional behavioral traits:
 
 - `boundary-exposed` — essential physiology is placed on tissue accessible
   through channels continuous with the environment;
@@ -551,29 +565,53 @@ Candidate behavioral traits:
 - `environment-coupled` — operation depends unusually strongly on direct
   exchange with the surrounding medium.
 
-Candidate origin classification:
+Working origin classification:
 
 - `vascularization-independent-regenerative-scaffold`
 
-Candidate military classification:
+Working military classification:
 
 - `open-form-combat-organism`
 
-Candidate operational scales:
+Working operational scales:
 
 - retain `surgical` and `siege` where their meanings remain useful;
-- add `clinical` and `tactical` only if the entry demonstrates distinct
-  architectures;
+- use `clinical` and `tactical`, whose distinct architectures are now described
+  provisionally in the taxonomy;
 - reject continental and planetary scales for this family.
 
 A likely volume is **Morphogenic Systems**. Possible book titles include
 **Living Instruments** and **Instruments of Distributed Physiology**. No number,
-permanent ID, or taxonomy change belongs at the proposed-concept stage.
+permanent ID, or book assignment belongs while the concept remains developing.
 
-When the concept enters development, review
-[`../../canon/taxonomy.md`](../../canon/taxonomy.md), metadata documentation,
-the schema, shared principles, chronology, and glossary together. Update shared
-lore only after the entry proves which facts must be reusable.
+This development pass updated
+[`../../canon/taxonomy.md`](../../canon/taxonomy.md), shared principles,
+chronology, glossary, setting scope, and the Kelan–Ruva place notes. Entry
+metadata documentation and schema changes remain deferred until an entry draft
+needs them.
+
+## Canon integration status
+
+The integration recorded in
+[`../../docs/three-weapon-integration.md`](../../docs/three-weapon-integration.md)
+promotes the following as **shared provisional canon** while this document
+remains a developing concept:
+
+- `morphogenic` as the lineage's primary engineering system;
+- known human provenance and regenerative-medical ancestry;
+- the first open wards on Kharos and later low-gravity clinical scale on Avara;
+- finite, mass-accountable total-boundary anatomy in ordinary space;
+- consciousness in autonomous Plain Things;
+- shared anatomical vocabulary, the reported ward reflex, basic hostile
+  countermeasures, and humane-custody requirements;
+- Kharosi personhood and humane-custody consequences;
+- and the distinction between civil medicine in Kelan–Ruva and military
+  conversion elsewhere.
+
+The named incidents, facility identities, military programs, first deployment,
+particular ward-reflex cases, final legal judgments, free communities, and
+answers to identity across division remain reserved to this concept. Promotion
+of the shared spine does not make this brief an adopted entry.
 
 ## Collection-frame impact
 
