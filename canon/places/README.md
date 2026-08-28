@@ -16,6 +16,24 @@ source_entries:
 | [Kharos](kharos.md) | Designated home world; surviving core world and legal-academic center associated with Rzez control. | Provisional |
 | [Issa](issa.md) | Frontier gas giant with an anomalously separated inner moon. | Provisional |
 
+## Kharos system register
+
+The [Kelan–Ruva system](kelan-ruva-system.md) is the first star system with a
+system-level physical model in shared canon.
+
+| Body | Class | Current role | Status |
+| --- | --- | --- | --- |
+| **Kelan** | G4 V star | Sun-like primary of the Kharos system. | Provisional |
+| **Ruva** | M3 V star | Red-dwarf companion to Kelan. | Provisional |
+| **Edras** | Rocky planet | Hot, airless innermost surviving planet. | Provisional |
+| **Talra** | Sub-Neptune | Hot volatile-rich inner planet. | Provisional |
+| [**Kharos**](kharos.md) | Rocky super-Earth | Home world and only broadly settled planet in the system. | Provisional |
+| **Neral** | Rocky planet | Cold ice-border world with limited activity. | Provisional |
+| **Vaskor** | Gas giant | Shapes the Serrin Belt and carries a large satellite system. | Provisional |
+| **Istra** | Ice giant | Outermost major planet. | Provisional |
+| **Odran** | Moon | Barren inner moon of Kharos. | Provisional |
+| **Avara** | Habitable moon | Sparsely settled industrial, military, and scientific world. | Provisional |
+
 ## Named places retained in the Rzez entry
 
 The following remain entry-local until reused:

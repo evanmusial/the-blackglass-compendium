@@ -62,9 +62,10 @@ Earth is not part of the confirmed record; and interstellar travel is possible
 through limited routes whose exact mechanism remains undesigned.
 
 Kharos is the setting's designated home world and recurring civic, academic, and
-legal anchor. Valec and Issa provide the first contrasting celestial anchors.
-The remaining locations in the Rzez stay unassigned until later entries need to
-place them. See
+legal anchor. It belongs to the first system-level circumbinary model, the
+[Kelan–Ruva system](canon/places/kelan-ruva-system.md). Valec and Issa provide the
+first contrasting celestial anchors. The remaining locations in the Rzez stay
+unassigned until later entries need to place them. See
 [`canon/setting-scope.md`](canon/setting-scope.md) for the complete provisional
 decision and the rules future designs must follow.
 

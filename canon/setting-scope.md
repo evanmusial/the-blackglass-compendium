@@ -124,19 +124,23 @@ ratified, or institutionally centered there.
 As the home world, Kharos should recur as the setting's most familiar inhabited
 place without becoming the location of every important event or institution.
 
-By out-of-world authorial comparison, Kharos is about 1.3 Earth diameters. It
-follows a circumbinary orbit around a Sun-like primary and a smaller, cooler dwarf
-companion. Its two moons are Odran, a barren rocky body comparable to Earth's
-Moon, and Avara, a habitable moon about 1.8 lunar diameters across. Avara is
-sparsely settled but supports extensive industrial, military, and scientific
-infrastructure.
+By out-of-world authorial comparison, Kharos is about 1.3 Earth diameters and 2.6
+Earth masses, with surface gravity near 1.54 g. It follows a 299-day circumbinary
+orbit around **Kelan**, a G4 V star, and **Ruva**, an M3 V red dwarf. The complete
+six-planet architecture is recorded in the [Kelan–Ruva system note](places/kelan-ruva-system.md).
+
+Kharos's two moons are Odran, a barren rocky body comparable to Earth's Moon, and
+Avara, a habitable moon about 1.8 lunar diameters across. Avara is sparsely
+settled but supports extensive industrial, military, and scientific
+infrastructure. Its present breathable atmosphere is secondary and actively
+maintained rather than an unexplained primordial Earth analogue.
 
 Kharos and both moons share an exceptional intrasystem laser-communications
 backbone with direct and relayed moon-to-moon links. Its throughput is enormous
 and its latency approaches the physical light-travel minimum.
 
-The stellar pair's proper names, exact classifications, and orbital architecture
-remain open, as does whether “Kharosi” also names a wider polity.
+Kharos's rotation and detailed lunar tidal history remain open, as does whether
+“Kharosi” also names a wider polity.
 
 ### Valec
 
