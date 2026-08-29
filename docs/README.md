@@ -14,10 +14,14 @@ These documents describe how the Compendium is organized and maintained.
   Unhidden and Manifold facts were promoted into shared provisional canon, how
   they were distributed through Kelan–Ruva, and which decisions remained
   deferred at that stage.
-- [`five-system-integration.md`](five-system-integration.md) records the later
-  adoption of The Closed Night and The Agreement, their permanent filing and
-  metadata decisions, the five-way mechanism firewall, and the shared lore
-  promoted with them.
+- [`five-system-integration.md`](five-system-integration.md) preserves the
+  historical adoption of The Closed Night and The Agreement, their permanent
+  filing and metadata decisions, the then-current five-way mechanism firewall,
+  and the shared lore promoted with them.
+- [`the-rehearsal-integration.md`](the-rehearsal-integration.md) records the
+  adoption of The Rehearsal, its real-physics and speculative boundaries,
+  permanent filing, Apsis history, legal and cult consequences, and the current
+  six-way mechanism firewall.
 - [`kelan-ruva-natural-and-human-history.md`](kelan-ruva-natural-and-human-history.md)
   records the physical derivations, Earth-origin decision, Founding Interval,
   calendar-correlation boundary, and cross-canon integration of the expanded

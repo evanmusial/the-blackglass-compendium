@@ -7,11 +7,13 @@ source_entries:
   - A-7.01
   - B-4.01
   - C-6.01
+  - D-1.01
 source_concepts:
   - the-unhidden
   - the-manifold
 decision_basis:
   - kelan-ruva-natural-and-human-history-expansion
+  - the-rehearsal-integration
 ---
 
 # Compendium Chronology
@@ -87,7 +89,11 @@ no concealed canonical Earth date waiting behind the uncertainty.
 | Approximately Compact Year +200 | The desert city of Meren vanishes above a buried pre-Compact research complex. | D | Official subsidence explanation remains classified and unconvincing locally. |
 | Compact Year +203 | The Nacre Hall Incident on Kharos establishes operator capture and contaminated unanimity. | A | Exterior variance reveals that many nominal witnesses have become one evidentiary source. |
 | Compact Year +205 | The Articles of Bodily Dissent are adopted. | Established consequence of Nacre Hall and Pelar | Protects revocable coupling, independent witnesses, and discord rehabilitation. |
+| Later post-Compact period | The Apsis Directorate converts a distributed primordial-state reconstruction program into the unique interplanetary convergence crown later called The Rehearsal. | B for the institutional sequence; A for surviving component and telemetry lineages | The exact date at which research becomes a weapon remains disputed; precursor high-energy research is not retroactively classified as a Rehearsal. |
+| Compact Year +271 | The Apsis Discharge fires The Rehearsal for 47 milliseconds at the remote, deliberately uninhabited Apsis Range. | A for the firing, energy convergence, and numerous massive strange-rich tracks; B for identifying a large but unknowable strangelet population or long-lived yield; E for catalytic escape and Succession | No accepted evidence establishes that a viable catalytic seed escaped or that a self-sustaining Succession began. |
+| Compact Year +274 | The initial Common Matter Interdict is adopted; successive jurisdictions later implement it. | Established consequence of Apsis | Complete convergence crowns, deliberate strangelet production or custody, and critical synchronization and baryon-injection systems are separately prohibited. |
 | Current era | Rumors describe a regenerative Valeci vessel called the Orchard Ship. | E | No credible sighting; governments nevertheless plan for it. |
+| Current era | Small Houses of the Lower State preserve Apsis telemetry and worship The Rehearsal as proof that ordinary matter is only a temporary state. | B for the communities; E for claims that the Succession is already under way | Most Waiting Houses do not attempt reconstruction; the outlawed Open Yield schism seeks viable seeds or crown knowledge. |
 
 ## Developing chronological constraints
 
@@ -178,7 +184,10 @@ The period after Valec and the Sixth Compact, characterized by prohibition,
 forensics, defensive architecture, political false alarms, survivor communities,
 and rumors of surviving instruments. The Closed Night and Agreement histories
 show that the post-Compact period also creates new forbidden systems and new
-legal regimes rather than living only in the aftermath of Meridian weapons.
+legal regimes rather than living only in the aftermath of Meridian weapons. The
+Apsis Discharge in Year +271 adds a different historical fear: not that one world
+has already been lost, but that one brief firing may have placed an unseen
+conversion somewhere in the causal future.
 
 ## Chronology questions to preserve
 

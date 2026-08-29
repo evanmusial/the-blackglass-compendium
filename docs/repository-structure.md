@@ -48,19 +48,22 @@ entries/
 ├── volume-02/
 │   └── book-04/
 │       └── b-4-01-the-closed-night.md
-└── volume-03/
-    └── book-06/
-        └── c-6-01-the-agreement.md
+├── volume-03/
+│   └── book-06/
+│       └── c-6-01-the-agreement.md
+└── volume-04/
+    └── book-01/
+        └── d-1-01-the-rehearsal.md
 ```
 
 Use two digits for directory numbers and lowercase kebab-case for filenames.
 The identifier remains uppercase in metadata and prose.
 
 The alphabetic entry-ID prefix matches the numbered volume in the Blackglass
-filing layer (`A` for Volume I, `B` for Volume II, `C` for Volume III). The
-number before the decimal matches the book, while the two-digit suffix is the
-entry sequence within that book. Directories and filenames must agree with the
-metadata: `volume-NN/book-NN/<slug>.md`.
+filing layer (`A` for Volume I, `B` for Volume II, `C` for Volume III, and `D`
+for Volume IV). The number before the decimal matches the book, while the
+two-digit suffix is the entry sequence within that book. Directories and
+filenames must agree with the metadata: `volume-NN/book-NN/<slug>.md`.
 
 Examples:
 

@@ -6,6 +6,7 @@ source_entries:
   - A-7.01
   - B-4.01
   - C-6.01
+  - D-1.01
 ---
 
 # Events
@@ -20,6 +21,7 @@ source_entries:
 | [The Three-Hand Rescue](three-hand-rescue.md) | Compact Year +164; civil demonstration of bounded reciprocal control. | Established |
 | [The Opening of Pelar Habitat](opening-of-pelar-habitat.md) | Compact Year +188; first accepted strategic Agreement attack. | Established |
 | [The Nacre Hall Incident](nacre-hall-incident.md) | Compact Year +203; operator capture and contaminated unanimity. | Established |
+| [The Apsis Discharge](apsis-discharge.md) | Compact Year +271; The Rehearsal's unique 47-millisecond full firing. | Established; Grade A for firing and numerous massive strange-rich tracks, Grade B for a large strangelet population or long-lived yield, Grade E for catalytic escape |
 
 Other Rzez incidents are indexed in [`../chronology.md`](../chronology.md) and
 remain entry-local until reuse or cross-entry consequence justifies individual

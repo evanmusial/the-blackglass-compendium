@@ -1,5 +1,11 @@
 # Five-System Integration Record
 
+> **Historical scope:** This record preserves the five-system landscape in force
+> when The Closed Night and The Agreement were adopted. The later adoption of The
+> Rehearsal does not change the decisions recorded here, but the current landscape
+> and six-way mechanism firewall are documented in
+> [`the-rehearsal-integration.md`](the-rehearsal-integration.md).
+
 ## Purpose
 
 This record documents the direct adoption of The Closed Night and The Agreement

@@ -6,6 +6,7 @@ source_entries:
   - A-7.01
   - B-4.01
   - C-6.01
+  - D-1.01
 source_concepts:
   - the-unhidden
   - the-manifold
@@ -55,13 +56,13 @@ required to close it.
 
 ## Shared provisional engineering principles
 
-The current five systems support several common editorial and engineering rules
+The current six systems support several common editorial and engineering rules
 without establishing one universal physics.
 
 ### Ontological non-equivalence
 
-The Rzez, The Unhidden, The Manifold, The Closed Night, and The Agreement must be
-explained on their own terms.
+The Rzez, The Unhidden, The Manifold, The Closed Night, The Agreement, and The
+Rehearsal must be explained on their own terms.
 
 - Rzez action is entropic failure among relationships inside an existing target.
 - Unhidden action is human morphogenic engineering performed by finite living
@@ -72,6 +73,9 @@ explained on their own terms.
   powered, physically anchored boundary in ordinary space.
 - Agreement action is reciprocal redistribution of prediction error among
   actively coupled nervous systems and machine controllers.
+- Rehearsal action is high-energy convergence into a baryon-loaded microscopic
+  focus followed by a self-gravity-limited quench whose material residue cannot
+  be selected precisely.
 
 Recurring words such as *boundary*, *continuity*, and *identity* may describe
 analogous human fears. They do not demonstrate shared machinery, origin,
@@ -82,8 +86,9 @@ susceptibility, or metaphysical truth.
 Scale is not a power setting. A surgical Rzez field, an Avaran recovery mantle,
 an open-form boarding organism, a district-scale Manifold rupture, a Closed
 Night siege cage, and a strategic Agreement carrier require different physical
-arrangements, support systems, risks, and human institutions. Every entry should
-show what must be rebuilt when its scale changes.
+arrangements, support systems, risks, and human institutions. The Rehearsal's
+interplanetary crown is not a larger laboratory collision chamber. Every entry
+should show what must be rebuilt when its scale changes.
 
 ### Extraordinary effects remain accountable
 
@@ -100,6 +105,10 @@ unlimited matter, energy, or options.
   prevents matter from carrying heat across its boundary.
 - The Agreement requires finite participants, bandwidth, characterization,
   reciprocal carriers, and low enough latency for correction to return in time.
+- The Rehearsal consumes transported energy and finite baryonic feedstock. Its
+  temperature exists only as a transient local state at thermalization, and any
+  later strange-matter growth converts encountered baryons rather than creating
+  mass from nothing.
 
 ### Establishment precedes mature consequence
 
@@ -107,8 +116,9 @@ The most dangerous state is normally prepared rather than summoned without
 history. Rzez characterization, Unhidden growth and patterning, Manifold
 incidence and exploration, Closed Night anchor completion, and Agreement carrier
 establishment create the conditions in which their mature effects become
-possible. Detection and countermeasure doctrine should focus on those
-transitions as much as on the final catastrophe.
+possible. Rehearsal reservoir charging, crown alignment, baryon injection, and
+counterstream synchronization precede its focus. Detection and countermeasure
+doctrine should focus on those transitions as much as on the final catastrophe.
 
 ### Capability and vulnerability share an architecture
 
@@ -118,8 +128,11 @@ gains redundancy by exposing itself to occlusion and environmental attack.
 Manifold boundary-lock produces denial but also a rim that can be mapped and
 quarantined. Closed Night closure needs a complete powered surface that can be
 moved, punctured, or crossed by matter. Agreement convergence needs reciprocal
-low-latency coupling that genuine isolation can deny. Counters should arise from
-mechanism rather than cancel it by fiat.
+low-latency coupling that genuine isolation can deny. Rehearsal convergence
+needs separated projectors to close one timing and trajectory solution; those
+projectors are vulnerable before focus, while a stable escaped seed cannot be
+recalled by disabling them afterward. Counters should arise from mechanism
+rather than cancel it by fiat.
 
 ## Rzez-family engineering principles
 
@@ -299,9 +312,69 @@ remains inside that path can be absorbed into the same convergence being imposed
 upon the target. A safe command architecture therefore preserves physically
 independent variance rather than trusting a privileged software role.
 
+## High-energy-family engineering principles
+
+These principles are established by The Rehearsal. They describe the unique
+Apsis instrument and the high-energy lineage from which it was built; they do
+not make every collider, reactor, or energetic astrophysical event a Rehearsal.
+
+### Temperature is made at the focus
+
+The crown projects particles and radiation, not temperature. Its counterstreams
+remain separately transported energy until they intersect and thermalize. The
+near-Planck value is an effective temperature inferred for microscopic kernels
+from their energy distribution; it is not the temperature of the beam path, the
+entire target, or a macroscopic volume.
+
+### Near-Planck does not mean beyond limits
+
+The working value is approximately `10^30 K`, two orders of magnitude below the
+Planck temperature. It marks entry into a regime where extrapolated particle
+physics and classical gravity can no longer both be trusted, not a demonstrated
+maximum temperature or permission for arbitrary effects. Each kernel is both
+microscopic and ultrashort-lived.
+
+### Self-gravity is an operating branch
+
+Increasing focal energy density eventually favors trapped-surface formation.
+The Apsis crown therefore has a narrow and uncertain branch between premature
+dispersal and horizon capture. A microscopic horizon, if formed, does not supply
+free energy, guaranteed useful evaporation products, or a stable controllable
+munition.
+
+### Strangelets belong to the quench
+
+The strangelet yield is produced, if at all, while the baryon-rich plasma expands,
+cools, and attempts to hadronize. Peak temperature alone does not determine the
+number, mass, charge, lifetime, or velocity of the droplets. Authorial canon fixes
+a large Apsis yield; in-world evidence is Grade A for massive strange-rich tracks
+and Grade B for identifying a large strangelet population or long-lived yield.
+No recoverable spectrum survives.
+
+### Succession is a conditional branching process
+
+A universal-scale chain requires at least one seed that is long-lived, able to
+overcome or avoid ordinary charge barriers, catalytic in suitable matter, and
+capable of producing more viable daughter seeds than the chain loses. Sustained
+effective reproduction greater than one is necessary but not sufficient: capture
+paths must also percolate through an accessible network of dense baryonic
+reservoirs. When both conditions hold, later conversion can become operationally
+irreversible across that network. These conditions are an explicit fictional
+extension of unresolved strange-matter physics, not a claim about real colliders
+or known matter.
+
+### The causal future is not the whole cosmos
+
+Strangelets travel and interact causally. Even a supercritical Succession can
+convert only ordinary baryonic matter it or its descendants can physically
+reach. Photons, dark matter, vacuum, spacetime, black-hole interiors, and regions
+behind permanent cosmological horizons are not strangelet feedstock. “The entire
+universe” survives as cult doctrine and common warning, not a literal inventory
+of convertible existence.
+
 ## Candidate universal principles not yet adopted
 
-The five systems suggest, but do not establish for the whole setting, that:
+The six systems suggest, but do not establish for the whole setting, that:
 
 - identity may be an engineerable property;
 - the history of remaining together may contribute to present structure;

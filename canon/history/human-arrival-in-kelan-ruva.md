@@ -933,8 +933,8 @@ of Kharos or Avara.
 Scholars in the Institute of Applied Continuity tradition study biological
 lineage, material custody, ancient computation, and the legal continuity of
 founding claims. Their involvement makes the human-arrival history one of the
-oldest continuity disputes, but it does not imply that arrival and the five
-dangerous systems share a mechanism.
+oldest continuity disputes, but it does not imply that arrival and the six
+dangerous systems now recorded by the Compendium share a mechanism.
 
 Institute critics warn that the desire for one elegant timeline can become a
 form of evidence destruction. A reconstruction that forces every authentic

@@ -6,19 +6,22 @@ source_entries:
   - A-7.01
   - B-4.01
   - C-6.01
+  - D-1.01
 source_concepts:
   - the-unhidden
   - the-manifold
 decision_basis:
   - kelan-ruva-natural-and-human-history-expansion
+  - the-rehearsal-integration
 ---
 
 # Compendium Glossary
 
 These definitions are drawn from the Rzez working entry, the adopted Closed
-Night and Agreement entries, and the shared provisional core of The Unhidden and
-The Manifold. Terms are shared only to the extent stated here; similar language
-does not imply a shared mechanism, and disputed theories remain disputed.
+Night, Agreement, and Rehearsal entries, and the shared provisional core of The
+Unhidden and The Manifold. Terms are shared only to the extent stated here;
+similar language does not imply a shared mechanism, and disputed theories remain
+disputed.
 
 ## Historical and calendrical terms
 
@@ -249,6 +252,52 @@ timing, asymmetric tasks, and unsynchronized social contact. Reconnecting
 survivors too rapidly can restore learned convergence after the original carrier
 has been removed.
 
+## High-energy and baryonic terms
+
+### Apsis crown
+
+The full interplanetary arrangement of separated projectors, energy reservoirs,
+timing references, baryon injectors, and sacrificial terminal elements that
+formed the unique Rehearsal instrument at Apsis Range. A single precursor array,
+projector, or reconstruction chamber is not a crown.
+
+### Effective temperature
+
+A temperature inferred from the statistical distribution of energy among the
+degrees of freedom in a transient state. The Rehearsal's near-Planck value
+describes microscopic focal kernels after thermalization; it is not a substance
+carried by the beams or the temperature of the intervening path.
+
+### Reheating kernel
+
+One microscopic, ultrashort-lived focal region produced when Rehearsal
+counterstreams thermalize in baryon-loaded matter. The 47-millisecond Apsis
+Discharge created a sequence of kernels; no one kernel persisted for the full
+firing interval.
+
+### Quench
+
+The rapid expansion and cooling in which a reheating kernel leaves its extreme
+plasma state and attempts to hadronize. The surviving particle and strangelet
+spectrum depends upon this path, not upon peak temperature alone.
+
+### Strangelet
+
+A finite droplet of strange quark matter. In real-world grounding, the existence
+and stability of such matter remain hypothetical. In established Rehearsal canon,
+the Apsis quench produced many strangelets of unknowable mass, charge, lifetime,
+and velocity; the fraction capable of catalytic growth remains unresolved.
+
+### Succession
+
+The conditional branching process in which a stable catalytic strangelet converts
+suitable baryonic matter, grows, and produces viable daughter seeds. A
+**supercritical Succession** sustains an effective surviving reproduction greater
+than one across capture paths that percolate through accessible baryonic
+reservoirs. Reproduction greater than one without that connected capture network
+can still remain local. The term does not imply faster-than-light travel, vacuum
+decay, or conversion of nonbaryonic existence.
+
 ## Operational and forensic terms
 
 ### The Quiet
@@ -298,3 +347,25 @@ architectures that can be attacked. The literal interpretation is unverified.
 
 Something materially genuine but incapable of bearing structural or social
 trust. The expression derives from post-destruction Valec material.
+
+### Lower State
+
+The Houses of the Lower State teach that ordinary baryonic matter is a long-lived
+excited condition and that strange matter is its intended or sacred ground state.
+The phrase records their doctrine, not an accepted proof that the dangerous
+strange-matter stability basin exists throughout nature.
+
+### Waiting House
+
+A Lower State community that preserves Apsis records, watches the sky for delayed
+evidence, and holds that a genuine lower state requires no human assistance. Most
+known Houses follow this practice and do not attempt to rebuild The Rehearsal.
+
+### Open Yield
+
+The outlawed Lower State schism that seeks a viable strangelet seed, complete
+crown knowledge, or another deliberate quench. Lower State doctrine calls The
+Rehearsal **the Proof** and a universal Succession **the Settlement**. Depending
+upon the House, **the Performance** is either the deliberate initiation of that
+Succession or its full conversion history. These names are theological claims,
+not separate engineering phases.

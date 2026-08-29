@@ -8,6 +8,7 @@ source_entries:
   - A-7.01
   - B-4.01
   - C-6.01
+  - D-1.01
 source_concepts:
   - the-unhidden
   - the-manifold
@@ -16,6 +17,7 @@ decision_basis:
   - astronomical-dynamical-model
   - five-system-integration
   - kelan-ruva-natural-and-human-history-expansion
+  - the-rehearsal-integration
 ---
 
 # The Kelan–Ruva System
@@ -313,13 +315,22 @@ independence or permanent population of those sites.
 ## Civil and defensive geography
 
 The home system's three inhabited or heavily instrumented bodies have distinct
-roles in the five-system setting:
+roles in the six-system setting:
 
 | Body | Recurring role |
 | --- | --- |
 | [Kharos](kharos.md) | Civilian life, scholarship, courts, boundary medicine, protected dissent, rehabilitation, and the public consequences of dangerous engineering. |
 | [Avara](avara.md) | Low-gravity medical and industrial scale, managed habitability, bounded cooperative control, thermal engineering, recovery facilities, and defensive infrastructure. |
 | [Odran](odran.md) | Dry laboratories, separated material standards, chronometry, calorimetry, controlled-variance instrumentation, ranging, and redundant archives. |
+
+The Apsis Range and the Apsis Discharge remain outside Kelan–Ruva. The home
+system contributes no Rehearsal emitter, target, or recovered strangelet to
+shared canon. Its relevance is defensive and civic: Kharosi courts apply the
+Common Matter Interdict, Avaran custody practice treats missing baryonic mass as
+a life-support risk rather than an accounting discrepancy, and a small number
+of Odran's low-background instruments participate in distributed residue
+searches. Those searches can constrain particular trajectories; they cannot
+prove that no viable fragment exists anywhere beyond their sampled volumes.
 
 Post-Valec infrastructure across the three bodies favors segmentation,
 sacrificial disconnects, protected heat-rejection paths, locally authoritative

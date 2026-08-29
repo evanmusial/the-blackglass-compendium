@@ -6,6 +6,7 @@ source_entries:
   - A-7.01
   - B-4.01
   - C-6.01
+  - D-1.01
 source_concepts:
   - the-unhidden
   - the-manifold
@@ -20,6 +21,7 @@ source_concepts:
 | [Valec](valec.md) | Destroyed industrial world and Year Zero of the Compact Calendar. | Provisional |
 | [Kharos](kharos.md) | Designated home world; later demographic and civic center of an Earth-descended population first durably sheltered on Avara. | Provisional |
 | [Issa](issa.md) | Frontier gas giant with an anomalously separated inner moon. | Provisional |
+| [Apsis Range](apsis-range.md) | Remote, deliberately uninhabited external range volume used for The Rehearsal's unique full firing and now held under permanent exclusion. | Established; containing system withheld |
 
 ## Kelan–Ruva system register
 

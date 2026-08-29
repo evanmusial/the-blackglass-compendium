@@ -6,12 +6,14 @@ source_entries:
   - A-7.01
   - B-4.01
   - C-6.01
+  - D-1.01
 source_concepts:
   - the-unhidden
   - the-manifold
 decision_basis:
   - three-weapon-integration
   - five-system-integration
+  - the-rehearsal-integration
 ---
 
 # Compendium Taxonomy
@@ -35,14 +37,16 @@ The Rzez is therefore filed simultaneously as:
 
 None of these labels should be made to substitute for the others.
 
-The next four subjects make the separation more important. The Unhidden has a
+The next five subjects make the separation more important. The Unhidden has a
 known human medical lineage but creates conscious military organisms. The
 Manifold has no known original purpose or local engineering lineage but produces
 consequences humans describe militarily. The Closed Night turns civil radiant
 heat recovery into an enclosure weapon without destroying energy. The Agreement
 turns cooperative control into autonomy denial without creating a shared mind.
-Provenance, purpose, mechanism, form, and consequence must therefore remain
-separate fields.
+The Rehearsal turns primordial-state reconstruction into one unique convergence
+weapon whose focal quench may produce self-propagating strange matter.
+Provenance, purpose, mechanism, form, scale, and consequence must therefore
+remain separate fields.
 
 ## Publication hierarchy
 
@@ -56,17 +60,19 @@ represented by this project.
 
 ### Volume
 
-The first three filed volumes establish that a volume groups entries by the
+The first four filed volumes establish that a volume groups entries by the
 primary domain or governing mode of engineering:
 
 - `Volume I: Entropic Systems`, containing the Rzez;
 - `Volume II: Radiant Systems`, containing The Closed Night;
-- `Volume III: Cybernetic Systems`, containing The Agreement.
+- `Volume III: Cybernetic Systems`, containing The Agreement;
+- `Volume IV: High-Energy Systems`, containing The Rehearsal.
 
 `Morphogenic` and `causal-topological` remain provisional system values because
 The Unhidden and The Manifold require them. Neither has an assigned volume
-number. The adopted second and third volumes are an explicit filing decision,
-not a general rule that development order determines future publication order.
+number. The adopted second, third, and fourth volumes are explicit filing
+decisions, not a general rule that development order determines future
+publication order.
 
 This rule must be tested against future entries. Do not create a full list of
 volumes until actual technologies require them.
@@ -76,8 +82,11 @@ volumes until actual technologies require them.
 The Rzez establishes `Book Seven: Instruments of Separation`. The Closed Night
 establishes `Book Four: Instruments of Retention` within Volume II. The
 Agreement establishes `Book Six: Instruments of Consensus` within Volume III.
+The Rehearsal establishes `Book One: Instruments of Reheating` within Volume IV.
 The rule is that a book groups related mechanisms or instrument purposes within
-a volume.
+a volume. Book One is used because no earlier High-Energy book has been
+recovered or reserved; the other volumes' gaps do not create an unexplained gap
+in a new volume.
 
 The gaps around Books Four, Six, and Seven are useful negative space, not an
 instruction to invent missing placeholders immediately.
@@ -85,14 +94,15 @@ instruction to invent missing placeholders immediately.
 ### Entry
 
 An entry is the primary unit of manuscript, citation, and publication. Entry
-`A-7.01` covers the Rzez family, `B-4.01` covers The Closed Night family, and
-`C-6.01` covers The Agreement family.
+`A-7.01` covers the Rzez family, `B-4.01` covers The Closed Night family,
+`C-6.01` covers The Agreement family, and `D-1.01` covers the unique Rehearsal
+instrument and its Apsis history.
 
-The three adopted filings resolve the earlier prefix ambiguity for the present
-recension: `A`, `B`, and `C` are the filing codes for Volumes I, II, and III.
-This is a Blackglass editorial convention. It does not prove that every source
-edition of the Codex used the same identifiers or that future recovered volumes
-must arrive in alphabetical order.
+The four filings resolve the earlier prefix ambiguity for the present
+recension: `A`, `B`, `C`, and `D` are the filing codes for Volumes I, II, III,
+and IV. This is a Blackglass editorial convention. It does not prove that every
+source edition of the Codex used the same identifiers or that future recovered
+volumes must arrive in alphabetical order.
 
 ## Entry-scope axis
 
@@ -109,6 +119,12 @@ Use one of these scopes:
 The Rzez is a `technology-family`. Its entry explicitly distinguishes the Rzez
 principle, a Rzez field, a Rzez instrument, a Rzez event, and the legendary total
 technology called the Rzez.
+
+The Rehearsal is a `single-instrument`. Precursor high-energy research, focal
+reheating techniques, and incomplete convergence arrays do not become instances
+of the weapon merely because its builders drew upon them. The entry's subject is
+the unique Apsis convergence crown, its supporting system, and its one full
+discharge.
 
 ### Reserved scope candidate
 
@@ -138,6 +154,9 @@ The current entry-metadata values demonstrated by manuscripts are:
   return, and escape across an actively maintained boundary.
 - `neurocybernetic` — engineering that couples prediction, error correction,
   and action across nervous systems and machine controllers.
+- `high-energy` — engineering that transports, times, and converges extreme
+  particle and radiant energy to create a transient local state whose formation,
+  self-gravity, and quench determine the residue.
 
 Shared prose reservations for the developing concepts are:
 
@@ -215,6 +234,20 @@ Agreement-derived traits:
 - `operator-inclusive` — the same reciprocal architecture can incorporate the
   people or systems attempting to control it.
 
+Rehearsal-derived traits:
+
+- `convergence-formed` — the extreme state exists only where separately
+  transported counterstreams meet and thermalize;
+- `baryon-loaded` — injected and intercepted baryonic matter materially
+  determines the focal plasma and available strange-matter yield;
+- `near-planck` — the reconstructed effective temperature approaches within two
+  orders of magnitude of the Planck temperature without claiming that a
+  macroscopic volume reaches that state;
+- `quench-dependent` — the cooling path and hadronization transition determine
+  the surviving residue more strongly than peak temperature alone; and
+- `self-gravity-limited` — increasing energy density drives the focus toward
+  trapped-surface formation rather than providing an unlimited hotter setting.
+
 Do not turn `extrinsic`, `unknown`, `uncontrolled`, `world-terminal`, or
 `epoch-denial` into engineering traits. They describe provenance, knowledge,
 control, or consequence.
@@ -230,6 +263,11 @@ Unhidden, the working answer is
 The Closed Night uses `deep-space-radiant-heat-recovery-shell`. The Agreement
 uses `cooperative-rescue-control-lattice`. These specific civil origins constrain
 their engineering, labor history, accidents, and later weaponization.
+
+The Rehearsal uses `primordial-state-reconstruction-array`. That scientific
+lineage sought to infer early-universe states from microscopic collision products;
+it does not mean the original research projected temperature, reproduced the Big
+Bang, or made strange matter intentionally.
 
 Future values should remain specific enough to create history. “Industrial” is
 usually too broad by itself; “precision mineral separation” explains inventors,
@@ -253,7 +291,7 @@ Current provisional values are:
   lineage and apparently outside ordinary local spacetime, while creator,
   operator, home, and purpose remain unresolved.
 
-The Rzez, The Unhidden, The Closed Night, and The Agreement use
+The Rzez, The Unhidden, The Closed Night, The Agreement, and The Rehearsal use
 `known-human-lineage`. The Manifold uses `extrinsic-unknown`. The adopted entries
 for The Closed Night and The Agreement forced promotion of the dedicated
 metadata field. The repository `source` object remains separate and records
@@ -276,6 +314,12 @@ The Closed Night is `proscribed-thermal-denial-enclosure`. The Agreement is
 `proscribed-autonomy-denial-technology`. Neither classification implies
 world-terminal capability.
 
+The Rehearsal is `proscribed-baryonic-terminal-technology`. The classification
+records its conditional ability to seed an irreversible conversion among
+causally reachable baryonic reservoirs. It does not classify photons, dark
+matter, vacuum, spacetime, or causally inaccessible regions as convertible
+targets, and it does not make a Succession an operator-selectable scale.
+
 Future entries may require other terms. Do not assume that every forbidden
 technology is world-terminal or that destructive magnitude is the only form of
 strategic danger.
@@ -295,6 +339,7 @@ Current entry-demonstrated scales are:
 | `crew` | A small cooperating group and the machines under its immediate control. |
 | `local` | One room, corridor, vessel section, facility, or comparably bounded site. |
 | `tactical` | Deployable architecture acting within an encounter, vessel, or facility. |
+| `interplanetary` | Apparatus geometry spanning separated sites or trajectories across one star system. |
 
 The developing concepts retain one additional prose reservation:
 
@@ -309,6 +354,9 @@ levels.
 The Rzez retains surgical through planetary architectures. The Closed Night
 demonstrates industrial, siege, and strategic architectures. The Agreement
 demonstrates crew, local, industrial, tactical, and strategic architectures.
+The Rehearsal demonstrates strategic and interplanetary architecture: its
+counterstreams converge at one microscopic target, but the Apsis crown and its
+energy reservoirs occupy system-scale baselines.
 The Unhidden currently develops clinical, surgical, tactical, and siege forms.
 The Manifold most strongly develops local, siege, and strategic consequences;
 planetary reach remains an exceptional threat model rather than routine use.
@@ -335,6 +383,12 @@ Articles of Bodily Dissent govern involuntary Agreement coupling, evidence
 contamination, and the preservation of physically independent witnesses. The
 separate Articles of Open Radiance govern projected closure, anchor possession,
 rescue access, and civil heat-recovery exceptions.
+
+The Common Matter Interdict separately governs complete near-Planck convergence
+architectures, deliberate strangelet production or custody, and possession of
+the synchronization and baryon-injection systems needed to recreate the Apsis
+Discharge. It is not an expansion of the Sixth Compact, the radiant Articles, or
+the Articles of Bodily Dissent.
 
 ## Evidence axis
 

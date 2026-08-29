@@ -6,6 +6,7 @@ source_entries:
   - A-7.01
   - B-4.01
   - C-6.01
+  - D-1.01
 source_concepts:
   - the-unhidden
   - the-manifold
@@ -24,6 +25,9 @@ source_concepts:
 | [Kelan–Ruva Concordance Service](kelan-ruva-concordance-service.md) | Distributed scientific service | Compares independent clocks, ranging, records, and incompatible evidence. | Provisional |
 | [Articles of Open Radiance](articles-of-open-radiance.md) | Legal framework | Protects thermal egress and prohibits hostile radiant enclosure. | Established |
 | [Articles of Bodily Dissent](articles-of-bodily-dissent.md) | Legal framework | Prohibits involuntary reciprocal coupling and protects independent witnesses. | Established |
+| [Apsis Directorate](apsis-directorate.md) | Scientific-military directorate | Converts a primordial-state reconstruction program into the unique Rehearsal crown. | Established; dissolved after Apsis |
+| [Common Matter Interdict](common-matter-interdict.md) | Legal framework | Initial text adopted in Compact Year +274; prohibits complete convergence crowns, deliberate strangelet production or custody, and critical reconstruction systems. | Established |
+| [Houses of the Lower State](houses-of-the-lower-state.md) | Dispersed religious traditions | Worship The Rehearsal's power and interpret strange-matter conversion as cosmic settlement; includes Waiting Houses and the outlawed Open Yield schism. | Established existence; disputed membership and doctrine |
 
 ## Named organizations retained in the Rzez entry
 
@@ -38,7 +42,7 @@ Polities and armies are temporarily indexed here when their institutional role
 matters more than their geography. The taxonomy can split them later if several
 entries demonstrate the need.
 
-The two adopted post-Compact frameworks are independent of the Sixth Compact.
+The three adopted post-Compact frameworks are independent of the Sixth Compact.
 Shared investigative procedure does not merge radiant-enclosure law,
-autonomy-denial law, created-person law, Manifold quarantine, or Rzez
-prohibition.
+autonomy-denial law, common-matter protection, created-person law, Manifold
+quarantine, or Rzez prohibition.

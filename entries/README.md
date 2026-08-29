@@ -17,6 +17,8 @@ The current manuscripts are:
 - [`volume-02/book-04/b-4-01-the-closed-night.md`](volume-02/book-04/b-4-01-the-closed-night.md)
   — adopted;
 - [`volume-03/book-06/c-6-01-the-agreement.md`](volume-03/book-06/c-6-01-the-agreement.md)
+  — adopted;
+- [`volume-04/book-01/d-1-01-the-rehearsal.md`](volume-04/book-01/d-1-01-the-rehearsal.md)
   — adopted.
 
 ## Entry rules

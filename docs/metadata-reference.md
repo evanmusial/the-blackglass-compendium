@@ -24,10 +24,10 @@ The stable entry identifier shown in the Codex hierarchy, such as `A-7.01`.
 Changing a title does not change the identifier.
 
 The prefix is the alphabetic filing code for the numbered volume in the
-Blackglass recension: `A` corresponds to Volume I, `B` to Volume II, and `C` to
-Volume III. The number before the decimal matches the book number. These are
-editorial filing identifiers; they do not prove that every historical Codex
-edition used the same scheme.
+Blackglass recension: `A` corresponds to Volume I, `B` to Volume II, `C` to
+Volume III, and `D` to Volume IV. The number before the decimal matches the book
+number. These are editorial filing identifiers; they do not prove that every
+historical Codex edition used the same scheme.
 
 ### `title` and `slug`
 
@@ -89,6 +89,10 @@ determines the main volume placement; traits support cross-indexing.
 Do not list consequences as mechanisms. For example, `world-terminal` is a
 military consequence, not an engineering trait.
 
+The Rehearsal demonstrates `high-energy`: engineering that transports and
+converges extreme particle and radiant energy to create a transient local state
+rather than projecting temperature as though temperature were a substance.
+
 ### `operational_scales`
 
 The scales at which the technology is known or alleged to function. Current
@@ -107,6 +111,9 @@ Later adopted entries demonstrate:
 - `local` — one room, corridor, vessel section, facility, or comparable site;
 - `tactical` — deployable architecture acting within an encounter, vessel, or
   facility.
+- `interplanetary` — an apparatus whose working geometry spans separated sites
+  or trajectories across one star system. The term describes architecture, not
+  automatic consequence throughout that system.
 
 This list is expected to grow. Add a term only when an entry demonstrates a
 meaningful distinction.

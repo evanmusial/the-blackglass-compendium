@@ -8,11 +8,13 @@ source_entries:
   - A-7.01
   - B-4.01
   - C-6.01
+  - D-1.01
 source_concepts:
   - the-unhidden
   - the-manifold
 decision_basis:
   - kelan-ruva-natural-and-human-history-expansion
+  - the-rehearsal-integration
 ---
 
 # Kharos
@@ -220,7 +222,7 @@ tightly reciprocal remote control unsafe without local authority.
 
 ## Continuity jurisprudence
 
-Kharos is the principal public venue in which the five current engineering
+Kharos is the principal public venue in which the six current engineering
 systems acquire law, testimony, and ordinary consequence. The shared word
 *continuity* describes a civic problem, not a shared physical mechanism.
 
@@ -235,13 +237,17 @@ systems acquire law, testimony, and ordinary consequence. The shared word
   return systems, and whether a surviving enclosure was physically escapable.
 - Agreement cases concern bodily dissent, concealed reciprocal coupling,
   contaminated unanimous testimony, and the independence of an observer.
+- Rehearsal cases concern common-risk consent, custody of exotic baryonic
+  residues, negative-yield proof, and whether an experiment may impose an
+  irreversible risk upon people outside every participating jurisdiction.
 
 These matters do not automatically fall under one statute or agency. The
 [Sixth Compact](../institutions/sixth-compact-of-kharos.md) remains rooted in the
 Rzez. Created-person law, Manifold quarantine, the
-[Articles of Open Radiance](../institutions/articles-of-open-radiance.md), and the
-[Articles of Bodily Dissent](../institutions/articles-of-bodily-dissent.md)
-require separate authority even when they borrow Compact procedure.
+[Articles of Open Radiance](../institutions/articles-of-open-radiance.md), the
+[Articles of Bodily Dissent](../institutions/articles-of-bodily-dissent.md), and
+the [Common Matter Interdict](../institutions/common-matter-interdict.md) require
+separate authority even when they borrow Compact procedure.
 
 The [Institute of Applied Continuity](../institutions/institute-of-applied-continuity.md)
 is the historical source of the most visible scholarly tradition spanning those
@@ -276,6 +282,14 @@ exit as part of occupied-volume safety. Courts may authorize anchor destruction
 or material heat bridges during rescue while separately reviewing the white-seam
 risk created by a narrow breach.
 
+Kharosi application of the Common Matter Interdict separates belief from
+enabling action. A person may repeat the Houses of the Lower State's account of
+Settlement without thereby possessing contraband. Concealed baryon inventories,
+quench hardware, convergence timing, residue cultivation, and attempts to place
+a viable fragment in dense matter are treated as conduct. Courts also reject the
+claim that failure to disprove Succession transfers the burden of proof to every
+ordinary high-energy laboratory.
+
 No confirmed Manifold rupture is placed on Kharos or elsewhere in the home
 system. Kharos studies exterior incidents; it does not possess or control The
 Manifold.
@@ -292,7 +306,9 @@ Kharos is the recurring geographic or political name associated with:
 
 It is also associated with the Nacre Hall Incident, the Articles of Bodily
 Dissent, the Articles of Open Radiance, protected variance procedure, and
-discord rehabilitation.
+discord rehabilitation. It is one public venue for Common Matter Interdict cases
+and for disputes involving the Houses of the Lower State, but neither institution
+originated on Kharos or answers to one Kharosi authority.
 
 It is also provisionally associated with the first open wards, created-person
 and humane-custody proceedings, and the Kelan–Ruva Concordance Service.
@@ -314,5 +330,6 @@ institution is governed directly by Kharos.
 
 Kharos did not originate the Rzez, is not assigned responsibility for the
 Unhidden's military conversion, and is not the site of the defining Manifold
-encounter, the Pelar deployment, or Ninth Holding. Its home-world role should
-make consequences familiar, not make all history provincial.
+encounter, the Pelar deployment, Ninth Holding, the Apsis Range, or the Apsis
+Discharge. Its home-world role should make consequences familiar, not make all
+history provincial.

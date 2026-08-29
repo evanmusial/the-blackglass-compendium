@@ -35,19 +35,22 @@ provisional canon without silently turning every legend or scholarly theory
 into objective setting truth. See the
 [`Rzez integration record`](docs/rzez-integration.md).
 
-Two later systems are adopted entries with established authorial status:
+Three later systems are adopted entries with established authorial status:
 
 - [`The Closed Night`](entries/volume-02/book-04/b-4-01-the-closed-night.md), a
   family of radiant-return enclosures that weaponize a target's inability to
   shed light and heat;
 - [`The Agreement`](entries/volume-03/book-06/c-6-01-the-agreement.md), a family
   of neurocybernetic lattices that makes independent error and action physically
-  unsustainable across coupled people and machines.
+  unsustainable across coupled people and machines; and
+- [`The Rehearsal`](entries/volume-04/book-01/d-1-01-the-rehearsal.md), the unique
+  Apsis convergence array whose projected energy forms microscopic near-Planck
+  reheating kernels and whose quench can leave an unknowable strangelet yield.
 
 The Unhidden and The Manifold remain developing concepts. Their narrow shared
 canon reservations are not adopted entries. See the
-[`five-system integration record`](docs/five-system-integration.md) for the
-different statuses and the later classification decisions.
+[`Rehearsal integration record`](docs/the-rehearsal-integration.md) for the
+current six-system statuses, physics boundary, and classification decisions.
 
 ## Authoring model
 
@@ -93,7 +96,7 @@ the home world.
 
 ## Current weapon landscape
 
-The collection now has five deliberately non-equivalent systems:
+The collection now has six deliberately non-equivalent systems:
 
 - **The Rzez** is human entropic engineering that invalidates the relationships
   by which matter remains whole.
@@ -110,10 +113,14 @@ The collection now has five deliberately non-equivalent systems:
 - **The Agreement** is human neurocybernetic engineering that redistributes
   prediction error across a reciprocal low-latency network until independent
   action becomes physiologically and mechanically unstable.
+- **The Rehearsal** is human high-energy engineering that converges separately
+  transported energy upon a baryon-loaded microscopic focus, where a
+  near-Planck-temperature plasma forms, self-gravitates, and quenches into an
+  unknowable residue that may include catalytic strangelets.
 
 Kharos, Avara, and Odran respond through different laws, institutions, and
 infrastructure without implying that the subjects share one physics. See the
-[`five-system engineering landscape`](canon/engineering-landscape.md).
+[`six-system engineering landscape`](canon/engineering-landscape.md).
 
 ## Start here
 

@@ -8,9 +8,9 @@ authorial_status: provisional
 This directory contains setting material that may be reused across Compendium
 entries. It began as Rzez-derived **provisional canon**, then acquired narrow
 authorial reservations forced by the developing Unhidden and Manifold concepts.
-The adopted entries for The Closed Night and The Agreement now contribute
-established systems and history as well. This does not make either developing
-concept an adopted entry or every claim inside it shared canon.
+The adopted entries for The Closed Night, The Agreement, and The Rehearsal now
+contribute established systems and history as well. This does not make either
+developing concept an adopted entry or every claim inside it shared canon.
 
 ## The two truth systems
 
@@ -45,7 +45,7 @@ tells a Grade E story without making the supernatural content of that story true
 
 ## Core references
 
-- [`engineering-landscape.md`](engineering-landscape.md) — the five-system lore
+- [`engineering-landscape.md`](engineering-landscape.md) — the six-system lore
   spine, mechanism firewall, and Kelan–Ruva distribution.
 - [`principles.md`](principles.md) — editorial, shared, and family-specific
   engineering principles.

@@ -6,6 +6,7 @@ source_entries:
   - A-7.01
   - B-4.01
   - C-6.01
+  - D-1.01
 source_concepts:
   - the-unhidden
   - the-manifold
@@ -13,6 +14,7 @@ decision_basis:
   - implications-of-the-rzez
   - three-weapon-integration
   - five-system-integration
+  - the-rehearsal-integration
   - kelan-ruva-natural-and-human-history-expansion
   - editorial-setting-decision
 ---
@@ -87,6 +89,14 @@ infrastructure and short latency; ordinary interstellar delay is a hard barrier
 to one regional Agreement. Both systems create strategic danger while preserving
 the consequence of losing one station, city, or world.
 
+The Rehearsal raises the possible consequence without enlarging inhabited
+geography. Its one complete crown occupied an intentionally uninhabited range,
+and its emitters and reservoirs used interplanetary baselines. A conditional
+Succession would spread by physical strangelet transport and conversion, not by
+adding a galaxy-wide civilization, instantaneous communication, or a mapped
+cosmos. The known inhabited region remains small even when its people can reason
+about a threat to ordinary baryonic matter far beyond it.
+
 ## Regional structure
 
 The following categories guide placement. They are functional regions, not yet
@@ -126,7 +136,9 @@ know the truth.
 Some systems or celestial bodies are isolated because of contamination,
 forbidden research, unexplained anomalies, or catastrophic history. Valec is the
 principal example. Issa's inner moon is a prohibited destination even if the
-wider system remains accessible.
+wider system remains accessible. [Apsis Range](places/apsis-range.md) is a
+different case: a deliberately uninhabited test volume in a withheld external
+system, placed under permanent exclusion after the Apsis Discharge.
 
 ### Unmapped or disconnected space
 
@@ -167,7 +179,7 @@ The system's defensive roles are divided rather than centralized: Kharos is the
 civic, legal, and academic center; [Avara](places/avara.md) is a low-gravity
 medical and infrastructure partner; and [Odran](places/odran.md) provides
 physically separated standards, clocks, observatories, and archives. See the
-[five-system engineering landscape](engineering-landscape.md) for the shared
+[six-system engineering landscape](engineering-landscape.md) for the shared
 lore boundary.
 
 Kharos's rotation and detailed lunar tidal history remain open, as does whether
@@ -192,6 +204,20 @@ vessels.
 Issa is not the name of the star unless a later entry establishes that usage.
 The wider system remains undesigned.
 
+### Apsis Range
+
+[Apsis Range](places/apsis-range.md) is the common name for the remote,
+deliberately uninhabited test volume in which the Apsis Directorate assembled and
+fired The Rehearsal in Compact Year +271. It lies outside any inhabited planetary
+environment. The range establishes one external system-scale location without
+declaring its withheld containing system entirely empty or establishing another
+inhabited culture, colony, or route hub. Its star, planets, coordinates, approach
+route, and present physical condition remain withheld or unresolved.
+
+The range is not part of Kelan–Ruva, Valec, or Issa. No source establishes that
+its exclusion volume contains a recoverable strangelet specimen, a surviving
+projector, or a confirmed self-sustaining conversion.
+
 ### Locations not yet placed
 
 Keth Aru, Orsa, Deren Keep, Kareth, Serevan, Orel, Avel Taran, Leth Var, and
@@ -201,7 +227,7 @@ They may eventually become regions, cities, habitats, states, moons, or location
 on already known worlds. Do not place them merely to fill a map. Placement should
 answer a need created by another entry or by deliberate atlas work.
 
-## Five-subject geographic distribution
+## Six-subject geographic distribution
 
 The current weapons should shape the home system without making it the site of
 every origin, deployment, and catastrophe.
@@ -213,11 +239,16 @@ every origin, deployment, and catastrophe.
 | **The Manifold** | Independent clocks, distant ranging, scholarship, concordance bundles, and legal response. | The defining instrumented rupture and associated-presence evidence occur beyond the home system at a frontier junction or comparably isolated site. |
 | **The Closed Night** | Avaran orbital heat-recovery practice, Odran calorimetry, Kharosi rescue law, and protected thermal egress. | The defining hostile closure occurs at the redacted Ninth Holding outside the home system; the wider civil lineage belongs to deep-space infrastructure rather than one world. |
 | **The Agreement** | The Three-Hand Rescue in Avaran orbit, Nacre Hall and autonomy law on Kharos, and independent-variance practice across Odran and the Concordance Service. | The defining strategic attack occurs at Pelar Habitat outside the home system; its exact system and route remain withheld. |
+| **The Rehearsal** | Common Matter proceedings on Kharos and independent high-energy observation across Kelan–Ruva; no seed custody or complete crown. | Primordial-state reconstruction, the Apsis Directorate, the unique crown, and the Compact Year +271 Apsis Discharge belong to the external Apsis Range. |
 
 No confirmed Manifold rupture is assigned to Kelan–Ruva. No Kharosi institution
 possesses The Manifold. Kharos is not assigned responsibility for converting the
 Unhidden medical lineage into a weapon. No planetary Closed Night or
 interstellar Agreement is assigned to the home system.
+
+No Rehearsal projector, strangelet repository, or confirmed converted reservoir
+is assigned to Kelan–Ruva. Small Houses of the Lower State may exist there as
+belief communities; their presence is not physical contamination.
 
 ## Humanity and Earth
 
@@ -332,6 +363,12 @@ prediction. Recordings, delayed reports, and ordinary interstellar messages are
 inert. The Closed Night can block outward radio within engineered bands but
 provides no faster or hidden communication channel.
 
+The Rehearsal adds no message channel. Radiation from Apsis and any physical
+strangelet descendant remain limited by causal propagation. A distant conversion
+may have occurred before its light or particles reach the known region; that
+ignorance is ordinary light-cone delay, not a Manifold history or evidence of
+faster-than-light infection.
+
 ## Political scale
 
 The known region contains multiple sovereign states, worlds, city-states,
@@ -345,6 +382,12 @@ access, enforcement capability, and the severity of the threat.
 
 This structure allows a technology to be legal in one context, prohibited in
 another, secretly retained by a signatory, or known only through local practice.
+
+The Common Matter Interdict is a separate multijurisdictional response to Apsis.
+Its broad protected interest does not turn it into a universal government or
+expand the Sixth Compact's Rzez-specific mandate. Belief in the Lower State is
+not itself possession of a weapon; acquisition of crown synchronization,
+baryon-injection, or strangelet-custody capability is.
 
 ## Extrinsic presence and nonhuman intelligence
 
@@ -379,7 +422,7 @@ When designing a new instrument:
    daily life, medicine, labor, law, family, belief, and local violence.
 8. Give Kharos recurring consequences without making it the source, test range,
    battlefield, regulator, and archive of every system.
-9. Treat all five current systems as separate ontologies unless a later entry
+9. Treat all six current systems as separate ontologies unless a later entry
    deliberately earns an interaction.
 
 ## Deliberately unresolved questions
@@ -399,6 +442,8 @@ When designing a new instrument:
   to it?
 - Did a nonhuman civilization or forgotten human lineage alter Issa's moon?
 - How much authority does the Sixth Compact possess outside the core?
+- Did any viable catalytic seed escape Apsis, and could evidence of a distant
+  conversion still lie outside the known region's present light cone?
 - What lies beyond the mapped route network?
 
 These are design resources, not omissions that must be repaired before another
