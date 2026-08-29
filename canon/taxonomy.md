@@ -4,11 +4,14 @@ title: Compendium Taxonomy
 authorial_status: provisional
 source_entries:
   - A-7.01
+  - B-4.01
+  - C-6.01
 source_concepts:
   - the-unhidden
   - the-manifold
 decision_basis:
   - three-weapon-integration
+  - five-system-integration
 ---
 
 # Compendium Taxonomy
@@ -32,11 +35,14 @@ The Rzez is therefore filed simultaneously as:
 
 None of these labels should be made to substitute for the others.
 
-The next two developing subjects make the separation more important. The
-Unhidden has a known human medical lineage but creates conscious military
-organisms. The Manifold has no known original purpose or local engineering
-lineage but produces consequences humans describe militarily. Provenance,
-purpose, mechanism, form, and consequence must therefore remain separate fields.
+The next four subjects make the separation more important. The Unhidden has a
+known human medical lineage but creates conscious military organisms. The
+Manifold has no known original purpose or local engineering lineage but produces
+consequences humans describe militarily. The Closed Night turns civil radiant
+heat recovery into an enclosure weapon without destroying energy. The Agreement
+turns cooperative control into autonomy denial without creating a shared mind.
+Provenance, purpose, mechanism, form, and consequence must therefore remain
+separate fields.
 
 ## Publication hierarchy
 
@@ -50,35 +56,43 @@ represented by this project.
 
 ### Volume
 
-The Rzez establishes `Volume I: Entropic Systems`. The provisional rule is that
-a volume groups entries by the primary domain or governing mode of engineering.
+The first three filed volumes establish that a volume groups entries by the
+primary domain or governing mode of engineering:
 
-`Morphogenic` and `causal-topological` are now provisional system values because
+- `Volume I: Entropic Systems`, containing the Rzez;
+- `Volume II: Radiant Systems`, containing The Closed Night;
+- `Volume III: Cybernetic Systems`, containing The Agreement.
+
+`Morphogenic` and `causal-topological` remain provisional system values because
 The Unhidden and The Manifold require them. Neither has an assigned volume
-number. Do not infer that the order in which systems are developed determines
-their eventual publication order.
+number. The adopted second and third volumes are an explicit filing decision,
+not a general rule that development order determines future publication order.
 
 This rule must be tested against future entries. Do not create a full list of
 volumes until actual technologies require them.
 
 ### Book
 
-The Rzez establishes `Book Seven: Instruments of Separation`. The provisional
-rule is that a book groups related mechanisms or instrument purposes within a
-volume.
+The Rzez establishes `Book Seven: Instruments of Separation`. The Closed Night
+establishes `Book Four: Instruments of Retention` within Volume II. The
+Agreement establishes `Book Six: Instruments of Consensus` within Volume III.
+The rule is that a book groups related mechanisms or instrument purposes within
+a volume.
 
-“Book Seven” implies at least six other books in Volume I, but their subjects are
-not yet defined. The numbering is a useful negative space, not an instruction to
-invent six placeholders immediately.
+The gaps around Books Four, Six, and Seven are useful negative space, not an
+instruction to invent missing placeholders immediately.
 
 ### Entry
 
 An entry is the primary unit of manuscript, citation, and publication. Entry
-`A-7.01` covers the Rzez family.
+`A-7.01` covers the Rzez family, `B-4.01` covers The Closed Night family, and
+`C-6.01` covers The Agreement family.
 
-The semantic meaning of prefix `A` is unresolved. It may represent an archive,
-series, classification family, compiler, or something else. Preserve it without
-generalizing from it.
+The three adopted filings resolve the earlier prefix ambiguity for the present
+recension: `A`, `B`, and `C` are the filing codes for Volumes I, II, and III.
+This is a Blackglass editorial convention. It does not prove that every source
+edition of the Codex used the same identifiers or that future recovered volumes
+must arrive in alphabetical order.
 
 ## Entry-scope axis
 
@@ -116,10 +130,14 @@ it.
 The primary system answers: **what governing mode of engineering produces the
 effect?**
 
-The current entry-metadata value demonstrated by a manuscript is:
+The current entry-metadata values demonstrated by manuscripts are:
 
 - `entropic` — engineering that biases a target toward loss of organized or
   persistent structure rather than overcoming it through ordinary force.
+- `radiative` — engineering that controls permitted electromagnetic transport,
+  return, and escape across an actively maintained boundary.
+- `neurocybernetic` — engineering that couples prediction, error correction,
+  and action across nervous systems and machine controllers.
 
 Shared prose reservations for the developing concepts are:
 
@@ -130,11 +148,10 @@ Shared prose reservations for the developing concepts are:
   can compose one global geometry and history.
 
 `Morphogenic` and `causal-topological` guide shared lore but are not yet part of
-the entry metadata contract. `Causal-topological` is a human classification of
+the adopted-entry landscape. `Causal-topological` is a human classification of
 observed behavior. It does not claim that The Manifold is understood,
 manufactured, or intentionally a technology. Add further reservations only when
-a developed concept demonstrates them, and promote them into metadata only when
-an entry draft uses them.
+a developed concept demonstrates them, and promote them when an entry uses them.
 
 ## Behavioral-trait axis
 
@@ -177,6 +194,27 @@ Manifold-derived traits:
 - `causally-disjunctive` — locally valid event sequences fail to compose one
   global chronology.
 
+Closed-Night-derived traits:
+
+- `boundary-anchored` — the effect depends upon a physically established and
+  maintained enclosure geometry;
+- `nonreciprocal` — transmission through the boundary differs by direction;
+- `spectrum-selective` — closure is engineered across finite frequency bands
+  rather than applying to every possible carrier automatically;
+- `energy-retentive` — prevented radiation remains available as heat or other
+  ordinary energy inside the enclosure rather than disappearing.
+
+Agreement-derived traits:
+
+- `reciprocity-coupled` — establishment requires continuing two-way exchange
+  among participating controllers;
+- `prediction-error-redistributive` — correction burden is returned across the
+  coupled group rather than remaining local to one operator;
+- `variance-suppressing` — independent residuals and actions become
+  progressively costly to maintain;
+- `operator-inclusive` — the same reciprocal architecture can incorporate the
+  people or systems attempting to control it.
+
 Do not turn `extrinsic`, `unknown`, `uncontrolled`, `world-terminal`, or
 `epoch-denial` into engineering traits. They describe provenance, knowledge,
 control, or consequence.
@@ -189,6 +227,10 @@ the Rzez, the answer is `precision-mineral-separation-apparatus`. For The
 Unhidden, the working answer is
 `vascularization-independent-regenerative-scaffold`.
 
+The Closed Night uses `deep-space-radiant-heat-recovery-shell`. The Agreement
+uses `cooperative-rescue-control-lattice`. These specific civil origins constrain
+their engineering, labor history, accidents, and later weaponization.
+
 Future values should remain specific enough to create history. “Industrial” is
 usually too broad by itself; “precision mineral separation” explains inventors,
 users, geometry, accident patterns, and the path toward weaponization.
@@ -199,8 +241,9 @@ suspected military use must not be backfilled as its origin classification.
 
 ## Provenance axis
 
-Provenance asks where the reconstructable technology or phenomenon comes from,
-not what it was for and not how a repository manuscript was sourced.
+`provenance_classification` asks where the reconstructable technology or
+phenomenon comes from, not what it was for and not how a repository manuscript
+was sourced.
 
 Current provisional values are:
 
@@ -210,10 +253,11 @@ Current provisional values are:
   lineage and apparently outside ordinary local spacetime, while creator,
   operator, home, and purpose remain unresolved.
 
-The Rzez and The Unhidden use `known-human-lineage`. The Manifold uses
-`extrinsic-unknown`. Add a dedicated entry-metadata field only when a draft first
-needs to encode the distinction; do not overload the existing repository
-`source` object, which records manuscript provenance.
+The Rzez, The Unhidden, The Closed Night, and The Agreement use
+`known-human-lineage`. The Manifold uses `extrinsic-unknown`. The adopted entries
+for The Closed Night and The Agreement forced promotion of the dedicated
+metadata field. The repository `source` object remains separate and records
+manuscript provenance.
 
 ## Military-consequence axis
 
@@ -227,6 +271,10 @@ The Unhidden's working military classification is
 `open-form-combat-organism`. The Manifold's is
 `suspected-epoch-denial-technology`. The latter describes a strategic reading of
 rare effects, not demonstrated doctrine, aim, ownership, or original purpose.
+
+The Closed Night is `proscribed-thermal-denial-enclosure`. The Agreement is
+`proscribed-autonomy-denial-technology`. Neither classification implies
+world-terminal capability.
 
 Future entries may require other terms. Do not assume that every forbidden
 technology is world-terminal or that destructive magnitude is the only form of
@@ -244,22 +292,25 @@ Current entry-demonstrated scales are:
 | `strategic` | Infrastructure-mediated consequence for a city, region, route, or campaign. |
 | `continental` | Consequence propagated across geological or civilizational regions. |
 | `planetary` | A world or its ability to persist becomes the terminal target. |
+| `crew` | A small cooperating group and the machines under its immediate control. |
+| `local` | One room, corridor, vessel section, facility, or comparably bounded site. |
+| `tactical` | Deployable architecture acting within an encounter, vessel, or facility. |
 
-The developing concepts reserve three additional prose values:
+The developing concepts retain one additional prose reservation:
 
 | Reserved scale | Interpretation |
 | --- | --- |
 | `clinical` | Patient-coupled physiological support with care infrastructure and continuous monitoring. |
-| `tactical` | Deployable architecture acting within an encounter, vessel, or facility. |
-| `local` | One room, corridor, vessel section, facility, or comparably bounded site. |
 
 These reservations do not extend the entry metadata vocabulary until a draft
 uses them. Scales describe distinct engineering approaches, not merely output
 levels.
 
-The Rzez retains surgical through planetary architectures. The Unhidden
-currently demonstrates clinical, surgical, tactical, and siege forms. The
-Manifold most strongly demonstrates local, siege, and strategic consequences;
+The Rzez retains surgical through planetary architectures. The Closed Night
+demonstrates industrial, siege, and strategic architectures. The Agreement
+demonstrates crew, local, industrial, tactical, and strategic architectures.
+The Unhidden currently develops clinical, surgical, tactical, and siege forms.
+The Manifold most strongly develops local, siege, and strategic consequences;
 planetary reach remains an exceptional threat model rather than routine use.
 
 ### Temporal reach
@@ -277,6 +328,13 @@ generic `illegal` tag is insufficient.
 For the Rzez, manufacture, possession, simulation, reconstruction, and instruction
 are prohibited under the Sixth Compact of Kharos, subject to tightly controlled
 industrial thresholds described in the prose.
+
+The Closed Night and The Agreement have their own post-Compact prohibitions.
+Neither falls under the Sixth Compact merely because it is forbidden. The
+Articles of Bodily Dissent govern involuntary Agreement coupling, evidence
+contamination, and the preservation of physically independent witnesses. The
+separate Articles of Open Radiance govern projected closure, anchor possession,
+rescue access, and civil heat-recovery exceptions.
 
 ## Evidence axis
 

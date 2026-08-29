@@ -162,11 +162,12 @@ document in the same change.
 A productive early cadence is:
 
 1. maintain a short provisional lore spine;
-2. outline three contrasting weapons;
+2. outline a small set of contrasting weapons;
 3. draft one;
 4. extract only the shared lore it proves useful;
 5. repeat;
-6. reconsider the taxonomy after three full entries.
+6. reconsider the taxonomy whenever several full entries expose a real new axis
+   or invalidate an earlier reservation.
 
 This allows the world to acquire depth without requiring a complete map,
 language history, political chronology, or cosmology before the second weapon

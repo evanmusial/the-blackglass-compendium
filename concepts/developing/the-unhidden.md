@@ -508,6 +508,33 @@ geometrically incompatible descriptions. The Unhidden is human-made, finite,
 physically accountable, and horrific because there is no alien explanation to
 blame. Associated Manifold presences are not Plain Things.
 
+### The Closed Night
+
+[`The Closed Night`](../../entries/volume-02/book-04/b-4-01-the-closed-night.md)
+controls radiative transport across an anchored ordinary-space enclosure. The
+Unhidden controls the growth and functional assignment of finite living matter.
+A radiant boundary is not a physiological total boundary.
+
+An open form's exposed exchange area may make heat and radiation unusually
+important to its survival, while its ability to move or carry matter could also
+create useful egress. Those are plausible engineering interactions, not canon.
+The Articles of Open Radiance and humane-custody law remain separate even when
+both protect a life-support dependency.
+
+### The Agreement
+
+[`The Agreement`](../../entries/volume-03/book-06/c-6-01-the-agreement.md)
+couples prediction and correction among existing people and machines. The
+Unhidden distributes physiology and cognition within one grown conscious body.
+Neither mechanism makes the other a hive mind.
+
+A Plain Thing does not join an Agreement merely because its cognition is
+distributed. Enrollment would require a compatible active reciprocal carrier,
+characterization, and low latency. No such cross-system incident is canon. The
+Articles of Bodily Dissent protect existing persons from coerced coupling;
+created-person and humane-custody law answer different questions about how a
+person came to exist and may be held.
+
 ## Canon dependencies
 
 The concept needs only broad existing commitments:

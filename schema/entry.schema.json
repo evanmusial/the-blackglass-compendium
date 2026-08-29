@@ -104,6 +104,9 @@
     "origin_classification": {
       "$ref": "#/$defs/slug"
     },
+    "provenance_classification": {
+      "$ref": "#/$defs/slug"
+    },
     "operational_scales": {
       "$ref": "#/$defs/slugList"
     },

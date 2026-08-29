@@ -22,7 +22,7 @@ cross-references, and an eventual generated publication.
 | [`assets/`](assets/) | Images, diagrams, maps, and other non-manuscript material. |
 | [`tools/`](tools/) | Future validation, indexing, and publication utilities. |
 
-## Current entry
+## Current manuscripts
 
 The original Rzez manuscript remains preserved at
 [`exemplars/Volume 1 - The Rzez.md`](exemplars/Volume%201%20-%20The%20Rzez.md).
@@ -34,6 +34,20 @@ YAML metadata header. Shared Rzez material has begun to be extracted into the
 provisional canon without silently turning every legend or scholarly theory
 into objective setting truth. See the
 [`Rzez integration record`](docs/rzez-integration.md).
+
+Two later systems are adopted entries with established authorial status:
+
+- [`The Closed Night`](entries/volume-02/book-04/b-4-01-the-closed-night.md), a
+  family of radiant-return enclosures that weaponize a target's inability to
+  shed light and heat;
+- [`The Agreement`](entries/volume-03/book-06/c-6-01-the-agreement.md), a family
+  of neurocybernetic lattices that makes independent error and action physically
+  unsustainable across coupled people and machines.
+
+The Unhidden and The Manifold remain developing concepts. Their narrow shared
+canon reservations are not adopted entries. See the
+[`five-system integration record`](docs/five-system-integration.md) for the
+different statuses and the later classification decisions.
 
 ## Authoring model
 
@@ -58,10 +72,13 @@ The Compendium uses a hybrid model:
 ## Current setting scope
 
 The Compendium is provisionally set across a small, connected interstellar
-region rather than historical Earth, one crowded solar system, or an entire
-galaxy. Human civilization occupies roughly eight to twelve known systems;
-Earth is not part of the confirmed record; and interstellar travel is possible
-through limited routes whose exact mechanism remains undesigned.
+region rather than on historical Earth, in one crowded solar system, or across
+an entire galaxy. Human civilization occupies roughly eight to twelve known
+systems and descends from a deliberate migration out of Earth's Solar System.
+The astronomical epoch can be reconstructed, but no surviving evidence maps it
+reliably to one numbered Earth civil year. Interstellar travel is possible
+through limited routes whose exact mechanism remains undesigned and is not
+assumed to match the founding transit.
 
 Kharos is the setting's designated home world and recurring civic, academic, and
 legal anchor. It belongs to the first system-level circumbinary model, the
@@ -69,11 +86,14 @@ legal anchor. It belongs to the first system-level circumbinary model, the
 first contrasting celestial anchors. The remaining locations in the Rzez stay
 unassigned until later entries need to place them. See
 [`canon/setting-scope.md`](canon/setting-scope.md) for the complete provisional
-decision and the rules future designs must follow.
+decision and the rules future designs must follow. The long-form
+[`human-arrival history`](canon/history/human-arrival-in-kelan-ruva.md) records
+the Founding Interval, including Avara's older refuge and Kharos's later rise as
+the home world.
 
 ## Current weapon landscape
 
-The collection now has three deliberately non-equivalent systems:
+The collection now has five deliberately non-equivalent systems:
 
 - **The Rzez** is human entropic engineering that invalidates the relationships
   by which matter remains whole.
@@ -84,10 +104,16 @@ The collection now has three deliberately non-equivalent systems:
   whose rare ruptures leave local observations exact and global reality
   irreconcilable. Human interference is indirect, unreliable, and prone to
   unintended consequences.
+- **The Closed Night** is human radiative engineering that establishes an
+  anchored, nonreciprocal enclosure: radiation may enter, but outgoing light,
+  communication, and heat are returned to the enclosed target.
+- **The Agreement** is human neurocybernetic engineering that redistributes
+  prediction error across a reciprocal low-latency network until independent
+  action becomes physiologically and mechanically unstable.
 
 Kharos, Avara, and Odran respond through different laws, institutions, and
-infrastructure without implying that the weapons share one physics. See the
-[`three-system engineering landscape`](canon/engineering-landscape.md).
+infrastructure without implying that the subjects share one physics. See the
+[`five-system engineering landscape`](canon/engineering-landscape.md).
 
 ## Start here
 

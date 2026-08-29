@@ -52,8 +52,9 @@ universal treaty against every dangerous or poorly understood system.
 
 Created-person and military-biological law governs The Unhidden's descendants.
 Manifold quarantine depends upon separate emergency and evidentiary authority.
-Those regimes may borrow Compact isolation practice without inheriting its
-substantive jurisdiction.
+The Articles of Open Radiance govern The Closed Night, and the Articles of
+Bodily Dissent govern The Agreement. Those regimes may borrow Compact isolation
+practice without inheriting its substantive jurisdiction.
 
 ## Unresolved questions
 

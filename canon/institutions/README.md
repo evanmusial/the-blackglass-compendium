@@ -4,6 +4,8 @@ entity_class: institutions
 authorial_status: provisional
 source_entries:
   - A-7.01
+  - B-4.01
+  - C-6.01
 source_concepts:
   - the-unhidden
   - the-manifold
@@ -20,6 +22,8 @@ source_concepts:
 | [Sixth Compact of Kharos](sixth-compact-of-kharos.md) | Multinational treaty framework | Principal prohibition created after Valec. | Provisional |
 | [Institute of Applied Continuity](institute-of-applied-continuity.md) | Research academy | Rzez-rooted center of continuity scholarship and technical testimony. | Provisional |
 | [Kelan–Ruva Concordance Service](kelan-ruva-concordance-service.md) | Distributed scientific service | Compares independent clocks, ranging, records, and incompatible evidence. | Provisional |
+| [Articles of Open Radiance](articles-of-open-radiance.md) | Legal framework | Protects thermal egress and prohibits hostile radiant enclosure. | Established |
+| [Articles of Bodily Dissent](articles-of-bodily-dissent.md) | Legal framework | Prohibits involuntary reciprocal coupling and protects independent witnesses. | Established |
 
 ## Named organizations retained in the Rzez entry
 
@@ -33,3 +37,8 @@ source_concepts:
 Polities and armies are temporarily indexed here when their institutional role
 matters more than their geography. The taxonomy can split them later if several
 entries demonstrate the need.
+
+The two adopted post-Compact frameworks are independent of the Sixth Compact.
+Shared investigative procedure does not merge radiant-enclosure law,
+autonomy-denial law, created-person law, Manifold quarantine, or Rzez
+prohibition.

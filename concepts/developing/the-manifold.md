@@ -532,6 +532,30 @@ canon.
 It is a finite, human-grown organism wholly present in ordinary space. Associated
 Manifold presences are not Plain Things, and neither concept explains the other.
 
+### The Closed Night
+
+[`The Closed Night`](../../entries/volume-02/book-04/b-4-01-the-closed-night.md)
+creates an ordinary-space radiative enclosure whose anchors, energy ledger,
+spectral coverage, and material crossings can be measured in one geometry and
+history. Its black exterior is not a Manifold rim, and gray release is a staged
+failure of transport control rather than causal reconciliation.
+
+The two systems may both obstruct observation, but for opposite evidentiary
+reasons. A Closed Night prevents an outward signal. The Manifold can preserve
+several authentic signals that cannot belong to one account. No interaction is
+canon.
+
+### The Agreement
+
+[`The Agreement`](../../entries/volume-03/book-06/c-6-01-the-agreement.md)
+suppresses independent error among systems sharing an active carrier. The
+Manifold preserves locally exact records whose disagreement cannot be resolved
+globally.
+
+Concordance practice therefore distinguishes **incompatible independence** from
+**contaminated unanimity**. Agreement covariance does not explain a Manifold
+rupture, and a recording of either subject does not transmit the other.
+
 ## Canon dependencies
 
 The concept can reuse:

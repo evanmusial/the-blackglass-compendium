@@ -1,9 +1,11 @@
 ---
 schema_version: 1
 document_type: compendium-entry
-id: X-0.00
+# The ID prefix matches the volume: A = 1, B = 2, C = 3, and so on.
+# The number before the decimal matches the book number.
+id: A-1.01
 title: Untitled Instrument
-slug: x-0-00-untitled-instrument
+slug: a-1-01-untitled-instrument
 volume:
   number: 1
   title: Unassigned System
@@ -19,6 +21,7 @@ engineering:
   traits: []
 aliases: []
 military_classification: unassigned
+# Add provenance_classification only when the evidence supports a value.
 operational_scales: []
 legal_status: unassigned
 evidence_model: codex-grade-a-through-e
@@ -44,6 +47,7 @@ themes: []
 **Engineering class:**
 **Military classification:**
 **Original classification:**
+**Provenance classification:**
 **Known operational scales:**
 **Present legal status:**
 **Confirmed surviving examples:**

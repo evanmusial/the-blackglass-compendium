@@ -29,6 +29,7 @@ aliases:
   - The Last Wedge
 military_classification: proscribed-world-terminal-technology
 origin_classification: precision-mineral-separation-apparatus
+provenance_classification: known-human-lineage
 operational_scales:
   - surgical
   - industrial

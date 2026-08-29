@@ -6,10 +6,11 @@ authorial_status: provisional
 # Canon
 
 This directory contains setting material that may be reused across Compendium
-entries. It began as Rzez-derived **provisional canon** and now also contains a
-small number of deliberate authorial reservations forced by The Unhidden and The
-Manifold. This does not make either developing concept an adopted entry or every
-claim inside it shared canon.
+entries. It began as Rzez-derived **provisional canon**, then acquired narrow
+authorial reservations forced by the developing Unhidden and Manifold concepts.
+The adopted entries for The Closed Night and The Agreement now contribute
+established systems and history as well. This does not make either developing
+concept an adopted entry or every claim inside it shared canon.
 
 ## The two truth systems
 
@@ -44,16 +45,19 @@ tells a Grade E story without making the supernatural content of that story true
 
 ## Core references
 
-- [`engineering-landscape.md`](engineering-landscape.md) — the three-system lore
+- [`engineering-landscape.md`](engineering-landscape.md) — the five-system lore
   spine, mechanism firewall, and Kelan–Ruva distribution.
 - [`principles.md`](principles.md) — editorial, shared, and family-specific
   engineering principles.
 - [`setting-scope.md`](setting-scope.md) — the provisional interstellar scale,
-  human-origin boundary, travel constraints, and celestial anchors.
+  established Earth-origin boundary, calendar-correlation limit, travel
+  constraints, and celestial anchors.
 - [`taxonomy.md`](taxonomy.md) — publication hierarchy and classification axes.
-- [`chronology.md`](chronology.md) — relative dates, major Rzez anchors, and
+- [`chronology.md`](chronology.md) — relative dates, adopted-entry anchors, and
   undated constraints for developing subjects.
 - [`glossary.md`](glossary.md) — controlled terms with current meanings.
+- [`history/`](history/) — long-form shared histories whose sequences and
+  evidence boundaries constrain more than one place or institution.
 
 ## Entity registers
 
@@ -61,6 +65,11 @@ tells a Grade E story without making the supernatural content of that story true
 - [`places/`](places/)
 - [`institutions/`](institutions/)
 - [`events/`](events/)
+
+Shared histories are indexed separately because the Founding Interval is not an
+entity or one event. Its first history establishes a sequence across Earth,
+Avara, Kharos, Odran, and the wider Kelan–Ruva system without pretending that
+the migration has one reliably numbered arrival date.
 
 An entity does not need an individual file merely because its name appears once.
 Create a dedicated note when the entity anchors chronology, constrains multiple

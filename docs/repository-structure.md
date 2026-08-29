@@ -42,13 +42,25 @@ The directory hierarchy mirrors the publication hierarchy:
 
 ```text
 entries/
-└── volume-NN/
-    └── book-NN/
-        └── entry-id-slug.md
+├── volume-01/
+│   └── book-07/
+│       └── a-7-01-the-rzez.md
+├── volume-02/
+│   └── book-04/
+│       └── b-4-01-the-closed-night.md
+└── volume-03/
+    └── book-06/
+        └── c-6-01-the-agreement.md
 ```
 
 Use two digits for directory numbers and lowercase kebab-case for filenames.
 The identifier remains uppercase in metadata and prose.
+
+The alphabetic entry-ID prefix matches the numbered volume in the Blackglass
+filing layer (`A` for Volume I, `B` for Volume II, `C` for Volume III). The
+number before the decimal matches the book, while the two-digit suffix is the
+entry sequence within that book. Directories and filenames must agree with the
+metadata: `volume-NN/book-NN/<slug>.md`.
 
 Examples:
 
@@ -74,6 +86,12 @@ Material belongs in `canon/` when at least one of these is true:
 - it is a major chronological, legal, metaphysical, or institutional anchor;
 - the author intentionally wants to reserve it as setting truth before its next
   appearance.
+
+Long histories spanning several entities belong in `canon/history/`. A history
+note should distinguish authorially established sequence from in-world evidence
+grades and unresolved interpretation. Do not force a migration, era, or gradual
+settlement process into `canon/events/` merely to give it a file; event notes are
+for bounded incidents.
 
 Rzez-derived canon is initially marked **provisional**. This means it can guide
 new work but may still be revised while the setting is young.

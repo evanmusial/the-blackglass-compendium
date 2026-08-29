@@ -34,4 +34,7 @@ but that relationship is not explicit and should not yet be fixed.
 Its operative mandate remains Rzez-specific. The Commission may lend isolation,
 forensic, or chain-of-custody expertise to an Unhidden custody case or suspected
 Manifold incident, but that cooperation does not give it automatic jurisdiction
-over created persons, extrinsic phenomena, or every dangerous technology.
+over created persons, extrinsic phenomena, or every dangerous technology. The
+Articles of Open Radiance and Articles of Bodily Dissent likewise remain outside
+its substantive mandate. A Commission laboratory may authenticate an anchor or
+preserve a suspected carrier without becoming the regulator of either system.

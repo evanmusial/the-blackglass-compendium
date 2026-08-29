@@ -10,9 +10,14 @@ Entries are filed by volume and book:
 entries/volume-NN/book-NN/entry-id-slug.md
 ```
 
-The current working entry is:
+The current manuscripts are:
 
 - [`volume-01/book-07/a-7-01-the-rzez.md`](volume-01/book-07/a-7-01-the-rzez.md)
+  — working draft;
+- [`volume-02/book-04/b-4-01-the-closed-night.md`](volume-02/book-04/b-4-01-the-closed-night.md)
+  — adopted;
+- [`volume-03/book-06/c-6-01-the-agreement.md`](volume-03/book-06/c-6-01-the-agreement.md)
+  — adopted.
 
 ## Entry rules
 

@@ -4,12 +4,16 @@ title: Provisional Interstellar Setting Scope
 authorial_status: provisional
 source_entries:
   - A-7.01
+  - B-4.01
+  - C-6.01
 source_concepts:
   - the-unhidden
   - the-manifold
 decision_basis:
   - implications-of-the-rzez
   - three-weapon-integration
+  - five-system-integration
+  - kelan-ruva-natural-and-human-history-expansion
   - editorial-setting-decision
 ---
 
@@ -17,9 +21,11 @@ decision_basis:
 
 ## Core decision
 
-The Codex concerns a **small connected region of inhabited star systems**. It is
-not presently set on recognizable historical Earth, inside only one crowded
-solar system, or across a fully charted galaxy.
+The Codex concerns a **small connected region of inhabited star systems**. Its
+present action is not set on historical Earth, inside only one crowded solar
+system, or across a fully charted galaxy. Humanity is Earth-originating, but the
+Earth-to-current-calendar conversion and Earth's present condition are not
+recoverable facts.
 
 For authoring purposes, the known inhabited region should contain roughly **eight
 to twelve connected systems**. The exact number is not yet fixed in-world. This
@@ -73,6 +79,13 @@ frontier logistics without becoming a universal species or plague. The Manifold
 needs distant observatories, separated archives, limited communications, and
 quarantines strong enough to matter without making every contradiction in a
 galaxy part of one event.
+
+The Closed Night and The Agreement reinforce the scale without expanding it.
+Radiant-return history needs deep-space industry, habitats, blockades, and rescue
+law, not another named world. Reciprocal-control history needs dense local
+infrastructure and short latency; ordinary interstellar delay is a hard barrier
+to one regional Agreement. Both systems create strategic danger while preserving
+the consequence of losing one station, city, or world.
 
 ## Regional structure
 
@@ -154,7 +167,7 @@ The system's defensive roles are divided rather than centralized: Kharos is the
 civic, legal, and academic center; [Avara](places/avara.md) is a low-gravity
 medical and infrastructure partner; and [Odran](places/odran.md) provides
 physically separated standards, clocks, observatories, and archives. See the
-[three-system engineering landscape](engineering-landscape.md) for the shared
+[five-system engineering landscape](engineering-landscape.md) for the shared
 lore boundary.
 
 Kharos's rotation and detailed lunar tidal history remain open, as does whether
@@ -188,7 +201,7 @@ They may eventually become regions, cities, habitats, states, moons, or location
 on already known worlds. Do not place them merely to fill a map. Placement should
 answer a need created by another entry or by deliberate atlas work.
 
-## Three-subject geographic distribution
+## Five-subject geographic distribution
 
 The current weapons should shape the home system without making it the site of
 every origin, deployment, and catastrophe.
@@ -198,40 +211,73 @@ every origin, deployment, and catastrophe.
 | **The Rzez** | Kharosi Bell Chamber research, present law, structural forensics, and post-Valec construction practice. | Its human industrial origin and defining catastrophe remain with the Quarry Houses, Valec, and other existing Rzez locations. |
 | **The Unhidden** | First open wards and civil medicine on Kharos; low-gravity growth, recovery, and humane-care capacity on Avara; personhood and custody proceedings return to Kharos. | Military conversion, first wet-cradle deployment, and defining battlefield history occur offworld, preferably in a route or frontier conflict. |
 | **The Manifold** | Independent clocks, distant ranging, scholarship, concordance bundles, and legal response. | The defining instrumented rupture and associated-presence evidence occur beyond the home system at a frontier junction or comparably isolated site. |
+| **The Closed Night** | Avaran orbital heat-recovery practice, Odran calorimetry, Kharosi rescue law, and protected thermal egress. | The defining hostile closure occurs at the redacted Ninth Holding outside the home system; the wider civil lineage belongs to deep-space infrastructure rather than one world. |
+| **The Agreement** | The Three-Hand Rescue in Avaran orbit, Nacre Hall and autonomy law on Kharos, and independent-variance practice across Odran and the Concordance Service. | The defining strategic attack occurs at Pelar Habitat outside the home system; its exact system and route remain withheld. |
 
 No confirmed Manifold rupture is assigned to Kelan–Ruva. No Kharosi institution
 possesses The Manifold. Kharos is not assigned responsibility for converting the
-Unhidden medical lineage into a weapon.
+Unhidden medical lineage into a weapon. No planetary Closed Night or
+interstellar Agreement is assigned to the home system.
 
 ## Humanity and Earth
 
-The known societies are human or recognizably human-descended. Their bodies,
-families, institutions, injuries, and material cultures may therefore be written
-with human emotional and biological legibility.
+Humanity is **Earth-originating**. Human bodies and the linked package of crop,
+commensal, medical, and microbial lineages found throughout the inhabited
+region descend from terrestrial life carried deliberately away from the Solar
+System. Kharos did not evolve humanity and is not its cradle. It became the
+home world's demographic, civic, legal, and narrative center only after an
+older human refuge had survived on Avara.
+
+This conclusion is established authorial canon and strongly supported in-world.
+It does not depend upon one holy book, one national tradition, or one recovered
+ship. Human archaeology begins abruptly in Kelan–Ruva; no local hominin ancestry
+precedes it. Independent biological lineages share terrestrial ancestry.
+Fragments preserve a recognizably Solar planetary arrangement, a sky catalogue
+made from the Solar vicinity, and cognates of *Earth* and *Terra*. The combined
+case is stronger than any surviving account of the migration itself.
+
+The distinction future authors must preserve is between **knowing the epoch**
+and **naming the year**. Astrometry, proper motion, pulsar records, isotope
+chronologies, exposure dating, and uninterrupted local clocks can place ancient
+observations and measure physical intervals. The stars therefore still answer
+*when* in astronomical terms. No surviving source securely joins all of the
+following in one chain of custody:
+
+- an unambiguous numbered Earth civil date and named era;
+- the sky state or reference epoch to which that date applied;
+- the time standard and calendar rules used to encode it;
+- and an unbroken clock and trajectory transform from that record to the first
+  Kelan–Ruva settlements.
+
+Earth-calendar fragments survive, but their era origins, reforms, time scales,
+and mission-clock relationships are incomplete or mutually dependent. Scholars
+can state elapsed durations and reconstruct candidate Earth crosswalks. They
+cannot responsibly declare a unique current or arrival year in a familiar Earth
+calendar. In concise in-world language: **the stars preserve the interval; they
+do not preserve the name of the year.**
+
+The [human-arrival history](history/human-arrival-in-kelan-ruva.md) establishes
+the **Founding Interval** as a sequence rather than a single landing. Uncrewed
+survey packages preceded people. Several materially distinct carrier
+assemblages brought settlers, reproductive diversity, managed ecologies,
+medicine, and fabrication capacity. Avara preserves the oldest continuously
+occupied human refuge; durable Kharosi settlement followed after repeated
+survey and heavy-descent work. Exactly how many carriers arrived, whether every
+population came directly from Earth, and whether they belonged to one program
+remain disputed.
+
+Earth's present condition, the cause of departure, the founding transit method,
+the travellers' experienced duration, and the possibility of return remain
+unknown. Ordinary contemporary routes are not thereby established as the
+founders' technology, and no part of the migration is evidence that humans built
+or controlled The Manifold.
 
 Known humanity can create conscious engineered organisms. Plain Things are
 human-made descendants of regenerative medicine, finite and materially present
 in ordinary space. Their personhood, citizenship, identity across division, and
-ability to found an enduring community remain contested; their existence is not
-evidence of a preexisting nonhuman civilization.
-
-**Earth is not part of confirmed history.** No current canon establishes that
-Earth is the cradle world, a surviving place, a destroyed place, or even a name
-known to the Codex's compilers.
-
-Kharos's designation as the setting's home world describes its authorial and
-narrative function. It does not establish Kharos as the origin of humanity.
-
-Possible cradle-world stories may later include:
-
-- a forgotten human origin beyond known routes;
-- several mutually exclusive origin worlds;
-- a world remembered under a name no scholar connects with Earth;
-- engineered or migrated humanity with no recoverable cradle;
-- or Earth as a disputed religious, archival, or navigational tradition.
-
-None is adopted yet. Future entries may introduce competing claims, but should
-not casually settle human origins.
+ability to found an enduring community remain contested; their existence does
+not alter the terrestrial origin of their makers or prove a preexisting
+nonhuman civilization.
 
 ## Interstellar travel
 
@@ -252,6 +298,11 @@ The physical mechanism is deliberately unassigned. It might later involve gates,
 mapped transitions, engineered space, living vessels, entropic discontinuities,
 or another principle. Choosing it should create a Compendium-grade history and
 set of limitations rather than merely solving distance.
+
+The founding migration does not resolve this mechanism. No intact carrier or
+working departure system survives, and present route travel is not known to
+descend from the same engineering. Authors must not use an Earth-origin artifact
+as a casual blueprint that removes the setting's current limits.
 
 The Manifold establishes that spacetime adjacency and causal order can be
 physically disrupted. It does **not** establish that ordinary routes use the same
@@ -274,6 +325,12 @@ Neither tachyon-shard observations nor the Kelan–Ruva optical backbone provide
 controllable faster-than-light communication. Manifold records may arrive in an
 impossible order without allowing a sender to choose a message, recipient, or
 delivery history.
+
+The Agreement cannot use this uncertainty as a carrier. Its correction must
+return through a sustained reciprocal path quickly enough to alter the next
+prediction. Recordings, delayed reports, and ordinary interstellar messages are
+inert. The Closed Night can block outward radio within engineered bands but
+provides no faster or hidden communication channel.
 
 ## Political scale
 
@@ -313,7 +370,8 @@ When designing a new instrument:
 2. Introduce no more celestial geography than the entry can make meaningful.
 3. Record new systems, worlds, moons, routes, and quarantines in `canon/places/`.
 4. Update this document when an entry changes the known region's size, travel,
-   communication, political reach, human origin, or nonhuman boundary.
+   communication, political reach, Earth-correlation boundary, or nonhuman
+   boundary.
 5. Update `canon/chronology.md` when the placement affects shared historical eras.
 6. Preserve the importance of losing a world; inhabited space must not become so
    vast that world-terminal technology feels routine.
@@ -321,8 +379,8 @@ When designing a new instrument:
    daily life, medicine, labor, law, family, belief, and local violence.
 8. Give Kharos recurring consequences without making it the source, test range,
    battlefield, regulator, and archive of every system.
-9. Treat the Rzez, The Unhidden, and The Manifold as separate ontologies unless
-   a later entry deliberately earns an interaction.
+9. Treat all five current systems as separate ontologies unless a later entry
+   deliberately earns an interaction.
 
 ## Deliberately unresolved questions
 
@@ -330,8 +388,13 @@ When designing a new instrument:
 - How many systems are continuously inhabited in the current era?
 - What physical principle enables interstellar travel?
 - Can information cross a route faster than a ship?
-- Where did humanity originate?
-- Were any systems settled before the Meridian Age?
+- Which inhabited systems beyond Kelan–Ruva were settled before the Meridian
+  Age, and in what order?
+- Did every founding population reach Kelan–Ruva directly from Earth, or did
+  some arrive through one or more lost intermediate settlements?
+- Which Earth calendars survive in fragmentary form, and why do their proposed
+  crosswalks disagree?
+- What became of Earth, and can any surviving route reach the Solar System?
 - What is the associated presence, and does the concept of a civilization apply
   to it?
 - Did a nonhuman civilization or forgotten human lineage alter Issa's moon?

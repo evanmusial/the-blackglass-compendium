@@ -23,8 +23,11 @@ Must be `compendium-entry` for a full entry manuscript.
 The stable entry identifier shown in the Codex hierarchy, such as `A-7.01`.
 Changing a title does not change the identifier.
 
-The meaning of the Rzez prefix `A` has not yet been established. Preserve it;
-do not invent a prefix system from a single example.
+The prefix is the alphabetic filing code for the numbered volume in the
+Blackglass recension: `A` corresponds to Volume I, `B` to Volume II, and `C` to
+Volume III. The number before the decimal matches the book number. These are
+editorial filing identifiers; they do not prove that every historical Codex
+edition used the same scheme.
 
 ### `title` and `slug`
 
@@ -98,6 +101,13 @@ Rzez-derived vocabulary is:
 - `continental`
 - `planetary`
 
+Later adopted entries demonstrate:
+
+- `crew` — one cooperating group and the machines under its immediate control;
+- `local` — one room, corridor, vessel section, facility, or comparable site;
+- `tactical` — deployable architecture acting within an encounter, vessel, or
+  facility.
+
 This list is expected to grow. Add a term only when an entry demonstrates a
 meaningful distinction.
 
@@ -137,8 +147,23 @@ becomes forbidden technology.
 Use it only when evidence supports a prior function or design pressure. If
 original purpose is genuinely unknown, omit the field; do not write
 `origin_classification: unassigned`, and do not substitute a later military use.
-Technology provenance is a separate taxonomy question and does not yet have an
-entry-metadata field.
+Technology provenance is a separate taxonomy question recorded by the following
+field.
+
+### `provenance_classification`
+
+Records the reconstructable lineage of the subject separately from its original
+purpose and later military use. Current demonstrated values are:
+
+- `known-human-lineage` — surviving technical, industrial, medical, or civil
+  history supports human development;
+- `extrinsic-unknown` — no known human or regional lineage accounts for the
+  subject, while creator, operator, origin, and purpose remain unresolved.
+
+The field states provenance, not moral ownership. A human lineage may contain
+lost contributors or disputed priority. `Extrinsic-unknown` does not establish a
+species, civilization, or intent. Omit the field when the evidence supports no
+classification; do not substitute an unsupported original purpose.
 
 ### `legal_status`
 

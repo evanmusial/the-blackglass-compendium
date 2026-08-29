@@ -6,6 +6,7 @@ name: Institute of Applied Continuity
 authorial_status: provisional
 source_entries:
   - A-7.01
+  - C-6.01
 source_concepts:
   - the-unhidden
   - the-manifold
@@ -38,12 +39,13 @@ Present schools working in the Institute tradition may supply:
 - historians of the first open wards and technical review of total-boundary
   physiology;
 - evidence-authentication methods for concordance bundles;
+- covariance analysis and independent-error testimony in Agreement cases;
 - and magistrates with the technical literacy to distinguish a disputed event
   from a disputed explanation.
 
-Boundary-medicine licensure, created-person judgments, and Manifold quarantine
-do not belong to the Institute merely because its scholars testify in those
-proceedings.
+Boundary-medicine licensure, created-person judgments, Manifold quarantine, and
+enforcement of the Articles of Bodily Dissent do not belong to the Institute
+merely because its scholars testify in those proceedings.
 
 ## The name's controversy
 
@@ -53,14 +55,17 @@ name turns a useful coalition of disciplines into an invitation to metaphysical
 overreach.
 
 The dispute matters because Rzez identity theories, Unhidden personhood claims,
-and Manifold concordance cases all use words such as *continuity* and *boundary*
-while referring to materially different problems. Institute publications are
-expected to state which meaning they use; failure to do so is both a scholarly
-fault and a recurring political accusation.
+Manifold concordance cases, and Agreement testimony all use words such as
+*continuity*, *agreement*, and *independence* while referring to materially
+different problems. Institute publications are expected to state which meaning
+they use; failure to do so is both a scholarly fault and a recurring political
+accusation.
 
 ## Limits of current canon
 
 No body claiming the Institute tradition possesses The Manifold, commands a
 Plain Thing, controls the Compact Commission, or regulates all arcane
-engineering. The original Institute's survival, and the campuses, governance,
-funding, and legal continuity of any successor, remain undesigned.
+engineering. It does not own the Agreement merely because its scholars can
+detect contaminated evidence. The original Institute's survival, and the
+campuses, governance, funding, and legal continuity of any successor, remain
+undesigned.

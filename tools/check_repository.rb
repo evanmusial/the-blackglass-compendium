@@ -10,6 +10,7 @@ ROOT = Pathname(__dir__).parent.realpath
 ERRORS = []
 SLUG = /\A[a-z0-9]+(?:-[a-z0-9]+)*\z/
 ENTRY_ID = /\A[A-Z]+-[0-9]+\.[0-9]+\z/
+ENTRY_ID_PARTS = /\A([A-Z]+)-([0-9]+)\.([0-9]+)\z/
 
 ENTRY_FIELDS = %w[
   schema_version
@@ -27,6 +28,7 @@ ENTRY_FIELDS = %w[
   aliases
   military_classification
   origin_classification
+  provenance_classification
   operational_scales
   legal_status
   evidence_model
@@ -194,6 +196,64 @@ def check_source(source, body, path)
   end
 end
 
+def volume_prefix(number)
+  return nil unless number.is_a?(Integer) && number.positive?
+
+  value = number
+  prefix = +""
+  while value.positive?
+    value -= 1
+    prefix.prepend((65 + (value % 26)).chr)
+    value /= 26
+  end
+  prefix
+end
+
+def check_entry_layout(path, metadata)
+  id_match = metadata["id"].to_s.match(ENTRY_ID_PARTS)
+  volume = metadata["volume"]
+  book = metadata["book"]
+  slug = metadata["slug"]
+  return unless id_match && volume.is_a?(Hash) && book.is_a?(Hash) && slug.is_a?(String)
+
+  volume_number = volume["number"]
+  book_number = book["number"]
+  return unless volume_number.is_a?(Integer) && volume_number.positive?
+  return unless book_number.is_a?(Integer) && book_number.positive?
+
+  expected_prefix = volume_prefix(volume_number)
+  unless id_match[1] == expected_prefix
+    error("#{relative(path)}: entry id prefix #{id_match[1]} does not match Volume #{volume_number} (#{expected_prefix})")
+  end
+  unless id_match[2].to_i == book_number
+    error("#{relative(path)}: entry id book #{id_match[2].to_i} does not match Book #{book_number}")
+  end
+
+  expected = format(
+    "entries/volume-%02d/book-%02d/%s.md",
+    volume_number,
+    book_number,
+    slug
+  )
+  error("#{relative(path)}: entry path must be #{expected}") unless relative(path) == expected
+end
+
+def check_entity_references(metadata, path)
+  entities = metadata["entities"]
+  return unless entities.is_a?(Hash)
+
+  entities.each do |kind, slugs|
+    next unless ENTITY_CLASSES.include?(kind) && slugs.is_a?(Array)
+
+    slugs.each do |slug|
+      next unless slug.is_a?(String) && slug.match?(SLUG)
+
+      target = ROOT.join("canon", kind, "#{slug}.md")
+      error("#{relative(path)}: entities.#{kind} references missing #{relative(target)}") unless target.file?
+    end
+  end
+end
+
 def check_entry(path, metadata, body)
   require_fields(metadata, REQUIRED_ENTRY_FIELDS, path)
 
@@ -236,7 +296,7 @@ def check_entry(path, metadata, body)
     error("#{relative(path)}: engineering must be a mapping")
   end
 
-  %w[military_classification origin_classification legal_status evidence_model].each do |field|
+  %w[military_classification origin_classification provenance_classification legal_status evidence_model].each do |field|
     check_slug(metadata[field], field, path) if metadata.key?(field)
   end
   check_slug_list(metadata["operational_scales"], "operational_scales", path)
@@ -286,6 +346,9 @@ rescue JSON::ParserError => e
   error("schema/entry.schema.json: invalid JSON: #{e.message}")
 end
 
+entry_ids = {}
+entry_slugs = {}
+
 ROOT.glob("**/*.md").sort.each do |path|
   check_markdown_links(path)
   parsed = parse_front_matter(path)
@@ -293,7 +356,27 @@ ROOT.glob("**/*.md").sort.each do |path|
 
   metadata, body = parsed
   check_source_concepts(metadata, path)
-  check_entry(path, metadata, body) if metadata["document_type"] == "compendium-entry"
+  next unless metadata["document_type"] == "compendium-entry"
+
+  check_entry(path, metadata, body)
+  next unless relative(path).start_with?("entries/")
+
+  check_entry_layout(path, metadata)
+  check_entity_references(metadata, path)
+
+  id = metadata["id"]
+  if entry_ids.key?(id)
+    error("#{relative(path)}: entry id #{id} duplicates #{relative(entry_ids[id])}")
+  else
+    entry_ids[id] = path
+  end
+
+  slug = metadata["slug"]
+  if entry_slugs.key?(slug)
+    error("#{relative(path)}: entry slug #{slug} duplicates #{relative(entry_slugs[slug])}")
+  else
+    entry_slugs[slug] = path
+  end
 end
 
 if ERRORS.empty?

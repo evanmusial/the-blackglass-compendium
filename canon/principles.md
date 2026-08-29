@@ -4,6 +4,8 @@ title: Canon and Engineering Principles
 authorial_status: provisional
 source_entries:
   - A-7.01
+  - B-4.01
+  - C-6.01
 source_concepts:
   - the-unhidden
   - the-manifold
@@ -53,18 +55,23 @@ required to close it.
 
 ## Shared provisional engineering principles
 
-The first three systems support several common editorial and engineering rules
+The current five systems support several common editorial and engineering rules
 without establishing one universal physics.
 
 ### Ontological non-equivalence
 
-The Rzez, The Unhidden, and The Manifold must be explained on their own terms.
+The Rzez, The Unhidden, The Manifold, The Closed Night, and The Agreement must be
+explained on their own terms.
 
 - Rzez action is entropic failure among relationships inside an existing target.
 - Unhidden action is human morphogenic engineering performed by finite living
   matter wholly present in ordinary space.
 - Manifold action is an extrinsic causal-topological failure of global spatial
   and historical consistency.
+- Closed Night action is direction-selective radiative transport across a
+  powered, physically anchored boundary in ordinary space.
+- Agreement action is reciprocal redistribution of prediction error among
+  actively coupled nervous systems and machine controllers.
 
 Recurring words such as *boundary*, *continuity*, and *identity* may describe
 analogous human fears. They do not demonstrate shared machinery, origin,
@@ -73,9 +80,10 @@ susceptibility, or metaphysical truth.
 ### Scale changes architecture
 
 Scale is not a power setting. A surgical Rzez field, an Avaran recovery mantle,
-an open-form boarding organism, and a district-scale Manifold rupture require
-different physical arrangements, support systems, risks, and human institutions.
-Every entry should show what must be rebuilt when its scale changes.
+an open-form boarding organism, a district-scale Manifold rupture, a Closed
+Night siege cage, and a strategic Agreement carrier require different physical
+arrangements, support systems, risks, and human institutions. Every entry should
+show what must be rebuilt when its scale changes.
 
 ### Extraordinary effects remain accountable
 
@@ -88,13 +96,18 @@ unlimited matter, energy, or options.
   nursery capacity.
 - The Manifold's unboundedness is configurational; one bounded envelope does not
   export infinite copies, energy, prophecy, or resources.
+- The Closed Night returns or retains radiation; it neither destroys energy nor
+  prevents matter from carrying heat across its boundary.
+- The Agreement requires finite participants, bandwidth, characterization,
+  reciprocal carriers, and low enough latency for correction to return in time.
 
 ### Establishment precedes mature consequence
 
 The most dangerous state is normally prepared rather than summoned without
-history. Rzez characterization, Unhidden growth and patterning, and Manifold
-incidence and exploration create the conditions in which their mature effects
-become possible. Detection and countermeasure doctrine should focus on those
+history. Rzez characterization, Unhidden growth and patterning, Manifold
+incidence and exploration, Closed Night anchor completion, and Agreement carrier
+establishment create the conditions in which their mature effects become
+possible. Detection and countermeasure doctrine should focus on those
 transitions as much as on the final catastrophe.
 
 ### Capability and vulnerability share an architecture
@@ -103,7 +116,10 @@ The structure that produces an effect also creates its characteristic failure.
 Rzez propagation needs continuity that can be severed. Total-boundary physiology
 gains redundancy by exposing itself to occlusion and environmental attack.
 Manifold boundary-lock produces denial but also a rim that can be mapped and
-quarantined. Counters should arise from mechanism rather than cancel it by fiat.
+quarantined. Closed Night closure needs a complete powered surface that can be
+moved, punctured, or crossed by matter. Agreement convergence needs reciprocal
+low-latency coupling that genuine isolation can deny. Counters should arise from
+mechanism rather than cancel it by fiat.
 
 ## Rzez-family engineering principles
 
@@ -219,9 +235,73 @@ instantaneous communication, infinite computation, or safe duplication. A
 contradictory local history is a containment and evidence problem, not a resource
 that can be ordered from outside.
 
+## Radiative-family engineering principles
+
+These principles are established by The Closed Night. They do not describe
+ordinary insulation, every communications blackout, or a Manifold boundary.
+
+### Return is not erasure
+
+A radiant-return enclosure redirects permitted electromagnetic modes. Radiation
+denied egress remains in the energy account as returned light, absorbed heat,
+mechanical anchor load, or another measured ordinary consequence. The system is
+not a sink and cannot conceal missing energy behind classification language.
+
+### Closure is spectral and geometric
+
+No finite enclosure controls every possible carrier automatically. Anchors must
+cover a physical surface and maintain phase relationships across the frequency
+bands being returned. Gaps, unmodeled bands, motion, matter wakes, and lost
+anchors create leakage or failure.
+
+### Matter remains an exit
+
+The radiant surface does not bar people, projectiles, coolant, atmosphere,
+cables, or heat-storage mass. Evacuation, hot-mass ejection, and a conductive
+bridge are expensive but real responses. A siege becomes lethal by controlling
+those ordinary exits as well as the radiant boundary.
+
+### A breach inherits the burden
+
+Opening one small part of a mature enclosure can make it the only unreturned
+radiative path. The resulting white seam is not new energy; it is concentrated
+egress from a target whose heat was prevented from leaving elsewhere.
+
+## Neurocybernetic-family engineering principles
+
+These principles are established by The Agreement. They do not make cultural
+consensus, ordinary teamwork, persuasion, or coincident testimony into exposure.
+
+### Convergence is not union
+
+The Agreement can suppress sustainable variance among behavior, sensation, and
+control without merging minds. Coupled people remain separate conscious persons,
+and private doubt may persist after speech and movement have converged.
+
+### Reciprocity is establishment
+
+A mature Agreement requires continuing two-way, low-latency exchange. A
+recording, description, or one-way message cannot redistribute correction back
+through its source and is therefore inert. Truly isolated instruments do not
+spontaneously acquire matching error.
+
+### The lattice cannot upload an arbitrary mind
+
+The system can weight, return, and suppress responses already available to its
+participants and controllers. It cannot transmit a skill, memory, belief, or
+command merely because an operator wants that content installed. A seeded node
+can bias an attractor without making every result selectable.
+
+### The operator belongs to the circuit
+
+Control requires reciprocal observation of the coupled system. An operator who
+remains inside that path can be absorbed into the same convergence being imposed
+upon the target. A safe command architecture therefore preserves physically
+independent variance rather than trusting a privileged software role.
+
 ## Candidate universal principles not yet adopted
 
-The three systems suggest, but do not establish for the whole setting, that:
+The five systems suggest, but do not establish for the whole setting, that:
 
 - identity may be an engineerable property;
 - the history of remaining together may contribute to present structure;

@@ -1,5 +1,11 @@
 # Rzez Integration Record
 
+> **Subsequent decision:** The adoption of The Closed Night (`B-4.01`) and The
+> Agreement (`C-6.01`) later established alphabetic volume prefixes for the
+> represented Blackglass filing layer. Statements below preserving the meaning
+> of `A` or later volume numbering as unresolved describe the earlier integration
+> state. See [`five-system-integration.md`](five-system-integration.md).
+
 ## Purpose
 
 This record explains how the original Rzez draft entered the structured
@@ -108,9 +114,13 @@ The initial manuscript migration deliberately left two matters unresolved. They
 were later recorded as provisional layers rather than inserted into the preserved
 exemplar:
 
-- `canon/setting-scope.md` establishes a small interstellar region, uncertain
-  human origin, limited routes, and the separate anchors of Kharos, Valec, and
-  Issa.
+- `canon/setting-scope.md` initially established a small interstellar region,
+  uncertain human origin, limited routes, and the separate anchors of Kharos,
+  Valec, and Issa. The later
+  [`Kelan–Ruva natural and human history expansion`](kelan-ruva-natural-and-human-history.md)
+  supersedes only that origin reservation by establishing Earth ancestry and
+  the Avara-first settlement sequence; the numbered Earth year, transit, and
+  Earth's fate remain unresolved.
 - `frame/` distinguishes the formal *Codex of Arcane Engineering* from the later
   *Blackglass Compendium* recension and records a provisional layered compilation
   history.

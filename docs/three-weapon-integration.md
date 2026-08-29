@@ -1,5 +1,10 @@
 # Three-Weapon Integration Record
 
+> **Historical scope:** This record preserves the state of integration before
+> The Closed Night and The Agreement were adopted. It remains authoritative for
+> the decisions it records, but the current landscape is documented in
+> [`five-system-integration.md`](five-system-integration.md).
+
 ## Purpose
 
 This record documents the deliberate integration of the Rzez, The Unhidden, The

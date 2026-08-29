@@ -4,17 +4,60 @@ title: Compendium Glossary
 authorial_status: provisional
 source_entries:
   - A-7.01
+  - B-4.01
+  - C-6.01
 source_concepts:
   - the-unhidden
   - the-manifold
+decision_basis:
+  - kelan-ruva-natural-and-human-history-expansion
 ---
 
 # Compendium Glossary
 
-These definitions are drawn from the Rzez working entry and the shared
-provisional core of The Unhidden and The Manifold. Terms are shared only to the
-extent stated here; similar language does not imply a shared mechanism, and
-disputed theories remain disputed.
+These definitions are drawn from the Rzez working entry, the adopted Closed
+Night and Agreement entries, and the shared provisional core of The Unhidden and
+The Manifold. Terms are shared only to the extent stated here; similar language
+does not imply a shared mechanism, and disputed theories remain disputed.
+
+## Historical and calendrical terms
+
+### Carrier assemblage
+
+One materially coherent family of human-bearing arrival structures, support
+craft, biological stores, and settlement equipment from the Founding Interval.
+The term describes an archaeological construction lineage. It does not assume
+that every component travelled together, that each assemblage was a separate
+mission, or that all arrived directly from Earth.
+
+### Earth-correlation problem
+
+The absence of a secure evidentiary bridge between recoverable astronomical
+epochs and numbered Earth civil dates. Scholars can compare sky states, measure
+physical intervals, and reconstruct candidate calendars, but no surviving chain
+unambiguously joins an Earth era and year to a reference frame, time standard,
+carrier clock, and Kelan–Ruva chronology. It is a metadata and provenance loss,
+not a claim that the stars cannot be dated.
+
+### Founding Interval
+
+The long sequence beginning with uncrewed survey of Kelan–Ruva and encompassing
+the carrier arrivals, the first durable Avaran refuge, heavy descent to Kharos,
+early Odran infrastructure, and the emergence of self-sustaining local
+societies. It is not one landing, one people, or one safely numbered year.
+
+### Heavy descent
+
+The repeated founding-era work of moving people, equipment, and viable
+ecologies from orbit and Avara onto 1.54-g Kharos. The phrase later broadened to
+mean any undertaking whose real cost begins after nominal arrival.
+
+### Origin Sky
+
+The surviving family of Solar-vicinity star catalogues, navigation solutions,
+planetary diagrams, and later reconstructions used to study human departure.
+Origin Sky records preserve astronomical states of the old sky; they do not by
+themselves identify the civil calendar year in which a state was recorded.
 
 ## Technical terms
 
@@ -144,6 +187,67 @@ continuously observed path, preserves physical tethering where possible, and
 forbids division merely to compare routes. It accepts one locally coherent chart
 for the duration of the operation instead of trying to reconcile the rupture
 from within.
+
+## Radiative and thermal terms
+
+### Radiant-return enclosure
+
+A powered, physically anchored surface that makes electromagnetic transport
+direction-selective across specified frequency bands. In a Closed Night, inward
+transmission may continue while outward modes are returned to the enclosed
+volume. The term does not imply lost energy, impossible geometry, or a barrier
+to matter.
+
+### Thermal egress
+
+The independently verifiable capacity of an inhabited system to export waste
+heat. Under the Articles of Open Radiance it is a life-support interest, not
+merely an efficiency feature. Radiators are one form; conductive bridges,
+ejected hot mass, coolant, atmosphere, and evacuation can also carry thermal
+burden across a radiant boundary.
+
+### Gray release
+
+A controlled or failing termination in which different parts of a radiant
+enclosure and different spectral bands reopen over time. Gray release avoids
+forcing the entire retained burden through one narrow path, although renewed
+visibility alone does not prove the target is safe.
+
+### White seam
+
+A narrow unreturned aperture in an otherwise mature radiant-return enclosure.
+The surviving anchors can concentrate a large share of available outward modes
+through that aperture. The seam creates no energy; it makes one breach inherit
+the egress burden denied everywhere else.
+
+## Neurocybernetic and autonomy terms
+
+### Prediction-error redistribution
+
+The return of part of one participant's failed prediction or corrective burden
+through other people and machine controllers in a reciprocal lattice. Civil
+systems use it narrowly to prevent dangerous control oscillation. The Agreement
+weaponizes it by counting independent response itself as error.
+
+### Variance keeper
+
+A person, instrument, or control cell deliberately excluded from an Agreement
+carrier and equipped with its own clock, stimulus source, recording path, and
+physical disconnect. Its purpose is to preserve the possibility of an error the
+coupled group has not already learned to suppress.
+
+### One testimony
+
+The legal and forensic description for many nominal witnesses or instruments
+whose matching responses cannot count as independent corroboration because one
+active carrier suppressed their variance.
+
+### Discord rehabilitation
+
+Staged recovery after Agreement exposure using safe disagreement, independent
+timing, asymmetric tasks, and unsynchronized social contact. Reconnecting
+survivors too rapidly can restore learned convergence after the original carrier
+has been removed.
 
 ## Operational and forensic terms
 
