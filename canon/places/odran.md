@@ -15,6 +15,7 @@ decision_basis:
   - three-weapon-integration
   - five-system-integration
   - kelan-ruva-natural-and-human-history-expansion
+  - blackglass-tradition-canonization
 ---
 
 # Odran
@@ -136,6 +137,27 @@ that the measurements have become more reliable.
 Odran also supports remote white-seam and gray-release rescue training using
 ordinary radiant simulators. Live military anchors are not required and no
 occupied, hostile, or full military Closed Night trial is assigned to the moon.
+
+## Blackglass separation
+
+Odran's physically independent pads support distributed custody of
+[Blackglass](../../frame/blackglass-tradition.md) fragments. One installation may
+hold a damaged body text, another its linguistic concordance, and another the
+technical references needed to recognize what the passage implies. No pad is
+intended to know both how a restricted passage is read and which local apparatus
+could complete it.
+
+This policy is fallible. Comparing archives is exactly how the Blackglass
+recension restores relationships that official collections removed. Odran
+workers call a dangerous adjacency discovered only through comparison **the line
+between vaults**. If two pads independently request the same absent leaf, common
+practice delays both requests until Kharos or Avara reviews why the absence has
+become salient.
+
+No Odran archive is the collection's sole authoritative copy, and no current
+canon places a complete recension on the moon. Physical separation limits one
+path to reconstruction; it does not make the holdings harmless or prove that
+information itself propagates like a Rzez field.
 
 ## Biological limits
 

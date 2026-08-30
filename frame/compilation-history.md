@@ -1,17 +1,21 @@
 ---
 document_type: frame-note
-title: Provisional Compilation History
-authorial_status: provisional
+title: Compilation and Transmission History
+authorial_status: established
 source_entries:
   - A-7.01
+  - B-4.01
+  - C-6.01
+  - D-1.01
 ---
 
-# Provisional Compilation History
+# Compilation and Transmission History
 
-## Working model
+## Established model
 
 The Codex is not one manual written by one omniscient author. It is a layered
-technical-historical corpus assembled over centuries from:
+technical-historical corpus assembled across many centuries and probably
+millennia from:
 
 - surviving engineering fragments;
 - confiscated calculations and field manuals;
@@ -24,11 +28,18 @@ technical-historical corpus assembled over centuries from:
 - folklore, songs, and regional memory;
 - and later scholarly commentary.
 
+The oldest recoverable layers are already translations. The original language,
+medium, order, and archivists cannot be reconstructed. Hundreds of later
+recensions branch and recombine across dead languages and changing archival
+technologies. The lineage is older than every surviving state and current
+institution, but no hidden authorial date fixes its beginning.
+
 The present Blackglass recension is later than the earliest Codex layers and
 later than the post-Compact events it records. Because the Rzez entry includes
 Meren approximately two centuries after the Compact and refers to a current-era
 Orchard Ship rumor, the represented recension cannot be an original Meridian or
-immediate post-Valec document.
+immediate post-Valec document. Its antiquity belongs to the inherited textual
+lineage, not to every paragraph sharing one date.
 
 ## Why the corpus exists despite prohibition
 
@@ -44,15 +55,34 @@ to:
 - assess alleged surviving instruments;
 - and preserve testimony from destroyed worlds.
 
-The working model is that tightly controlled technical reference collections
-arose inside Compact institutions for defensive, forensic, and legal use.
-Over time, those collections accumulated annotations, censored incidents,
+Tightly controlled technical reference collections arose inside Compact
+institutions for defensive, forensic, and legal use, but they did not begin the
+older tradition. They inherited fragments, filing practices, translation
+problems, and warnings whose prior custody could not always be proved. Over
+time, the Compact collections accumulated new annotations, censored incidents,
 unauthorized copies, survivor material, and traditions excluded from official
 accounts.
 
-The Blackglass recension emerged from that accumulation. Whether it was assembled
-by one dissident group, successive anonymous editors, a compromised Commission
-archive, or later scholars remains open.
+The current Blackglass recension emerged from that accumulation. Whether its
+recognizable filing layer was assembled by one dissident group, successive
+anonymous editors, a compromised Commission archive, or later scholars remains
+open. None of those candidates is established as the origin of the older Codex
+or of the scattered Blackglass tradition.
+
+## Transmission outside archives
+
+The lineage also survives outside institutional custody. Passages have been
+recovered from stone carvings, reused civic surfaces, isolated leaves in open
+space, local religious texts, expedition records, and media whose form reflects
+the technology available near the find. Every substantially explored system has
+produced at least one Blackglass claim, and enough fragments are authentic that
+fraud and ordinary copying do not explain the entire pattern.
+
+The distribution, proximate-medium pattern, and disputed landscape
+correspondences are defined in
+[`blackglass-tradition.md`](blackglass-tradition.md). They do not establish that
+the Compendium moves itself, changes matter into pages, or shares a mechanism
+with the weapons it describes.
 
 ## Layered rather than omniscient
 
@@ -61,8 +91,10 @@ evidentiary grades, technical summaries, quotations, and field records need not
 share one author.
 
 This permits the corpus to preserve disagreements without implying carelessness.
-It also means a future entry may identify an older editorial layer, a later
-annotation, or a politically altered version when that distinction matters.
+An entry may identify an older editorial layer, a later annotation, or a
+politically altered version when that distinction matters. The recurring
+margin functions and the anonymous Prior Hands are established; the identity
+and dates of particular hands remain open.
 
 ## Reader position
 
@@ -84,3 +116,8 @@ or assume a specific device until the frame is intentionally narrowed.
   recognizable method.
 - The Compendium should reveal forbidden knowledge without becoming a complete
   construction manual for every instrument inside the fiction.
+- A widespread fragment should retain a material history, evidence grade, and
+  alternative explanations; ubiquity is not permission to make any desired text
+  appear anywhere.
+- Landscape correspondences may deepen uncertainty but must not silently prove
+  that all weapons share one origin or mechanism.

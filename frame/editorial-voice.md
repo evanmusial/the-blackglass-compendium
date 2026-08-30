@@ -1,9 +1,12 @@
 ---
 document_type: frame-note
 title: Editorial Voice and Method
-authorial_status: provisional
+authorial_status: established
 source_entries:
   - A-7.01
+  - B-4.01
+  - C-6.01
+  - D-1.01
 ---
 
 # Editorial Voice and Method
@@ -29,6 +32,14 @@ context.
 
 Grades A through E attach to incidents or claims. The editors may accept that an
 event occurred while rejecting one explanation for it.
+
+### Confidence and consequence
+
+The editors assess evidentiary confidence separately from plausible consequence.
+A weakly supported claim may justify extreme noncontact precautions without
+being presented as fact. A strong observation may remain unexplained. Direct
+reconstruction is not a neutral way to improve the evidence grade of an
+existential claim.
 
 ### Competing explanations
 
@@ -59,14 +70,17 @@ be stated rather than assumed.
 - modern jokes that collapse the archival atmosphere;
 - vague claims that a technology is simply beyond understanding;
 - treating Grade E as synonymous with false;
+- treating low confidence as proof of safety;
 - resolving every legend into engineering or every experiment into mysticism;
+- implying that every scattered fragment, religious parallel, or landscape
+  correspondence has one cause;
 - repetitive moral condemnation in place of analysis;
 - and gratuitous technical terminology without consequences or limits.
 
-## Multiple editorial layers
+## Multiple editorial layers and margins
 
-Future entries may reveal identifiable editorial layers, but their markers must
-be consistent. Possible layers include:
+The Blackglass recension contains identifiable editorial layers whose markers
+must be used consistently. Layers include:
 
 - an original technical record;
 - an official Compact summary;
@@ -75,5 +89,14 @@ be consistent. Possible layers include:
 - a censor's omission;
 - or a recovered primary fragment.
 
-Do not introduce these labels casually. Once named, a layer may become a recurring
-voice with its own knowledge, date, loyalties, and vocabulary.
+Margins may preserve translation choices, witness relations, censor commands,
+continuing restrictions, or later dissent. The current rendering of hollow and
+black lozenges, witness rules, obelus, mirror mark, and unattributed hand is
+defined in [`blackglass-tradition.md`](blackglass-tradition.md). These marks
+represent editorial functions across different media rather than one unchanged
+ancient typography.
+
+Do not introduce a named hand casually. Once distinguished, a layer becomes a
+recurring voice with its own knowledge, bounded period, loyalties, vocabulary,
+and evidentiary limits. The Prior Hands remain collective and anonymous; an
+entry should not identify them incidentally.

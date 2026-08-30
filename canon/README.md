@@ -83,6 +83,13 @@ compilers, editorial methods, transmission, and possible illegality. A compiler
 can therefore be both a canon entity and part of the frame, but the explanation
 of that person's editorial role belongs in `frame/`.
 
+The established [Blackglass tradition](../frame/blackglass-tradition.md) also
+defines the collection's ancient translation lineage, dangerous margins,
+scattered fragments, religious reception, and exterior-witness problem. Canon
+notes may rely on those facts while preserving uncertainty about the Prior
+Hands, the cause of distribution, the Narrow Proof, and whether the collection
+is responsive.
+
 ## Promotion rule
 
 Promoting material from an entry into canon means that other authors and entries

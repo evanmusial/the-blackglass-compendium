@@ -14,6 +14,7 @@ source_concepts:
 decision_basis:
   - kelan-ruva-natural-and-human-history-expansion
   - the-rehearsal-integration
+  - blackglass-tradition-canonization
 ---
 
 # Compendium Chronology
@@ -50,6 +51,22 @@ the clocks and trajectories of the carrier assemblages. A proposed conversion
 may be discussed as an in-world scholarly model, but no familiar BCE, CE, or
 other numbered Earth year may be presented as authorial truth. The setting has
 no concealed canonical Earth date waiting behind the uncertainty.
+
+## Blackglass chronology boundary
+
+The [Blackglass tradition](../frame/blackglass-tradition.md) has no recoverable
+beginning. Its oldest textual witnesses are already translations, and the
+anonymous Prior Hands belong to a layer earlier than the divergence of several
+surviving witness families. Physical dating can establish the manufacture,
+burial, exposure, or later copying of a particular carrier. It cannot by itself
+date the words, the first translation, or the event described.
+
+The present recension is also not ancient in every part. It contains
+post-Compact incidents and current-era rumors. Chronology must therefore date
+individual witnesses, annotations, and described events rather than assign one
+age to “the Compendium.” The textual lineage is older than every surviving state
+and current institution; no authorial calendar date, planet, or civilization is
+reserved as its secret origin.
 
 ## Chronological anchors
 
@@ -94,6 +111,8 @@ no concealed canonical Earth date waiting behind the uncertainty.
 | Compact Year +274 | The initial Common Matter Interdict is adopted; successive jurisdictions later implement it. | Established consequence of Apsis | Complete convergence crowns, deliberate strangelet production or custody, and critical synchronization and baryon-injection systems are separately prohibited. |
 | Current era | Rumors describe a regenerative Valeci vessel called the Orchard Ship. | E | No credible sighting; governments nevertheless plan for it. |
 | Current era | Small Houses of the Lower State preserve Apsis telemetry and worship The Rehearsal as proof that ordinary matter is only a temporary state. | B for the communities; E for claims that the Succession is already under way | Most Waiting Houses do not attempt reconstruction; the outlawed Open Yield schism seeks viable seeds or crown knowledge. |
+| Current era | Dispersed Blackglass devotional movements venerate the collection, its omissions, the Prior Hands, dangerous comprehension, or the trouble associated with fragments. | B for the movements; E for claims that the collection recognizes or selects readers | Open Margin cells seek completion; Last Readers treat use as proof of understanding; Merciful Error groups sacralize protective corruption. |
+| Current era | Sustained exploration has produced Blackglass fragments, parallel taboos, or exterior correspondences in every surveyed system. | A for the regional distribution of claims; varies from A to E by individual find | Distribution does not establish one origin, self-propagation, or common mechanism among the weapons. |
 
 ## Developing chronological constraints
 

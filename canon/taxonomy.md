@@ -53,10 +53,10 @@ remain separate fields.
 ### Codex
 
 The full work is **The Codex of Arcane Engineering**. The relationship between
-that formal in-world corpus and **The Blackglass Compendium** is defined
-provisionally in [`../frame/collection-identity.md`](../frame/collection-identity.md):
-Blackglass names the later, reconstructed, and possibly unauthorized recension
-represented by this project.
+that formal in-world corpus and **The Blackglass Compendium** is defined in
+[`../frame/collection-identity.md`](../frame/collection-identity.md): Blackglass
+names the later, reconstructed, and probably unauthorized recension represented
+by this project.
 
 ### Volume
 

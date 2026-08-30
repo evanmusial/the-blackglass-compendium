@@ -15,6 +15,7 @@ source_concepts:
 decision_basis:
   - kelan-ruva-natural-and-human-history-expansion
   - the-rehearsal-integration
+  - blackglass-tradition-canonization
 ---
 
 # Kharos
@@ -293,6 +294,36 @@ ordinary high-energy laboratory.
 No confirmed Manifold rupture is placed on Kharos or elsewhere in the home
 system. Kharos studies exterior incidents; it does not possess or control The
 Manifold.
+
+## Blackglass custody and public taboo
+
+Kharos is a principal public venue for disputes about the
+[Blackglass Compendium](../../frame/blackglass-tradition.md), but it is not
+established as the collection's origin or compilation site. Its courts,
+academies, religious authorities, and survivor communities disagree over how an
+illegal or sacredly taboo text can remain available for defense without becoming
+an arsenal.
+
+Restricted custodians divide body text, translation keys, recovered
+cross-references, and constructive annotations among physically and legally
+separate archives. No one Kharosi institution is supposed to possess the only
+copy or one fluent, reconstructable whole. Courts distinguish possession of an
+inert fragment, protected belief, historical scholarship, and victim testimony
+from assembly of information sufficient to simulate or reconstruct a prohibited
+system. The distinction is difficult and politically abused.
+
+Public culture is more categorical. Most people do not read an authenticated
+fragment when given the choice. Major religious traditions regard full
+recitation as spiritually dangerous or morally presumptuous even when they deny
+that the text is literally cursed. The
+[Concordant Temples](../institutions/concordant-temples.md) call it a burdened
+witness. [Blackglass devotional movements](../institutions/blackglass-devotional-movements.md)
+call the same danger proof that the collection has selected its readers.
+
+Kharosi speech calls a conclusion that establishes its own danger **blackglass
+correct**. To **leave a chair for the margin** means retaining one observer who
+has not read the controlling text and can therefore dissent without sharing its
+assumptions. Neither phrase implies that an Agreement is active.
 
 ## Supported associations
 

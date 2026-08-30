@@ -10,6 +10,8 @@ source_entries:
 source_concepts:
   - the-unhidden
   - the-manifold
+decision_basis:
+  - blackglass-tradition-canonization
 ---
 
 # Institute of Applied Continuity
@@ -60,6 +62,20 @@ Manifold concordance cases, and Agreement testimony all use words such as
 different problems. Institute publications are expected to state which meaning
 they use; failure to do so is both a scholarly fault and a recurring political
 accusation.
+
+## Blackglass scholarship
+
+Schools in the Institute tradition contribute philology, material dating,
+witness analysis, and consequence assessment to study of the
+[Blackglass Compendium](../../frame/blackglass-tradition.md). Their characteristic
+method keeps evidentiary confidence separate from the consequence ceiling of a
+claim. A weakly supported page can justify noncontact precautions without being
+treated as revelation.
+
+No Institute successor is assigned a complete recension. Its scholars work from
+separated holdings and are frequent targets of both public suspicion and
+Blackglass devotional recruitment. The Institute's involvement does not make it
+the compiler, owner, or regulator of the collection.
 
 ## Limits of current canon
 

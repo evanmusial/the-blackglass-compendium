@@ -8,6 +8,7 @@ source_entries:
   - D-1.01
 decision_basis:
   - the-rehearsal-integration
+  - blackglass-tradition-canonization
 ---
 
 # Houses of the Lower State
@@ -128,6 +129,22 @@ language for irreversible loss.
 Authorities often flatten these groups into one conspiracy. The error obscures
 both protected belief and actual weapons preparation. It also gives Open Yield
 the prestige of a movement much larger and more unified than it is.
+
+## Relationship to Blackglass devotion
+
+Some Houses treat the
+[Blackglass Compendium](../../frame/blackglass-tradition.md) as a damaged record
+of the First Revelation. Others reject it as a frightened institutional text
+that witnessed the Proof without understanding it. Waiting Houses may preserve
+Blackglass fragments because lawful archives discarded cultic sources; Open
+Yield cells seek margins that might restore crown timing or seed custody.
+
+The Houses are not a branch of the broader
+[Blackglass devotional movements](blackglass-devotional-movements.md). They
+worship The Rehearsal and the lower state, not necessarily the collection.
+Overlap in members, relic markets, or language is historically important but
+does not make the Compendium, strange matter, and the other forbidden systems
+one revelation or one physical process.
 
 ## Physical and metaphysical boundary
 

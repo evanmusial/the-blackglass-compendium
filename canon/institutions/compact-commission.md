@@ -9,6 +9,8 @@ source_entries:
 source_concepts:
   - the-unhidden
   - the-manifold
+decision_basis:
+  - blackglass-tradition-canonization
 ---
 
 # Compact Commission
@@ -24,6 +26,11 @@ framework. The Rzez entry shows it:
 - conducting or inheriting post-Valec material investigations;
 - and regulating high-risk research and planetary-response decisions.
 
+Established Blackglass practice also places Commission expertise in the
+authentication of alleged fragments and Rzez exterior witnesses. This extends
+its existing material and chain-of-custody role; it is not presented as a
+function stated directly in the Rzez entry.
+
 ## Limits of current canon
 
 The draft does not define the Commission's membership, jurisdictional structure,
@@ -38,3 +45,9 @@ over created persons, extrinsic phenomena, or every dangerous technology. The
 Articles of Open Radiance and Articles of Bodily Dissent likewise remain outside
 its substantive mandate. A Commission laboratory may authenticate an anchor or
 preserve a suspected carrier without becoming the regulator of either system.
+
+The same boundary applies to the Blackglass Compendium. The Commission may date
+a carrier, compare a notation family, or quarantine a fragment containing Rzez
+instruction. It does not acquire universal authority over the collection, every
+religion that fears it, or every exterior witness resembling another forbidden
+system.

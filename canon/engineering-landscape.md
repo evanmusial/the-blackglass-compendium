@@ -16,6 +16,7 @@ decision_basis:
   - the-rehearsal-integration
   - kelan-ruva-natural-and-human-history-expansion
   - editorial-setting-decision
+  - blackglass-tradition-canonization
 ---
 
 # Six-System Engineering Landscape
@@ -107,6 +108,29 @@ Closed Night retains what an enclosed system must discard. The Agreement makes
 independence bear the cost of coordination. The Rehearsal forces one microscopic
 region through an extreme state and leaves the cooling matter to choose what
 survives.
+
+### Information hazard does not imply common physics
+
+The [Blackglass Compendium](../frame/blackglass-tradition.md) can make knowledge
+of more than one system existentially dangerous without acting as a seventh
+unifying mechanism.
+
+- Rzez knowledge can expose propagation, characterization, and focusing
+  relationships that the Sixth Compact separately prohibits.
+- Unhidden knowledge can reveal growth, control, occlusion, and custody methods
+  applicable to finite living bodies.
+- Manifold records can teach a surveyor to recognize or approach an exterior
+  incidence without making the record a controllable rupture.
+- Closed Night diagrams can expose how lawful return infrastructure closes into
+  a hostile geometry.
+- Agreement models can reveal the carrier, latency, and reciprocal correction
+  needed to establish coercive coupling.
+- Rehearsal fragments can compose timing, convergence, baryon-bias, and quench
+  capacity even when no fragment alone is a weapon.
+
+The information-hazard path must therefore be argued separately for each
+subject. A dangerous cross-reference is evidence of editorial collation, not a
+shared inventor, force, carrier, or susceptibility.
 
 ## Kharosi continuity and autonomy jurisprudence
 

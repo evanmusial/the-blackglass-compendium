@@ -30,6 +30,17 @@ Contradiction should not be used as permission for arbitrariness. An entry names
 the sources of uncertainty, assigns evidentiary weight where possible, and
 distinguishes a disputed explanation from a disputed event.
 
+### Confidence and consequence are separate
+
+An evidentiary grade answers how strongly a claim is supported. It does not
+answer how much precaution is warranted if the claim is true. A Grade E account
+may justify noncontact survey or a planetary exclusion perimeter without being
+promoted to fact. A Grade A observation may remain physically unexplained.
+
+The Compendium's recurring formulation is **doubt the account; respect the
+radius**. No existential claim should be confirmed by deliberately performing
+the event it predicts merely to improve its evidence grade.
+
 ### Metaphysical truth is not settled by historical confidence
 
 A Grade A experiment can have an unexplained result. A Grade E myth can contain
@@ -41,6 +52,19 @@ not whether the universe is material, divine, informational, or something else.
 A forbidden instrument should have industrial ancestors, engineering practice,
 accidents, doctrine, countermeasures, law, language, trauma, ritual, and misuse.
 The entry is a history of consequences rather than a catalog of powers.
+
+### Knowledge can become capability
+
+An entry should distinguish information that is merely descriptive from
+information that instructs construction, permits inference across separated
+facts, identifies a dormant artifact, participates in a dangerous model or
+control architecture, or invites a catastrophic false reconstruction.
+
+This is not one supernatural rule and does not make all reading active exposure.
+The information-hazard path must follow the mechanism and institutions of the
+particular subject. The [Blackglass tradition](../frame/blackglass-tradition.md)
+collects several different kinds of dangerous knowledge without making the
+weapons one system.
 
 ### Costs and limits belong beside capabilities
 
@@ -80,6 +104,19 @@ Rehearsal must be explained on their own terms.
 Recurring words such as *boundary*, *continuity*, and *identity* may describe
 analogous human fears. They do not demonstrate shared machinery, origin,
 susceptibility, or metaphysical truth.
+
+### Correspondence does not establish lineage
+
+A ruin, landform, artifact, myth, or exterior instrument trace may correspond
+closely to a known forbidden system without proving identical mechanism,
+authorship, intent, transmission, or date. The Compendium may use a known system
+as a diagnostic comparison while retaining natural analogy, independent
+invention, category error, forgotten humanity, and extrinsic origin as separate
+possibilities.
+
+Repeated correspondences are setting evidence that requires explanation. They
+are not permission to collapse every ancient anomaly into one arsenal or every
+weapon into one lost civilization.
 
 ### Scale changes architecture
 

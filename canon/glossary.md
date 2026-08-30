@@ -13,6 +13,7 @@ source_concepts:
 decision_basis:
   - kelan-ruva-natural-and-human-history-expansion
   - the-rehearsal-integration
+  - blackglass-tradition-canonization
 ---
 
 # Compendium Glossary
@@ -61,6 +62,64 @@ The surviving family of Solar-vicinity star catalogues, navigation solutions,
 planetary diagrams, and later reconstructions used to study human departure.
 Origin Sky records preserve astronomical states of the old sky; they do not by
 themselves identify the civil calendar year in which a state was recorded.
+
+## Collection and information-hazard terms
+
+### Blackglass Compendium
+
+The ancient, distributed, repeatedly translated, and probably unauthorized
+recension of the *Codex of Arcane Engineering* represented by this collection.
+No original, first language, first medium, complete edition, or named first
+archivist is known. See the established
+[Blackglass tradition](../frame/blackglass-tradition.md).
+
+### Blackglass posture
+
+The practice of assessing evidentiary confidence separately from plausible
+consequence. Its common summary is **doubt the account; respect the radius**. A
+weakly supported existential claim may justify extreme noncontact precautions
+without being promoted to fact or tested through reconstruction.
+
+### Exterior witness
+
+An artifact, physical trace, instrument record, ruin, or landscape
+correspondence found outside the accepted historical lineage of the forbidden
+system it resembles. The term records diagnostic relevance, not proof of common
+mechanism, builder, intention, transmission, or date.
+
+### Narrow Proof
+
+The missing demonstration claimed by an ancient marginal note stating that the
+omissions identify the anonymous Prior Hands but that the gutter is insufficient
+to contain the proof. No demonstration survives. Attempts to complete it are
+legally prohibited in several jurisdictions and religiously taboo in many more.
+
+### Page without a book
+
+A Blackglass leaf or page-equivalent whose physical existence can be examined
+but whose chain of custody begins only at discovery. The expression originated
+with individual leaves recovered in open space without a parent vessel.
+
+### Prior Hands
+
+The neutral scholarly name for the unidentified compilers of the earliest
+recoverable Blackglass editorial layer. Their names appear to have been removed
+before several witness families diverged. The term establishes neither their
+number nor their humanity, unity, purpose, or period.
+
+### Proximate-medium pattern
+
+The tendency for scattered Blackglass fragments to use media plausible for the
+technology near the find: stone, ceramic, foil, fiber, optical storage, or local
+data formats. Ordinary copying, selection, fraud, and devotional dispersal
+explain much but not all of the accepted record.
+
+### Scattered-leaf problem
+
+The recurrence of Blackglass fragments, parallel warnings, notation families,
+or correspondences throughout every substantially explored system without one
+adequate transmission history. It does not establish self-propagation or make
+every alleged fragment authentic.
 
 ## Technical terms
 
@@ -347,6 +406,28 @@ architectures that can be attacked. The literal interpretation is unverified.
 
 Something materially genuine but incapable of bearing structural or social
 trust. The expression derives from post-destruction Valec material.
+
+### Blackglass answer
+
+A correct or apparently correct answer whose recognition makes the questioner
+worse off by revealing a danger, enabling a reconstruction, or changing an
+ordinary problem into an existential one. **Blackglass correct** is the related
+Kharosi expression for a conclusion that proves its own danger.
+
+### Blackglass trouble
+
+The recurrent association among a Blackglass fragment, its reading or
+translation, and later catastrophe, discovery, panic, or reconstruction. The
+common axiom is **where Blackglass goes, trouble follows**. The association is
+established across cultures; whether the collection causes, reveals, attracts,
+or merely records the trouble remains unresolved.
+
+### Gutter Guest
+
+The impish folkloric figure said to inhabit the margins of Blackglass and supply
+the missing word that permits a reader to complete a disaster. Also called the
+Little Reader or margin imp. The recurring story is established; no entity or
+responsive property of the collection is thereby confirmed.
 
 ### Lower State
 

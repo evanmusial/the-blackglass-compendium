@@ -15,6 +15,7 @@ decision_basis:
   - three-weapon-integration
   - five-system-integration
   - kelan-ruva-natural-and-human-history-expansion
+  - blackglass-tradition-canonization
 ---
 
 # Avara
@@ -227,6 +228,29 @@ propagation and hostile open-form action. A countermeasure that dries or seals a
 facility may defeat an organism while also threatening patients and the public
 systems that keep the moon habitable. Defensive doctrine therefore treats
 environmental control as life-support authority, not merely a weapon switch.
+
+## Blackglass environmental ethics
+
+Avaran law and custom treat dangerous translation as an environmental act. A
+reader may accept personal risk but cannot consent on behalf of a pressure
+district, atmosphere service, wet-cradle population, or vessel whose inhabitants
+would share the consequence of successful reconstruction. A fluent Blackglass
+rendering can change what nearby people are capable of building, recognizing,
+or fearing even before a physical experiment begins.
+
+Custodial rooms therefore use independent air, power, local shutdown, and
+outward-only reporting where practical. Their separation is ordinary
+information and habitat safety, not proof that the
+[Compendium](../../frame/blackglass-tradition.md) can travel through air. Popular
+speech nevertheless says that Blackglass must never be allowed to **learn the
+air**.
+
+Several First Shelter-derived observances leave one line of a memorial,
+inheritance, or founding account deliberately untranslated. The incomplete line
+represents the right to survive without completing every inherited instruction.
+The custom is older than current Blackglass controls in its modern form and has
+been reinterpreted through them rather than established as an original response
+to the collection.
 
 ## Deliberately unresolved
 

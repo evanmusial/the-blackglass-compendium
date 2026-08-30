@@ -9,6 +9,8 @@ source_entries:
 source_concepts:
   - the-unhidden
   - the-manifold
+decision_basis:
+  - blackglass-tradition-canonization
 ---
 
 # Sixth Compact of Kharos
@@ -34,6 +36,21 @@ The Compact prohibits more than construction. The Rzez entry identifies:
 
 Industrial thresholds may exist under tight control, creating a deliberate
 tension between absolute language and necessary defensive or civil practice.
+
+## Blackglass knowledge
+
+The Compact can prohibit a Blackglass fragment, translation key, or restored
+cross-reference when it supplies Rzez simulation, propagation, focusing,
+material, or synchronization capability. It does not outlaw the entire
+[Blackglass Compendium](../../frame/blackglass-tradition.md) merely because the
+collection is feared or contains other dangerous systems.
+
+This produces difficult cases. One fragment may be historical testimony. Two
+may reveal an industrial lineage. A third may make the same archive
+reconstructable. Compact courts therefore assess assembled capability and not
+only the innocence of each page considered separately. Religious taboo,
+Blackglass devotion, and possession of a nontechnical replica are not by
+themselves Rzez offenses.
 
 ## Governing dilemma
 

@@ -52,6 +52,22 @@ canon reservations are not adopted entries. See the
 [`Rehearsal integration record`](docs/the-rehearsal-integration.md) for the
 current six-system statuses, physics boundary, and classification decisions.
 
+## The collection inside the setting
+
+The [Blackglass tradition](frame/blackglass-tradition.md) is established
+collection-frame canon. The represented work is an ancient, distributed, and
+repeatedly translated textual lineage whose oldest witnesses are already
+translations and whose Prior Hands remain unknown. Scattered fragments occur
+throughout explored space in local media, including stone inscriptions and
+isolated pages in open space; disputed landscape correspondences and exterior
+witnesses suggest that several forbidden systems may have histories outside
+their accepted invention lineages.
+
+The distribution is canonical. Its cause is not. The collection is feared as
+dangerous knowledge, religiously taboo in major traditions, and worshipped by
+small devotional movements. Its central cultural warning is: **where Blackglass
+goes, trouble follows.**
+
 ## Authoring model
 
 The Compendium uses a hybrid model:
@@ -70,7 +86,8 @@ The Compendium uses a hybrid model:
 5. **The exemplar is provenance, not the editing surface.** It makes it possible
    to compare later revisions with the source that established the voice.
 6. **The frame explains the book inside the world.** It records what the Codex
-   is, why it exists, and what kind of edition the reader appears to possess.
+   is, why it exists, what kind of edition the reader appears to possess, and
+   why possession or understanding may itself be dangerous.
 
 ## Current setting scope
 

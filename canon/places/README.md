@@ -19,8 +19,8 @@ source_concepts:
 | Place | Current role in shared canon | Status |
 | --- | --- | --- |
 | [Valec](valec.md) | Destroyed industrial world and Year Zero of the Compact Calendar. | Provisional |
-| [Kharos](kharos.md) | Designated home world; later demographic and civic center of an Earth-descended population first durably sheltered on Avara. | Provisional |
-| [Issa](issa.md) | Frontier gas giant with an anomalously separated inner moon. | Provisional |
+| [Kharos](kharos.md) | Designated home world; later demographic and civic center, principal public Blackglass custody venue, and home of an Earth-descended population first durably sheltered on Avara. | Provisional physical and political details; established Blackglass role |
+| [Issa](issa.md) | Frontier gas giant with an anomalously separated inner moon and the best-known Rzez exterior witness. | Provisional location details; established anomaly and Blackglass correspondence |
 | [Apsis Range](apsis-range.md) | Remote, deliberately uninhabited external range volume used for The Rehearsal's unique full firing and now held under permanent exclusion. | Established; containing system withheld |
 
 ## Kelan–Ruva system register
@@ -38,8 +38,8 @@ system-level physical model in shared canon.
 | **Neral** | Rocky planet | Cold ice-border world with limited activity. | Provisional |
 | **Vaskor** | Gas giant | Shapes the Serrin Belt and carries a large satellite system. | Provisional |
 | **Istra** | Ice giant | Outermost major planet. | Provisional |
-| [**Odran**](odran.md) | Moon | Barren inner moon; founding-era transfer ground and later separated material, chronometric, calorimetric, variance, and archival reference world. | Provisional |
-| [**Avara**](avara.md) | Habitable moon | Oldest continuously occupied human refuge; sparsely settled partner world with low-gravity medicine, thermal industry, cooperative-control history, and managed life support. | Provisional |
+| [**Odran**](odran.md) | Moon | Barren inner moon; founding-era transfer ground and later separated material, chronometric, calorimetric, variance, and Blackglass archival reference world. | Provisional physical details; established separation practice |
+| [**Avara**](avara.md) | Habitable moon | Oldest continuously occupied human refuge; sparsely settled partner world with low-gravity medicine, thermal industry, cooperative-control history, managed life support, and environmental ethics for dangerous translation. | Provisional physical and political details; established Blackglass ethic |
 
 ## Named places retained in the Rzez entry
 

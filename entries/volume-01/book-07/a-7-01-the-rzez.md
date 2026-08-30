@@ -52,6 +52,7 @@ entities:
     - kharos
     - issa
   institutions:
+    - concordant-temples
     - first-quarry-houses
     - institute-of-applied-continuity
     - compact-commission

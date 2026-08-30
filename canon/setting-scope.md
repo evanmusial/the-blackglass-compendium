@@ -17,6 +17,7 @@ decision_basis:
   - the-rehearsal-integration
   - kelan-ruva-natural-and-human-history-expansion
   - editorial-setting-decision
+  - blackglass-tradition-canonization
 ---
 
 # Provisional Interstellar Setting Scope
@@ -147,6 +148,44 @@ lost, inaccessible, unstable, deliberately erased, or never discovered.
 
 This preserves room for lost expeditions and possible nonhuman evidence without
 requiring an existing galactic atlas.
+
+## Blackglass distribution and the exploration problem
+
+The [Blackglass textual lineage](../frame/blackglass-tradition.md) is distributed
+throughout the known region. Every system subjected to sustained exploration has
+produced at least one claimed fragment, parallel warning, notation family, or
+physical correspondence. Many are frauds, dependent copies, wreckage, later
+plantings, or ordinary features interpreted after the fact. Enough independent
+fragments authenticate that the distribution itself is established.
+
+Media tend to reflect the technology near the find: stone inscriptions,
+ceramic tablets, metal foils, printed fiber, optical leaves, data stores, and
+spaceworthy wafers. Individual pages or page-equivalents have been found in open
+space without a recoverable parent vessel. This proximate-medium pattern does
+not establish that Blackglass adapts or manufactures its carriers. Local copying,
+selection, fraud, fragment trade, and devotional dispersal explain much but not
+all of the accepted record.
+
+Exploration also finds **exterior witnesses** resembling the aftermath or
+geometry of several forbidden systems. These include the Issa anomaly, disputed
+artificial structures, and landscape-scale correspondences on uninhabited
+worlds with no known prior visitation. A correspondence is not automatically a
+deployment. Dating a landform does not date the textual description, and
+matching a geometry does not prove a common builder or mechanism.
+
+Future exploration lore must preserve four boundaries:
+
+1. No fragment may establish a fully mapped ancient empire merely by existing.
+2. No landscape resemblance may override contrary geology or weak provenance.
+3. No exterior witness may merge the six systems into one technology without a
+   later entry earning that revision.
+4. No claim of an unvisited world may be treated as omniscient proof that no
+   forgotten, concealed, or extrinsic visitor ever reached it.
+
+The unsettling canon fact is the recurrence, not a solved cause. The known
+region is small enough for the same warning to travel, old enough for lineages to
+be lost, and incompletely mapped enough that repeated discovery remains
+plausible without becoming universal instantaneous transmission.
 
 ## Celestial anchors
 
@@ -424,6 +463,9 @@ When designing a new instrument:
    battlefield, regulator, and archive of every system.
 9. Treat all six current systems as separate ontologies unless a later entry
    deliberately earns an interaction.
+10. Give a Blackglass fragment, exterior witness, or parallel taboo a provenance
+    and evidence grade; ubiquity is not permission to place arbitrary knowledge
+    without material history.
 
 ## Deliberately unresolved questions
 
@@ -445,6 +487,10 @@ When designing a new instrument:
 - Did any viable catalytic seed escape Apsis, and could evidence of a distant
   conversion still lie outside the known region's present light cone?
 - What lies beyond the mapped route network?
+- Why do Blackglass fragments recur throughout explored space, and why do their
+  media so often resemble the technology available near the find?
+- Which exterior witnesses record ancient use, recurrent discovery, natural
+  analogy, or misclassification?
 
 These are design resources, not omissions that must be repaired before another
 weapon can be written.
