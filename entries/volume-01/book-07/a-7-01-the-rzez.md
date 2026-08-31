@@ -42,7 +42,7 @@ evidence_model: codex-grade-a-through-e
 source:
   exemplar: exemplars/Volume 1 - The Rzez.md
   sha256: facbfa211443a253e057ef51343d5087a2b24df10d15e242fc26b7a9152c58a4
-  body_relation: exact-copy-after-front-matter
+  body_relation: adapted-from-exemplar
 entities:
   people:
     - varek-ilyr
@@ -50,13 +50,19 @@ entities:
   places:
     - valec
     - kharos
+    - avara
+    - odran
     - issa
   institutions:
     - concordant-temples
+    - blackglass-devotional-movements
     - first-quarry-houses
     - institute-of-applied-continuity
     - compact-commission
     - sixth-compact-of-kharos
+    - articles-of-open-radiance
+    - articles-of-bodily-dissent
+    - common-matter-interdict
   events:
     - gentle-opening
     - destruction-of-valec
@@ -66,6 +72,10 @@ themes:
   - weaponized-infrastructure
   - continuity-and-identity
   - industrial-knowledge-to-prohibition
+  - knowledge-as-capability
+  - skeptical-terror
+  - civil-architecture-after-catastrophe
+  - mechanism-non-equivalence
 ---
 
 # The Codex of Arcane Engineering
@@ -108,6 +118,16 @@ The historical record is not uniform. The Rzez existed for centuries under condi
 - **Grade E:** Folklore, rumor, propaganda, visionary testimony, or technically unexplained anomaly.
 
 The scale assesses historical support, not metaphysical truth. Several Grade E traditions describe effects that later appeared in well-documented incidents.
+
+### Note on the present recension
+
+The text below does not pretend to be one surviving document from one century. Its oldest technical language predates the Sixth Compact. Its chronology reaches through Meren, approximately two centuries after the Compact, to the current-era Orchard Ship rumor. The headings, parenthetical clarifications, evidentiary grades, quotations, and field records therefore need not belong to one editor or one archival layer.
+
+Official Codex collections commonly separate technical description, legal restriction, survivor testimony, religious tradition, and disputed exterior evidence. The Blackglass recension restores some of those adjacencies because the history of suppression is itself evidence. The restoration is not neutral. Facts that are individually historical may become constructive when placed beside one another.
+
+Later material is identified by source or editorial function where the surviving witnesses permit it. A restored cross-reference does not make its subjects one mechanism. An unattributed Blackglass hand is not the voice of Ilyr, the Quarry Houses, the Compact Commission, or the dead of Valec.
+
+> **Unattributed later hand:** *Doubt the account. Respect the radius.*
 
 ## Abstract
 
@@ -160,6 +180,12 @@ The term eventually came to encompass five related things:
 5. **The Rzez:** the legendary total technology, including the disputed planetary implementation sometimes called the World Butcher.
 
 This ambiguity is important. Many old records claim that “the Rzez” was present when they mean only that some derivative field was used. Conversely, several states denied possessing the weapon by admitting only to “industrial cohesion equipment.”
+
+### Later note on the word *agreement*
+
+The opening commentary says that the Rzez breaks “the agreement by which matter remains a thing.” Later Kharosi readers sometimes mistake the phrase for a technical reference to **The Agreement**. It is not. The resemblance is linguistic, and the distinction can decide whether an investigator survives.
+
+Here *agreement* is ordinary language for the relationships that let one material structure persist. The later weapon couples prediction and correction among active nervous systems and machines. A Blackglass cross-reference restores the linguistic collision so that it cannot be mistaken for a common mechanism.
 
 ## Technical foundations
 
@@ -347,6 +373,16 @@ Once these systems became mutually unstable, gravity completed the process.
 ## Discovery traditions
 
 No single account of the Rzez’s discovery is universally accepted. The historical engineer’s account is best supported, but older myths contain details later associated with actual Rzez behavior.
+
+### Human lineage and the Founding Interval
+
+The supported technical lineage begins in the Meridian Age with human quarry engineering. That claim is narrower than it first appears.
+
+Humanity reached Kelan–Ruva from Earth during the Founding Interval, at least several millennia before the Meridian Age. Avara preserves the oldest continuously occupied refuge in that system. Kharos became the later demographic, legal, and academic home world. No arrival record connects the founding passage, its missing transit method, or any carrier assemblage to the Rzez.
+
+Kharos is therefore the center of later Rzez jurisprudence and the site of the Bell Chamber experiments, not the instrument's birthplace and not humanity's cradle. The First Quarry Houses and the places named in the early discovery traditions remain geographically unassigned unless their own records say otherwise.
+
+The classification **known human lineage** means that Ilyr's industrial descent can be reconstructed. It does not settle whether the Issa anomaly is natural, forgotten human work, independent invention, misclassification, or something nonhuman. Nor can the old observations be converted into a numbered Earth civil year. The stars preserve the interval. They do not preserve the name of the year.
 
 ### The Gentle Opening
 
@@ -782,6 +818,16 @@ Compact survey vessels are prohibited from landing.
 
 Three unauthorized expeditions disappeared. The fourth returned with all hull seams loosened and no memory of touching the surface.
 
+#### The returned alloy leaf
+
+Later Blackglass scholarship treats the moon as an **exterior witness**: a physical anomaly outside the accepted human history of the Rzez that resembles one of its residual states. The term records correspondence, not deployment. Surveyors prepare for entropic separation. Historians do not thereby assign an operator.
+
+Inspectors of the fourth expedition found a thin alloy leaf inside a sealed survey locker. The material came from the same manufacturing batch as the vessel's disposable hull-witness strips. Its surface carried a local-language rendering of the ancient line about “the moon that was butchered but forbidden to fall apart.” The strip was absent from the departure inventory. The surviving crew denied engraving it or opening the locker.
+
+The leaf is **Grade B** as a post-return object, **Grade D** for its unexplained chain of custody, and **Grade E** as evidence that either the Compendium or the moon produced it. It may have been planted before departure, manufactured during the unauthorized mission, or altered by a crew whose memory loss has an ordinary cause. It remains quarantined. It has not justified another landing.
+
+> **Unattributed later hand:** *The moon is not proof that Ilyr inherited his instrument. It is proof that we possess a moon we cannot safely touch.*
+
 ### The lost city of Meren
 
 **Approximate date:** Two centuries after the Compact  
@@ -817,6 +863,19 @@ A darker version claims the ship carries a controlled planetary Rzez and searche
 No credible sighting exists.
 
 Several governments nevertheless maintain classified procedures for identifying large regenerative vessels.
+
+### Later Blackglass reception of the older accounts
+
+The named incidents did not remain inert history. Later Blackglass annotations record how communities changed the custody of dangerous text around them. These practices are not evidence that a page can carry a Rzez field. They are evidence that a technical account can change who is willing to read, translate, transport, or complete it.
+
+- At **Keth Aru**, later readers naturally associate the black wedge with Blackglass. The surviving temple inventories never use that name. The resemblance may preserve an old connection, a local naming habit, or nothing more than two feared dark objects described by the same vocabulary.
+- **Orsan** copyists preserve incompatible endings to the Last Wedge account and refuse requests to harmonize the clan mother's burial instructions. They answer a demand for the correct version with: “The one that leaves the grave where it is.”
+- In the former port cultures of **Serevan** and the **Veyran League**, ordinary transmission by ceramic slips, repair marks, insurers, prize courts, and shipyards made provenance as important as wording. After the Glass Fleet, custom records who brought a page aboard before anyone reads it.
+- Traditions descended from **Kareth** treat the material relationships of a genealogy as part of the dead. Extracting an engineering sequence from a funerary record is described not as research but as reuse of human remains.
+- **Orel** inspectors do not read a Blackglass passage about a bridge while standing upon that bridge. The rule is partly ritual and partly epistemic hygiene: an engineer who understands the warning may no longer be able to certify the structure without hearing a third tone in every result.
+- Around **Meren**, loose pages, detached shadows, and unowned names are called forms of the same bad hospitality. The comparison remains folklore. It does not establish that Blackglass destroyed the city, that a text can propagate cohesion failure, or that the upright jars were spared by intention.
+
+These annotations preserve local reasoning rather than one universal taboo. Each culture fears a different failure of custody, and each has something different to lose by making the account complete.
 
 ## Material response
 
@@ -990,6 +1049,26 @@ A Rzez crime scene often looks too clean. There is no burn pattern, explosive re
 
 Instead, everything has simply stopped agreeing with everything else.
 
+### Differential diagnosis among later systems
+
+Continuity schools compare the six current crises because law, rescue, and forensics require differential diagnosis. They reject a common physics.
+
+- The Rzez invalidates relationships inside an existing material target. The Unhidden directs the growth, repair, and functional assignment of finite living matter. Living tissue's ordinary repair response to low-level Rzez exposure does not make entropic failure a morphogenic process.
+- Rzez damage develops inside one ordinary geometry and chronology. A Manifold incident leaves local observations exact while preventing them from composing one global place or history. Disagreement among surveys is not, by itself, evidence that matter has lost cohesion.
+- The Closed Night controls radiative transport across a powered enclosure. It may make a place dark, silent by radio, and unable to shed heat while every wall remains structurally sound. The accepted account treats the Quiet as failed mechanical transmission inside a deteriorating target, not a radiant boundary.
+- The Agreement redistributes prediction error among actively coupled nervous systems and machines. It can make every inspector report the same wrong answer about a sound building. The Rzez can make every independent inspector correctly report that a condemned building still appears sound.
+- The Rehearsal destroys and converts through delivered energy, particle interaction, and quench-produced matter. Its strangelet hazard is material conversion, not target inheritance, entropic unmaking, or the release of a structure's stored load.
+
+Shared words such as *boundary*, *identity*, *inheritance*, *agreement*, and *continuity* are warnings about translation, not evidence of a common inventor or force. No combined deployment is established.
+
+### Distributed confirmation in Kelan–Ruva
+
+Present Rzez forensics in the Kelan–Ruva system is deliberately divided. Kharosi continuity schools maintain cohesion sonography, case law, and public material-witness practice. Avaran facilities retain independent records, local shutdown authority, and archives that can continue when a link to Kharos is cut. Odran supplies vacuum material references and physically separated laboratories whose samples, power, clocks, and records do not depend upon one pad.
+
+A result copied through the system's high-capacity optical backbone is not three independent results. Investigators ask whether Kharos, Avara, and Odran collected different physical witnesses through genuinely separate paths. A physical sample, transport carrier, or continuous structure suspected of Rzez exposure is isolated before comparison. Clocks, archives, and communications links are kept independent for a different reason: to preserve evidentiary independence. Received data do not carry a Rzez field.
+
+The arrangement is intentionally inconvenient. In the present recensional account, no one world's result is treated as the only test, the only archive, or sufficient warrant by itself to declare another world sound.
+
 ## Countermeasures
 
 ### Discontinuous construction
@@ -1053,6 +1132,18 @@ Because isolation is destructive, adversaries often fabricate Rzez evidence.
 The Sixth Compact therefore requires independent confirmation before regional disconnection, except where delay would create planetary risk.
 
 The argument over when to cut and when to investigate remains one of the central political dilemmas of the post-Valec world.
+
+### The post-Valec built environment
+
+The most durable Rzez countermeasure is not a secret material. It is a civilization willing to preserve useful discontinuities.
+
+On **Kharos**, surface gravity of approximately 1.54 g makes small hidden weaknesses consequential. Public works tend toward low, broad, cellular forms with visible inspection seams, independent load paths, sectional utilities, and lifting systems designed for routine use. Ports avoid one continuous storm barrier where independent cells can serve. A wall that protects every district when intact may also connect every district when continuity itself becomes dangerous.
+
+On **Avara**, atmosphere, water, power, and transport are divided into district-scale systems able to survive one another's isolation. Minimum viable stores and shutdown authority remain local even where the optical network is dense. This design cannot treat disconnection as harmless: an isolation order that stops propagation but removes air or water has allowed the defense to finish the attack.
+
+On **Odran**, distance between airless pads was practical before Valec. It later became doctrine. Standards vaults and laboratories use separate foundations, power, thermal control, data systems, landing capability, and removable stand-off carriers. No shared tunnel, utility spine, clock, or archive should be necessary for every facility's survival and truth at once.
+
+Kharos, Avara, and Odran remain intensely interdependent. Their achievement is not permanent separation. It is the ability to become three local systems long enough for one suspected path to be cut without converting precaution into abandonment.
 
 ## Failure modes of the instrument
 
@@ -1282,6 +1373,22 @@ A persistent legal problem concerns incomplete knowledge. A researcher may redis
 
 The Compact courts answer that dangerous truth does not become safe because it was independently found.
 
+### Capability assembled from fragments
+
+The Sixth Compact does not prohibit the Blackglass Compendium as one indivisible object. It can prohibit a carrier, translation key, or restored cross-reference when that material supplies Rzez characterization, focusing, propagation, simulation, or synchronization capability.
+
+The difficult cases are cumulative. One fragment may be survivor testimony. A second may reveal the industrial lineage behind a censored term. A third may make the same holding reconstructable. Kharosi courts therefore distinguish an inert fragment, protected belief, victim testimony, historical scholarship, and the assembly of information sufficient to build or simulate what no single page contains.
+
+The Compact Commission contributes material dating, chain-of-custody analysis, and authentication of alleged Rzez fragments and exterior witnesses. It does not own Blackglass, decide all religious questions about it, or acquire jurisdiction over every dangerous system in the collection.
+
+### A specific treaty, not a universal prohibition
+
+The Sixth Compact remains specific to the Rzez. Later jurisdictions may borrow its isolation procedure, independent confirmation, and capability-based treatment of partial knowledge, but borrowed procedure does not merge legal authority or physics.
+
+The Articles of Open Radiance govern hostile radiant-return systems. The Articles of Bodily Dissent govern coercive reciprocal coupling. The Common Matter Interdict governs Rehearsal convergence and strangelet custody. Created-person law and Manifold quarantine require still other authority. None becomes a Rzez offense because a court uses the word *continuity*.
+
+This boundary protects more than bureaucratic neatness. A Commission order to sever a contaminated bridge may save a city. The same isolation doctrine applied automatically to a conscious open form, an inhabited radiative enclosure, or a disputed history could become the catastrophe it claims to prevent.
+
 ## Cultural afterlife
 
 The Rzez transformed language.
@@ -1303,6 +1410,24 @@ Architects leave visible seams in public buildings to show that no structure pre
 Wedding rituals sometimes include two separate cups rather than one shared vessel, symbolizing chosen connection without loss of independent continuity.
 
 In mourning, Valeci families record not only names but relationships: who knew whom, who repaired what, who stood where, which objects belonged together. Their memorial books are called **cohesion ledgers**.
+
+### Valeci custody and refusal
+
+Valeci communities regard Blackglass with bitter ambivalence. The recension preserves testimony that governments and militaries denied, separated, or classified. It also converts the murder of a world into a technical lineage that readers elsewhere can admire, study, and perhaps complete.
+
+Some cohesion ledgers quote a witness while refusing the Codex filing number, every synchronization value, and every constructive cross-reference. Many memorial readers speak the names of the dead but do not speak the complete name of the weapon. They reject the claim that refusal is ignorance.
+
+In one common formulation, an unread parameter is the last boundary the dead can still enforce.
+
+### Burdened witness and devotional reply
+
+The Concordant Temples are not one church. Their member traditions disagree about creation, revelation, death, and whether matter possesses sacred unity. They agree more narrowly that testimony capable of revoking another being's possibility of repair cannot become private revelation.
+
+They call Blackglass a **burdened witness**. A sealed fragment may be preserved to recognize danger, honor the dead, or prevent repetition. That obligation does not place the fragment on an altar or grant a reader permission to perform what it describes. Temple custodians divide technical bodies from translation keys, retain victim testimony after removing constructive values, and refuse to test an existential claim by causing the predicted event.
+
+Blackglass devotional movements reverse the inference. Some treat danger as evidence that the collection has selected or answered its readers. Rzez liberation cults may use the entry as a gospel of release from forced continuity; Open Margin cells may pursue its omissions as tasks left by an earlier hand. The networks can exchange members, fragments, and rhetoric. They are not one religion, and their overlap is not evidence that Blackglass, the Rzez, or the other forbidden systems share one agency.
+
+Where Blackglass goes, trouble follows. Whether the collection brings the trouble, reveals it, attracts those prepared to make it, or arrives afterward in the hands of survivors remains unresolved.
 
 ## The Ilyr fragments
 
@@ -1369,6 +1494,9 @@ The following questions remain open:
 - Can observation or memory stabilize cohesion?
 - Can a society, law, language, or person be butchered without physical destruction?
 - Is the Rzez a weapon applied to reality, or an exposed property reality always possessed?
+- Which passages in the present recension survive independently, and which apparent witnesses descend from one censored or Blackglass copy?
+- What happened inside the fourth Issa expedition, and who or what engraved the quarantined alloy leaf?
+- How much defensive knowledge can be preserved before the archive itself becomes a reconstructable instrument?
 
 ## Engineering interpretation
 

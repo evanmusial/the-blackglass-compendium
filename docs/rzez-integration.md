@@ -34,6 +34,26 @@ At initial integration, the working file consists of newly added YAML front
 matter followed by a body identical to the preserved exemplar. Future prose
 revision belongs in the working file, not the exemplar.
 
+### Current source relation
+
+The first substantive recensional revision retains every line of the exemplar
+body in its original order and inserts later material around it. The working
+entry now declares:
+
+`body_relation: adapted-from-exemplar`
+
+The exemplar path and checksum remain the provenance anchor. The revision adds a
+Blackglass recensional notice, six-system differential diagnosis, the
+Founding-Interval boundary, the Issa alloy-leaf evidence, later reception of
+older sites, distributed Kelan–Ruva forensics, post-Valec civil architecture,
+capability-based information law, and expanded survivor and religious response.
+These additions draw on canon recorded elsewhere and add bounded, entry-local
+recensional elaboration. They do not make disputed Rzez theories true, identify
+the Prior Hands, or merge the six systems.
+
+The entry remains a provisional working draft. Enrichment is not an adoption
+decision.
+
 ## Taxonomy decisions supported by the manuscript
 
 The manuscript explicitly establishes:
@@ -105,14 +125,15 @@ integration has now performed the parts that can be answered provisionally:
 4. Only recurring Kharos, Avara, Odran, and institutional anchors were promoted.
 5. Taxonomy prose was revised provisionally; entry-schema changes remain
    deferred until a draft needs them.
-6. The Rzez body remains an exact copy of its exemplar. Only front-matter entity
-   navigation was extended to the Institute of Applied Continuity.
+6. At that stage, the Rzez body remained an exact copy of its exemplar. Only
+   front-matter entity navigation had been extended to the Institute of Applied
+   Continuity. The later recensional revision is recorded above.
 
 ## Subsequent setting and frame decisions
 
 The initial manuscript migration deliberately left two matters unresolved. They
-were later recorded as provisional layers rather than inserted into the preserved
-exemplar:
+were later recorded outside the preserved exemplar and are now reflected, with
+their evidence boundaries intact, in the active working entry:
 
 - `canon/setting-scope.md` initially established a small interstellar region,
   uncertain human origin, limited routes, and the separate anchors of Kharos,
@@ -122,8 +143,8 @@ exemplar:
   the Avara-first settlement sequence; the numbered Earth year, transit, and
   Earth's fate remain unresolved.
 - `frame/` distinguishes the formal *Codex of Arcane Engineering* from the later
-  *Blackglass Compendium* recension and records a provisional layered compilation
-  history.
+  *Blackglass Compendium* recension and records the established layered
+  compilation history.
 
 These are authorial development decisions supported by the Rzez's implications,
 not passages recovered from the exemplar. Future revisions must preserve that

@@ -29,10 +29,12 @@ The original Rzez manuscript remains preserved at
 Its active, metadata-bearing working copy is
 [`entries/volume-01/book-07/a-7-01-the-rzez.md`](entries/volume-01/book-07/a-7-01-the-rzez.md).
 
-The working copy currently preserves the exemplar body exactly and adds only a
-YAML metadata header. Shared Rzez material has begun to be extracted into the
-provisional canon without silently turning every legend or scholarly theory
-into objective setting truth. See the
+The working copy preserves the complete exemplar body and now adds later
+Blackglass recensional layers drawn from the collection's expanded setting,
+documentary frame, and six-system continuity. Its source relation is recorded as
+`adapted-from-exemplar`; the preserved manuscript itself remains unchanged.
+Shared Rzez material continues to distinguish established setting commitments
+from in-world legend and disputed theory. See the
 [`Rzez integration record`](docs/rzez-integration.md).
 
 Three later systems are adopted entries with established authorial status:
