@@ -18,9 +18,20 @@ Issa is a gas giant in a frontier system. Its small inner moon has an anomalousl
 separated interior and may be evidence of planetary or lunar Rzez technology
 predating every known civilization.
 
-The moon remains roughly spherical even though radar indicates billions of
-unattached stone domains separated by microscopic gaps. The anomaly is Grade C;
-Rzez attribution is Grade E.
+The moon remains roughly spherical even though radar echo tomography, anomalous
+libration, and tidal response imply an interior that is only weakly
+shear-connected. The favored inversion contains billions of closely packed stone
+domains without durable attachment, but radar does not resolve microscopic gaps
+or count those domains directly. Exotic rubble-pile structure,
+volatile-cemented breccia, electrostatic separation, magnetospheric distortion
+of the observations, and an incorrect internal model remain live alternatives.
+The anomaly is Grade C;
+its exact microscopic geometry and Rzez attribution are Grade E.
+
+The common statement that the moon “should have compacted” is conditional upon
+the favored mass-and-density inversion. The moon's radius, mass, density, and
+orbit remain undesigned, and current remote solutions do not make gravitational
+compaction an interpretation-free observation.
 
 ## Access
 

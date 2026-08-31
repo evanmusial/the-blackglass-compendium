@@ -76,6 +76,9 @@ themes:
   - skeptical-terror
   - civil-architecture-after-catastrophe
   - mechanism-non-equivalence
+  - measurement-and-inference
+  - competing-models
+  - oral-transmission
 ---
 
 # The Codex of Arcane Engineering
@@ -233,6 +236,37 @@ Gravity pulls weakened stone apart. Residual stress shatters glass. Internal pre
 
 The Rzez does not overpower structure. It removes structure’s privilege of remaining stable.
 
+### What instruments actually observe
+
+**Cohesion architecture**, **edge invalidation**, and **entropic bias** are models. They organize the evidence. They are not substances or currents that an instrument has directly detected.
+
+The strongest controlled and forensic records agree on a narrower set of observations:
+
+- balances find no missing mass beyond material that has physically departed the specimen;
+- chemical and isotopic assays find no transmutation capable of explaining the loss of function;
+- calorimeters find no prompt heat sufficient to pay the later mechanical cost of collapse, while impulse and radiation sensors find no corresponding shock or ionizing dose;
+- diffraction can remain ordinary inside surviving crystal grains while transfer across grain boundaries becomes unstable;
+- repeated acoustic and ultrasonic probes show modal splitting, widening resonance peaks, and loss of phase coherence between regions that previously moved together;
+- low-load strain maps migrate between nominally identical trials even when average stiffness remains inside ordinary tolerance;
+- microscopy finds early separation concentrated at stressed interfaces, defects, phase boundaries, adhesive layers, and biological junctions rather than a uniform loss of material; and
+- after the emitter is removed, divergence can continue to widen under gravity, thermal cycling, vibration, pressure, or ordinary use.
+
+No one observation is unique to the Rzez. Fatigue, corrosion, bad bonding, heat damage, radiation embrittlement, poor manufacture, and fraud can reproduce individual signs. The characteristic finding is a relationship among signs: chemically ordinary matter develops a changing mechanical answer faster, and across more independent modes, than the measured environment or known damage can explain.
+
+> *No instrument has detected a cohesion architecture. Instruments detect the increasingly irreproducible consequences of behaving as though one has been damaged.*
+
+— Institute teaching caution, current attribution unresolved
+
+### Why there is no accepted dose
+
+Rzez exposure cannot be reduced to one target-independent number analogous to energy per mass. Emitter power and contact time matter, but they do not predict outcome without the target's composition, geometry, manufacturing history, existing load, thermal state, boundary connections, repair activity, and the degree of characterization already achieved.
+
+Two matched beams can receive the same apparent exposure and fail years apart because they are loaded differently afterward. Two unlike structures can receive different exposures and enter cascade together because one supplies the other's next load path. A planetary array therefore cannot be described as a hand instrument with a larger dose.
+
+The measurement problem is also physical. A strain gauge, accelerometer, cable, sample mount, or witness coupon becomes another structure coupled to the target. It can alter a load path, bridge an intended discontinuity, or inherit damage. High-quality records distinguish remote observation from attached instrumentation and record exactly which sensors shared material continuity.
+
+No calibrated instrument has detected a free Rzez field in empty space with accepted repeatability. Investigators measure emitter operation and target response. That boundary does not prove that the field exists only in matter. It prevents a useful engineering model from being mistaken for a directly observed medium.
+
 ### Structural characterization
 
 Before the field can propagate efficiently, the instrument must characterize the target.
@@ -293,6 +327,18 @@ Religious traditions claim the Quiet is the moment in which matter realizes it h
 Engineers publicly reject that language.
 
 Many engineers still refuse to speak during the Quiet.
+
+#### Instrumental anatomy of the Quiet
+
+The small number of instrumented Quiet records does not show all motion ending. It shows motion ceasing to compose one shared mechanical event.
+
+Optical vibrometers can continue to see individual surface regions, plates, or fragments move while accelerometers mounted across different structural domains lose phase agreement. A machine bed may still vibrate locally even after its vibration no longer reaches the floor in a stable way. Airborne microphones sometimes retain the direct sound of a voice or motor while the room's reverberation shortens sharply because walls and fittings stop returning that sound coherently.
+
+Witnesses frequently report increased pressure. Surviving barometers and free-air pressure sensors do not confirm a corresponding atmospheric rise. Physicians propose altered bone conduction, dental stress, involuntary muscular bracing, or the sudden loss of familiar background vibration. None explains every report.
+
+These observations support localization without proving that mechanical information is literally trapped. Ordinary chamber resonance, recorder feedback, mode migration through loose fragments, and undocumented contact paths remain live explanations for most apparent post-collapse sound.
+
+The final Bell Chamber record is harder. Nine hours of mobile sound after visible disintegration exceeds every accepted reconstruction of the apparatus. It remains one anomalous Grade A record, not a general property assigned to every Quiet.
 
 ## Physical forms and engineering lineage
 
@@ -470,6 +516,16 @@ Imperial records confirm that the Ninth Expedition vanished in the Orsan Pass. T
 
 The Orsans insist the wedge was buried with the clan mother and that the grave has never remained in the same place for two winters.
 
+#### The moving endings of Orsa
+
+Recorded versions do not move the grave arbitrarily. Their cairns, snow shelves, “winter doors,” and vanished paths migrate along known slope-creep zones and abandoned pass lines. Modern route surveys document the geographic correlation. The current recension assigns it **Grade B**. The claim that reciters deliberately preserved a distributed hazard map is **Grade D**. The survival of a buried wedge remains **Grade E**.
+
+Recorded Orsan guides accept the geomorphology and reject the conclusion that it disposes of the story. One customary answer is:
+
+> *You have explained how the grave moves. You have not told us what we buried.*
+
+The account remains useful even if no weapon lies beneath the pass. It warns travelers away from unstable winter ground and frustrates attempts by imperial mapmakers, excavators, or scholars to acquire one authoritative location.
+
 ## Historical uses, alleged uses, and surviving stories
 
 ### The First Quarry accidents
@@ -491,6 +547,16 @@ A recovered memorandum states:
 > *Do not permit the separated stone to touch the supports. Do not reuse the separated stone. Do not build sleeping quarters beneath any chamber where the field has been established.*
 
 The document is dated forty-six years before the Houses publicly admitted that propagation beyond a target boundary was possible.
+
+#### Shift sayings and withheld casualties
+
+Quarry labor preserved warnings through shift handovers, apprenticeship, and wage disputes long after the Houses controlled written casualty records.
+
+In later Quarry dialect, **it passed the cup** means that one successful test has proved only one test. The phrase recalls the support pillar that passed every formal load trial and then separated when struck with a wooden drinking cup. Another refrain sets the official bonus roll against the omitted memorial:
+
+> *Forty-eight paid. Seven carried.*
+
+The payroll and memorial numbers are **Grade A**. The survival of both refrains is **Grade C**. Their attribution to Ilyr's own crews is **Grade D**. Whatever their age, each saying preserves something the official record tried to separate: production from risk, and success from the people who paid for it later.
 
 ### Deren Keep
 
@@ -542,6 +608,14 @@ A surviving priest wrote:
 
 Later theorists cite Kareth as possible evidence that the Rzez may act upon institutional identity when that identity is materially encoded. Mainstream scholarship considers the claim metaphorical.
 
+#### Kareth's three-voice genealogies
+
+Post-Kareth inheritance courts in several successor traditions do not permit one archive or reciter to hold a complete pedigree. One witness names relationships of care. A second names obligations, inheritances, and debts. A third names disputes, repudiations, adoptions, and people whom official dynasties tried to omit. A claim exists only where the three accounts overlap without becoming identical.
+
+Current legal use of the method is **Grade B**. Descent from surviving Ossuary priests is **Grade C**. The belief that a divided genealogy resists symbolic propagation or a Rzez tuned to represented kinship is **Grade E**.
+
+The custom solved an ordinary problem after the physical archive was destroyed: it allowed kinship to be proved without rebuilding the single dynastic tree that had helped produce the war. Kareth therefore survives not as one restored lineage but as a disciplined disagreement about how people belonged to one another.
+
 ### The Glass Fleet of Serevan
 
 **Approximate date:** Middle Meridian Age  
@@ -569,6 +643,16 @@ Divers later found several hull sections intact but incapable of being reassembl
 
 Sailors still claim that on windless nights the water above the wrecks becomes perfectly flat and produces the sound of ropes being slowly untwisted.
 
+#### Serevan launch rolls
+
+After the Glass Fleet, documented Serevan-derived shipyards stopped blessing a vessel as “one hull.” Their launch rolls instead name distinct material lots, repair yards, insurers, and responsible hands. A ship can still receive one legal name, but its provenance is recited as a set of accountable continuities rather than a declaration of perfect unity.
+
+> *Name the hands, not the ship.*
+
+Surviving yard and insurer rolls are **Grade B**. Their direct descent from Fleet survivors is **Grade C**. The belief that speaking material distinctions makes a vessel harder to characterize is **Grade E**.
+
+The practice remains useful without its claimed direct protective effect. It exposes standardized defects, establishes liability, and tells an investigator whether two failures that appear independent were repaired from the same contaminated lot.
+
 ### The Seven Bridges of Orel
 
 **Approximate date:** Late Meridian Age  
@@ -593,6 +677,19 @@ The bridge’s final inspector survived because he was standing on the riverbank
 The Seven Bridges led to the doctrine of **suspected unmaking**, under which any structure that could not be proven untouched was treated as lost.
 
 Enemy agents quickly learned that forged contamination notices could empty cities more cheaply than actual deployment.
+
+#### The Orel latency catechism
+
+Orel inspection schools compress the bridges' lesson into a licensing exchange:
+
+> **Examiner:** How long did the bridges last?<br>
+> **Apprentice:** Minutes. Days. By order. Eleven years.<br>
+> **Examiner:** When was the seventh safe?<br>
+> **Apprentice:** When it was gone.
+
+Current use of the exchange is **Grade A**. Its attribution to the seventh bridge's final inspector is **Grade D**.
+
+“By order” matters. Three bridges were dismantled before they could supply a natural failure time. The evidence is censored by successful precaution. The seven cases therefore establish a broad conditional hazard after exposure, not a universal countdown and not proof that every dismantled bridge would have failed.
 
 ### The Night of Hollow Armor
 
@@ -775,9 +872,31 @@ The final verified transmission from the surface came from the Halden Geological
 
 Evacuation craft failed in large numbers because their materials had already been exposed. Some reached orbit and came apart during docking. Others survived for months before structural systems began to inherit the pattern from contaminated cargo or passengers’ possessions.
 
+#### The Valeci departure order
+
+Late docking packets repeatedly contain variants of one instruction:
+
+> *Leave what knew the ground.*
+
+Operationally, the phrase meant jettisoning surface-exposed physical cargo before docking with an uncontaminated vessel or habitat. It did not classify testimony, voices, or remotely received data as infectious. The packet family is **Grade B**. Attribution to any first speaker is **Grade D**. The claim that objects literally remember Valec is **Grade E**.
+
+The instruction remains contested among survivor communities. One tradition holds that abandoning possessions saved receiving habitats. Another argues that forcing refugees to discard tools, keepsakes, physically exposed recording media, and other material witnesses allowed the attackers to complete the erasure of Valec. Both accept the physical risk of target inheritance. They disagree about what survival owes the dead.
+
 Fewer than three million people escaped.
 
 The event created the Sixth Compact of Kharos (the multinational treaty that prohibited Rzez engineering above tightly controlled industrial thresholds).
+
+#### Orbital and seismic record
+
+The planetary mechanism is reconstructed from several observations of unequal strength.
+
+Orbital altimetry directly recorded the Aster Plateau's descent and the later loss of recognizable topography. Precision tracking of surviving satellites supports redistribution of Valec's mass rather than disappearance of it. Spectroscopy recorded mineral aerosol, water vapor, and ordinary high-temperature products following ocean ingress and deformation; it did not record the energy signature of a planet being vaporized or converted into exotic matter.
+
+The seismic record is stranger. Stations first reported broader arrival windows, changing phase relations, and events that could be located locally but not propagated through one stable planetary velocity model. Long-period normal modes lost coherence as continental failure advanced. The final record is distributed broadband deformation, steam release, landslip, and gravitational settling rather than one conventional rupture.
+
+“No major earthquake” therefore does not mean “no energy release.” It means the energy did not travel through the planet as one ordinary elastic event. Ocean pressure, falling rock, decompression, and gravity supplied immense work after long-range load transfer had already become unreliable.
+
+Crustal loss of mechanical continuity is a strong inference. Separation into mantle convection domains, the path by which the array reached them, and the claim that every major failure belonged to one synchronized propagation front remain models. The instruments observed a world cease to answer as one body. They did not observe the field equation that caused it.
 
 #### The Valec soil surveys
 
@@ -806,7 +925,13 @@ The commission concluded:
 
 The inner moon of Issa is not fragmented in the ordinary sense. It remains roughly spherical, but radar reveals that its interior consists of billions of unattached stone domains separated by microscopic gaps.
 
+Here *reveals* is inherited editorial shorthand. Radar echo tomography does not resolve microscopic gaps directly. Irregular internal echoes, anomalous libration, tidal response, and the moon's failure to behave as one shear-connected body support an inversion in which many stone domains remain closely packed without durable attachment.
+
+That inversion is not unique. An exotic rubble pile, volatile-cemented breccia, electrostatically separated material, magnetospheric distortion of the observations, or an incorrectly modeled internal structure can reproduce parts of the evidence. “Billions of domains” describes the favored reconstruction, not a counted inventory. The physical anomaly is **Grade C**. Its exact microscopic geometry and Rzez attribution are **Grade E**.
+
 The object should have compacted under gravity. It has not.
+
+That conclusion is conditional upon the favored mass-and-density inversion. Issa's moon does not yet have a fixed authorial radius, mass, density, or orbit, and the available remote solutions are not precise enough to make gravitational compaction an interpretation-free observation.
 
 No conventional impact explains the lack of melt, shock, or mixed strata.
 
@@ -863,6 +988,16 @@ A darker version claims the ship carries a controlled planetary Rzez and searche
 No credible sighting exists.
 
 Several governments nevertheless maintain classified procedures for identifying large regenerative vessels.
+
+#### Three Orchard rumors
+
+The ship remains **Grade E**. The existence of three politically distinct rumor families is **Grade B**.
+
+- One documented Valeci memorial tradition describes an ark that carries ecosystems and testimony but no weapon. Its readers regard the revenge version as a pretext for searching survivor vessels and treating every unregistered Valeci community as an arsenal.
+- Some security briefings describe the ark story as camouflage for a surviving strategic capability. Commission investigators and rival services object that this claim can become non-falsifiable when every failure to find the ship is counted as evidence that its regenerative hull is working.
+- Among some seed-bank and agricultural crews, **Orchard Ship** is a sarcastic name for any repository claiming complete provenance, perfect redundancy, or possession of the last uncontaminated example of anything.
+
+The rumor survives through hope, policing, fraud, and diaspora politics rather than credible sightings. A continuously renewed hull would be an active-repair countermeasure under Rzez theory. It is not evidence of an Unhidden lineage or a combined system.
 
 ### Later Blackglass reception of the older accounts
 
@@ -1049,6 +1184,39 @@ A Rzez crime scene often looks too clean. There is no burn pattern, explosive re
 
 Instead, everything has simply stopped agreeing with everything else.
 
+### The three-witness protocol
+
+Compact laboratories do not compare a suspected specimen only with an ideal undamaged object. Ordinary damage can make that comparison meaningless. The preferred protocol uses three witnesses:
+
+1. **The suspect:** material taken from, attached to, or observed within the alleged exposure path.
+2. **The damage twin:** uncontaminated material brought to similar visible cracking, stiffness loss, corrosion, thermal history, or fatigue by ordinary means.
+3. **The lineage control:** pristine material from the same manufacturing batch, quarry face, biological culture, or construction lot when provenance allows.
+
+The witnesses occupy separate pads. Their instruments use independent power, clocks, calibration references, and archives so that one bad sensor or copied record cannot manufacture agreement. This separation protects evidentiary independence; received data do not transmit a Rzez field.
+
+Testing begins with remote geometry, optical strain mapping, and laser vibrometry. Isolated weighing, spectroscopy, and diffraction follow before investigators repeat low-energy acoustic, ultrasonic, thermal, and load probes at amplitudes chosen not to proof-test the specimen. Attached sensors are used last because a mount or cable can create a new physical continuity.
+
+Ordinary damage usually answers a harmless test consistently or changes at a rate accounted for by crack growth and environment. Suspected Rzez material changes the structure of its answer: resonance peaks divide, cross-spectral phase moves, strain paths migrate, and newly attached witness material begins to disagree with its own control.
+
+Investigators call this a **repeatable failure of repeatability**. The phrase does not mean that every result is random. It means that several independent methods repeatedly show the target becoming less able to reproduce its previous response.
+
+One odd tone is insufficient. One drifting sensor is insufficient. Even a positive sacrificial-attachment trial can be ordinary contamination or bad joining. A finding of suspected unmaking requires convergent change across independent modalities, a documented or physically plausible path, and failure of the ordinary-damage twin to reproduce the pattern. When no path can be recovered, precaution may still be justified, but attribution remains weaker.
+
+No successful low-load test clears a structure. It establishes only that the tested paths survived that test.
+
+### Timing evidence is not a propagation speed
+
+The best-known cases provide reported intervals of unequal precision and no universal clock:
+
+| Incident | Establishment or first sign | Later failure | Evidentiary limit |
+| --- | --- | --- | --- |
+| Deren Keep | Fewer than four minutes of emitter contact | Curtain wall collapse six days later | One structure and one decisive load redistribution when the gate opened. |
+| Seven Bridges of Orel | Nearly identical siege charges | Minutes to eleven years | Three bridges were dismantled; their natural failure times are censored by successful precaution. |
+| White Orchard | One documented industrial release | Major branches detached at harvest after one apparently healthy season | Growth and weather continued throughout the delay. |
+| Valec | Four-month Gray Season before open planetary collapse | Aster Plateau descended over nine hours; recognizable geography disappeared over eleven days | Suspected emitters were installed over decades; establishment duration is unknown, and these intervals do not measure field transit. |
+
+The cases support conditional hazard after establishment. They do not supply a half-life, a countdown, a minimum safe waiting period, or a speed at which the Rzez moves through all matter.
+
 ### Differential diagnosis among later systems
 
 Continuity schools compare the six current crises because law, rescue, and forensics require differential diagnosis. They reject a common physics.
@@ -1092,6 +1260,8 @@ They are expensive, difficult to manufacture, and often mechanically inferior in
 ### Continuous vibration
 
 Controlled vibration prevents the field from establishing a stable map.
+
+This defense is stage-specific. Before characterization, controlled change can deny the instrument a stable target. After establishment, the same vibration can accelerate fatigue, redistribute load, and hasten cascade.
 
 The defense consumes substantial energy and can cause illness, fatigue, and structural wear of its own.
 
@@ -1185,9 +1355,97 @@ No verified self-characterizing instrument exists.
 
 Several laboratories that attempted one no longer exist either.
 
+## Competing schools of Rzez theory
+
+No accepted model derives the complete Rzez effect from first principles. The most dangerous decisive experiments are prohibited, surviving pre-Compact records omit controls, and contaminated specimens continue changing while they are measured. Present schools therefore compete over explanation while often sharing the same emergency practice.
+
+The schools are not churches. A forensic engineer may use graph theory to predict collapse, an accessibility model to close the energy ledger, and material genealogy to explain a failed repair without claiming that one vocabulary is fundamental.
+
+### The mandatory null
+
+Before confirming the Rzez, investigators must test ordinary fracture, fatigue, corrosion, thermal shock, radiation damage, manufacturing defect, sabotage, sensor error, copied data, and fraud. When the plausible consequence is large, isolation and evacuation may precede exhaustion of the null.
+
+The null explains most alarms. It also explains why one apparently distinctive sign proves little. Resonance peaks split around ordinary cracks. Strain maps move as damage grows. Poorly cleaned joints reject repairs. Groups of components from one defective lot fail together. Panic and political interest can make those events look coordinated after the fact.
+
+The null begins to fail when mass and chemistry remain ordinary while several independent mechanical responses drift beyond the measured environment, when an attachment inherits that drift, or when the inferred failure path crosses materials and scales in a way no shared defect explains. A failed null is evidence for an unusual process. It is not automatic proof of a Rzez field or of any particular theory below.
+
+### The Quarry Graph School
+
+The dominant operational school descends from cohesion graph theory. It treats the target as a weighted network of load-bearing relationships. Characterization identifies high-consequence edges. Bias reduces their reserve. Ordinary redistribution completes the cascade.
+
+The model explains the Gentle Opening, Deren Keep, the Seven Bridges, strategic lattices, nonlinear delay, and the value of discontinuous construction. It predicts that matched exposed structures will fail according to their later load histories; that unlike redundant paths will delay cascade; that early physical severance can arrest propagation; and that sonographic modes will divide as the remaining graph approaches a connectivity threshold.
+
+Nonlinear delayed failure under later load is **Grade A** in the named controlled and well-documented cases. Extrapolation to the entire family is **Grade B**, as is edge invalidation as the underlying cause. The school does not explain why Valec material resists reassembly after smelting, why an imported repair appears to inherit a site's pattern, or how the final Bell Chamber sound persisted without an intact bell.
+
+Quarry engineers, Orel inspectors, and Compact response teams favor the model because its predictions can be acted upon. Material genealogists accept its collapse maps and reject its claim to have identified the cause.
+
+Its critics say graph theory is an excellent map of how a target fails and no account at all of what the field changes.
+
+### The Seam School
+
+The Seam School places the primary interaction at interfaces: grain boundaries, phase boundaries, adhesive joints, membranes, tissue junctions, faults, and repeating contacts. A cascade becomes possible when susceptible interfaces form a target-spanning network.
+
+It explains mineral-vein separation, steel exfoliation, ceramic delamination, the Glass Fleet, wood separating by structural level, bone's mineral-then-collagen sequence, connective-tissue injury, and the poor propagation of pure fluids. It predicts that chemically identical samples with different microstructures will have different susceptibility, that randomized interfaces will outperform repeated ones, and that first failure will trace a connected interface network rather than a simple distance from the emitter.
+
+Preferential interface failure is **Grade A**. Interface primacy is **Grade C**.
+
+The school persists among forensic metallurgists, ceramic engineers, and historians of the medical separators. Graph theorists treat seams as one important class of edge rather than a competing foundation.
+
+The oldest seam-only model predicted that large monocrystals would be comparatively resistant. The Gentle Opening and several Quarry accidents showed that highly ordered crystal can instead be exceptionally legible. Later theorists proposed “virtual seams” along symmetry planes. Critics answer that a theory which calls every vulnerable plane a seam has stopped risking disproof.
+
+### The Entropic Accessibility School
+
+This is the strongest microscopic physical account. It argues that characterization changes the transition landscape so that disordered structural states become easier to enter. The field does not need to supply the work of breaking a world. Stress, gravity, heat, pressure, and vibration supply it after the ordered state loses its former protection.
+
+The school explains delayed failure, small prompt energy signatures, dependence on ordinary use, sensitivity to thermal cycling, and the importance of correct characterization over indiscriminate power. It predicts that cold or unloaded contaminated specimens will deteriorate more slowly than warm or stressed twins, that combined calorimetric, displacement, strain, acoustic, and seismic accounting will recover ordinary stored or gravitational energy in the final failure, and that some pre-cascade structures may be restored by altering the available state path.
+
+The energy-accounting observations are **Grade A**. Altered accessibility as their cause is **Grade B**.
+
+Kharosi thermodynamicists and conservative Institute successors favor the school. Graph theorists say it does not explain target selection. Material genealogists argue that its state variables omit the very history the field appears to preserve.
+
+Ordinary annealing does not reliably erase contamination. Valec metal could be smelted but not forged reliably. The Forty-First Commission suspected a site effect after imported material failed, but no carrier was isolated. The school can describe that record only by adding a persistent local bias whose carrier no instrument has found.
+
+Its use of *entropic* does not connect it to The Rehearsal. One concerns biased structural transitions; the other concerns extreme heating, particle interaction, and quench-produced matter.
+
+### The Material Genealogy School
+
+Material genealogists treat the history of assembly as a physical variable. Growth history, correlated defects, residual stress, repair sequence, and long use give a structure a genealogy that is not captured by a snapshot of its composition. The Rzez writes hysteresis into that history, and new attachments may inherit it through physical coupling.
+
+The school explains target inheritance, differences between old structures and new copies, correlated failure among material from one ingot, the White Orchard's healthy seeds and dying parent trees, and Valec's inability to become a world again. It predicts that progressive component replacement will preserve the stain more readily than genuinely independent reconstruction, that grafts will inherit more risk than offspring grown from unaffected seed, and that aggressive reprocessing will weaken correlation without necessarily eliminating it.
+
+The White Orchard's recorded sequence and Valec's persistent material condition are **Grade A**. Target inheritance is **Grade B** as a recurrent forensic classification whose carrier and boundary conditions remain unresolved. One genealogical cause connecting all three is **Grade C**.
+
+Material historians and some Valeci reconstruction engineers use the model because ordinary provenance already predicts real failures. Conservative laboratories answer that *material genealogy* often means microstructure the investigator failed to measure.
+
+No measured variable is known to survive every processing route attributed to contaminated matter. Apparent site inheritance can also be ordinary cross-contamination, shared tooling, a remaining physical bridge, or selection of the failures later investigators notice. Valeci authorities further object when cohesion ledgers are treated as experimental datasets rather than memorial obligations.
+
+### The Indexical Cohesion School
+
+The radical school argues that characterization selects a referent—*this continuing thing*—and alters which physical relationships count as belonging to it. The proposal remains inside ordinary geometry and chronology. It is not Agreement coupling, Manifold nonconvergence, or proof that language controls matter.
+
+The school tries to explain a minimum meaningful target, common-origin correlations, inheritance after piecewise replacement, synchronized failure among ceremonial sets, and claims that continuous observation stabilizes a structure. It predicts that materially identical objects with different continuous histories may respond differently, and that a stain may survive replacement even after no original macroscopic component remains.
+
+Its negative evidence is substantial but untidy. Accidental renaming, label swaps, forged provenance, and changes of ownership in historical records have produced no reproducible material effect, although none supplies a clean controlled trial. Physical discontinuity works regardless of what observers call the pieces. Symbol-only cases lack independent custody. Received records do not carry a Rzez field.
+
+Physical common-origin anomalies are **Grade D**. Symbolic propagation, observational stabilization, and institutional action remain **Grade E**.
+
+Minority identity theorists and the prohibited institutional-Rzez school preserve the model. The Compact Commission, most material laboratories, many Valeci communities, and Concordant scholars regard it as an invitation to disguise metaphysical experimentation as engineering.
+
+The cleanest proposed tests would manipulate names, memory, legal identity, or human relationships while holding material pathways constant. No responsible jurisdiction permits a clean sanctioned test. The prohibition leaves the school scientifically frustrated without making it correct.
+
+### The present synthesis
+
+Most Compact engineering uses a deliberately incomplete synthesis: resonant characterization selects a target; an unknown interaction makes some structural transitions easier; graph and interface models predict where ordinary load will concentrate; and residual-pattern doctrine assumes the effect may outlive the emitter.
+
+The synthesis saves lives because each part makes a different practical prediction. It is not a final theory. In particular, it does not explain the Bell Chamber, the full Valec site effect, the Issa anomaly, or whether the word *identity* names a physical variable or a limit in the editors' language.
+
 ## Lesser-known and disputed theoretical properties
 
+The schools above compete over observations that most investigators accept. The following claims extend those models into evidence that is sparse, ethically untestable, dependent upon one witness family, or entangled with metaphor. They are retained because some explain genuine anomalies and because people have acted upon them. Their presence is not endorsement.
+
 ### The Rzez may attack information rather than matter
+
+This is the Indexical School's strongest form. The operational school needs only a target-specific physical interaction. The claim below makes information about membership fundamental.
 
 The dominant theory holds that the field alters physical relationships.
 
@@ -1199,6 +1457,8 @@ Under this model, the Rzez does not weaken bonds directly. It alters the rule by
 
 ### Cohesion may be partly historical
 
+This extends material genealogy beyond measurable growth, stress, defect, and repair history. It proposes that the fact of having remained together contributes to present cohesion in its own right.
+
 Several experiments suggest that older structures respond differently from newly assembled copies made of identical material.
 
 This implies that cohesion includes a temporal component: the history of having remained together.
@@ -1208,6 +1468,8 @@ If true, ancient walls, heirlooms, living organisms, and longstanding institutio
 It also implies that restoration may fail because a repaired object lacks the uninterrupted history that once made it whole.
 
 ### The field may propagate through identity
+
+This is more radical than physical target inheritance. It removes the requirement that new damage travel through an attachment, shared tool, contaminated site, or other material path.
 
 A controversial model proposes that the Rzez can follow identity relationships rather than physical contact.
 
@@ -1224,6 +1486,8 @@ No sanctioned experiment may test symbolic propagation.
 
 ### Observation may stabilize a target
 
+Ordinary monitoring can vibrate, load, cool, repair, or reconfigure a structure. The disputed claim begins only where those physical effects fail to explain the difference.
+
 Some records suggest that continuously measured structures resist low-level propagation longer than unobserved ones.
 
 The effect may result from active testing, vibration, or repair rather than observation itself.
@@ -1233,6 +1497,8 @@ A minority interpretation claims that a structure more firmly represented in ext
 Valeci memorial practice reflects this idea. Families maintain exhaustive records of lost people and objects, saying, “What is remembered remains difficult to butcher.”
 
 ### The Rzez may have a minimum meaningful target
+
+Microscopic unreliability is an engineering observation. The claim that cultural recognition defines the lower boundary is an Indexical extrapolation.
 
 At microscopic scales, the field becomes unreliable.
 

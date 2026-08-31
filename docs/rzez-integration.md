@@ -54,6 +54,37 @@ the Prior Hands, or merge the six systems.
 The entry remains a provisional working draft. Enrichment is not an adoption
 decision.
 
+### Evidence-depth revision
+
+A later evidence-depth pass expands the entry without increasing the Rzez's
+power or resolving its disputed properties. It adds:
+
+- a strict distinction between direct measurements and the cohesion-architecture,
+  edge-invalidation, and entropic-bias models used to interpret them;
+- the absence of a target-independent dose, plus the physical limits that
+  attached sensors impose upon measurement;
+- instrument records of the Quiet and an explicit boundary around the unique
+  Bell Chamber anomaly;
+- a three-witness forensic protocol and a timing table built only from existing
+  incidents;
+- orbital, gravitational, seismic, thermal, and evidentiary distinctions in the
+  reconstruction of Valec;
+- five competing theory schools, each with predictions, failures, adherents,
+  critics, and claim-level evidence grades;
+- labor sayings, inspection catechisms, distributed genealogies, launch rolls,
+  evacuation instructions, and rumor families whose existence is graded
+  separately from their claimed efficacy; and
+- a scientific correction to the Issa description: remote observations support
+  a weakly shear-connected interior, while microscopic gaps and domain count
+  remain an inversion rather than direct radar resolution.
+
+The added oral traditions are entry-local unless another manuscript later needs
+them. They do not place the older Rzez sites geographically, make speech or data
+into a physical carrier, confirm a surviving instrument, or turn Blackglass into
+a seventh mechanism. The Issa clarification is mirrored in
+`canon/places/issa.md` because it changes the shared interpretation of an existing
+celestial witness.
+
 ## Taxonomy decisions supported by the manuscript
 
 The manuscript explicitly establishes:
