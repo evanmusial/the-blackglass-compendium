@@ -16,6 +16,8 @@ decision_basis:
   - kelan-ruva-natural-and-human-history-expansion
   - the-rehearsal-integration
   - blackglass-tradition-canonization
+  - physical-world-adoption
+  - known-world-spaceflight-and-expansion
 ---
 
 # Kharos
@@ -101,6 +103,21 @@ construction kept trade and communication dense while making survival local:
 sectional services, sacrificial disconnects, independent clocks, and stores that
 could outlast isolation. The modern triworld system is therefore both highly
 connected and deliberately capable of becoming three systems for a time.
+
+## Expansion economy
+
+Under the established
+[`spaceflight economy`](../spaceflight-economy-and-settlement.md), Kharos exports
+people, law, education, medicine, finance, cultural authority, complex services,
+and high-value manufacture more readily than bulk matter. Its gravity makes water,
+ore, shielding, propellant, and ordinary structure expensive to lift when Avara,
+Odran, and smaller bodies can supply them offworld.
+
+Kharosi institutions issue route contracts, custody findings, personhood
+decisions, quarantine orders, and long-lived opening trusts. This makes the world
+politically central to expansion without requiring a ligature shore on or near
+its surface. Every route arrival still belongs first to a distant weighhouse and
+ordinary in-system transfer.
 
 ## Lived high gravity
 

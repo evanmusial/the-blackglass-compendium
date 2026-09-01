@@ -16,6 +16,8 @@ decision_basis:
   - five-system-integration
   - kelan-ruva-natural-and-human-history-expansion
   - blackglass-tradition-canonization
+  - physical-world-adoption
+  - known-world-spaceflight-and-expansion
 ---
 
 # Odran
@@ -93,6 +95,18 @@ pads, removable carriers, and local stores were already sensible on an airless
 surface. Valec turned those conveniences into doctrine: no shared tunnel, power
 spine, clock, or archive should be necessary for every facility's survival and
 truth at once.
+
+## Expansion economy
+
+Odran supplies vacuum processing, reference masses, sequence and ordinary clocks,
+carriage calibration, certified sample and ballast standards, quarantine pads,
+and physically independent archives for the route economy. Its role is to prove a
+weight and custody history, not automatically to supply every tonne exchanged.
+
+Bulk operational ballast, momentum works, and reception cells must be built near
+the actual ligature shore. Odran becomes a major mass yard only if the later
+regional map places a permitted shore conveniently. Until then it remains the
+home system's standards and separation world.
 
 ## Reference architecture
 

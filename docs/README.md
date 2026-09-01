@@ -26,6 +26,10 @@ These documents describe how the Compendium is organized and maintained.
   records the physical derivations, Earth-origin decision, Founding Interval,
   calendar-correlation boundary, and cross-canon integration of the expanded
   home system.
+- [`known-world-physics-and-expansion-integration.md`](known-world-physics-and-expansion-integration.md)
+  records the adoption of ordinary future physics, reciprocal ligature transit,
+  spaceflight economics, exploration, settlement, and the deferred weapon
+  reconciliation boundary.
 
 When documentation and an existing manuscript disagree, do not silently edit
 the manuscript to match the documentation. Record the disagreement and decide

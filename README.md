@@ -99,8 +99,11 @@ an entire galaxy. Human civilization occupies roughly eight to twelve known
 systems and descends from a deliberate migration out of Earth's Solar System.
 The astronomical epoch can be reconstructed, but no surviving evidence maps it
 reliably to one numbered Earth civil year. Interstellar travel is possible
-through limited routes whose exact mechanism remains undesigned and is not
-assumed to match the founding transit.
+through limited reciprocal **ligatures**. Paired shores exchange closed,
+mass-matched carriages over days or weeks; no live link, arbitrary gate, or
+shipboard faster-than-light drive exists. The far shore must first be built by a
+slow receiver seed or reached through another opened route. Present ligature
+physics is not assumed to match the founding transit.
 
 Kharos is the setting's designated home world and recurring civic, academic, and
 legal anchor. It belongs to the first system-level circumbinary model, the
@@ -111,7 +114,9 @@ unassigned until later entries need to place them. See
 decision and the rules future designs must follow. The long-form
 [`human-arrival history`](canon/history/human-arrival-in-kelan-ruva.md) records
 the Founding Interval, including Avara's older refuge and Kharos's later rise as
-the home world.
+the home world. The established [`physical baseline`](canon/physics-of-the-known-world.md)
+and [`spaceflight, economy, and settlement model`](canon/spaceflight-economy-and-settlement.md)
+define the costs and limits behind that regional scale.
 
 ## Current weapon landscape
 
@@ -154,6 +159,12 @@ infrastructure without implying that the subjects share one physics. See the
   volume, book, system, or classification.
 - Consult [`canon/setting-scope.md`](canon/setting-scope.md) before creating or
   placing a new world, system, route, polity, or nonhuman civilization.
+- Consult [`canon/physics-of-the-known-world.md`](canon/physics-of-the-known-world.md)
+  before assigning a technology power, propulsion, gravity, communication,
+  fabrication, or transit capability.
+- Consult [`canon/spaceflight-economy-and-settlement.md`](canon/spaceflight-economy-and-settlement.md)
+  before opening a route or creating an expedition, colony, trade, blockade,
+  evacuation, or inhabited system.
 - Consult [`frame/`](frame/) before naming the collection's compilers, changing
   its editorial voice, or explaining how an entry reached the reader.
 - Consult [`docs/metadata-reference.md`](docs/metadata-reference.md) when editing

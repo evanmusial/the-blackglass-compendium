@@ -45,6 +45,12 @@ tells a Grade E story without making the supernatural content of that story true
 
 ## Core references
 
+- [`physics-of-the-known-world.md`](physics-of-the-known-world.md) — the
+  established ordinary-physics baseline, mastery ladder, energy and propulsion
+  rules, and reciprocal ligature mechanism.
+- [`spaceflight-economy-and-settlement.md`](spaceflight-economy-and-settlement.md)
+  — exploration, route opening, travel capacity, trade, finance, colonization,
+  governance, and settlement viability.
 - [`engineering-landscape.md`](engineering-landscape.md) — the six-system lore
   spine, mechanism firewall, and Kelan–Ruva distribution.
 - [`principles.md`](principles.md) — editorial, shared, and family-specific

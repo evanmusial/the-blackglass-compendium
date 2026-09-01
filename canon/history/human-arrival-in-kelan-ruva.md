@@ -5,6 +5,8 @@ title: Human Arrival in Kelan–Ruva
 authorial_status: established
 decision_basis:
   - kelan-ruva-natural-and-human-history-expansion
+  - physical-world-adoption
+  - known-world-spaceflight-and-expansion
 ---
 
 # Human Arrival in Kelan–Ruva
@@ -81,12 +83,12 @@ Future histories may add detail without contradicting the following facts:
 12. Earth's condition when the settlers left, their reason for leaving, and
     Earth's subsequent fate remain unresolved.
 
-The Founding Interval predates the documented human development of the four
+The Founding Interval predates the documented human development of the five
 known-human engineering lineages presently central to the Compendium and the
 modern instrumented study of the Manifold. Nothing in the arrival record
 establishes a causal connection to the Rzez, the Unhidden, the Manifold, the
-Closed Night, or the Agreement. In particular, the absence of a recoverable
-transit mechanism is not evidence for a Manifold passage.
+Closed Night, the Agreement, or the Rehearsal. In particular, the absence of a
+recoverable transit mechanism is not evidence for a Manifold passage.
 
 ## The evidence of terrestrial origin
 
@@ -488,6 +490,14 @@ The word *route* may be used descriptively for the lost connection, but it does
 not establish that founding transit obeyed the present route network. The known
 inhabited region contains no recognized Earthward terminus. Surveying the Solar
 direction in ordinary space is not equivalent to navigating there.
+
+Modern routes are now understood as reciprocal ligatures whose paired shores
+exchange mass-matched carriages. That later scientific understanding sharpens
+rather than resolves the historical boundary: no founding carrier, paired
+weighhouse, mass book, or sequence record survives in a form that places the
+arrival inside present ligature practice. See the established
+[`physical baseline`](../physics-of-the-known-world.md) and
+[`expansion model`](../spaceflight-economy-and-settlement.md).
 
 ### The long foundation and regional expansion
 

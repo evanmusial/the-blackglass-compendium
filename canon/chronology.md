@@ -15,6 +15,8 @@ decision_basis:
   - kelan-ruva-natural-and-human-history-expansion
   - the-rehearsal-integration
   - blackglass-tradition-canonization
+  - physical-world-adoption
+  - known-world-spaceflight-and-expansion
 ---
 
 # Compendium Chronology
@@ -80,9 +82,14 @@ reserved as its secret origin.
 | Middle to late Founding Interval | Odran acquires separated clocks, stores, observatories, and transfer infrastructure while Avaran and Kharosi settlements become mutually dependent. | B for surviving institutional sequence; A for material occupation | The modern institutions occupying those roles are much later and must not be projected unchanged into the founding era. |
 | Late Founding Interval | Carrier structures are exhausted, dismantled, buried, or repurposed as their communities become self-sustaining and locally born. | A for widespread reuse; C for particular ship identities | The loss of complete transit records results from attrition, incompatible archives, and necessary reuse rather than one established act of erasure. |
 | Long before the Meridian Age | Kelan–Ruva's local calendars, ecological regimes, and interworld institutions become independent of carrier mission time. | A | This historical depth explains why physical dating survives more reliably than a named Earth-year crosswalk. |
+| Late Founding to pre-Meridian span | Long-baseline clocks, gravimetry, and reference-mass experiments identify conjugate-locality residuals between some stellar basins. | B for the surviving scientific lineage | This discovery establishes present ligature physics but does not identify the founding transit. |
+| Pre-Meridian span | The earliest recoverable receiver-seed programs cross ordinary interstellar distance and construct far-shore experiments. | B for the program family; C for particular first claims | Seed flight and remote industrial bootstrap take generations. Several alleged first Answers are dependent reconstructions. |
+| Pre-Meridian span | Independently instrumented reciprocal locality exchange establishes the first accepted modern ligature. | A for the physical lineage; C for the identity of the first route | Two matched carriages exchange shores. No idle signal, live link, or arbitrary destination is demonstrated; a reserved cycle exposes only one delayed interlock outcome. |
+| Pre-Meridian to early Meridian span | Human settlement extends beyond Kelan–Ruva through a mixture of opened ligatures, inherited shores, and long precursor work. | B for trans-system occupation | Which present systems preserve genuinely pre-Meridian continuous settlement remains open. |
 | Possibly pre-Meridian | The anomalous inner moon of Issa may already exist in its separated state. | C for anomaly; E for Rzez attribution | Possible evidence of prehuman or nonhuman technology; unresolved. |
 | At least three centuries before Ilyr | Earliest datable form of the Saint Rezha tradition. | E for supernatural claim | Later copies may have absorbed technical details. |
 | Early Meridian Age | Varek Ilyr and the First Quarry Houses conduct the Gentle Opening. | A | First controlled cohesion-field use in the supported technical tradition. |
+| Early to middle Meridian Age | Standard weight classes, bilateral shore compacts, public ballast reserves, and common-carrier ligature practice turn a few experimental routes into a regional transport economy. | A for the mature practice; C for one founding charter | Political integration remains limited by route depth, carriage schedules, and local refusal authority. |
 | Early Meridian Age | At least twenty-nine First Quarry accidents display uncontrolled propagation. | A | Private isolation rules predate public admission by forty-six years. |
 | Gentle Opening +81 years | Deren Keep becomes the first documented military use. | A | A quarry emitter is disguised as a survey instrument. |
 | Middle Meridian Age | The Ossuary of Kareth fails during the War of Seven Heirs. | B for destruction; D for intentional Rzez use | Later theories connect physical archives with institutional identity. |
@@ -216,8 +223,11 @@ conversion somewhere in the causal future.
   which only resemble one another after translation?
 - Were the carrier assemblages one convoy, distinct direct migrations, or a
   mixture including lost intermediate settlements?
-- When did inhabited routes first extend beyond Kelan–Ruva, and which current
-  systems preserve genuinely pre-Meridian occupation?
+- Which accepted first-Answer tradition identifies the earliest modern
+  ligature, and which depends upon a later reconstruction?
+- Which present shores descend from pre-Meridian receiver seeds, inherited
+  infrastructure, or later reopenings?
+- Which current systems preserve genuinely pre-Meridian continuous occupation?
 
 - Does the Sixth Compact begin exactly at Valec's destruction or after a later
   negotiation period while retaining Valec as calendar Year Zero?

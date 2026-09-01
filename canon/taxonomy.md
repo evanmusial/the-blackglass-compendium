@@ -14,6 +14,7 @@ decision_basis:
   - three-weapon-integration
   - five-system-integration
   - the-rehearsal-integration
+  - physical-world-adoption
 ---
 
 # Compendium Taxonomy
@@ -145,6 +146,13 @@ it.
 
 The primary system answers: **what governing mode of engineering produces the
 effect?**
+
+This axis classifies Compendium subjects, not every mature discipline in the
+known world. Ordinary propulsion, fusion, computation, photonics, medicine,
+fabrication, and reciprocal ligature transit do not require Codex volumes merely
+because they have distinct physics. A civil technology enters this taxonomy when
+an entry demonstrates a forbidden or otherwise Compendium-worthy manipulation,
+history, and consequence.
 
 The current entry-metadata values demonstrated by manuscripts are:
 

@@ -14,15 +14,17 @@ decision_basis:
   - kelan-ruva-natural-and-human-history-expansion
   - the-rehearsal-integration
   - blackglass-tradition-canonization
+  - physical-world-adoption
+  - known-world-spaceflight-and-expansion
 ---
 
 # Compendium Glossary
 
-These definitions are drawn from the Rzez working entry, the adopted Closed
-Night, Agreement, and Rehearsal entries, and the shared provisional core of The
-Unhidden and The Manifold. Terms are shared only to the extent stated here;
-similar language does not imply a shared mechanism, and disputed theories remain
-disputed.
+These definitions are drawn from the established physical and expansion
+baselines, the Rzez working entry, the adopted Closed Night, Agreement, and
+Rehearsal entries, and the shared provisional core of The Unhidden and The
+Manifold. Terms are shared only to the extent stated here; similar language does
+not imply a shared mechanism, and disputed theories remain disputed.
 
 ## Historical and calendrical terms
 
@@ -121,7 +123,211 @@ or correspondences throughout every substantially explored system without one
 adequate transmission history. It does not establish self-propagation or make
 every alleged fragment authentic.
 
-## Technical terms
+## Ordinary physics, route, and settlement terms
+
+### Arcane engineering
+
+Engineering performed where repeatable operational control exceeds explanatory
+closure and where the missing explanation materially affects risk. The term does
+not mean magic or freedom from measurement. See the established
+[`physical baseline`](physics-of-the-known-world.md).
+
+### Ledger closure
+
+An account that includes mass-energy, momentum, charge, entropy, waste heat,
+physical information carriers, and relevant material inventories across the
+chosen boundary. A closing ledger does not prove that the underlying theory is
+complete.
+
+### Operational closure
+
+The condition in which independent operators can specify an effect's preparation,
+range, signatures, abort points, and failures even if no accepted theory derives
+the effect from first principles.
+
+### Explanatory closure
+
+The stronger condition in which a theory derives an effect across the relevant
+scales, predicts distinguishing observations, and survives comparison with rival
+accounts.
+
+### Locality basin
+
+The macroscopic stellar gravitational system that supports a bounded material
+system as locally present. Ordinary movement changes position inside a basin.
+Ligature transit exchanges which one of two conjugate basins supports a closed
+carriage.
+
+### Conjugate locality
+
+The rare physical relationship in which two stellar locality basins share a
+usable two-site localization mode. Distance alone does not determine conjugacy,
+and endpoint machinery cannot create a conjugacy where the natural coupling is
+absent.
+
+### Ligature
+
+One usable conjugate-locality mode between two stellar systems. Civil speech also
+uses **route** and **corridor**, although a ligature contains no road, tunnel, or
+traversable middle.
+
+### Sequence
+
+The global time function `Theta`. Its gradient is future-directed timelike in
+ordinary spacetime, every ordinary worldline advances it, and every viable
+ligature edge has a positive minimum `Delta Theta`. Sequence permits
+carriage-borne spacelike displacement while preventing a route circuit from
+returning a record before its cause.
+
+### Shore
+
+The family of dynamically permitted endpoint volumes from which one stellar
+system can participate in a particular ligature. A shore is a physical region,
+not one gate building.
+
+### Weighhouse
+
+The distributed shore infrastructure that prepares matched carriages, closes the
+mass book, controls the exchange schedule, reconciles local momentum, and supports
+traffic, rescue, customs, and quarantine.
+
+### Carriage
+
+A closed material packet whose locality support is exchanged with a matched
+packet at the paired shore. A carriage may contain a vessel, passengers, cargo,
+life support, ballast, or an urgent letter weight. Its total invariant energy and
+complete route-visible boundary state enter the weighing.
+
+### Counterweight
+
+The opposite-direction carriage or ballast that completes reciprocal passage.
+Every arrival requires one. Water, regolith, slag, shielding, and certified scrap
+may have route value because they can serve as safe counterweight.
+
+### Mass book
+
+The physical and legal ledger recording the paired carriages' invariant energy,
+charge, exterior multipoles, ballast, heat state, and accepted tolerances. It is
+both an engineering artifact and the basis of route customs and liability.
+
+### Weighing
+
+Certification and adjustment of the paired carriages' complete route-visible
+boundary states before a ligature crossing. Invariant mass-energy, charge, and
+low-order exterior multipoles are the principal engineering measurements, not
+the whole selection rule.
+
+### Commitment, equalization, and localization
+
+The three central stages of a crossing. **Commitment** is the point after which
+completion is safer than abort. **Equalization** is maximum bilocal support and
+not a physical midpoint. **Localization** is final support at the opposite shore
+and reconciliation with its local orbital frame.
+
+### Interlock outcome
+
+The one route-status result exposed at the full decision time of a reserved
+cycle: exchange, refusal, or fault. Participation versus refusal can encode one
+deliberate bit, but consumes the complete mode cycle and carries no text,
+telemetry, or cargo detail. After commitment, sabotage can choose only the
+destructive fault symbol at the same fixed terminal time; it cannot send a safe
+semantic update or recall.
+
+### Route depth
+
+The minimum safe adiabatic crossing time of a ligature. Strong routes may be
+several days deep; weaker routes take weeks or longer. Additional power cannot
+erase the natural coupling limit without increasing spill.
+
+### Spill
+
+Loss from the supported locality-exchange mode caused by an overfast sweep,
+misweighing, unstable internal mass, mode interference, or failing shore. Spill
+appears as ordinary heat, radiation, impulse, and material loss at one or both
+shores. It does not produce an intact duplicate.
+
+### Shorefall
+
+A destructive completion in which the total ledger closes but the two carriages
+localize incoherently as damaged matter, fragments, or plasma across their permitted
+shores. It is not a Manifold contradiction or a second authentic history.
+
+### Receiver seed
+
+An uncrewed sublight interstellar craft carrying the power, machine tools,
+reference systems, and irreplaceable precision components needed to bootstrap a
+new far-shore weighhouse. Receiver seeds travel for decades or centuries through
+ordinary space.
+
+### Orphan shore
+
+A far weighhouse completed after its sponsoring institution disappeared, lost
+authority, or ceased to recognize the original project. Its ligature may be
+physically usable while ownership, schedules, debt, and consent remain disputed.
+
+### Dead shore
+
+A natural ligature endpoint whose weighhouse can no longer participate. The
+conjugacy may persist, but no passage occurs until infrastructure is rebuilt from
+inside that system or through another connection.
+
+### The Answer
+
+The first reciprocal exchange from a newly constructed far shore. It returns
+destination matter and records proving that an exchange occurred. One Answer is
+a hypothesis about a route; independent repeated return is required for public
+opening.
+
+### Answer window
+
+One prearranged sequence interval in which a receiver seed and its home vigil
+attempt a microscopic reciprocal exchange. The recurring calendar can outlive
+the seed's sponsors and requires no live readiness signal.
+
+### Mailfall
+
+The localization and opening of a route carriage carrying accumulated messages,
+records, markets, judgments, births, deaths, and orders from another system.
+Mailfall reflects the absence of one continuously shared interstellar present.
+
+### Weight right
+
+A contractual claim upon part of one scheduled certified carriage class. It is a
+right to serviced capacity, not ownership of a ligature.
+
+### Weight clearinghouse
+
+The bilateral or hub institution that matches opposite-direction carriage
+demand, prices counterflow, reserves emergency ballast, distinguishes gross mass
+from useful payload, and settles finance separately from the physical mass book.
+
+### Route-loss horizon
+
+The shortest time before a settlement loses an indispensable material, living,
+or civic function after interstellar traffic stops. Separate clocks are kept for
+air, water, food, heat rejection, medicine, fabrication, skills, reproduction,
+shore repair, and government.
+
+### Replacement depth
+
+The number of successive generations of tools, parts, biological cultures, and
+specialists a settlement can reproduce before encountering an imported
+dependency.
+
+### Continuant settlement
+
+A multigenerational community with independent life-support districts, locally
+trained replacement specialists, several years of route-loss survival, and no
+single imported machine or archive whose loss ends reproduction, food,
+atmosphere, or government.
+
+### Rooted polity
+
+A resident society able to replace critical systems, educate its successors,
+govern life support, and survive prolonged route loss. A rooted polity may trade
+heavily; its continued existence is not collateral for one external sponsor.
+
+## Forbidden-system technical terms
 
 ### Characterization
 
@@ -213,8 +419,11 @@ remains disputed.
 ### Tachyon shard
 
 An observational term for a sharply bounded Manifold-associated signature whose
-detections cannot be reconciled with one subluminal worldline. It does not prove
-that the phenomenon is a broken object, particle, probe, or ammunition.
+detections cannot be reconciled with one ordinary worldline, one authenticated
+ligature exchange, or any other sequence-consistent shore history. Spacelike
+displacement alone is insufficient; authenticated route and sequence histories
+must first be excluded. The term does not prove that the phenomenon is a broken
+object, particle, probe, or ammunition.
 
 ### Manifold rupture
 
@@ -342,10 +551,11 @@ spectrum depends upon this path, not upon peak temperature alone.
 
 ### Strangelet
 
-A finite droplet of strange quark matter. In real-world grounding, the existence
-and stability of such matter remain hypothetical. In established Rehearsal canon,
-the Apsis quench produced many strangelets of unknowable mass, charge, lifetime,
-and velocity; the fraction capable of catalytic growth remains unresolved.
+A finite droplet of strange quark matter. Ordinary known-world physics can study
+bounded strange phases but does not possess stable catalytic strange matter as a
+material technology. In established Rehearsal canon, the Apsis quench produced
+many strangelets of unknowable mass, charge, lifetime, and velocity; the fraction
+capable of catalytic growth remains unresolved.
 
 ### Succession
 

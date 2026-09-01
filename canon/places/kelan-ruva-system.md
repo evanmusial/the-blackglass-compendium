@@ -18,6 +18,8 @@ decision_basis:
   - five-system-integration
   - kelan-ruva-natural-and-human-history-expansion
   - the-rehearsal-integration
+  - physical-world-adoption
+  - known-world-spaceflight-and-expansion
 ---
 
 # The Kelan–Ruva System
@@ -293,9 +295,17 @@ engineering, not faster-than-light communication.
 
 ## Transit and operating geography
 
-Light-time is not travel time. The setting has not fixed one universal drive,
-and this system note does not infer a journey duration from communications
-latency. It does establish the physical work required at either end.
+Light-time is not travel time. Ordinary vessels use chemical or nuclear-thermal
+launch, electric and plasma cargo drives, nuclear- or fusion-electric transfer,
+beam lanes, mass drivers, and a small number of licensed fusion torches. Every
+ordinary drive uses reaction mass or an external momentum source. There is no
+gravity shield, inertial damper, or general route drive aboard a ship.
+
+Odran transfers can take hours to days depending upon vehicle and alignment.
+Kharos-Avara passenger travel normally takes several days. Outer-system freight
+takes weeks to months, and Ravel or Far Cloud work remains mission-scale. Urgent
+travel can shorten those ranges only by spending disproportionate propellant,
+engine life, radiator margin, and human tolerance.
 
 Kharos's surface escape speed is approximately 15.8 kilometres per second,
 compared with approximately 5.3 for Avara and 2.4 for Odran. The high-gravity
@@ -304,6 +314,13 @@ when it remains the home system's civil center. Avaran orbital industry, Odran
 launch facilities, and transfer infrastructure can be economically central
 without predetermining either moon's population or political authority relative
 to Kharos.
+
+Kelan–Ruva's ligature shores occupy dynamically permitted, sparsely inhabited
+operating volumes away from dense planetary traffic. A route arrival is therefore
+not arrival at Kharos. It must clear weighing, localization, quarantine, thermal
+service, and ordinary in-system transfer before people or cargo reach an
+inhabited body. The exact shore locations and connected systems remain unassigned
+until the regional route map is designed.
 
 Operational independence increases outward with delay. A Talran aerostat may
 still consult Kharos within minutes; an Istran station cannot place a safety loop
@@ -319,9 +336,9 @@ roles in the six-system setting:
 
 | Body | Recurring role |
 | --- | --- |
-| [Kharos](kharos.md) | Civilian life, scholarship, courts, boundary medicine, protected dissent, rehabilitation, and the public consequences of dangerous engineering. |
-| [Avara](avara.md) | Low-gravity medical and industrial scale, managed habitability, bounded cooperative control, thermal engineering, recovery facilities, and defensive infrastructure. |
-| [Odran](odran.md) | Dry laboratories, separated material standards, chronometry, calorimetry, controlled-variance instrumentation, ranging, and redundant archives. |
+| [Kharos](kharos.md) | Civilian life, scholarship, courts, finance, education, boundary medicine, high-value manufacture, protected dissent, and the public consequences of dangerous engineering. Its gravity makes bulk export costly. |
+| [Avara](avara.md) | Low-gravity orbital assembly, carriage construction, ecological and atmospheric packages, passenger preparation, large clinical forms, thermal engineering, recovery facilities, and defensive infrastructure. |
+| [Odran](odran.md) | Vacuum processing, mass drivers, separated material standards, chronometry, calorimetry, carriage calibration, quarantine pads, certified reference ballast, and redundant archives. Bulk route ballast depends upon the later shore map. |
 
 The Apsis Range and the Apsis Discharge remain outside Kelan–Ruva. The home
 system contributes no Rehearsal emitter, target, or recovered strangelet to

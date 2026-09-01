@@ -34,6 +34,14 @@ What does it manipulate—relationship, probability, time, memory, boundary,
 energy, identity, perception, causality, or something else—instead of merely
 applying ordinary force?
 
+## Known-world foothold and fictional departure
+
+Which established ordinary science, civil technology, industry, or observed
+phenomenon precedes the concept? State the exact additional discovery or postulate
+required for the instrument, and identify what familiar capability it still does
+not provide. Consult `canon/physics-of-the-known-world.md` and
+`canon/spaceflight-economy-and-settlement.md`.
+
 ## Characteristic horror
 
 What consequence makes this instrument uniquely frightening rather than simply
@@ -46,6 +54,8 @@ powerful?
 - What resists the effect?
 - What can go wrong for the operator?
 - What prevents universal or casual use?
+- What mass-energy, momentum, heat, information, travel, and infrastructure costs
+  remain in the account?
 
 ## Possible scales
 

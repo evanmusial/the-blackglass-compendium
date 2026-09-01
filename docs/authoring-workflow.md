@@ -33,6 +33,8 @@ distinct identity:
 - If purpose is genuinely unknown, what evidence boundary prevents the concept
   from inventing one?
 - What does it manipulate instead of merely delivering force?
+- What ordinary known-world science or civil technology is its foothold, and what
+  exact fictional departure makes the subject extraordinary?
 - What is the characteristic horror?
 - What limitation keeps it from being a generic solution to every conflict?
 - How does it differ from existing entries?
@@ -48,7 +50,9 @@ work. Moving is a lifecycle decision, not a statement that the idea is canon.
 
 During development:
 
-1. Compare it with `canon/taxonomy.md`.
+1. Compare it with `canon/taxonomy.md`,
+   `canon/physics-of-the-known-world.md`, and
+   `canon/spaceflight-economy-and-settlement.md`.
 2. Identify the primary engineering system and behavioral traits.
 3. Determine whether it belongs in an existing book or exposes a missing book.
 4. Test it at several operational scales.
@@ -121,6 +125,8 @@ Review the entry against:
 - the chronology and relative dates;
 - existing people, places, institutions, and legal frameworks;
 - previously established technical limits;
+- the ordinary physical baseline, route model, energy account, travel capacity,
+  and settlement economy;
 - naming and editorial voice;
 - the interstellar setting scope, travel constraints, and place registry;
 - the collection frame and the knowledge available to its editors;

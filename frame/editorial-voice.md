@@ -53,6 +53,10 @@ Entries explain mechanism, propagation, material response, detection,
 countermeasures, and failure. Catastrophe follows from systems and decisions
 rather than from unexplained increases in power.
 
+The prose distinguishes the ordinary known-world foothold from the precise
+fictional departure. A mature civilization may build beyond present science
+without gaining free energy, instant travel, perfect control, or a final theory.
+
 ### Consequence beyond deployment
 
 Language, architecture, law, ritual, medicine, trauma, fraud, and scholarship

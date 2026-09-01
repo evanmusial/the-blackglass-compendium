@@ -18,6 +18,8 @@ decision_basis:
   - kelan-ruva-natural-and-human-history-expansion
   - editorial-setting-decision
   - blackglass-tradition-canonization
+  - physical-world-adoption
+  - known-world-spaceflight-and-expansion
 ---
 
 # Provisional Interstellar Setting Scope
@@ -35,6 +37,13 @@ to twelve connected systems**. The exact number is not yet fixed in-world. This
 range is a design boundary: large enough to support distinct worlds, states,
 religions, ruins, and engineering traditions, but small enough that the loss of
 one world and the authority of one treaty remain consequential.
+
+The range also follows the adopted expansion economy. Usable ligatures are rare;
+each otherwise unreachable far shore requires a receiver seed to cross ordinary
+interstellar distance; and a continuant settlement consumes generations of route
+capacity, industrial mass, biological diversity, skilled migration, and political
+support. Humanity may have instrumented or briefly occupied many more systems than
+it has successfully rooted.
 
 The known region has no adopted proper name yet. Until a future entry earns one,
 refer to it descriptively as **the known inhabited region**. Do not turn that
@@ -351,45 +360,71 @@ nonhuman civilization.
 
 ## Interstellar travel
 
-Interstellar travel exists, but is limited by a network of navigable connections.
-The current working term is **routes** or **corridors**, not a named technology.
+Interstellar travel uses a sparse network of reciprocal **ligatures**. Each
+ligature is a natural conjugacy between two stellar locality basins. Distributed
+endpoint **weighhouses** exchange the locality support of two closed,
+mass-matched **carriages** over days or weeks.
 
-Provisional constraints:
+The complete established physics and operating limits belong in
+[`physics-of-the-known-world.md`](physics-of-the-known-world.md). Exploration,
+economics, colonization, and route governance belong in
+[`spaceflight-economy-and-settlement.md`](spaceflight-economy-and-settlement.md).
 
-- Only some neighboring systems have reliable connections.
-- Travel between connected systems normally takes days or weeks, not moments.
-- Ships require specialized infrastructure, knowledge, conditions, or all three.
-- A route can be closed, blockaded, quarantined, lost, or rendered unreliable.
-- Some systems have only one practical approach, giving isolation real force.
-- The travel network is itself infrastructure and may be vulnerable to forbidden
-  engineering.
+The setting-level constraints are:
 
-The physical mechanism is deliberately unassigned. It might later involve gates,
-mapped transitions, engineered space, living vessels, entropic discontinuities,
-or another principle. Choosing it should create a Compendium-grade history and
-set of limitations rather than merely solving distance.
+- Only a few system pairs possess a usable natural conjugacy. Distance alone
+  does not predict connection.
+- A shore requires immense, visible infrastructure, ballast, momentum capacity,
+  clocks, rescue, and quarantine.
+- Every arrival exchanges with an equal countercarriage. No one-sided passage
+  or shipboard route drive exists.
+- Strong ligatures take several days; deep ones take weeks or longer. More power
+  cannot safely erase the coupling limit.
+- A carriage cannot steer, stop, change destination, communicate outward, or be
+  recalled after commitment.
+- A route can be refused, blockaded, quarantined, faded, or rendered a dead shore
+  when its endpoint infrastructure fails.
+- Some systems have one practical shore, making isolation and siege physically
+  meaningful.
+- A new far shore must be built by a slow receiver seed, reached through another
+  opened route, or inherited from an earlier delivery history.
+- Route throughput moves specialists, high-value goods, and founding programs;
+  it cannot evacuate a world of billions during a rapid catastrophe.
 
 The founding migration does not resolve this mechanism. No intact carrier or
-working departure system survives, and present route travel is not known to
-descend from the same engineering. Authors must not use an Earth-origin artifact
-as a casual blueprint that removes the setting's current limits.
+working departure system survives, and no evidence proves that present ligature
+engineering descends from the same transit. Authors must not use an Earth-origin
+artifact as a casual blueprint that removes the setting's current limits.
 
 The Manifold establishes that spacetime adjacency and causal order can be
 physically disrupted. It does **not** establish that ordinary routes use the same
-mechanism. A rupture provides no safe corridor, controllable transit method, or
-routine path through time.
+mechanism. Ligature exchange has two known shores, one conserved state evolution,
+and one sequence order. A rupture provides none of those guarantees and supplies
+no safe corridor or routine path through time.
 
 ## Communication
 
 Do not assume universal instantaneous communication.
 
 Communication between systems is uneven and dependent upon route access,
-special infrastructure, physical couriers, or technologies not yet defined.
+physical carriages, ordinary light, shore schedules, and local infrastructure.
 Central authorities can communicate well enough to maintain treaties and shared
 scholarship, but not so perfectly that censorship, regional traditions, archival
 loss, or contradictory testimony become implausible.
 
-The exact relationship between message speed and ship speed remains open.
+An idle ligature carries no signal. Light, radio, neutrinos, gravitational waves,
+and quantum correlations do not emerge at the paired shore. High-bandwidth
+information crosses faster than ordinary interstellar light only when a physical
+record rides inside a committed, matched carriage. An urgent letter may receive
+its own weight class, but it still consumes a full route cycle and cannot outrun
+the fastest safe carriage on that ligature.
+
+There is no live regional network. A reserved cycle can reveal only a delayed
+interlock outcome—exchange, refusal, or fault—at the route's normal decision
+time. Encoding even one deliberate bit consumes a complete scheduled mode cycle.
+News therefore arrives in **mailfalls** carried as physical records. No shore can
+send a safe semantic mid-transit update or recall. Post-commit sabotage can force
+only a destructive terminal fault symbol at the normal decision time.
 
 Neither tachyon-shard observations nor the Kelan–Ruva optical backbone provide
 controllable faster-than-light communication. Manifold records may arrive in an
@@ -402,11 +437,13 @@ prediction. Recordings, delayed reports, and ordinary interstellar messages are
 inert. The Closed Night can block outward radio within engineered bands but
 provides no faster or hidden communication channel.
 
-The Rehearsal adds no message channel. Radiation from Apsis and any physical
-strangelet descendant remain limited by causal propagation. A distant conversion
-may have occurred before its light or particles reach the known region; that
-ignorance is ordinary light-cone delay, not a Manifold history or evidence of
-faster-than-light infection.
+The Rehearsal adds no message channel. Radiation from Apsis and every unassisted
+strangelet descendant remain limited by ordinary local propagation. A physical
+seed could be displaced spacelike only by being carried as matter inside a
+committed ligature carriage, with paired shores and counterweight. That is
+transport of contraband through infrastructure, not intrinsic faster-than-light
+infection. A distant unassisted conversion may still precede the arrival of its
+light or particles.
 
 ## Political scale
 
@@ -418,6 +455,12 @@ The Sixth Compact is a multinational treaty framework layered over those
 entities. It is neither a universal empire nor proof that every inhabited system
 accepts the same law. Its practical authority varies with membership, route
 access, enforcement capability, and the severity of the threat.
+
+Ligature reciprocity reinforces that pluralism. No core government can dispatch
+a carriage unilaterally through an unwilling far shore, and no live message can
+govern a distant emergency before local authority must act. Bilateral shore
+compacts, route concessions, ballast reserves, mailfall, and the right of refusal
+matter as much as nominal sovereignty.
 
 This structure allows a technology to be legal in one context, prohibited in
 another, secretly retained by a signatory, or known only through local practice.
@@ -471,8 +514,12 @@ When designing a new instrument:
 
 - What is the known inhabited region called in different eras and languages?
 - How many systems are continuously inhabited in the current era?
-- What physical principle enables interstellar travel?
-- Can information cross a route faster than a ship?
+- Why do particular stellar systems possess conjugate locality while most do
+  not?
+- Which present shores were built by Meridian programs, inherited from earlier
+  human expansion, or reopened after abandonment?
+- Which receiver seeds became orphan shores, and which remain in ordinary
+  interstellar flight?
 - Which inhabited systems beyond Kelan–Ruva were settled before the Meridian
   Age, and in what order?
 - Did every founding population reach Kelan–Ruva directly from Earth, or did

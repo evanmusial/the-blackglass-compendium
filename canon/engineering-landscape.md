@@ -17,6 +17,8 @@ decision_basis:
   - kelan-ruva-natural-and-human-history-expansion
   - editorial-setting-decision
   - blackglass-tradition-canonization
+  - physical-world-adoption
+  - known-world-spaceflight-and-expansion
 ---
 
 # Six-System Engineering Landscape
@@ -59,6 +61,29 @@ cooperative control, and primordial-state reconstruction. The Manifold has no
 known originating culture, construction history, or ordinary worldline;
 **suspected epoch denial** names a human reading of its effects, not its
 demonstrated purpose.
+
+## Ordinary background and forbidden thresholds
+
+The established [`physical baseline`](physics-of-the-known-world.md) and
+[`spaceflight and settlement model`](spaceflight-economy-and-settlement.md)
+define what a competent society can do before any subject becomes a Compendium
+instrument.
+
+| Subject | Ordinary or civil foothold | Threshold that remains extraordinary |
+| --- | --- | --- |
+| **The Rzez** | Fracture science, interface control, material genealogy, multimodal structural forensics | Direct target-specific access to structural state paths and residual propagation after the emitter is gone |
+| **The Unhidden** | Cultured organs, regenerative scaffolds, developmental control, neural rehabilitation | Conscious total-boundary organisms and military removal of the patient from the mature support loop |
+| **The Manifold** | Relativity, topology, route-failure investigation, independent concordance | Bounded local exactness that cannot compose one global geometry or chronology |
+| **The Closed Night** | Active nonreciprocal photonics, radiator control, industrial heat recovery | Broad-band hostile radiant return across a complete occupied free-space enclosure |
+| **The Agreement** | Bidirectional interfaces, predictive control, rescue harnesses, adaptive tools | Reciprocal correction that makes independent bodily action itself the error |
+| **The Rehearsal** | Fusion, accelerators, quark-gluon study, distributed energy storage | Near-Planck kernel trains and the fictional catalytic daughtering stability island |
+
+Reciprocal ligature transit is ordinary established infrastructure, not one of
+the six subjects. It exchanges two conserved carriages between known shores and
+preserves one sequence history. It supplies no Manifold path, carrierless weapon
+effect, special propagation channel, free energy, or common explanation. An
+armed carriage or hidden physical contraband remains whatever it was before
+crossing and must be caught by reception and quarantine.
 
 ### The Manifold is not an arsenal
 

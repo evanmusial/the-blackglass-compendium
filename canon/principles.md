@@ -10,6 +10,9 @@ source_entries:
 source_concepts:
   - the-unhidden
   - the-manifold
+decision_basis:
+  - physical-world-adoption
+  - known-world-spaceflight-and-expansion
 ---
 
 # Canon and Engineering Principles
@@ -82,6 +85,21 @@ required to close it.
 
 The current six systems support several common editorial and engineering rules
 without establishing one universal physics.
+
+### Ordinary physics is background, not a seventh system
+
+The established [`physical baseline`](physics-of-the-known-world.md) governs
+energy, momentum, heat, local causality, propulsion, gravity, fabrication,
+ligature transit, and communication unless an adopted entry states a narrower
+departure. The [`spaceflight and settlement model`](spaceflight-economy-and-settlement.md)
+governs route capacity, exploration, trade, colonization, blockade, and
+evacuation.
+
+Those common rules are methodological and infrastructural. They do not make
+locality exchange, Rzez action, morphogenesis, Manifold nonconvergence, radiant
+return, reciprocal neurocybernetics, and high-energy quench expressions of one
+force. A route's mass book cannot explain a weapon merely because both accounts
+conserve energy.
 
 ### Ontological non-equivalence
 
@@ -402,14 +420,20 @@ or known matter.
 
 ### The causal future is not the whole cosmos
 
-Strangelets travel and interact causally. Even a supercritical Succession can
-convert only ordinary baryonic matter it or its descendants can physically
-reach. Photons, dark matter, vacuum, spacetime, black-hole interiors, and regions
-behind permanent cosmological horizons are not strangelet feedstock. “The entire
-universe” survives as cult doctrine and common warning, not a literal inventory
-of convertible existence.
+Unassisted strangelets move and interact through ordinary local causal paths.
+They can be transported inside a committed ligature carriage like any other
+physical sample, weapon, or hidden contaminant, but the route supplies no
+intrinsic propagation, daughtering, or target selection. Carriage-assisted spread
+requires functioning paired shores, matched counterweight, sequence time, and a
+catastrophic quarantine failure.
 
-## Candidate universal principles not yet adopted
+Even a supercritical Succession can convert only ordinary baryonic matter it or
+its descendants can physically reach. Photons, dark matter, vacuum, spacetime,
+black-hole interiors, and regions behind permanent cosmological horizons are not
+strangelet feedstock. “The entire universe” survives as cult doctrine and common
+warning, not a literal inventory of convertible existence.
+
+## Candidate cross-system metaphysics not yet adopted
 
 The six systems suggest, but do not establish for the whole setting, that:
 

@@ -16,6 +16,8 @@ decision_basis:
   - five-system-integration
   - kelan-ruva-natural-and-human-history-expansion
   - blackglass-tradition-canonization
+  - physical-world-adoption
+  - known-world-spaceflight-and-expansion
 ---
 
 # Avara
@@ -165,6 +167,20 @@ already required local measurement and reserve. After Valec, the same systems
 were rebuilt so that a district could disconnect without losing every means of
 keeping itself alive. The optical backbone remains dense, but shutdown authority
 and minimum viable stores remain local.
+
+## Expansion economy
+
+Avara's low gravity and mature orbital yards make it the home system's principal
+site for carriage hulls, large pressure structures, passenger conditioning,
+ecological packages, atmospheric machinery, recovery facilities, and foundation
+convoy assembly. Inertia remains real, so route-weight work emphasizes locked
+mass plans, baffled fluids, slow capture, and visible trim authority.
+
+The moon's history as First Shelter gives Avaran institutions unusual authority
+in the living and civic ledgers of colonization: no founding package is treated as
+complete merely because it contains machinery and embryos. The exact ligature
+shore locations remain unassigned; bulk ballast and momentum works belong near
+those later-selected volumes rather than automatically on Avara.
 
 ## Boundary medicine
 

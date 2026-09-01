@@ -81,6 +81,8 @@ needed. State what the entry includes and excludes.
 
 ## Technical foundations
 
+### Known-world foothold and explicit departure
+
 ### Governing model
 
 ### Characterization or targeting
@@ -90,6 +92,11 @@ needed. State what the entry includes and excludes.
 ### Scale
 
 ### Limits
+
+### Physical account
+
+State the mass-energy, momentum, heat, information-carrier, latency,
+infrastructure, route, and scale costs that keep the effect accountable.
 
 ## Physical forms and engineering lineage
 
