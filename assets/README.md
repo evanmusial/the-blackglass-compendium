@@ -3,6 +3,10 @@
 Store maps, diagrams, illustrations, insignia, and other non-manuscript material
 here.
 
+The [illustration plan](../docs/illustration-plan.md) is the current production
+backlog, with stable asset IDs, priorities, source references, and visual canon
+constraints.
+
 Recommended organization:
 
 ```text

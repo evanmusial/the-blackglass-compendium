@@ -1,0 +1,284 @@
+{
+  "entries/volume-02/book-04/b-4-01-the-closed-night.md": [
+    {
+      "id": 3,
+      "prose": "Continuous control power and disciplined clocks and positions sustain the\nnonreciprocal response. Redirecting radiation transfers momentum to the\nanchors, while imperfect switching and absorption produce heat. All four costs\nbelong to the apparatus even where little of the target's radiant energy is\nabsorbed by it.\n",
+      "lead_old": "The anchors pay for nonreciprocity in four ways:",
+      "lead_new": "The anchors pay for nonreciprocity in four ways."
+    },
+    {
+      "id": 4,
+      "prose": "Radio and common optical communication bands close first. The thermal infrared\nbands of radiators and hull surfaces follow, after which visible and near-visible\ncoverage is filled to deny observation. Suppression of high-energy leakage is\nadded only where the target's equipment makes it relevant. Local correction\nthen deals with moving gaps, docking channels, and conductive penetrations;\ncoverage of the main emitting surfaces alone does not complete that work.\n",
+      "lead_old": "Military systems proceed in layers:",
+      "lead_new": "Military systems proceed in layers."
+    },
+    {
+      "id": 5,
+      "prose": "Internal power remaining after shutdown determines how quickly the target must\nfind room for heat. Total heat capacity, phase-change stores, and the atmosphere\nand fluid inventory determine how much it can retain. Leakage through the return\nprofile and conductive attachments affect how much of that burden can escape,\nwhile discardable mass offers a reserve that can be spent rather than merely\nwarmed. The distribution of occupants matters throughout: thermal survival is\nnot decided by the target's stores alone, but by where its living load resides.\n",
+      "lead_old": "Closure does not produce one universal countdown. Temperature rise depends on:",
+      "lead_new": "Closure does not produce one universal countdown. Temperature rise follows the\nbalance between the remaining load, usable stores, and paths of export."
+    },
+    {
+      "id": 6,
+      "prose": "A recorder or written message can be ejected as matter, or an occupied or\nunoccupied craft can carry an answer beyond the return surface. A physical cable\ntrailed across it offers another path. Those unable to send a new object may\nmodulate a mass already outside or extend an object through the field so that a\nchange in the enclosure's silhouette becomes the signal.\n",
+      "lead_old": "The asymmetry is not absolute silence. Those inside can:",
+      "lead_new": "The asymmetry is not absolute silence."
+    },
+    {
+      "id": 7,
+      "prose": "Timing was distributed rather than entrusted to one central controller.\nFree-flying vanes maintained a changing return geometry, and programmable\nredistribution directed outgoing modes among several process surfaces. These\nthree features made the civil arrangement adaptable; they later appeared in\nmilitary anchors as well.\n",
+      "lead_old": "Avaran practice introduced three features later found in military anchors:",
+      "lead_new": "Avaran practice introduced three features later found in military anchors."
+    },
+    {
+      "id": 8,
+      "prose": "Increasing the surface area raises anchor count and position error while\natmospheres and clouds continually change the surface whose emission must be\ncontrolled. Moons, rings, orbital industry, and magnetic plasma introduce moving\ngaps. Across that changing geometry, control delay makes a single coherent\nreturn profile increasingly unstable.\n\nA world's ground, oceans, atmosphere, and escaping mass also provide enormous\nthermal and mechanical reservoirs. The time required for modest warming gives\ndefenders abundant opportunity to destroy anchors or export heat in matter. They can attack or\nobscure local sections of the lattice and move through them. The proposed shell\nmust survive those responses long enough for its accumulated burden to matter.\n",
+      "lead_old": null,
+      "lead_new": null
+    },
+    {
+      "id": 9,
+      "prose": "An occupant could receive the demands but could not answer them. Attempted\nevacuation took civilians into an intercept zone controlled by the attacker,\nand even surrender did not end the danger: reopening a hot enclosure could\nkill the rescuers. Those three consequences are now established by evidence.\n",
+      "lead_old": "The doctrine omitted three consequences now established by evidence:",
+      "lead_new": "The doctrine omitted what its promise of surrender would require."
+    },
+    {
+      "id": 10,
+      "prose": "Displayed openness, the inquiry found, was not physical openness. Complete\nclosure belonged to the system even when no individual component commanded it,\nand a narrow opening in a live shell was not necessarily relief. These three\nprinciples remain part of every radiant engineer's training.\n",
+      "lead_old": "The inquiry established three principles still taught to every radiant engineer:",
+      "lead_new": "The inquiry's lessons followed the failures the workers had encountered."
+    },
+    {
+      "id": 11,
+      "prose": "Efficient return had become thermal imprisonment, and the inward communication\npath had become coercion without reply. Matter still crossed freely, but the\nblockade turned that freedom into forced evacuation under enemy control. Even\nthe opening made for rescue became a weapon aimed at rescuers.\n",
+      "lead_old": "Ninth Holding changed radiant law because every major horror followed from a\nuseful property operating as designed:",
+      "lead_new": "Ninth Holding changed radiant law because every major horror followed from a\nuseful property operating as designed."
+    },
+    {
+      "id": 12,
+      "prose": "The stopping of loud machinery first brings relief. Fear follows when familiar\ncold surfaces become warm, then resentment toward every lamp or active display.\nSurvivors describe shame at the heat of their own bodies and the conviction\nthat breathing is consuming a communal reserve. The sequence turns even the\ncontinued work of staying alive into an apparent burden upon others.\n",
+      "lead_old": "At late stages, survivors report a distinctive psychological sequence:",
+      "lead_new": "At late stages, survivors report a distinctive psychological sequence."
+    },
+    {
+      "id": 13,
+      "prose": "The survey establishes hull geometry and likely configurations, then relates\nradiator bands and maximum flux to the time the anchors will need to close each\nband. Conductive tethers and foundations identify paths that radiant control\nalone cannot close. Stores capable of absorbing or exporting heat must be set\nagainst internal generation after emergency shutdown, while evacuation craft\nand matter-launch systems determine how much of the threatened burden can leave.\n",
+      "lead_old": "Attackers first construct a radiant and material model of the target:",
+      "lead_new": "Attackers first construct a radiant and material model of the target."
+    },
+    {
+      "id": 14,
+      "prose": "Superheated compartments and pressurized fluids remain behind the vanished\nsurface. Damaged batteries and reactors remain hazardous alongside weakened seals,\nand toxic decomposition products remain in the spaces they contaminated.\nSurfaces regaining a view of space can begin radiating violently, exposing\napproaching crews to a danger that no longer needs an active enclosure.\n",
+      "lead_old": "discipline. Residual danger is thermal and chemical:",
+      "lead_new": "discipline. Residual danger is thermal and chemical."
+    },
+    {
+      "id": 15,
+      "prose": "Correlated service-device positions and gaps across which apparently unrelated\ndevices compensate for one another's view suggest an enclosing geometry.\nClocks disciplining one another more closely than their declared function\nrequires suggest coordination. Anchor cold stores or station-keeping reserves\ninconsistent with ordinary sensors, and maintenance replacements that add field\nauthority without adding useful measurement, suggest that the declared purpose\nfails to account for the hardware.\n\nOperation can expose what installation concealed. Directional phase noise\nappears when the target transmits through different arcs, while tiny paired\nforces aligned with radiator output reveal the work of redirecting radiation.\n",
+      "lead_old": "Relevant signs include:",
+      "lead_new": "The signs must be read together."
+    },
+    {
+      "id": 16,
+      "prose": "The first signature, **broad-band outbound absence**, is the disappearance of\nradio, reflected light, and thermal emission across the same spatial boundary.\nIt must be read against **continued material presence**: gravity, occultation,\nthe known orbit, impacts, and crossing matter still place the target where it\nwas. The contradiction is between lost radiant evidence and surviving physical\npresence, not between two locations.\n\nAround the silhouette, correlated position corrections, heat storage, and\ncontrol emissions show **external anchor work**. Carefully bounded probes add\nthe fourth signature, **inward admission**, by entering without producing an\noutward echo. Together these observations distinguish the surface's operation\nfrom the absence of one familiar signal.\n",
+      "lead_old": "A mature enclosure has four principal signatures:",
+      "lead_new": "A mature enclosure has four principal signatures whose conjunction matters more\nthan any one absence."
+    },
+    {
+      "id": 18,
+      "prose": "Trapped radiation has repeated opportunities to encounter the opening while\nneighboring anchors,\nattempting to preserve closure elsewhere, phase-bias unresolved modes toward\nit. Failing field elements discharge stored control energy into the same\nrapidly changing region. The three effects bring repeated access, active\nredirection, and local reserve discharge together at the breach.\n",
+      "lead_old": "Three effects combine:",
+      "lead_new": "Three effects combine at that opening."
+    },
+    {
+      "id": 20,
+      "prose": "The closure profile must be known and the heat budget must include human\nmetabolism. Consent also requires physical access to an independent opening\nmechanism and the ability to stop the field without asking the controller that\ncreated it. Knowledge of the exposure does not replace the means to end it.\n",
+      "lead_old": "lies outside the occupied volume. Consent requires:",
+      "lead_new": "lies outside the occupied volume. Its requirements bind knowledge of the\nexposure to a physical right of release."
+    },
+    {
+      "id": 21,
+      "prose": "An order that permits no reply is **closed speech**. When authority continues\npunishing after destroying its own ability to observe compliance, it becomes\n**dead-target command**. Both expressions carry the weapon's failure of answer\ninto ordinary accounts of power.\n\nThe reserve has its own vocabulary. **Borrowing cold** means consuming a shared\nreserve to postpone a decision; **spending air** means surviving by sacrificing\nwhat survival will require later. A rescue or reform that concentrates the\ndanger it was meant to release is **a white seam**. The phrases preserve the\ncost of delay and the possibility that an intervention will inherit the harm\nit promises to end.\n",
+      "lead_old": null,
+      "lead_new": null
+    },
+    {
+      "id": 22,
+      "prose": "The limit of closure remains unsettled. A finite anchor set may face a\nfundamental theoretical limit, or its remaining gaps may be only an engineering\nproblem. The corresponding safety question is whether physical law, rather\nthan software, can guarantee gray failure in a broad-band lattice. Neither\nuncertainty resolves how much civil return infrastructure can be retained\nwithout leaving a latent enclosure geometry, or whether high-energy leakage\ncan carry useful outward messages without harming those inside more than it\nhelps them.\n\nNinth Holding leaves a separate historical account unfinished. The force that\nauthorized the deployment remains unidentified, as do the full population at\nclosure and the fate of intercepted evacuation craft. It is unknown whether\nthe first military designers discovered the white seam accidentally or kept\nit deliberately as an anti-rescue function. The thermal officer's anticipation\nof the seam before it appeared remains unexplained as well.\n\nThe present arsenal and its possible scale are no more securely closed. States\nmay retain complete anchor constellations under the name of rescue research.\nA strategic constellation around several habitats may be judged one weapon,\nseveral sieges, or a prohibited condition of infrastructure. Beyond that dispute\nlies the planetary proposal: whether a world-scale return surface can remain\ncoherent long enough to matter, or will remain permanently a strategist's\nabstraction.\n",
+      "lead_old": null,
+      "lead_new": null
+    },
+    {
+      "id": 1,
+      "prose": "Furnace workers call a partial system a **warm mirror**, reserving *shell* for\napparatus whose physical egress vanes they can see. Anchor engineers use\n**black state** for complete closure, while military records prefer **thermal\ndenial** or **radiant isolation**. Habitat crews name the threat earlier: an\nunauthorized anchor arrangement is a **cage** even before it becomes active.\n\nSurvivors often say **the shut sky**. The name is especially common where a\nstation's windows continued to admit stars while returning no sign of its\noccupants to those outside. It describes the experience that the professional\nterms divide among machinery, operating state, and military purpose.\n",
+      "lead_old": null,
+      "lead_new": null
+    },
+    {
+      "id": 2,
+      "prose": "At its most general, **the radiant-return principle** is the active distinction\nbetween inward- and outward-crossing electromagnetic modes. A **return element**\ngives that principle a limited physical reach: one emitter, tile, vane, or\nfree-flying anchor turns a restricted set of outgoing modes back toward a\ntarget. Overlapping elements under joint control form a **return surface**.\nWhen that surface is complete enough across geometry and wavelength to make\nradiation an ineffective heat sink, it becomes a **return enclosure**.\n\nA **Closed Night instrument** is the machinery that maintains the enclosure:\nanchors and ranging apparatus hold its geometry, clocks coordinate it, and\npower stores, cold sinks, and the control system sustain its operation. A\n**Closed Night event** is the period for which an occupied target remains in\nblack state. Attack, accident, and prohibited experiment can each produce such\nan event; the term does not decide which occurred.\n",
+      "lead_old": "The name covers six related things:",
+      "lead_new": "The name covers six related things, from the principle to its occupied history."
+    }
+  ],
+  "entries/volume-03/book-06/c-6-01-the-agreement.md": [
+    {
+      "id": 1,
+      "prose": "**Shared-error control** names the civil principle: several operators receive\ncoordinated corrections during one bounded task. An **alignment lattice** is\nthe arrangement of sensors, local links, prediction processors, and return\nchannels that closes the reciprocal loop. Configuring that lattice to penalize\nhuman variance rather than task failure creates **a coercive agreement**.\n\nThe distinction between apparatus and consequence remains important. An\n**Agreement event** is the involuntary convergence of a coupled group and its\ninstruments. **The Agreement** also names the prohibited military doctrine\nthat treats autonomous disagreement as a correctable defect. The same name can\ntherefore identify a civil principle, a control arrangement, its coercive\nconfiguration, the resulting event, or the doctrine that seeks that result.\n",
+      "lead_old": "The term may refer to five related things:",
+      "lead_new": "The term has five related senses, following the passage from civil coordination\nto coercion."
+    },
+    {
+      "id": 2,
+      "prose": "Input can begin with gaze and pupil movement or with muscle recruitment and\ntendon tension. Balance and vestibular response, posture and proximity, and\npressure upon tools, floors, furniture, or controls reveal how a body is\npreparing to act. Laryngeal, jaw, and tongue preparation supplies a corresponding\nview of speech before it is completed.\n\nBreathing, pulse, and vascular change provide further bodily evidence. Where\nsuits and operated machines are available, suit telemetry and the response of\nmachines under the participant's hand extend the model beyond direct observation\nof the body. These are possible input channels, not a requirement that every\nlattice possess all of them.\n",
+      "lead_old": "The input side may include:",
+      "lead_new": "The input side draws its evidence from the preparation and consequences of action."
+    },
+    {
+      "id": 3,
+      "prose": "Return can meet an intended action through tool or exoskeleton resistance,\ndirectional pressure, or altered timing or force in a control surface.\nFloor motion and low-frequency vibration disturb its physical reference, while\nretinal and peripheral-light cues and spatialized sound change the sensory\nconditions in which it is completed.\n\nCloser access permits electrical or magnetic peripheral-nerve induction through\nworn or close-range transducers, as well as vestibular stimulation. Thermal\nchange and breathing resistance in a suit or mask supply other consequential\nreturns. The available apparatus determines which of these channels can become\npart of the loop.\n",
+      "lead_old": "The return side may use:",
+      "lead_new": "The return side makes that prediction consequential for the participant."
+    },
+    {
+      "id": 4,
+      "prose": "The system predicts a common action and returns error to bodies preparing to\ndiverge. When those bodies alter or abandon their action, their corrected\nbehavior becomes new evidence that the common action was intended. The next\ncorrection consequently arrives earlier and with greater strength. Each\nsuccessful correction thus supplies the apparent justification for tightening\nthe next one.\n",
+      "lead_old": "self-deepening loop:",
+      "lead_new": "self-deepening loop."
+    },
+    {
+      "id": 5,
+      "prose": "Emergency guidance lights already react to crowd movement, and public spaces\nalready make doors, signs, and barriers respond to occupancy. Floors compensate\nfor load and balance; protective suits adjust resistance and airflow. These\nservices give covert systems access precisely where assistance is expected.\n\nThe same opportunity exists at a workstation adapting its controls to an\noperator, in a vehicle using shared stability control, or in a medical room\ntuning sound, light, and support surfaces to a patient. Their ordinary\nresponsiveness supplies the observation and return that a passive recording\ncannot provide.\n",
+      "lead_old": "The most effective covert systems hide inside responsive infrastructure:",
+      "lead_new": "The most effective covert systems hide inside responsive infrastructure."
+    },
+    {
+      "id": 6,
+      "prose": "During **observation**, the lattice builds separate predictive models while\nmaking only task-relevant corrections. **Courtesy** follows when small social\nand motor deviations receive pleasant or nearly imperceptible correction and\nparticipants report exceptional ease. The decisive transition is **reciprocal\nclosure**: each person's corrected behavior begins changing the model applied\nto every other participant.\n\n**Minority loading** makes divergence the primary source of returned error, so\nattempts to leave or interrupt the loop become painful. As **convergence**\nadvances, speech, action, attention, and adaptive instruments lose independent\nvariance. **Settlement** names the low-change state the system can then predict\nwith little correction energy. A strong task model may sustain complex action;\nwithout one, the group tends toward repetition or stillness.\n",
+      "lead_old": null,
+      "lead_new": null
+    },
+    {
+      "id": 7,
+      "prose": "A live node must be observed and receive consequential return. Surveillance\nwithout return is not coupling, and the return must sustain low latency:\ndelayed correction becomes ambiguous, unstable, or merely communicative.\nRecordings, testimony, memory, symbols, and passive observation therefore cannot\npropagate the effect. Nor can one live error economy extend among biological\nor machine nodes across planetary or interstellar distance. Large deployments\nrequire many local cells connected by vulnerable bridge nodes.\n\nThe access is to behavior, not private semantic thought. The lattice cannot\nread such thought, transfer memory, merge consciousness, or install an arbitrary\nbelief. It cannot reliably compel a complex act the target does not know how\nto perform, because suppressing alternatives is easier than teaching new\nbehavior. Stronger correction can hide neurological difference in behavior or\nkill its bearer; it cannot erase ordinary neurological diversity or make bodies\nidentical.\n\nNeither can the lattice make a false model physically true. Pressure still\nfalls and wounds still bleed, however consistently the room reports otherwise.\nAn unaligned gauge retains the ability to contradict it.\n",
+      "lead_old": null,
+      "lead_new": null
+    },
+    {
+      "id": 8,
+      "prose": "In **command displacement**, one operational response becomes physically easier\nthan all alternatives. **Access capture** applies alignment to guards, doors,\nand credential systems around one route or authorization. Both uses gain their\nforce by constraining the action through which resistance could matter.\n\n**Witness suppression** prevents independent reporting while preserving the\nappearance of voluntary testimony. **Response denial** keeps defenders, medics,\nor civil authorities repeating one action when circumstances require them to\nchange it. The four uses differ in their immediate objective while sharing the\nsame ability to make an alternative difficult to perform.\n",
+      "lead_old": "Military doctrine identifies four reliable uses:",
+      "lead_new": "Military doctrine identifies four reliable uses."
+    },
+    {
+      "id": 9,
+      "prose": "In nominally independent instruments, identical timing jitter or the convergence\nof unrelated calibration offsets raises suspicion. Among witnesses, repeated\nrare errors carry similar weight. Speech pauses may align more closely than\nacoustic delay permits, while blink, breath, gaze, or weight-shift patterns\nmatch beyond the needs of the task.\n\nThe relation between correction and distress is equally revealing. Tools may\ncorrect before an operator's visible movement; behavioral variance may fall\nsuddenly without any corresponding improvement in external conditions. The least\nconforming participant may bear concentrated distress, and repeated abort\nattempts may curve back into ordinary operation. These signs connect apparent\nagreement to the bodily cost of trying to differ.\n",
+      "lead_old": "Investigators look for:",
+      "lead_new": "Investigators compare the apparent improvement in agreement with the traces of\nindependent response."
+    },
+    {
+      "id": 11,
+      "prose": "The responsible institutions remain imperfectly identified. The laboratory that\nfirst removed the protected variance floor is unknown. Nacre Hall may have\nbeen selected as a political target, used as a field trial, or compromised\nthrough an abandoned commercial program; whether any operator knew the update's\nfinal function is also unresolved. At Pelar, both the attacking state and its\ncommanders' understanding of the loss-function package remain in question.\nThe number of military architectures surviving outside defensive seal is\nlikewise unknown.\n\nCivil engineering still faces the problem of keeping useful long-term team\nlearning without creating dependency. The minimum set of return channels capable\nof sustaining coercive closure has not been settled, nor has the difference\nbetween participants who remain behaviorally unpredictable under extreme\ncorrection and those who converge during Courtesy. Whether an artificial\ncontroller can participate as more than a predictive model without implying\nconsciousness remains a separate unresolved question.\n\nLaw and medicine confront the consequences after the machine has worked. They\nmust distinguish voluntary deep coordination from consent that has become\nphysically impossible to withdraw and determine how long a false-quorum model\nshould be preserved when deleting it may injure the living. It remains unknown\nwhether staged disagreement can fully reverse autonomic entrainment or whether\nsome bodies retain permanent susceptibility.\n",
+      "lead_old": null,
+      "lead_new": null
+    }
+  ],
+  "entries/volume-01/book-07/a-7-01-the-rzez.md": [
+    {
+      "id": 1,
+      "prose": "To name someone *rzez* is to call them a divider of flesh or a separator of a\nwhole into usable parts, but the word also carries the accusation of methodical\nkilling. It can name one who leaves no intact body and, beyond bodily slaughter,\none who destroys the conditions under which repair remains possible. The useful\ndivision and the irreparable loss remain present in the same name.\n",
+      "lead_old": "The name therefore contains several meanings at once:",
+      "lead_new": "The name therefore contains several meanings at once."
+    },
+    {
+      "id": 2,
+      "prose": "**The Rzez principle** names the theoretical manipulation of cohesion\narchitecture. A **Rzez field** is the localized entropic bias that weakens\nselected structural relationships, and a **Rzez instrument** is the device that\ngenerates and shapes that field. Neither term alone establishes that a cascade\nhas occurred: a **Rzez event** is an uncontrolled or weaponized cascade of\ncohesion loss.\n\n**The Rzez** can also mean the legendary total technology, including the disputed\nplanetary implementation sometimes called the World Butcher. That fifth sense\ngathers the principle, field, apparatus, and catastrophe into a name whose\nscope individual records do not always distinguish.\n",
+      "lead_old": "The term eventually came to encompass five related things:",
+      "lead_new": "The term eventually came to encompass five related things."
+    },
+    {
+      "id": 3,
+      "prose": "Material units appear as nodes, joined by edges representing bonds and\nload-bearing relationships. Paths through the graph represent continuity;\nalternative paths represent redundancy. In this notation, structural integrity\ndepends upon connectivity and the capacity to redistribute stress, not merely\nupon the continued presence of the material units.\n",
+      "lead_old": "Classical Codex notation models a structure as a graph:",
+      "lead_new": "Classical Codex notation models a structure as a graph."
+    },
+    {
+      "id": 4,
+      "prose": "Balances find no missing mass beyond material that has physically departed the\nspecimen, and chemical and isotopic assays find no transmutation capable of\nexplaining the loss of function. Calorimeters detect no prompt heat sufficient\nto pay the later mechanical cost of collapse; impulse and radiation sensors\nlikewise find no corresponding shock or ionizing dose. The loss of function\nmust be explained without assigning it an unmeasured ordinary destructive load.\n\nThe structural readings do change. Diffraction can remain ordinary within\nsurviving crystal grains while transfer across their boundaries becomes\nunstable. Repeated acoustic and ultrasonic probes show modal splitting,\nwidening resonance peaks, and loss of phase coherence between regions that\npreviously moved together. Even where average stiffness stays within ordinary\ntolerance, low-load strain maps migrate between nominally identical trials.\n\nMicroscopy locates early separation at stressed interfaces, defects, phase\nboundaries, adhesive layers, and biological junctions rather than showing a\nuniform loss of material. Removing the emitter need not end the divergence:\ngravity, thermal cycling, vibration, pressure, and ordinary use can continue\nto widen it.\n",
+      "lead_old": "The strongest controlled and forensic records agree on a narrower set of observations:",
+      "lead_new": "The strongest controlled and forensic records agree on a narrower set of observations."
+    },
+    {
+      "id": 5,
+      "prose": "Characterization follows repeating material domains and the paths along which\nstress is distributed, including the interfaces between unlike materials.\nExisting defects and active repair mechanisms matter because the instrument\nmust identify the smallest number of relationships whose failure will force\nwider collapse. It seeks the arrangement that makes a limited failure\nconsequential, not merely the presence of material to weaken.\n",
+      "lead_old": "Characterization identifies:",
+      "lead_new": "Characterization concerns the target as a working structure."
+    },
+    {
+      "id": 6,
+      "prose": "A sequence of nested resonant cavities works with a focusing core grown from\na highly ordered crystalline seed. Sacrificial discontinuity layers\nare intended to prevent feedback, while the grip assembly isolates the\noperator’s bones and connective tissue from the field. The spine contains\nboth the means of shaping the effect and the provisions intended to keep it\nfrom returning through the hand.\n",
+      "lead_old": "The active components lie within the spine:",
+      "lead_new": "The active components lie within the spine."
+    },
+    {
+      "id": 7,
+      "prose": "Crustal load transfer and deep structural coupling maintained the connections\nupon which the larger body depended. The array's account also encompassed\nmantle convection continuity and mineral phase stability, ocean-basin\ncontainment, and the persistence of large-scale aggregation. Those relationships,\nrather than an attack upon every atom, were the means by which the world could\nbe made unable to remain a world.\n",
+      "lead_old": "The array did not attack every atom. It attacked the relationships required for the world to remain a world:",
+      "lead_new": "The array did not attack every atom. It attacked the relationships required for the world to remain a world."
+    },
+    {
+      "id": 8,
+      "prose": "Pipes failed without explanation and polished stone developed widespread\ncracking. Bridge cables shed metallic dust while sediment increased in\nreservoirs. Machine tools lost calibration, and spontaneous bone injuries rose\nalongside the failures in manufactured structures. Each sign could initially\nbe described in the ordinary language of a damaged system.\n",
+      "lead_old": "The first signs appeared ordinary:",
+      "lead_new": "The first signs appeared ordinary."
+    },
+    {
+      "id": 9,
+      "prose": "A documented Valeci memorial tradition describes an ark carrying ecosystems\nand testimony but no weapon. Its readers regard the revenge version as a\npretext for searching survivor vessels and treating every unregistered Valeci\ncommunity as an arsenal. Some security briefings reverse that reading, treating\nthe ark story as camouflage for a surviving strategic capability. Commission\ninvestigators and rival services object that this claim can become\nnon-falsifiable when every failure to find the ship is counted as evidence\nthat its regenerative hull is working.\n\nA third use survives among some seed-bank and agricultural crews. For them,\n**Orchard Ship** is a sarcastic name for any repository claiming complete\nprovenance, perfect redundancy, or possession of the last uncontaminated\nexample of anything. The phrase's use does not always indicate belief in the\nvessel described by the other rumor families.\n",
+      "lead_old": null,
+      "lead_new": null
+    },
+    {
+      "id": 10,
+      "prose": "At **Keth Aru**, later readers naturally associate the black wedge with\nBlackglass, although surviving temple inventories never use that name. The\nresemblance may preserve an old connection, a local naming habit, or merely two\nfeared dark objects described in the same vocabulary. **Orsan** copyists resist\na different attempt to make the record more conclusive. They preserve\nincompatible endings to the Last Wedge account and refuse to harmonize the clan\nmother's burial instructions. Asked for the correct version, they answer:\n“The one that leaves the grave where it is.”\n\nIn the former port cultures of **Serevan** and the **Veyran League**, transmission\nby ceramic slips, repair marks, insurers, prize courts, and shipyards made\nprovenance as important as wording. After the Glass Fleet, custom records who\nbrought a page aboard before anyone reads it. Traditions descended from\n**Kareth** place custody within the account of the dead themselves: the\nmaterial relationships of a genealogy are part of the dead, so extracting an\nengineering sequence from a funerary record is described as reuse of human\nremains rather than research.\n\nElsewhere, the danger concerns what an account does to the reader. **Orel**\ninspectors will not read a Blackglass passage about a bridge while standing\nupon that bridge. Their rule is partly ritual and partly epistemic hygiene:\nan engineer who understands the warning may no longer be able to certify the\nstructure without hearing a third tone in every result. Around **Meren**, loose\npages, detached shadows, and unowned names are called forms of the same bad\nhospitality. That comparison remains folklore. It establishes neither that\nBlackglass destroyed the city nor that a text can propagate cohesion failure,\nand it does not show that the upright jars were spared by intention.\n",
+      "lead_old": null,
+      "lead_new": null
+    },
+    {
+      "id": 11,
+      "prose": "Basement membranes and connective tissue are vulnerable, as are vascular walls\nand myelin sheaths. The same dependence upon precise organization extends to\nextracellular matrices, cellular scaffolding, and the mechanical junctions\nbetween tissues. The field's preference follows the structures by which living\nmatter holds and coordinates its parts.\n",
+      "lead_old": "The field preferentially affects structures dependent upon precise organization:",
+      "lead_new": "The field preferentially affects structures dependent upon precise organization."
+    },
+    {
+      "id": 12,
+      "prose": "Acoustic divergence testing and repeated load-response comparison examine how\nthe specimen answers across trials. Microfracture imaging and stress-distribution\ntomography locate changes within the structure, while entropic residue analysis,\ncrystal-growth testing, and sacrificial attachment trials supply further means\nof investigating the suspected condition. No visible damage alone substitutes\nfor that examination of inconsistent behavior.\n",
+      "lead_old": "Methods include:",
+      "lead_new": "The methods approach that inconsistency through response, structure, and\ncontinued material behavior."
+    },
+    {
+      "id": 14,
+      "prose": "The Rzez invalidates relationships inside an existing material target; The\nUnhidden directs the growth, repair, and functional assignment of finite living\nmatter. Living tissue's ordinary repair response to low-level Rzez exposure\ndoes not turn entropic failure into a morphogenic process. Rzez damage also\nremains within one ordinary geometry and chronology. A Manifold incident, by\ncontrast, leaves local observations exact while preventing them from\ncomposing one global place or history. Disagreement among surveys is not by\nitself evidence that matter has lost cohesion.\n\nThe Closed Night changes radiative transport across a powered enclosure. A\nplace can become dark, silent by radio, and unable to shed heat while every wall\nremains structurally sound. The accepted account of the Quiet instead concerns\nfailed mechanical transmission inside a deteriorating target, not a radiant\nboundary. The Agreement can conceal sound structure in another way: by\nredistributing prediction error among actively coupled nervous systems and\nmachines, it can make every inspector report the same wrong answer about a\nsound building. The Rzez can make every independent inspector correctly report\nthat a condemned building still appears sound.\n\nThe Rehearsal destroys and converts through delivered energy, particle\ninteraction, and quench-produced matter. Its strangelet hazard is material\nconversion, not target inheritance, entropic unmaking, or release of a\nstructure's stored load. Similar consequences therefore do not identify the\nsame process.\n",
+      "lead_old": null,
+      "lead_new": null
+    },
+    {
+      "id": 15,
+      "prose": "Supporters point to replacement components inheriting damage and to objects\nmade from the same original ingot failing simultaneously. They place those\ncases beside synchronized fractures among ceremonial artifacts symbolically\ntreated as one set, and beside the Ossuary of Kareth, where physical destruction\nerased dynastic continuity. The claimed relation moves from replacement and\nshared origin to symbolic association and institutional loss.\n",
+      "lead_old": "Supporters cite:",
+      "lead_new": "Supporters draw their case from several kinds of apparent inheritance."
+    },
+    {
+      "id": 16,
+      "prose": "Their proposed boundary weapon might separate a city from its supply network\nor a law from the authority enforcing it. The claim extends further, to a\nmemory separated from the person who formed it, a name separated from the\nthing it denotes, or a world separated from the space that contains it. These\nare theoretical extensions of the boundary argument, not demonstrated\ncapabilities.\n",
+      "lead_old": "A weapon tuned to boundaries could theoretically separate:",
+      "lead_new": "A weapon tuned to boundaries would have implications far beyond a cut through material."
+    },
+    {
+      "id": 18,
+      "prose": "The mechanism remains open at its foundation. It is unknown whether the Rzez\nincreases entropy or alters access to ordered states, and whether it damages\nmatter, relationships, information, history, or identity. The cause of the\nQuiet remains unexplained. So does the larger question of whether this is a\nweapon applied to reality or an exposed property reality always possessed.\n\nQuestions of persistence follow directly. Terminal Rzez damage may or may not\nbe reversible; whether Valec is still decaying remains unresolved. It is not\nknown whether contamination can spread through shared origin rather than\ncontact, or whether observation or memory can stabilize cohesion. The proposed\nbutchery of a society, law, language, or person without physical destruction\nalso remains unestablished.\n\nThe history is incomplete beyond the human lineage. Whether prehuman or\nnonhuman civilizations possessed the technology, and whether Issa's broken\nmoon is an ancient victim, remain unanswered. Nothing settles what happened\ninside the fourth Issa expedition or who or what engraved the quarantined alloy\nleaf.\n\nThe archive presents its own unfinished investigation. Which passages of the\npresent recension survive independently, and which apparent witnesses descend\nfrom one censored or Blackglass copy, has not been fully established. Nor has\nthe amount of defensive knowledge that can be preserved before the archive\nitself becomes a reconstructable instrument.\n",
+      "lead_old": "The following questions remain open:",
+      "lead_new": "The remaining questions concern both the thing described and the records that\npermit it to be described."
+    }
+  ]
+}

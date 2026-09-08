@@ -96,6 +96,16 @@ description. A strong entry normally contains:
 Not every entry needs every section. Omission should follow the subject, not
 authorial fatigue.
 
+Develop ordinary explanation as connected prose, placing each fact beside its
+cause, evidence, limitation, or consequence. Retain a list when its arrangement
+belongs to an actual procedure, legal article, documentary inventory, evidence
+key, or comparably useful reference. A fictional attribution must not be invented
+merely to keep a convenient outline. Pure authoring instructions and development
+ledgers belong in linked editorial companions; in-world uncertainty belongs in
+the manuscript with its evidence boundaries intact. The
+[prose integration record](prose-integration-pass.md) explains how to preserve
+every original item when revising existing material.
+
 ## Stage 4: Canon extraction
 
 After the draft has found its identity, inspect every new setting fact and place

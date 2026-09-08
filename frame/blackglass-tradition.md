@@ -37,9 +37,9 @@ fragment is found. Others begin when a previously harmless fragment is
 translated correctly. In several famous cases the order cannot be recovered.
 
 Blackglass scholarship therefore refuses both easy superstition and easy
-reassurance. The collection is not authorially established as a conscious,
-supernatural, or self-propagating object. Civilizations have still accumulated
-enough experience to fear it as if it were all three.
+reassurance. The collection is not established as a conscious, supernatural,
+or self-propagating object. Civilizations have still accumulated enough
+experience to fear it as if it were all three.
 
 ## A lineage rather than one book
 
@@ -254,22 +254,25 @@ the cost of fidelity and preserve fidelity at the cost of safety.
 
 Blackglass information is not uniformly hazardous, and no one cognitive or
 physical mechanism links every entry. Its dangers recur through several
-different paths:
+different paths.
 
-- **Instructional danger:** a description supplies equations, geometry,
-  materials, timing, or operational sequence sufficient for construction.
-- **Inferential danger:** separately harmless facts become a design when placed
-  beside one another.
-- **Recognitional danger:** a reader learns how to identify, approach, activate,
-  or misuse an artifact that was already present.
-- **Constitutive danger:** for a limited class of systems, modeling,
-  synchronization, reciprocal observation, or high-fidelity rehearsal can form
-  part of the dangerous architecture rather than merely describe it.
-- **False-completion danger:** an incomplete or mistranslated account inspires an
-  attempted reconstruction whose failure mode is catastrophic even though the
-  original claim was wrong.
-- **Institutional danger:** secrecy, accusation, and preventive isolation destroy
-  trust and infrastructure before any weapon is confirmed.
+**Instructional danger** arises when a description supplies equations,
+geometry, materials, timing, or an operational sequence sufficient for
+construction. **Inferential danger** can arise without a complete description:
+separately harmless facts become a design when placed beside one another.
+**Recognitional danger** instead teaches a reader to identify, approach,
+activate, or misuse an artifact that was already present.
+
+For a limited class of systems, **constitutive danger** makes modeling,
+synchronization, reciprocal observation, or high-fidelity rehearsal part of the
+dangerous architecture rather than merely its description. A different path,
+**false-completion danger**, begins with an incomplete or mistranslated account.
+It inspires a reconstruction whose failure mode is catastrophic even though
+the original claim was wrong.
+
+**Institutional danger** can precede confirmation of any weapon. Secrecy,
+accusation, and preventive isolation destroy trust and infrastructure in their
+own right.
 
 The categories do not make all knowledge magical or all study illegal. They
 explain why an unread volume can be inert while three remembered sentences in a
@@ -647,15 +650,16 @@ because the underlying encounters recur.
 
 Most major religious authorities treat Blackglass as feared, spiritually
 unclean, or borderline taboo even when their theology denies that the object is
-supernaturally cursed. Common concerns include:
+supernaturally cursed. Their concerns connect knowledge to the people who bear
+its consequences.
 
-- understanding can impose risk upon people who never consented to the study;
-- treating catastrophe as revelation grants authority to the instrument that
-  caused it;
-- complete recitation can become instruction;
-- the desire to possess every answer is itself a moral failure; and
-- preserving victims requires testimony, while converting their deaths into a
-  usable design violates them again.
+Understanding can impose risk upon people who never consented to the study.
+Treating catastrophe as revelation then grants authority to the instrument
+that caused it, while complete recitation can become instruction. The desire
+to possess every answer is itself regarded as a moral failure.
+
+Preserving victims requires testimony. Converting their deaths into a usable
+design violates them again.
 
 The taboo is rarely absolute. Religions that forbid lay reading may still train
 custodians to recognize a fragment, preserve a warning, or advise an evacuation.
@@ -695,17 +699,16 @@ cannot be reduced to one survey history, and high-energy scars with suspicious
 convergence geometry. Many accounts remain too weak, dangerous, or inaccessible
 for close study.
 
-The possibilities are all severe:
+The possibilities are all severe.
 
-- known technologies are older than their accepted inventors;
-- distant human societies independently rediscovered them;
-- modern categories have collapsed unlike ancient phenomena into familiar
-  names;
-- an older human or nonhuman lineage distributed instruments, records, or
-  warnings;
-- ordinary nature repeatedly produces forms that technical cultures later turn
-  into weapons; or
-- some unidentified actor continues to use them.
+Known technologies may be older than their accepted inventors, or distant
+human societies may have independently rediscovered them. Modern categories
+may instead have collapsed unlike ancient phenomena into familiar names.
+
+An older human or nonhuman lineage may have distributed instruments, records,
+or warnings. Alternatively, ordinary nature may repeatedly produce forms that
+technical cultures later turn into weapons. Some unidentified actor may also
+continue to use them.
 
 No option establishes a common mechanism among the weapons. The recurrence may
 belong to intelligence rather than physics: sufficiently capable civilizations
@@ -735,20 +738,21 @@ far.
 
 ## Boundaries that remain unresolved
 
-The following questions are intentionally not answered:
+The first Blackglass layer may have been a library, evidence locker,
+containment system, devotional work, or trap. Whether the Prior Hands were
+human, contemporary with one another, or aware of the later Codex tradition
+remains unknown. The name may have begun with a material, a redaction practice,
+a mirror metaphor, or a convergence of all three, and no complete recension is
+known to have been demonstrated.
 
-- whether the first Blackglass layer was a library, evidence locker,
-  containment system, devotional work, or trap;
-- whether the Prior Hands were human, contemporary with one another, or aware of
-  the later Codex tradition;
-- whether the name began with a material, a redaction practice, a mirror
-  metaphor, or a convergence of all three;
-- whether a complete recension has ever existed;
-- whether the scattered-leaf and proximate-medium patterns have one cause;
-- whether any page found in open space was placed for a particular discoverer;
-- whether landscape correspondences are artifacts, natural analogues,
-  misclassification, or evidence that history is radically incomplete;
-- whether remote Blackglass myths descend from contact or recurrent discovery;
-- whether the Narrow Proof had a solution; and
-- whether trouble follows Blackglass, Blackglass follows trouble, or both follow
-  something else.
+The scattered-leaf and proximate-medium patterns may or may not have one cause.
+Whether any page found in open space was placed for a particular discoverer
+remains unresolved. Landscape correspondences may be artifacts, natural
+analogues, misclassification, or evidence of radically incomplete history;
+remote Blackglass myths may descend from contact or recurrent discovery.
+
+Whether the Narrow Proof had a solution remains unknown. So does the direction
+of the association itself: trouble may follow Blackglass, Blackglass may follow
+trouble, or both may follow something else.
+
+The original editorial reservations are retained in the [companion note](../docs/editorial-notes/frame-blackglass-tradition.md).

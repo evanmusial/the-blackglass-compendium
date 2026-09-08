@@ -88,11 +88,13 @@ object remains quarantined and has not justified another landing.
 
 ## Deliberately unresolved
 
-- Issa is the gas giant's name, not necessarily the star or system name.
-- No current canon identifies the moon's formal name.
-- The anomaly may be nonhuman engineering, forgotten human engineering, an
-  unusual natural state, or a misinterpreted phenomenon.
-- The alloy leaf may be a planted text, an expedition artifact, or a genuine
-  page without a recoverable book; no accepted evidence makes it responsive.
-- The system's routes, settlements, states, and relationship to Compact authority
-  remain open.
+Issa names the gas giant, not necessarily its star or system; the moon's formal
+name is not supplied. The system's routes, settlements, states, and relationship
+to Compact authority remain open.
+
+The anomaly may be nonhuman engineering, forgotten human engineering, an unusual
+natural state, or a misinterpreted phenomenon. The alloy leaf may likewise be a
+planted text, an expedition artifact, or a genuine page without a recoverable
+book. No accepted evidence makes it responsive.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-places-issa.md).

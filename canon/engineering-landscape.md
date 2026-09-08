@@ -103,29 +103,29 @@ begin an incident whose eventual target cannot be guaranteed.
 
 ## Mechanism firewall
 
-Future entries must preserve the following distinctions:
+The distinctions follow from what each system actually changes.
 
-- Rzez damage is entropic relationship failure inside one ordinary geometry and
-  chronology.
-- An Unhidden organism is finite, mass-accountable living matter. Its total
-  boundary is physiological, not topological or radiative.
-- A Manifold rupture is globally nonconvergent. Its associated presence or
-  presences are not Plain Things, and neither subject explains the other.
-- A Closed Night is an active ordinary-space radiative enclosure. It does not
-  erase energy, halt time, make its interior impossible, or prevent matter from
-  crossing.
-- An Agreement lattice couples prediction and correction. It does not transmit
-  arbitrary beliefs, merge minds, spread through recordings, or cause truly
-  isolated instruments to agree.
-- The Rehearsal transports energy and forms temperature only when its
-  counterstreams thermalize at the focus. Its strangelet hazard is a
-  quench-produced material residue, not entropic unmaking, radiative retention,
-  morphogenic growth, neurocybernetic coupling, or causal contradiction.
-- Shared terms such as *boundary*, *continuity*, *identity*, *distributed*,
-  *agreement*, *closure*, and *convergence* do not establish common origin,
-  mechanism, vulnerability, or metaphysics.
-- No interaction among the six systems is canon until a manuscript produces an
-  incident and evidence model that require one.
+Rzez damage is entropic relationship failure within one ordinary geometry and
+chronology. An Unhidden organism is finite, mass-accountable living matter
+whose total boundary is physiological rather than topological or radiative.
+A Manifold rupture, by contrast, is globally nonconvergent. Its associated
+presence or presences are not Plain Things, and neither subject explains the
+other.
+
+A Closed Night is an active radiative enclosure in ordinary space. It neither
+erases energy nor halts time, makes its interior impossible, or prevents matter
+from crossing. An Agreement lattice couples prediction and correction without
+transmitting arbitrary beliefs, merging minds, spreading through recordings,
+or making truly isolated instruments agree.
+
+The Rehearsal transports energy and forms temperature only when counterstreams
+thermalize at its focus. Its strangelet hazard is a quench-produced material
+residue, rather than entropic unmaking, radiative retention, morphogenic growth,
+neurocybernetic coupling, or causal contradiction. Shared words such as
+*boundary*, *continuity*, *identity*, *distributed*, *agreement*, *closure*, and
+*convergence* establish no common origin, mechanism, vulnerability, or metaphysics.
+No interaction among the six becomes canon until an incident and its evidence
+model require one.
 
 The Rzez subtracts continuity. The Unhidden redistributes the work of remaining
 alive. The Manifold prevents continuity from resolving into one account. The
@@ -140,18 +140,17 @@ The [Blackglass Compendium](../frame/blackglass-tradition.md) can make knowledge
 of more than one system existentially dangerous without acting as a seventh
 unifying mechanism.
 
-- Rzez knowledge can expose propagation, characterization, and focusing
-  relationships that the Sixth Compact separately prohibits.
-- Unhidden knowledge can reveal growth, control, occlusion, and custody methods
-  applicable to finite living bodies.
-- Manifold records can teach a surveyor to recognize or approach an exterior
-  incidence without making the record a controllable rupture.
-- Closed Night diagrams can expose how lawful return infrastructure closes into
-  a hostile geometry.
-- Agreement models can reveal the carrier, latency, and reciprocal correction
-  needed to establish coercive coupling.
-- Rehearsal fragments can compose timing, convergence, baryon-bias, and quench
-  capacity even when no fragment alone is a weapon.
+Rzez knowledge can expose propagation, characterization, and focusing
+relationships separately prohibited by the Sixth Compact. Unhidden knowledge
+can reveal growth, control, occlusion, and custody methods for finite living
+bodies. Manifold records can teach a surveyor to recognize or approach exterior
+incidence without becoming a controllable rupture themselves.
+
+Closed Night diagrams may show how lawful return infrastructure closes into a
+hostile geometry. Agreement models may disclose the carrier, latency, and
+reciprocal correction needed for coercive coupling. Rehearsal fragments can
+combine timing, convergence, baryon-bias, and quench capacity even when no one
+fragment is a weapon. The dangerous combination differs with the system.
 
 The information-hazard path must therefore be argued separately for each
 subject. A dangerous cross-reference is evidence of editorial collation, not a
@@ -186,18 +185,19 @@ the oldest continuously occupied refuge, while Kharos became the later home
 world. That shared ancestry explains common biological and technical lineages;
 it does not imply that any forbidden system came from a founding carrier.
 
-- [Kharos](places/kharos.md) supplies civilian medicine, public courts,
-  protected-dissent procedure, rehabilitation, scholarship, Common Matter
-  proceedings, and the ordinary social consequences of dangerous engineering.
-- [Avara](places/avara.md) supplies low-gravity clinical scale, atmosphere and
-  thermal engineering, the Three-Hand Rescue tradition, recovery facilities,
-  and some defensive industry.
-- [Odran](places/odran.md) supplies physically separated material standards,
-  independent controllers, clocks, vacuum calorimetry, high-energy particle
-  baselines, ranging stations, and redundant archives.
-- Stations farther into the system extend observation, thermal-reference, and
-  high-energy-transient baselines without becoming new population centers or
-  defining interstellar route physics.
+[Kharos](places/kharos.md) supplies civilian medicine, public courts,
+protected-dissent procedure, rehabilitation, scholarship, Common Matter
+proceedings, and ordinary social responses to dangerous engineering.
+[Avara](places/avara.md) contributes low-gravity clinical scale, atmospheric
+and thermal engineering, the Three-Hand Rescue tradition, recovery facilities,
+and some defensive industry. [Odran](places/odran.md) maintains physically
+separated material standards, independent controllers, clocks, vacuum
+calorimetry, high-energy particle baselines, ranging stations, and redundant
+archives.
+
+Stations farther into the system extend observation, thermal-reference, and
+high-energy-transient baselines. That wider reach does not make them new
+population centers or a definition of interstellar route physics.
 
 The [Apsis Range](places/apsis-range.md), the Apsis Directorate, and the Apsis
 Discharge all remain outside Kelan–Ruva. Apsis itself is a deliberately
@@ -218,30 +218,33 @@ of the event.
 
 ## Defenses that do not unify
 
-The six hazards reward different and sometimes conflicting responses:
+The six hazards reward different and sometimes conflicting responses.
 
-- Suspected Rzez propagation favors separation, sacrificial joints, and rapid
-  disconnection of continuous utilities.
-- A hostile open form can be impeded by occlusion, compression, desiccation, or
-  hostile chemistry, while a surrendering Plain Thing requires wet,
-  non-occluding life support. The same sealed cell can be containment or slow
-  execution depending on its environment.
-- Local Manifold incidence favors decoupling implicated infrastructure and
-  evacuating along one uninterrupted path. A mature rupture favors one ingress
-  path, continuous tethering, and teams that do not divide into incompatible
-  charts.
-- A Closed Night favors motion, broad anchor disruption, material heat export,
-  and multiple permanent egress paths. One narrow opening can become the lethal
-  white seam that a rescue team must avoid.
-- An Agreement favors hard disconnection, one-way channels, asynchronous clocks,
-  randomized local stimuli, small isolated cells, and observers whose variance
-  is physically protected. Reconnecting too early can restore learned
-  convergence after the original carrier is gone.
-- The Rehearsal favors prevention before convergence: disperse the crown, break
-  timing, deny baryon injection, and keep precursor arrays physically incapable
-  of closing a complete focus. After a stable catalytic strangelet escapes,
-  ordinary shutdown cannot recall it; detection, interception, and denial of
-  dense amplifying reservoirs become uncertain emergency measures.
+Suspected Rzez propagation favors separation, sacrificial joints, and rapid
+disconnection of continuous utilities. Local Manifold incidence can also call
+for decoupling implicated infrastructure, but evacuation follows one
+uninterrupted path. A mature rupture favors one ingress path, continuous
+tethering, and teams that do not divide into incompatible charts. The apparent
+similarity of a disconnection order therefore conceals different reasons for
+what must remain connected.
+
+A hostile open form can be impeded by occlusion, compression, desiccation, or
+hostile chemistry. A surrendering Plain Thing instead needs wet, non-occluding
+life support. The same sealed cell can provide containment or slow execution,
+depending upon its environment. Closed Night rescue faces another boundary:
+motion, broad anchor disruption, material heat export, and multiple permanent
+egress paths offer defenses, while a narrow opening can become the lethal
+white seam that rescuers must avoid.
+
+Agreement defense uses hard disconnection, one-way channels, asynchronous
+clocks, randomized local stimuli, small isolated cells, and observers whose
+variance is physically protected. Reconnecting too early can restore learned
+convergence after the original carrier has gone. Rehearsal defense acts most
+reliably before convergence, by dispersing the crown, breaking timing, denying
+baryon injection, and keeping precursor arrays physically unable to close a
+complete focus. Once a stable catalytic strangelet escapes, ordinary shutdown
+cannot recall it. Detection, interception, and denial of dense amplifying
+reservoirs become uncertain emergency measures.
 
 Kelan–Ruva engineering therefore favors **isolated redundancy** with preserved
 variance and material egress: modular wet services, independent clocks and
@@ -256,33 +259,32 @@ ordinary baryonic matter intrinsically immune to a catalytic seed.
 
 ## Boundaries retained for later entries
 
-- No confirmed Manifold rupture is placed in the Kelan–Ruva system.
-- The Unhidden's military conversion and first deployment occur away from
-  Kharos; their states, dates, and locations remain unresolved.
-- The associated Manifold presence has no assigned species, civilization,
-  motive, authorship, number, or strategic doctrine.
-- Ordinary interstellar routes are not defined by Manifold physics.
-- The Closed Night has no confirmed planetary deployment and does not enclose
-  Kharos, Avara, or an entire world.
-- The Agreement cannot bridge ordinary interstellar latency, propagate through
-  records, or eliminate the continued private consciousness of its victims.
-- The Apsis Discharge occurs outside Kelan–Ruva. No surviving Rehearsal crown,
-  strangelet specimen, or confirmed converted reservoir is assigned to the home
-  system.
-- A large but unknowable strangelet yield is established as authorial canon for
-  Apsis. In-world, numerous massive strange-rich tracks are Grade A while their
-  identification as a large strangelet population or long-lived yield is Grade B;
-  charge, mass, lifetime, and catalytic fraction remain unresolved. Catalytic
-  escape and a self-sustaining Succession remain Grade E.
-- Even a supercritical Succession travels by causal physical processes. It can
-  threaten ordinary baryonic matter in its reachable future, not convert
-  photons, dark matter, vacuum, spacetime, black-hole interiors, or permanently
-  causally inaccessible regions.
-- Rehearsal self-gravity does not create a controllable black-hole weapon or a
-  path around the energy ledger.
-- The Opening of Pelar Habitat and Ninth Holding occur outside Kelan–Ruva; their
-  withheld placement does not create a new celestial body in shared canon.
-- Kharos is not humanity's cradle, a regional capital, or the sole authority on
-  forbidden engineering.
-- Volume numbers, book numbers, permanent entry IDs, and final legal statuses
-  for The Unhidden and The Manifold remain unassigned.
+No confirmed Manifold rupture is placed in Kelan–Ruva. The Unhidden's military
+conversion and first deployment occur away from Kharos, with their states,
+dates, and locations unresolved. The associated Manifold presence has no
+assigned species, civilization, motive, authorship, number, or strategic
+doctrine, and ordinary interstellar routes remain independent of its physics.
+Volume numbers, book numbers, permanent entry IDs, and final legal statuses
+for both developing subjects remain unassigned.
+
+The Closed Night has no confirmed planetary deployment and does not enclose
+Kharos, Avara, or an entire world. The Agreement cannot bridge ordinary
+interstellar latency, propagate through records, or eliminate its victims'
+continued private consciousness. Pelar Habitat's Opening and Ninth Holding
+both occur outside Kelan–Ruva; their withheld placement establishes no new
+celestial body. Kharos remains neither humanity's cradle, a regional capital,
+nor the sole authority on forbidden engineering.
+
+The Apsis Discharge also occurs outside Kelan–Ruva. No surviving Rehearsal
+crown, strangelet specimen, or confirmed converted reservoir is assigned to
+the home system. A large but unknowable strangelet yield at Apsis is established
+authorially, while in-world evidence grades its numerous massive strange-rich
+tracks A and their identification as a large strangelet population or
+long-lived yield B. Charge, mass, lifetime, and catalytic fraction remain
+unresolved; catalytic escape and a self-sustaining Succession remain Grade E.
+
+Even a supercritical Succession follows causal physical processes and threatens
+ordinary baryonic matter in its reachable future. It cannot convert photons,
+dark matter, vacuum, spacetime, black-hole interiors, or permanently causally
+inaccessible regions. Rehearsal self-gravity supplies neither a controllable
+black-hole weapon nor a way around the energy ledger.

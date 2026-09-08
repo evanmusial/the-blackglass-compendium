@@ -29,7 +29,10 @@ can precede political acknowledgment of danger.
 
 ## Unresolved questions
 
-- Were the Houses one polity's guilds or a transnational federation?
-- What did they know before the Gentle Opening?
-- Who converted their industrial equipment into the Deren Keep weapon?
-- Did any House preserve prohibited lineages after the Compact?
+Whether the Houses were one polity's guilds or a transnational federation
+remains unresolved. So does what they knew before the Gentle Opening and who
+converted their industrial equipment into the Deren Keep weapon. No settled
+answer identifies whether any House preserved prohibited lineages after the
+Compact.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-institutions-first-quarry-houses.md).

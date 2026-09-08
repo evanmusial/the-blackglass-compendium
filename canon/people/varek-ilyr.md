@@ -27,12 +27,16 @@ The draft explicitly disputes the authenticity of several such lines and of the
 collected Ilyr fragments.
 
 The historical person, the traditional credit, and the existence of attributed
-writings are safe continuity anchors. The exact wording and authenticity of
-those writings remain disputed in-world.
+writings remain distinct from the disputed exact wording and authenticity of
+those writings.
 
 ## Unresolved questions
 
-- Did Ilyr understand propagation risk before the First Quarry Houses admitted it?
-- Which attributed fragments are contemporary?
-- Did he die in exile, or is the story of his self-disassembly purely legendary?
-- How much of the later moral image of Ilyr was constructed by antiwar scholars?
+Whether Ilyr understood propagation risk before the First Quarry Houses
+admitted it remains unresolved. Which attributed fragments are contemporary
+is also disputed. It remains uncertain whether he died in exile and whether
+the story of his self-disassembly is purely legendary.
+The extent to which antiwar scholars constructed his later moral image is
+likewise unknown.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-people-varek-ilyr.md).

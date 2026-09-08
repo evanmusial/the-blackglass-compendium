@@ -1,0 +1,437 @@
+{
+  "baseline": "fe2bae3ef40352d9b7abc4a0670921192d253938",
+  "blocks": [
+    {
+      "path": "canon/places/apsis-range.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- outer power stores and timing platforms;\n- long-baseline projectors and diagnostic stations;\n- the terminal **convergence crown**, whose projectors defined the final firing\n  geometry;\n- removable target and **baryon-bias** packages near the focus; and\n- remote witness instruments placed outside the crown's expected debris and\n  radiation cones.\n"
+    },
+    {
+      "path": "canon/places/apsis-range.md",
+      "block_id": 1,
+      "disposition": "moved",
+      "original": "- the name and astronomy of the containing system;\n- the complete dimensions and original number of crown stations;\n- the number of people present on removable platforms during the Discharge;\n- which surviving structures are genuine projectors rather than decoys or\n  ordinary diagnostics;\n- whether any material fragment escaped the expanded interdiction volume; and\n- whether the authorities withholding the range map retain enough information\n  to reconstruct the instrument they prohibit.\n"
+    },
+    {
+      "path": "canon/places/avara.md",
+      "block_id": 0,
+      "disposition": "moved",
+      "original": "- Avara's population, government, settlement names, and relationship to any\n  wider Kharosi polity;\n- whether it possessed an independent biosphere before human activity;\n- the exact Earth-origin arrival date, founding route, original First Shelter\n  endonym, and responsible arrival assemblage;\n- the detailed founding-era atmospheric chemistry and the relative human and\n  natural contributions to its later replenishment;\n- the builders and operators of particular wet-cradle or defense facilities;\n- the legal status of any autonomous open forms housed there;\n- the facilities and operators responsible for the Three-Hand Rescue;\n- and whether “partner world” is a political program, common usage, or only an\n  analytical description.\n"
+    },
+    {
+      "path": "canon/places/issa.md",
+      "block_id": 0,
+      "disposition": "moved",
+      "original": "- Issa is the gas giant's name, not necessarily the star or system name.\n- No current canon identifies the moon's formal name.\n- The anomaly may be nonhuman engineering, forgotten human engineering, an\n  unusual natural state, or a misinterpreted phenomenon.\n- The alloy leaf may be a planted text, an expedition artifact, or a genuine\n  page without a recoverable book; no accepted evidence makes it responsive.\n- The system's routes, settlements, states, and relationship to Compact authority\n  remain open.\n"
+    },
+    {
+      "path": "canon/places/kelan-ruva-system.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- **Edras and Talra** offer abundant solar power but punish exposed machinery,\n  radiator placement, volatile storage, and crewed work with heat and radiation.\n- **Kharos and Neral** form the rocky transition from temperate surface\n  conditions to persistent surface ice. Neral's cold does not by itself prove a\n  global ocean, subsurface biosphere, or terraforming prospect.\n- **The Serrin Belt and Vaskor region** combine rocky feedstock, water-rich\n  material, giant-planet gases, and strong orbital resonances. Solar power is\n  weaker and local autonomy more valuable.\n- **Istra and the Ravel Reach** favor volatile storage, cryogenic science, and\n  long-baseline observation. Heat is a scarce input for many processes, while\n  reduced stellar loading helps exposed radiators reject waste heat. Once\n  sunlight is a minor load, radiator temperature, area, emissivity, and view of\n  space set the capacity; greater distance does not provide unlimited cooling.\n- **The Far Cloud** is a reservoir inferred from comet dynamics rather than a\n  completely surveyed frontier. At that distance, weak sunlight and\n  communication delay dominate ordinary operations.\n"
+    },
+    {
+      "path": "canon/places/kelan-ruva-system.md",
+      "block_id": 1,
+      "disposition": "prose",
+      "original": "- Kharos to Odran: approximately 0.67 seconds one way;\n- Kharos to Avara: approximately 2.17 seconds one way;\n- Odran to Avara: approximately 1.5–2.8 seconds one way, depending on geometry.\n"
+    },
+    {
+      "path": "canon/places/kelan-ruva-system.md",
+      "block_id": 2,
+      "disposition": "prose",
+      "original": "1. **Binary formation.** Kelan and Ruva formed together approximately 5–6\n   billion years ago. Early gas and disk torques brought the pair to its close,\n   detached orbit and helped damp, but did not erase, its eccentricity.\n2. **Cavity opening.** Binary torques opened an eccentric inner disk cavity and\n   prevented durable planets inside the present 0.40 AU authoring boundary.\n   Material could cross the cavity; finished planets could not remain there.\n3. **Inner migration.** Edras and Talra grew farther out and migrated inward\n   before the gas dispersed. Edras stopped well outside the nominal unstable\n   boundary rather than balancing at an implausibly exact edge.\n4. **Rocky accretion.** Kharos and Neral completed late-stage accretion on wider,\n   calmer orbits. Kharos either avoided retaining a large primordial\n   hydrogen-helium envelope or lost one during youth; the present parameters do\n   not select between those histories.\n5. **Giant-planet formation.** Vaskor formed beyond the snow line early enough\n   to capture gas. Its growth and limited migration sculpted the Serrin Belt,\n   preserved Trojan populations, and scattered material both inward and outward.\n6. **Outer retention.** Istra, the Ravel Reach, and the comet reservoir retained\n   progressively more of the system's primordial ices. Their present arrangement\n   does not require a violent late instability.\n7. **Active stellar youth.** Young Kelan was more magnetically active, while\n   Ruva's active phase lasted longer. Ultraviolet and particle exposure aided\n   volatile loss from the inner bodies and Avara. Later outgassing, impacts, and\n   volatile delivery are consistent with Avara's secondary atmosphere, but no\n   exact atmospheric chronology is fixed.\n8. **Lunar evolution.** Odran and Avara circularized and became spin-locked while\n   exchanging angular momentum with Kharos. Their initial orbits, direction and\n   amount of migration, resonance crossings, and the age of the present spacing\n   remain unresolved.\n9. **Dynamical settling.** Gas damping, collisions, and limited migration left a\n   low-eccentricity, nearly coplanar planetary system rather than the aftermath\n   of violent late scattering. The system is old, not static: tides, impacts,\n   resonant diffusion, stellar evolution, and comet injection continue.\n"
+    },
+    {
+      "path": "canon/places/kelan-ruva-system.md",
+      "block_id": 3,
+      "disposition": "moved",
+      "original": "- stellar properties follow the\n  [Pecaut–Mamajek empirical dwarf sequence](https://github.com/emamajek/SpectralType/blob/master/EEM_dwarf_UBVIJHK_colors_Teff.txt),\n  while the observed [Kepler-47 system](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-third-planet-in-kepler-47-system/)\n  establishes a real precedent for several planets orbiting a close binary;\n- the inner exclusion zone follows the circumbinary stability work of\n  [Holman and Wiegert](https://arxiv.org/abs/astro-ph/9809315) and the larger\n  numerical grid of [Quarles and collaborators](https://arxiv.org/abs/1802.08868);\n- the habitable-zone placement follows\n  [circumbinary extensions](https://arxiv.org/abs/1911.02983) of the\n  [Kopparapu climate limits](https://arxiv.org/abs/1404.5292), while\n  [circumbinary climate simulations](https://arxiv.org/abs/1911.05577) support\n  treating short-period instellation variability through atmospheric and oceanic\n  response rather than as an instantaneous surface-temperature swing;\n- Kharos's mass follows modern\n  [rocky-planet mass-radius models](https://arxiv.org/abs/1512.08827);\n- the satellite margin follows\n  [numerical prograde-moon stability limits](https://academic.oup.com/mnras/article/373/3/1227/1063626),\n  the more conservative phase-sampled limit follows\n  [Rosario-Franco and collaborators](https://arxiv.org/abs/2005.06521), and the\n  difficulty of spacing several large moons is illustrated by\n  [modern moon-packing integrations](https://arxiv.org/abs/2208.03604),\n  while Avara's climate accounts for\n  [eclipses and tidal locking](https://arxiv.org/abs/1209.5323) and its atmosphere\n  for [escape during a small world's active stellar youth](https://arxiv.org/abs/1506.06529);\n- and the formation history follows\n  [simulations of circumbinary planet formation and migration](https://arxiv.org/abs/2303.09899)\n  toward the binary-cleared disk cavity.\n"
+    },
+    {
+      "path": "canon/places/kelan-ruva-system.md",
+      "block_id": 4,
+      "disposition": "moved",
+      "original": "- Kharos's rotation period, obliquity, continents, and detailed climate;\n- the origin of the Odran–Avara pair and the full history of their tidal migration;\n- the moons' exact eccentricities, inclinations, nodes, eclipse seasons, and\n  measured secular drift;\n- whether Avara ever possessed an independent biosphere before human activity;\n- whether Kharos possessed a prehuman biosphere and how any local biology\n  affected early settlement;\n- surface pressures, atmospheric compositions, magnetic fields, and detailed\n  climates for every major body;\n- names and histories for Vaskor's and Istra's satellites;\n- exact populations, jurisdictions, and military ownership outside the Kharos\n  orbital region;\n- and the detailed inventory of the Ravel Reach and Far Cloud.\n"
+    },
+    {
+      "path": "canon/places/kharos.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- [**Odran**](odran.md) is an airless, barren rocky body broadly comparable in size and\n  character to Earth's Moon. It orbits approximately 200,000 kilometres from\n  Kharos every 6.37 days.\n- [**Avara**](avara.md) has a mean diameter of approximately 6,250 kilometres, or about 1.8\n  lunar diameters, a mass of approximately 0.11 Earth masses, and surface gravity\n  near 0.46 g. It orbits approximately 650,000 kilometres from Kharos every 36.67\n  days. Most of its surface remains unsettled and undeveloped. Permanent civilian\n  settlement is limited, while industrial, military, and scientific installations\n  are extensive both on the surface and in orbit.\n"
+    },
+    {
+      "path": "canon/places/kharos.md",
+      "block_id": 1,
+      "disposition": "prose",
+      "original": "- Rzez cases concern structural proof, propagation, Compact prohibition, and\n  whether apparently intact matter can still bear trust.\n- Unhidden cases concern the rights and custody of conscious human-made bodies,\n  the ownership of tissue lineages, and whether environmental control is care,\n  restraint, or coercion.\n- Manifold cases concern mutually authentic incompatible evidence, quarantine,\n  and how a court records a life whose supported events have no single order.\n- Closed Night cases concern thermal egress, rescue authority, lawful civil\n  return systems, and whether a surviving enclosure was physically escapable.\n- Agreement cases concern bodily dissent, concealed reciprocal coupling,\n  contaminated unanimous testimony, and the independence of an observer.\n- Rehearsal cases concern common-risk consent, custody of exotic baryonic\n  residues, negative-yield proof, and whether an experiment may impose an\n  irreversible risk upon people outside every participating jurisdiction.\n"
+    },
+    {
+      "path": "canon/places/kharos.md",
+      "block_id": 2,
+      "disposition": "prose",
+      "original": "- the Institute of Applied Continuity;\n- the Kharosi Assembly before which Olan Vey testifies;\n- Kharosi military law;\n- a later Kharosi reconstruction period;\n- and the Sixth Compact of Kharos.\n"
+    },
+    {
+      "path": "canon/places/odran.md",
+      "block_id": 0,
+      "disposition": "moved",
+      "original": "- the names, ownership, and exact locations of Odran installations;\n- the exact dates, sequence, sponsors, and occupancy pattern of its founding-era\n  infrastructure;\n- the moon's early industrial history after the founding interval;\n- whether any high-risk countermeasure trials have occurred there;\n- which facilities maintain controlled-variance and calorimetric references;\n- the relationship between civil observatories and military ranging stations;\n- and the political authority under which its reference vaults operate.\n"
+    },
+    {
+      "path": "canon/places/valec.md",
+      "block_id": 0,
+      "disposition": "moved",
+      "original": "- Who deployed the planetary array?\n- Is Valec still decaying?\n- Does the site, the material, or an informational pattern carry contamination?\n- Can any large-scale ecosystem or civilization be restored there?\n- Is the rumored Orchard Ship real?\n- Which Valeci Blackglass fragments preserve suppressed testimony, and which\n  were planted later to claim authority over the dead?\n"
+    },
+    {
+      "path": "canon/history/human-arrival-in-kelan-ruva.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "1. Human beings are descendants of Earth life.\n2. The terrestrial biological package entered Kelan–Ruva abruptly on geological\n   timescales. No local hominin ancestry precedes it.\n3. Settlement was planned rather than an accidental landing by one disabled\n   craft.\n4. Uncrewed survey machinery entered the system before the oldest accepted\n   human occupation.\n5. More than one materially distinct inhabited arrival assemblage reached the\n   system.\n6. Avara contains the oldest accepted continuously occupied human site in\n   Kelan–Ruva and was inhabited before Kharos.\n7. Kharos was settled through a prolonged sequence of surveys, sealed stations,\n   difficult surface residence, and multigenerational expansion. There was no\n   single instantaneous founding of the present home world.\n8. The original arrival structures were used as infrastructure and feedstock.\n   Their disappearance is principally the result of ordinary settlement,\n   conversion, repair, and decay rather than one convenient archive-destroying\n   catastrophe.\n9. Contact with Earth ended before the beginning of a continuous shared local\n   chronology.\n10. Present scholars can identify Sol's astronomical direction and reconstruct\n    old observations from the Solar viewpoint, subject to ordinary uncertainty\n    and light-travel delay. No known navigable route reaches Earth.\n11. The physical mechanism, duration, and subjective experience of the founding\n    passage remain unknown. No current route is proven to use the same method.\n12. Earth's condition when the settlers left, their reason for leaving, and\n    Earth's subsequent fate remain unresolved.\n"
+    },
+    {
+      "path": "canon/history/human-arrival-in-kelan-ruva.md",
+      "block_id": 1,
+      "disposition": "prose",
+      "original": "- humans and their managed biological community are not native to Kelan–Ruva;\n- the incoming organisms share one older terrestrial evolutionary history;\n- uncrewed survey objects precede accepted human occupation;\n- settlement cargo was selected for long-term habitation rather than short\n  visitation;\n- Avara's First Shelter stratum predates permanent Kharosi settlement;\n- distinct arrival assemblages introduced differing construction practices and\n  additional biological material;\n- and the broad survey, orbital refuge, Avaran occupation, Kharosi descent, and\n  later expansion sequence is real.\n"
+    },
+    {
+      "path": "canon/history/human-arrival-in-kelan-ruva.md",
+      "block_id": 2,
+      "disposition": "prose",
+      "original": "- the ancestral biosphere was Earth in the Solar System;\n- the old navigation viewpoint was Sol;\n- the inhabited assemblages were elements of a deliberate migration program or\n  several related programs;\n- at least some founders understood themselves to have departed Earth rather\n  than merely inheriting Earth records in another colony;\n- and later assemblages reached an existing Kelan–Ruva settlement rather than\n  forming unrelated settlements rediscovered afterward.\n"
+    },
+    {
+      "path": "canon/history/human-arrival-in-kelan-ruva.md",
+      "block_id": 3,
+      "disposition": "prose",
+      "original": "- all major assemblages belonged to one distributed convoy;\n- the first inhabited assemblage traveled directly from Earth without an\n  intermediate settlement;\n- particular surface ruins correspond to named settlements in founding songs;\n- and one of the major calendar-crosswalk families preserves the correct order\n  of Earth departures.\n"
+    },
+    {
+      "path": "canon/history/human-arrival-in-kelan-ruva.md",
+      "block_id": 4,
+      "disposition": "prose",
+      "original": "- the migration fled a specific war, ecological emergency, persecution, or\n  predicted astronomical disaster;\n- a founding government promised to reopen the route;\n- route records or calendar keys were deliberately destroyed;\n- one late assemblage was refused landing and forced to negotiate at Avara;\n- or an intermediate colony still exists outside the known route network.\n"
+    },
+    {
+      "path": "canon/history/human-arrival-in-kelan-ruva.md",
+      "block_id": 5,
+      "disposition": "prose",
+      "original": "1. A **physical interval** measures elapsed proper time or a defined dynamical\n   time between observations.\n2. An **astronomical epoch** describes the physical configuration of stars,\n   pulsars, planets, and reference systems at an observation.\n3. A **civil date** assigns a culturally defined label to an interval or epoch.\n"
+    },
+    {
+      "path": "canon/history/human-arrival-in-kelan-ruva.md",
+      "block_id": 6,
+      "disposition": "prose",
+      "original": "- an unambiguous Earth civil calendar and era;\n- a complete numbered date under that calendar;\n- a uniquely recoverable celestial state or physical time coordinate;\n- the observation's location and clock convention;\n- and a defensible conversion from that physical state to the time convention\n  under which the claimed present or historical date is being reported.\n"
+    },
+    {
+      "path": "canon/history/human-arrival-in-kelan-ruva.md",
+      "block_id": 7,
+      "disposition": "prose",
+      "original": "- Earth is the ancestral cradle;\n- Avara is the first durable human shelter in Kelan–Ruva;\n- and Kharos is the principal present home world.\n"
+    },
+    {
+      "path": "canon/history/human-arrival-in-kelan-ruva.md",
+      "block_id": 8,
+      "disposition": "prose",
+      "original": "- The binary was recognized and measured before inhabited arrival. Its\n  16.65-day inertial orbit is not a historical surprise or a source of magical\n  seasons; the locally observed presentation cycle is approximately 17.63 days.\n- Avara was chosen first for low-gravity access, water, volatiles, assembly, and\n  refuge. Its atmosphere was managed, not conjured rapidly from vacuum.\n- Kharos's approximately 1.54 g gravity imposed genuine medical and industrial\n  costs. Culture did not simply ignore it.\n- The outer belts and giant planets supplied survey baselines, volatiles,\n  feedstock, and navigation infrastructure before they supported any extensive\n  permanent population.\n- Odran became valuable later as an airless, separated reference environment;\n  it was not the easiest first home for a biologically vulnerable population.\n- The close binary and circumbinary planets do not prevent precise astronomy.\n  They require a barycentric ephemeris and careful local clock definitions.\n- The ability to determine local orbital phases to extraordinary precision does\n  not recover a missing Earth civil epoch.\n"
+    },
+    {
+      "path": "canon/history/human-arrival-in-kelan-ruva.md",
+      "block_id": 9,
+      "disposition": "moved",
+      "original": "- Do not assign a numbered Earth departure, arrival, or present year.\n- Do not provide a secret authorial conversion to Common Era, Gregorian, Julian,\n  or another terrestrial civil calendar.\n- Do not establish the journey's duration from either an Earth or passenger\n  perspective.\n- Do not choose suspended animation, generation travel, relativistic flight,\n  gates, corridors, engineered space, living ships, or another transit method.\n- Do not identify present interstellar routes as descendants of the founding\n  passage without a separate setting decision.\n- Do not connect the arrival to the Manifold merely because the route is lost.\n- Do not establish Earth's survival, destruction, habitability, political\n  condition, or knowledge of Kelan–Ruva.\n- Do not establish one motive for migration.\n- Do not fix the total number, names, sponsors, or complete passenger counts of\n  the carrier assemblages.\n- Do not require every assemblage to have departed directly from Earth.\n- Do not make Kelan–Ruva humanity's first extrasolar settlement unless later\n  regional history earns that claim.\n- Do not make Kharos the cradle of humanity or Avara a Kharosi colony.\n- Do not turn Avara from vacuum into a breathable world on an implausibly short\n  founding timescale.\n- Do not settle whether Avara possessed an independent biosphere.\n- Do not settle whether Kharos possessed a prehuman biosphere.\n- Do not invent a single genetic adaptation that makes Kharosi gravity\n  effortless.\n- Do not grant political priority, purity, or superior personhood to descendants\n  of an alleged first carrier.\n- Do not treat an exact date as strong merely because its arithmetic is precise.\n"
+    },
+    {
+      "path": "canon/institutions/articles-of-bodily-dissent.md",
+      "block_id": 0,
+      "disposition": "retained",
+      "original": "- consent to coupling must be specific, time-bounded, and revocable through a\n  physically independent disconnect;\n- emergency participation does not authorize later military, clinical, or\n  investigative reuse of a participant's coupling model;\n- safety-critical facilities must retain one-way shutdown paths and at least one\n  control observer outside the reciprocal carrier;\n- a person may not be compelled to remain connected merely because disconnection\n  reduces group performance;\n- unanimous testimony produced under suspected convergence is preserved but may\n  not be treated as independent corroboration;\n- and survivors are entitled to staged discord rehabilitation rather than rapid\n  reintegration into another synchronized environment.\n"
+    },
+    {
+      "path": "canon/institutions/articles-of-open-radiance.md",
+      "block_id": 0,
+      "disposition": "retained",
+      "original": "- projecting a complete direction-selective radiant boundary around an occupied\n  target, regardless of consent;\n- projecting an incomplete or narrow-band boundary around an occupied target\n  without informed consent, local revocability, and independent inspection;\n- possessing covert military closure anchors or disguising them as ordinary\n  navigation, lighting, or thermal hardware;\n- designing a crewed habitat whose only heat exit can be closed from a coupled\n  exterior authority;\n- obstructing a rescue attempt to establish a material heat path or evacuation\n  corridor;\n- and testing wide-band enclosure against unaware occupants, even when modeled\n  exposure remains below predicted lethality.\n"
+    },
+    {
+      "path": "canon/institutions/common-matter-interdict.md",
+      "block_id": 0,
+      "disposition": "retained",
+      "original": "- assembling or synchronizing a convergence crown capable of the prohibited\n  spectral-equivalent regime;\n- combining such a crown with a baryon-bias pulse or prepared target mass;\n- producing or executing an open-quench firing solution at proscribed yield;\n- aiming a qualifying array at a planet, star, neutron-degenerate reservoir, or\n  inhabited matter stream;\n- possessing, transporting, selling, or returning from a range any\n  uncharacterized fragment with a strange-rich and anomalously low\n  charge-to-mass signature;\n- concealing a candidate exotic-matter track, failed sample inventory, or\n  unplanned baryon-rich quench; and\n- entering, salvaging, reenergizing, or mapping the inner\n  [Apsis Range](../places/apsis-range.md) outside an authorized remote-observation\n  mandate.\n"
+    },
+    {
+      "path": "canon/institutions/common-matter-interdict.md",
+      "block_id": 1,
+      "disposition": "retained",
+      "original": "- subcritical and deliberately misfocused collision experiments;\n- astrophysical observation and passive cosmic-particle detection;\n- simulations and mathematical work;\n- detector and remote-quarantine engineering;\n- power or timing components physically incapable of joining a prohibited\n  crown; and\n- study of surviving Apsis telemetry that does not disclose a reconstructable\n  firing solution.\n"
+    },
+    {
+      "path": "canon/institutions/sixth-compact-of-kharos.md",
+      "block_id": 0,
+      "disposition": "retained",
+      "original": "- manufacture, possession, reconstruction, instruction, or simulation;\n- computational modeling of planetary propagation;\n- cohesion-focusing cores above industrial tolerance;\n- complete field equations and emitter synchronization protocols;\n- unsupervised study or import of Valec material;\n- and symbolic or identity-based Rzez experiments.\n"
+    },
+    {
+      "path": "canon/institutions/apsis-directorate.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- a system-scale terminal convergence crown;\n- power stores able to sustain a macroscopic train of ultrashort kernels;\n- a baryon-bias pulse that entrained a prepared mass into the focus; and\n- an open-quench firing solution intended to preserve exotic baryonic products\n  rather than lose every kernel to annihilation or a horizon-poisoned branch.\n"
+    },
+    {
+      "path": "canon/institutions/apsis-directorate.md",
+      "block_id": 1,
+      "disposition": "prose",
+      "original": "- Grade A evidence shows deliberate design for baryon-rich open quench;\n- Grade B evidence shows that at least one weapons group sought a broad,\n  long-lived strangelet yield rather than one characterized isotope; and\n- Grade D evidence identifies the states or commands that authorized the final\n  weapon objective, because every surviving attribution depends upon the same\n  redacted sponsor archive.\n"
+    },
+    {
+      "path": "canon/institutions/apsis-directorate.md",
+      "block_id": 2,
+      "disposition": "moved",
+      "original": "- which authority supplied the final restricted budget;\n- whether the scientific and weapons leadership remained meaningfully separate;\n- who selected the open-quench firing solution;\n- whether any complete pre-Discharge firing packet survives;\n- how much authentic telemetry entered Lower State archives; and\n- whether any former Directorate member assisted later attempts to enter Apsis.\n"
+    },
+    {
+      "path": "canon/institutions/blackglass-devotional-movements.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- the Compendium as a wounded or distributed intelligence;\n- the unknown Prior Hands as saints, jailers, or creators;\n- the act of dangerous comprehension;\n- the succession of readers who preserved the text;\n- the missing complete edition;\n- the weapons as separate revelations gathered by one sacred archive; or\n- the trouble itself as proof that reality has answered.\n"
+    },
+    {
+      "path": "canon/institutions/blackglass-devotional-movements.md",
+      "block_id": 1,
+      "disposition": "prose",
+      "original": "- acquiring restricted fragments or translation keys;\n- assembling formerly separated technical content;\n- entering prohibited sites;\n- exposing an unconsenting population to a claimed information hazard;\n- activating an artifact as a devotional test;\n- or converting cultic counts, diagrams, and liturgy into operational control.\n"
+    },
+    {
+      "path": "canon/institutions/blackglass-devotional-movements.md",
+      "block_id": 2,
+      "disposition": "moved",
+      "original": "- which movement is oldest and whether any predates the current Blackglass\n  title;\n- whether the Open Margin and Last Readers share a lost founding text;\n- how many Merciful Error corruptions entered otherwise scholarly recensions;\n- whether any Gutter Guest group encountered a genuinely responsive artifact;\n- whether a devotional mission explains any authenticated remote fragment;\n- whether a cult possesses a more complete form of the Narrow Proof; and\n- whether the belief that trouble proves sacred presence can survive an\n  incontrovertibly harmless Blackglass discovery.\n"
+    },
+    {
+      "path": "canon/institutions/common-matter-interdict.md",
+      "block_id": 2,
+      "disposition": "moved",
+      "original": "- the full list of original signatories;\n- which jurisdictions recognize the architectural-capacity test;\n- who may authorize remote entry into Apsis;\n- what evidentiary threshold triggers candidate-fragment quarantine;\n- whether any state retains a classified defensive firing model; and\n- how courts remedy wrongful quarantine when the suspected fragment proves\n  ordinary.\n"
+    },
+    {
+      "path": "canon/institutions/compact-commission.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- deciding whether alleged surviving instruments are accepted as confirmed;\n- classifying the Keth Aru artifact as unverified;\n- prohibiting excavation or contact with dangerous sites;\n- conducting or inheriting post-Valec material investigations;\n- and regulating high-risk research and planetary-response decisions.\n"
+    },
+    {
+      "path": "canon/institutions/concordant-temples.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- no lone reader for a passage with constructive content;\n- no complete translation key stored beside the technical body it unlocks;\n- no ritual recitation of equations, synchronization counts, or complete\n  geometric sequences;\n- preservation of victims' testimony even when constructive parameters are\n  removed;\n- independent readers assigned to identify theological metaphor, technical\n  instruction, and later interpolation; and\n- refusal to confirm an existential claim through reconstruction.\n"
+    },
+    {
+      "path": "canon/institutions/concordant-temples.md",
+      "block_id": 1,
+      "disposition": "moved",
+      "original": "- when and where the first concordance among Temples was made;\n- how many religious families and jurisdictions currently belong;\n- which Temple inventories are independent witnesses rather than copies of one\n  lost source;\n- whether any Temple possesses a substantially more complete Blackglass\n  recension than it admits;\n- whether the death penalty for the Severed God text was exceptional or common;\n- how Temple custodians are selected, trained, and released from service; and\n- whether any devotional movement began inside a sanctioned custodial order.\n"
+    },
+    {
+      "path": "canon/institutions/first-quarry-houses.md",
+      "block_id": 0,
+      "disposition": "moved",
+      "original": "- Were the Houses one polity's guilds or a transnational federation?\n- What did they know before the Gentle Opening?\n- Who converted their industrial equipment into the Deren Keep weapon?\n- Did any House preserve prohibited lineages after the Compact?\n"
+    },
+    {
+      "path": "canon/institutions/houses-of-the-lower-state.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- **the Proof** — The Rehearsal as artifact and demonstration;\n- **the First Revelation** — the Apsis Discharge;\n- **the Taking** — capture of a catalytic seed by dense matter;\n- **the Flowering** — conversion and daughtering of the first reservoir;\n- **the Succession** — a self-sustaining chain with strangelet reproduction\n  number greater than one;\n- **the Settlement** — the eventual conversion of all matter the chain can\n  reach; and\n- **the Performance** — either the deliberate firing that begins the Succession\n  or the full history of conversion, depending upon the House.\n"
+    },
+    {
+      "path": "canon/institutions/houses-of-the-lower-state.md",
+      "block_id": 1,
+      "disposition": "moved",
+      "original": "- the identity of the first House and which founding telemetry it possessed;\n- how many Houses remain active in the current era;\n- whether any former Directorate member became an early theologian;\n- which Waiting House observations are scientifically useful despite their\n  interpretation;\n- whether Open Yield has ever crossed from fraudulent relic trade into custody\n  of genuine Apsis hardware; and\n- whether a House would recognize the first credible evidence of Succession or\n  reinterpret any result to preserve belief.\n"
+    },
+    {
+      "path": "canon/institutions/institute-of-applied-continuity.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- cohesion forensics and material witnesses to the Compact Commission;\n- historians of the first open wards and technical review of total-boundary\n  physiology;\n- evidence-authentication methods for concordance bundles;\n- covariance analysis and independent-error testimony in Agreement cases;\n- and magistrates with the technical literacy to distinguish a disputed event\n  from a disputed explanation.\n"
+    },
+    {
+      "path": "canon/institutions/kelan-ruva-concordance-service.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- maintaining separated time standards and known-path ranging baselines;\n- preserving independent Origin Sky reductions and the provenance of every\n  assumed reference epoch, time scale, and calendar transform;\n- receiving exterior sensor records from suspected rupture sites;\n- assembling concordance bundles without harmonizing away incompatible facts;\n- advising rescue and quarantine authorities on single-chart operations;\n- preserving every authenticated casualty or survivor chronology;\n- testing suspiciously identical records for shared latency, residual error, and\n  concealed reciprocal carriers;\n- and distinguishing suspected Manifold signatures from instrument fault,\n  propaganda, route disturbance, Rzez damage, or Agreement contamination.\n"
+    },
+    {
+      "path": "canon/institutions/kelan-ruva-concordance-service.md",
+      "block_id": 1,
+      "disposition": "moved",
+      "original": "- when the Service acquired its present form;\n- whether it is a treaty body, federation of observatories, or emergency compact;\n- which authority may order the optical backbone disconnected;\n- how its findings are admitted in courts beyond Kharos;\n- and how many external stations participate in a full concordance bundle.\n"
+    },
+    {
+      "path": "canon/institutions/sixth-compact-of-kharos.md",
+      "block_id": 1,
+      "disposition": "moved",
+      "original": "- What were the first five Compacts?\n- Which states signed, rejected, or enforce the Sixth?\n- How are tightly controlled industrial thresholds licensed?\n- What rights do accused researchers possess?\n- Which later treaties borrow Compact procedure without expanding its mandate?\n"
+    },
+    {
+      "path": "canon/events/apsis-discharge.md",
+      "block_id": 0,
+      "disposition": "retained",
+      "original": "- **Grade A:** the crown fired, the convergent energy arrived, the forty-seven-\n  millisecond train occurred, and the terminal range was destroyed. Independent\n  outer stations, surviving power ledgers, physical detector damage, and\n  authenticated Directorate telemetry agree.\n- **Grade B:** the hottest kernels reached a spectral-equivalent temperature on\n  the order of `10^30` kelvin, approximately two orders of magnitude below\n  the Planck temperature. The value is inferred from an extrapolated particle\n  spectrum and uncertain high-energy degrees of freedom; no thermometer directly\n  measured it.\n- **Grade A:** the open-quench intervals produced numerous massive, strange-rich\n  tracks with abnormal charge-to-mass behavior. The detectors saturated and\n  were partly destroyed, making an exact multiplicity unrecoverable.\n- **Grade B:** a large but unknowable population of those products were\n  strangelets rather than short-lived hypernuclear debris. No accepted physical\n  sample survives in declared custody.\n- **Grade E:** at least one long-lived, low-charge strangelet occupying a\n  catalytic stability island escaped Apsis. This is the decisive claim of the\n  Lower State cults and remains unsupported by a recovered seed or an accepted\n  conversion event.\n"
+    },
+    {
+      "path": "canon/events/apsis-discharge.md",
+      "block_id": 1,
+      "disposition": "retained",
+      "original": "1. **Taking:** a sufficiently stable, neutral or weakly charged strangelet\n   survives the prompt field and becomes embedded in dense baryonic matter.\n2. **Flowering:** conversion of a dense reservoir produces enough energy and\n   material rearrangement to eject viable daughter strangelets.\n3. **Succession:** viable daughters seed further reservoirs. A sustained\n   strangelet reproduction number `R_s > 1`, after transport and capture losses,\n   permits a growing chain; a finite seed population can still die out.\n4. **Settlement:** the stronger proposed limit in which the surviving chain\n   repeatedly reaches and converts every reservoir in its accessible network\n   before fuel, access, or viable daughtering ends.\n"
+    },
+    {
+      "path": "canon/events/apsis-discharge.md",
+      "block_id": 2,
+      "disposition": "moved",
+      "original": "- whether the open-quench fraction was intended or exceeded the Directorate's\n  design;\n- the strangelet multiplicity, charge distribution, mass spectrum, and\n  lifetime distribution;\n- whether any catalytic stability island exists;\n- whether any viable seed escaped the range;\n- the identities and casualties of personnel on redacted platforms; and\n- whether any present astronomical anomaly is evidence of an Apsis-derived\n  Taking rather than ordinary compact-object physics.\n"
+    },
+    {
+      "path": "canon/events/closed-night-at-ninth-holding.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- thermal egress as a life-support interest;\n- hostile wide-band closure as distinct from ordinary blockade or\n  communications jamming;\n- physical anchor destruction, evacuation, conductive tethering, and hot-mass\n  ejection as legitimate countermeasures;\n- and the duty of rescue crews to account for white-seam concentration before\n  opening a narrow breach.\n"
+    },
+    {
+      "path": "canon/events/opening-of-pelar-habitat.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- one-way shutdown paths;\n- physically uncoupled pressure controls;\n- asynchronous local clocks;\n- protected variance keepers;\n- and the ability to divide an emergency network into cells whose errors cannot\n  be redistributed through one carrier.\n"
+    },
+    {
+      "path": "canon/events/three-hand-rescue.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- participation is informed and limited to a small team;\n- coupling ends through a hard physical disconnect;\n- no participant receives another's thoughts or skills;\n- one exterior observer and recorder remain outside the reciprocal path;\n- and the operators retain measurable independent error throughout the event.\n"
+    },
+    {
+      "path": "canon/people/olan-vey.md",
+      "block_id": 0,
+      "disposition": "moved",
+      "original": "- Who conducted the assassination?\n- What office and authority did “Engineer-Magistrate” carry?\n- How do Vey's early controls relate to the later Sixth Compact?\n- Is the reconstruction-period commentary genuinely his?\n"
+    },
+    {
+      "path": "canon/people/varek-ilyr.md",
+      "block_id": 0,
+      "disposition": "moved",
+      "original": "- Did Ilyr understand propagation risk before the First Quarry Houses admitted it?\n- Which attributed fragments are contemporary?\n- Did he die in exile, or is the story of his self-disassembly purely legendary?\n- How much of the later moral image of Ilyr was constructed by antiwar scholars?\n"
+    },
+    {
+      "path": "frame/blackglass-tradition.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- **Instructional danger:** a description supplies equations, geometry,\n  materials, timing, or operational sequence sufficient for construction.\n- **Inferential danger:** separately harmless facts become a design when placed\n  beside one another.\n- **Recognitional danger:** a reader learns how to identify, approach, activate,\n  or misuse an artifact that was already present.\n- **Constitutive danger:** for a limited class of systems, modeling,\n  synchronization, reciprocal observation, or high-fidelity rehearsal can form\n  part of the dangerous architecture rather than merely describe it.\n- **False-completion danger:** an incomplete or mistranslated account inspires an\n  attempted reconstruction whose failure mode is catastrophic even though the\n  original claim was wrong.\n- **Institutional danger:** secrecy, accusation, and preventive isolation destroy\n  trust and infrastructure before any weapon is confirmed.\n"
+    },
+    {
+      "path": "frame/blackglass-tradition.md",
+      "block_id": 1,
+      "disposition": "retained",
+      "original": "- a **hollow lozenge** marks text physically lost, unreadable, or absent from a\n  witness where dependent text implies it once existed;\n- a **black lozenge** marks deliberate excision, continuing restriction, or a\n  passage the current editors possess but will not reproduce;\n- an **obelus** marks a claim disputed but retained;\n- a **double witness rule** marks agreement among sources assessed as genuinely\n  independent;\n- a **broken witness rule** marks apparent agreement probably inherited from one\n  common copy;\n- a **mirror mark** identifies a cross-reference removed from sanctioned Codex\n  editions and restored in the Blackglass lineage; and\n- an **unattributed hand** records an annotation whose linguistic or material\n  layer can be bounded but whose author and institution cannot be named.\n"
+    },
+    {
+      "path": "frame/blackglass-tradition.md",
+      "block_id": 2,
+      "disposition": "prose",
+      "original": "- understanding can impose risk upon people who never consented to the study;\n- treating catastrophe as revelation grants authority to the instrument that\n  caused it;\n- complete recitation can become instruction;\n- the desire to possess every answer is itself a moral failure; and\n- preserving victims requires testimony, while converting their deaths into a\n  usable design violates them again.\n"
+    },
+    {
+      "path": "frame/blackglass-tradition.md",
+      "block_id": 3,
+      "disposition": "prose",
+      "original": "- known technologies are older than their accepted inventors;\n- distant human societies independently rediscovered them;\n- modern categories have collapsed unlike ancient phenomena into familiar\n  names;\n- an older human or nonhuman lineage distributed instruments, records, or\n  warnings;\n- ordinary nature repeatedly produces forms that technical cultures later turn\n  into weapons; or\n- some unidentified actor continues to use them.\n"
+    },
+    {
+      "path": "frame/blackglass-tradition.md",
+      "block_id": 4,
+      "disposition": "moved",
+      "original": "- whether the first Blackglass layer was a library, evidence locker,\n  containment system, devotional work, or trap;\n- whether the Prior Hands were human, contemporary with one another, or aware of\n  the later Codex tradition;\n- whether the name began with a material, a redaction practice, a mirror\n  metaphor, or a convergence of all three;\n- whether a complete recension has ever existed;\n- whether the scattered-leaf and proximate-medium patterns have one cause;\n- whether any page found in open space was placed for a particular discoverer;\n- whether landscape correspondences are artifacts, natural analogues,\n  misclassification, or evidence that history is radically incomplete;\n- whether remote Blackglass myths descend from contact or recurrent discovery;\n- whether the Narrow Proof had a solution; and\n- whether trouble follows Blackglass, Blackglass follows trouble, or both follow\n  something else.\n"
+    },
+    {
+      "path": "frame/collection-identity.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- **Codex** refers to the larger work, tradition, or institutional corpus.\n- **Compendium** refers to this assembled edition or textual lineage.\n- **Blackglass** marks the recension's disputed provenance and forbidden\n  reputation.\n"
+    },
+    {
+      "path": "frame/collection-identity.md",
+      "block_id": 1,
+      "disposition": "moved",
+      "original": "- Use *The Codex of Arcane Engineering* for the formal in-world corpus and entry\n  masthead.\n- Use *The Blackglass Compendium* for the project and this particular recension.\n- Do not call every source fragment “blackglass.”\n- Do not define blackglass as one universal magical substance or treat every\n  dark archival material as part of the textual lineage.\n- An official character may deny that the Blackglass recension exists while\n  still recognizing the Codex.\n- “Where Blackglass goes, trouble follows” is an established cultural axiom, not\n  authorial proof that the collection is conscious or supernatural.\n"
+    },
+    {
+      "path": "frame/compilation-history.md",
+      "block_id": 0,
+      "disposition": "prose",
+      "original": "- surviving engineering fragments;\n- confiscated calculations and field manuals;\n- industrial records;\n- court proceedings and regulatory findings;\n- military reports;\n- physical and forensic surveys;\n- survivor testimony;\n- religious texts and outlawed doctrine;\n- folklore, songs, and regional memory;\n- and later scholarly commentary.\n"
+    },
+    {
+      "path": "frame/compilation-history.md",
+      "block_id": 1,
+      "disposition": "prose",
+      "original": "- detect exposure;\n- distinguish attack from accident or fraud;\n- isolate contaminated structures;\n- prosecute possession and deployment;\n- develop countermeasures;\n- assess alleged surviving instruments;\n- and preserve testimony from destroyed worlds.\n"
+    },
+    {
+      "path": "frame/compilation-history.md",
+      "block_id": 2,
+      "disposition": "moved",
+      "original": "- Missing information must have a reason, but the reason need not always be\n  censorship; records can also be destroyed, contradictory, inaccessible, or\n  never created.\n- “The archive was corrupted” should not become a universal excuse for\n  inconsistency.\n- Editors may be mistaken or politically constrained, but should demonstrate a\n  recognizable method.\n- The Compendium should reveal forbidden knowledge without becoming a complete\n  construction manual for every instrument inside the fiction.\n- A widespread fragment should retain a material history, evidence grade, and\n  alternative explanations; ubiquity is not permission to make any desired text\n  appear anywhere.\n- Landscape correspondences may deepen uncertainty but must not silently prove\n  that all weapons share one origin or mechanism.\n"
+    },
+    {
+      "path": "frame/editorial-voice.md",
+      "block_id": 0,
+      "disposition": "moved",
+      "original": "- omniscient declarations unsupported by the frame;\n- modern jokes that collapse the archival atmosphere;\n- vague claims that a technology is simply beyond understanding;\n- treating Grade E as synonymous with false;\n- treating low confidence as proof of safety;\n- resolving every legend into engineering or every experiment into mysticism;\n- implying that every scattered fragment, religious parallel, or landscape\n  correspondence has one cause;\n- repetitive moral condemnation in place of analysis;\n- and gratuitous technical terminology without consequences or limits.\n"
+    },
+    {
+      "path": "frame/editorial-voice.md",
+      "block_id": 1,
+      "disposition": "moved",
+      "original": "- an original technical record;\n- an official Compact summary;\n- a later Blackglass annotation;\n- a translator's note;\n- a censor's omission;\n- or a recovered primary fragment.\n"
+    },
+    {
+      "path": "frame/open-questions.md",
+      "block_id": 0,
+      "disposition": "moved",
+      "original": "- Which of the material, censorship, and mirror meanings first produced the\n  name, and did the meanings converge before the current recension?\n- Does the official Codex still exist in the current era?\n- Has any physically or informationally complete Blackglass recension ever\n  existed?\n"
+    },
+    {
+      "path": "frame/open-questions.md",
+      "block_id": 1,
+      "disposition": "moved",
+      "original": "- Who assembled the current Blackglass filing layer, as distinct from the much\n  older textual tradition?\n- Was that filing layer created inside the Compact Commission, stolen from it,\n  or reconstructed independently?\n- Are the present editors one group, a chain of editors across generations, or\n  a later synthesis of several chains?\n- How much material was removed because it was dangerous rather than false?\n- Who or what were the Prior Hands, and why were their names removed before the\n  earliest surviving witness families diverged?\n"
+    },
+    {
+      "path": "frame/open-questions.md",
+      "block_id": 2,
+      "disposition": "moved",
+      "original": "- Is the reader an investigator, scholar, criminal, survivor, official, or an\n  unspecified person outside the fiction?\n- Is possession of the represented edition illegal?\n- In what medium does this particular reader encounter a lineage known to exist\n  as books, distributed archives, recovered data, carvings, and isolated leaves?\n"
+    },
+    {
+      "path": "frame/open-questions.md",
+      "block_id": 3,
+      "disposition": "moved",
+      "original": "- Why does the surviving sequence begin where it does?\n- Which missing books were destroyed, withheld, untranslated, never recovered,\n  or never part of the same historical corpus?\n- What does the `A` prefix in `A-7.01` encode?\n- Does the current order reproduce the official Codex or a Blackglass editorial\n  reconstruction?\n"
+    },
+    {
+      "path": "frame/open-questions.md",
+      "block_id": 4,
+      "disposition": "moved",
+      "original": "- Have official sources deliberately planted false entries?\n- Can the collection itself be contaminated by a technology it describes?\n- Do later editors know that some source traditions are manipulated?\n- What would count as evidence that the frame, rather than one entry, is lying?\n"
+    },
+    {
+      "path": "frame/open-questions.md",
+      "block_id": 5,
+      "disposition": "moved",
+      "original": "- Why do Blackglass fragments tend to appear in media plausible for their local\n  technological environment?\n- Which pages found in open space are ordinary debris, planted relics, or\n  genuinely without a recoverable parent object?\n- Are landscape correspondences natural analogues, ancient engineering,\n  category errors, or a form of record not yet understood?\n- Did remote dark-mirror traditions spread through lost contact, arise through\n  recurrent encounters, or preserve something older than present routes?\n- Does trouble follow Blackglass, does Blackglass follow trouble, or do both\n  follow a third cause?\n- Was the Narrow Proof an empty boast, a removed philological argument, or a\n  dangerous completion whose absence is itself containment?\n"
+    }
+  ]
+}

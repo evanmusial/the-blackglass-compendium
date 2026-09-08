@@ -152,13 +152,13 @@ The term *Rzez* is usually translated as “the Butcher,” although surviving p
 
 The oldest Quarry House inscriptions use a three-sign root associated with separation, slaughter, apportionment, and the division of sacrificial animals after ritual killing. Later military dialects narrowed the word toward organized killing. In still later legal texts, *rzez* became a verb meaning “to render incapable of remaining whole.”
 
-The name therefore contains several meanings at once:
+The name therefore contains several meanings at once.
 
-- one who divides flesh,
-- one who separates a whole into usable parts,
-- one who kills methodically,
-- one who leaves no intact body,
-- and one who destroys the conditions under which repair remains possible.
+To name someone *rzez* is to call them a divider of flesh or a separator of a
+whole into usable parts, but the word also carries the accusation of methodical
+killing. It can name one who leaves no intact body and, beyond bodily slaughter,
+one who destroys the conditions under which repair remains possible. The useful
+division and the irreparable loss remain present in the same name.
 
 The formal engineering academies initially rejected the translation “Butcher.” Their preferred term was “Separator.” That word disappeared from respectable technical use after the destruction of Valec (a densely inhabited industrial world destroyed during the late Meridian Age).
 
@@ -174,13 +174,19 @@ The Rzez is not a single artifact. It is a family of technologies descended from
 
 The most famous Rzez instruments resembled blades, but the blade shape was neither necessary nor mechanically functional. It provided a stable focusing geometry, a familiar form for operators, and a politically useful fiction: rulers could describe the device as an unusually effective sword rather than admit that they possessed a general method for invalidating material cohesion.
 
-The term eventually came to encompass five related things:
+The term eventually came to encompass five related things.
 
-1. **The Rzez principle:** the theoretical manipulation of cohesion architecture.
-2. **A Rzez field:** a localized entropic bias that weakens selected structural relationships.
-3. **A Rzez instrument:** a device that generates and shapes the field.
-4. **A Rzez event:** any uncontrolled or weaponized cascade of cohesion loss.
-5. **The Rzez:** the legendary total technology, including the disputed planetary implementation sometimes called the World Butcher.
+**The Rzez principle** names the theoretical manipulation of cohesion
+architecture. A **Rzez field** is the localized entropic bias that weakens
+selected structural relationships, and a **Rzez instrument** is the device that
+generates and shapes that field. Neither term alone establishes that a cascade
+has occurred: a **Rzez event** is an uncontrolled or weaponized cascade of
+cohesion loss.
+
+**The Rzez** can also mean the legendary total technology, including the disputed
+planetary implementation sometimes called the World Butcher. That fifth sense
+gathers the principle, field, apparatus, and catastrophe into a name whose
+scope individual records do not always distinguish.
 
 This ambiguity is important. Many old records claim that “the Rzez” was present when they mean only that some derivative field was used. Conversely, several states denied possessing the weapon by admitting only to “industrial cohesion equipment.”
 
@@ -206,13 +212,13 @@ The Rzez attacks this architecture.
 
 ### Cohesion graph theory
 
-Classical Codex notation models a structure as a graph:
+Classical Codex notation models a structure as a graph.
 
-- material units are nodes,
-- bonds and load-bearing relationships are edges,
-- continuity is represented by paths through the graph,
-- redundancy is represented by alternative paths,
-- structural integrity depends upon connectivity and the capacity to redistribute stress.
+Material units appear as nodes, joined by edges representing bonds and
+load-bearing relationships. Paths through the graph represent continuity;
+alternative paths represent redundancy. In this notation, structural integrity
+depends upon connectivity and the capacity to redistribute stress, not merely
+upon the continued presence of the material units.
 
 The Rzez does not primarily remove nodes. It progressively invalidates edges.
 
@@ -240,16 +246,27 @@ The Rzez does not overpower structure. It removes structure’s privilege of rem
 
 **Cohesion architecture**, **edge invalidation**, and **entropic bias** are models. They organize the evidence. They are not substances or currents that an instrument has directly detected.
 
-The strongest controlled and forensic records agree on a narrower set of observations:
+The strongest controlled and forensic records agree on a narrower set of observations.
 
-- balances find no missing mass beyond material that has physically departed the specimen;
-- chemical and isotopic assays find no transmutation capable of explaining the loss of function;
-- calorimeters find no prompt heat sufficient to pay the later mechanical cost of collapse, while impulse and radiation sensors find no corresponding shock or ionizing dose;
-- diffraction can remain ordinary inside surviving crystal grains while transfer across grain boundaries becomes unstable;
-- repeated acoustic and ultrasonic probes show modal splitting, widening resonance peaks, and loss of phase coherence between regions that previously moved together;
-- low-load strain maps migrate between nominally identical trials even when average stiffness remains inside ordinary tolerance;
-- microscopy finds early separation concentrated at stressed interfaces, defects, phase boundaries, adhesive layers, and biological junctions rather than a uniform loss of material; and
-- after the emitter is removed, divergence can continue to widen under gravity, thermal cycling, vibration, pressure, or ordinary use.
+Balances find no missing mass beyond material that has physically departed the
+specimen, and chemical and isotopic assays find no transmutation capable of
+explaining the loss of function. Calorimeters detect no prompt heat sufficient
+to pay the later mechanical cost of collapse; impulse and radiation sensors
+likewise find no corresponding shock or ionizing dose. The loss of function
+must be explained without assigning it an unmeasured ordinary destructive load.
+
+The structural readings do change. Diffraction can remain ordinary within
+surviving crystal grains while transfer across their boundaries becomes
+unstable. Repeated acoustic and ultrasonic probes show modal splitting,
+widening resonance peaks, and loss of phase coherence between regions that
+previously moved together. Even where average stiffness stays within ordinary
+tolerance, low-load strain maps migrate between nominally identical trials.
+
+Microscopy locates early separation at stressed interfaces, defects, phase
+boundaries, adhesive layers, and biological junctions rather than showing a
+uniform loss of material. Removing the emitter need not end the divergence:
+gravity, thermal cycling, vibration, pressure, and ordinary use can continue
+to widen it.
 
 No one observation is unique to the Rzez. Fatigue, corrosion, bad bonding, heat damage, radiation embrittlement, poor manufacture, and fraud can reproduce individual signs. The characteristic finding is a relationship among signs: chemically ordinary matter develops a changing mechanical answer faster, and across more independent modes, than the measured environment or known damage can explain.
 
@@ -273,14 +290,14 @@ Before the field can propagate efficiently, the instrument must characterize the
 
 This process is often misunderstood as scanning. It is more accurately described as a temporary resonance between the instrument and the structural pattern of the target. Homogeneous materials can be characterized almost instantly. Complex organisms, composite structures, cities, and planets require longer observation or multiple synchronized emitters.
 
-Characterization identifies:
+Characterization concerns the target as a working structure.
 
-- repeating material domains,
-- paths along which stress is distributed,
-- interfaces between unlike materials,
-- existing defects,
-- active repair mechanisms,
-- and the smallest number of relationships whose failure will force wider collapse.
+Characterization follows repeating material domains and the paths along which
+stress is distributed, including the interfaces between unlike materials.
+Existing defects and active repair mechanisms matter because the instrument
+must identify the smallest number of relationships whose failure will force
+wider collapse. It seeks the arrangement that makes a limited failure
+consequential, not merely the presence of material to weaken.
 
 A skilled operator does not “increase power” indiscriminately. The operator chooses which continuities the target cannot afford to lose.
 
@@ -346,12 +363,14 @@ The final Bell Chamber record is harder. Nine hours of mobile sound after visibl
 
 The best-known form resembles a narrow, dark blade between sixty and ninety centimeters long. The apparent edge is not sharp. Several preserved descriptions emphasize that it could not cut cloth when inactive.
 
-The active components lie within the spine:
+The active components lie within the spine.
 
-- a sequence of nested resonant cavities,
-- a focusing core grown from a highly ordered crystalline seed,
-- sacrificial discontinuity layers intended to prevent feedback,
-- and a grip assembly that isolates the operator’s bones and connective tissue from the field.
+A sequence of nested resonant cavities works with a focusing core grown from
+a highly ordered crystalline seed. Sacrificial discontinuity layers
+are intended to prevent feedback, while the grip assembly isolates the
+operator’s bones and connective tissue from the field. The spine contains
+both the means of shaping the effect and the provisions intended to keep it
+from returning through the hand.
 
 When inactive, the instrument appears visually unremarkable. When active, observers report a faint loss of contrast around the edge, delayed reflections, surface details that seem misregistered, pressure in the teeth, and a sound compared to distant cloth tearing beneath deep water.
 
@@ -405,14 +424,14 @@ The emitters synchronized through the target itself.
 
 The planet became transmission medium, resonant chamber, and eventual executioner.
 
-The array did not attack every atom. It attacked the relationships required for the world to remain a world:
+The array did not attack every atom. It attacked the relationships required for the world to remain a world.
 
-- crustal load transfer,
-- mantle convection continuity,
-- mineral phase stability,
-- ocean-basin containment,
-- deep structural coupling,
-- and the persistence of large-scale aggregation.
+Crustal load transfer and deep structural coupling maintained the connections
+upon which the larger body depended. The array's account also encompassed
+mantle convection continuity and mineral phase stability, ocean-basin
+containment, and the persistence of large-scale aggregation. Those relationships,
+rather than an attack upon every atom, were the means by which the world could
+be made unable to remain a world.
 
 Once these systems became mutually unstable, gravity completed the process.
 
@@ -815,14 +834,13 @@ They also made it legible.
 
 #### Initial anomalies
 
-The first signs appeared ordinary:
+The first signs appeared ordinary.
 
-- unexplained pipe failures,
-- widespread cracking in polished stone,
-- bridge cables shedding metallic dust,
-- increased sediment in reservoirs,
-- machine tools losing calibration,
-- and a rise in spontaneous bone injuries.
+Pipes failed without explanation and polished stone developed widespread
+cracking. Bridge cables shed metallic dust while sediment increased in
+reservoirs. Machine tools lost calibration, and spontaneous bone injuries rose
+alongside the failures in manufactured structures. Each sign could initially
+be described in the ordinary language of a damaged system.
 
 Officials attributed the events to manufacturing defects, seismic stress, and public panic.
 
@@ -962,7 +980,9 @@ That inversion is not unique. An exotic rubble pile, volatile-cemented breccia, 
 
 The object should have compacted under gravity. It has not.
 
-That conclusion is conditional upon the favored mass-and-density inversion. Issa's moon does not yet have a fixed authorial radius, mass, density, or orbit, and the available remote solutions are not precise enough to make gravitational compaction an interpretation-free observation.
+That conclusion is conditional upon the favored mass-and-density inversion. The available remote solutions are not precise enough to make gravitational compaction an interpretation-free observation.
+
+The separate [editorial reservation](../../../docs/editorial-notes/a-7-01-the-rzez.md#issa-parameters) records the undecided authorial parameters.
 
 No conventional impact explains the lack of melt, shock, or mixed strata.
 
@@ -1024,9 +1044,20 @@ Several governments nevertheless maintain classified procedures for identifying 
 
 The ship remains **Grade E**. The existence of three politically distinct rumor families is **Grade B**.
 
-- One documented Valeci memorial tradition describes an ark that carries ecosystems and testimony but no weapon. Its readers regard the revenge version as a pretext for searching survivor vessels and treating every unregistered Valeci community as an arsenal.
-- Some security briefings describe the ark story as camouflage for a surviving strategic capability. Commission investigators and rival services object that this claim can become non-falsifiable when every failure to find the ship is counted as evidence that its regenerative hull is working.
-- Among some seed-bank and agricultural crews, **Orchard Ship** is a sarcastic name for any repository claiming complete provenance, perfect redundancy, or possession of the last uncontaminated example of anything.
+A documented Valeci memorial tradition describes an ark carrying ecosystems
+and testimony but no weapon. Its readers regard the revenge version as a
+pretext for searching survivor vessels and treating every unregistered Valeci
+community as an arsenal. Some security briefings reverse that reading, treating
+the ark story as camouflage for a surviving strategic capability. Commission
+investigators and rival services object that this claim can become
+non-falsifiable when every failure to find the ship is counted as evidence
+that its regenerative hull is working.
+
+A third use survives among some seed-bank and agricultural crews. For them,
+**Orchard Ship** is a sarcastic name for any repository claiming complete
+provenance, perfect redundancy, or possession of the last uncontaminated
+example of anything. The phrase's use does not always indicate belief in the
+vessel described by the other rumor families.
 
 The rumor survives through hope, policing, fraud, and diaspora politics rather than credible sightings. A continuously renewed hull would be an active-repair countermeasure under Rzez theory. It is not evidence of an Unhidden lineage or a combined system.
 
@@ -1034,12 +1065,33 @@ The rumor survives through hope, policing, fraud, and diaspora politics rather t
 
 The named incidents did not remain inert history. Later Blackglass annotations record how communities changed the custody of dangerous text around them. These practices are not evidence that a page can carry a Rzez field. They are evidence that a technical account can change who is willing to read, translate, transport, or complete it.
 
-- At **Keth Aru**, later readers naturally associate the black wedge with Blackglass. The surviving temple inventories never use that name. The resemblance may preserve an old connection, a local naming habit, or nothing more than two feared dark objects described by the same vocabulary.
-- **Orsan** copyists preserve incompatible endings to the Last Wedge account and refuse requests to harmonize the clan mother's burial instructions. They answer a demand for the correct version with: “The one that leaves the grave where it is.”
-- In the former port cultures of **Serevan** and the **Veyran League**, ordinary transmission by ceramic slips, repair marks, insurers, prize courts, and shipyards made provenance as important as wording. After the Glass Fleet, custom records who brought a page aboard before anyone reads it.
-- Traditions descended from **Kareth** treat the material relationships of a genealogy as part of the dead. Extracting an engineering sequence from a funerary record is described not as research but as reuse of human remains.
-- **Orel** inspectors do not read a Blackglass passage about a bridge while standing upon that bridge. The rule is partly ritual and partly epistemic hygiene: an engineer who understands the warning may no longer be able to certify the structure without hearing a third tone in every result.
-- Around **Meren**, loose pages, detached shadows, and unowned names are called forms of the same bad hospitality. The comparison remains folklore. It does not establish that Blackglass destroyed the city, that a text can propagate cohesion failure, or that the upright jars were spared by intention.
+At **Keth Aru**, later readers naturally associate the black wedge with
+Blackglass, although surviving temple inventories never use that name. The
+resemblance may preserve an old connection, a local naming habit, or merely two
+feared dark objects described in the same vocabulary. **Orsan** copyists resist
+a different attempt to make the record more conclusive. They preserve
+incompatible endings to the Last Wedge account and refuse to harmonize the clan
+mother's burial instructions. Asked for the correct version, they answer:
+“The one that leaves the grave where it is.”
+
+In the former port cultures of **Serevan** and the **Veyran League**, transmission
+by ceramic slips, repair marks, insurers, prize courts, and shipyards made
+provenance as important as wording. After the Glass Fleet, custom records who
+brought a page aboard before anyone reads it. Traditions descended from
+**Kareth** place custody within the account of the dead themselves: the
+material relationships of a genealogy are part of the dead, so extracting an
+engineering sequence from a funerary record is described as reuse of human
+remains rather than research.
+
+Elsewhere, the danger concerns what an account does to the reader. **Orel**
+inspectors will not read a Blackglass passage about a bridge while standing
+upon that bridge. Their rule is partly ritual and partly epistemic hygiene:
+an engineer who understands the warning may no longer be able to certify the
+structure without hearing a third tone in every result. Around **Meren**, loose
+pages, detached shadows, and unowned names are called forms of the same bad
+hospitality. That comparison remains folklore. It establishes neither that
+Blackglass destroyed the city nor that a text can propagate cohesion failure,
+and it does not show that the upright jars were spared by intention.
 
 These annotations preserve local reasoning rather than one universal taboo. Each culture fears a different failure of custody, and each has something different to lose by making the account complete.
 
@@ -1113,15 +1165,13 @@ During several wars, physicians misclassified exposed patients as suffering from
 
 Living systems resist low-level exposure through constant repair, but this resistance is finite.
 
-The field preferentially affects structures dependent upon precise organization:
+The field preferentially affects structures dependent upon precise organization.
 
-- basement membranes,
-- connective tissue,
-- vascular walls,
-- myelin sheaths,
-- extracellular matrices,
-- cellular scaffolding,
-- and the mechanical junctions between tissues.
+Basement membranes and connective tissue are vulnerable, as are vascular walls
+and myelin sheaths. The same dependence upon precise organization extends to
+extracellular matrices, cellular scaffolding, and the mechanical junctions
+between tissues. The field's preference follows the structures by which living
+matter holds and coordinates its parts.
 
 Early symptoms include numbness, bruising without trauma, loss of fine motor control, visual distortion, dental pain, fatigue, and the sensation that joints are “slightly misplaced.”
 
@@ -1193,15 +1243,15 @@ Early Rzez exposure is difficult to prove.
 
 Investigators rely on inconsistency rather than visible damage.
 
-Methods include:
+The methods approach that inconsistency through response, structure, and
+continued material behavior.
 
-- acoustic divergence testing,
-- microfracture imaging,
-- stress-distribution tomography,
-- entropic residue analysis,
-- repeated load-response comparison,
-- crystal-growth testing,
-- and sacrificial attachment trials.
+Acoustic divergence testing and repeated load-response comparison examine how
+the specimen answers across trials. Microfracture imaging and stress-distribution
+tomography locate changes within the structure, while entropic residue analysis,
+crystal-growth testing, and sacrificial attachment trials supply further means
+of investigating the suspected condition. No visible damage alone substitutes
+for that examination of inconsistent behavior.
 
 The most reliable field principle states:
 
@@ -1252,11 +1302,30 @@ The cases support conditional hazard after establishment. They do not supply a h
 
 Continuity schools compare the six current crises because law, rescue, and forensics require differential diagnosis. They reject a common physics.
 
-- The Rzez invalidates relationships inside an existing material target. The Unhidden directs the growth, repair, and functional assignment of finite living matter. Living tissue's ordinary repair response to low-level Rzez exposure does not make entropic failure a morphogenic process.
-- Rzez damage develops inside one ordinary geometry and chronology. A Manifold incident leaves local observations exact while preventing them from composing one global place or history. Disagreement among surveys is not, by itself, evidence that matter has lost cohesion.
-- The Closed Night controls radiative transport across a powered enclosure. It may make a place dark, silent by radio, and unable to shed heat while every wall remains structurally sound. The accepted account treats the Quiet as failed mechanical transmission inside a deteriorating target, not a radiant boundary.
-- The Agreement redistributes prediction error among actively coupled nervous systems and machines. It can make every inspector report the same wrong answer about a sound building. The Rzez can make every independent inspector correctly report that a condemned building still appears sound.
-- The Rehearsal destroys and converts through delivered energy, particle interaction, and quench-produced matter. Its strangelet hazard is material conversion, not target inheritance, entropic unmaking, or the release of a structure's stored load.
+The Rzez invalidates relationships inside an existing material target; The
+Unhidden directs the growth, repair, and functional assignment of finite living
+matter. Living tissue's ordinary repair response to low-level Rzez exposure
+does not turn entropic failure into a morphogenic process. Rzez damage also
+remains within one ordinary geometry and chronology. A Manifold incident, by
+contrast, leaves local observations exact while preventing them from
+composing one global place or history. Disagreement among surveys is not by
+itself evidence that matter has lost cohesion.
+
+The Closed Night changes radiative transport across a powered enclosure. A
+place can become dark, silent by radio, and unable to shed heat while every wall
+remains structurally sound. The accepted account of the Quiet instead concerns
+failed mechanical transmission inside a deteriorating target, not a radiant
+boundary. The Agreement can conceal sound structure in another way: by
+redistributing prediction error among actively coupled nervous systems and
+machines, it can make every inspector report the same wrong answer about a
+sound building. The Rzez can make every independent inspector correctly report
+that a condemned building still appears sound.
+
+The Rehearsal destroys and converts through delivered energy, particle
+interaction, and quench-produced matter. Its strangelet hazard is material
+conversion, not target inheritance, entropic unmaking, or release of a
+structure's stored load. Similar consequences therefore do not identify the
+same process.
 
 Shared words such as *boundary*, *identity*, *inheritance*, *agreement*, and *continuity* are warnings about translation, not evidence of a common inventor or force. No combined deployment is established.
 
@@ -1526,12 +1595,14 @@ This is more radical than physical target inheritance. It removes the requiremen
 
 A controversial model proposes that the Rzez can follow identity relationships rather than physical contact.
 
-Supporters cite:
+Supporters draw their case from several kinds of apparent inheritance.
 
-- replacement components inheriting damage,
-- the simultaneous failure of objects made from the same original ingot,
-- synchronized fractures among ceremonial artifacts symbolically treated as one set,
-- and the Ossuary of Kareth, where physical destruction erased dynastic continuity.
+Supporters point to replacement components inheriting damage and to objects
+made from the same original ingot failing simultaneously. They place those
+cases beside synchronized fractures among ceremonial artifacts symbolically
+treated as one set, and beside the Ossuary of Kareth, where physical destruction
+erased dynastic continuity. The claimed relation moves from replacement and
+shared origin to symbolic association and institutional loss.
 
 Critics argue that hidden material commonalities explain these cases.
 
@@ -1595,13 +1666,14 @@ The field consistently affects interfaces: grain boundaries, joints, membranes, 
 
 Some theorists therefore argue that the true target of the Rzez is not matter but boundaries.
 
-A weapon tuned to boundaries could theoretically separate:
+A weapon tuned to boundaries would have implications far beyond a cut through material.
 
-- a city from its supply network,
-- a memory from the person who formed it,
-- a name from the thing it denotes,
-- a law from the authority enforcing it,
-- or a world from the space that contains it.
+Their proposed boundary weapon might separate a city from its supply network
+or a law from the authority enforcing it. The claim extends further, to a
+memory separated from the person who formed it, a name separated from the
+thing it denotes, or a world separated from the space that contains it. These
+are theoretical extensions of the boundary argument, not demonstrated
+capabilities.
 
 No verified device has demonstrated these effects.
 
@@ -1834,22 +1906,33 @@ A second, unofficial line appears scratched into the recorder casing:
 
 ## Unresolved questions
 
-The following questions remain open:
+The remaining questions concern both the thing described and the records that
+permit it to be described.
 
-- Does the Rzez increase entropy, or does it alter access to ordered states?
-- Does it damage matter, relationships, information, history, or identity?
-- Why does the Quiet occur?
-- Can terminal Rzez damage ever be reversed?
-- Is Valec still decaying?
-- Can Rzez contamination spread through shared origin rather than contact?
-- Did prehuman or nonhuman civilizations possess the technology?
-- Is the broken moon of Issa an ancient victim?
-- Can observation or memory stabilize cohesion?
-- Can a society, law, language, or person be butchered without physical destruction?
-- Is the Rzez a weapon applied to reality, or an exposed property reality always possessed?
-- Which passages in the present recension survive independently, and which apparent witnesses descend from one censored or Blackglass copy?
-- What happened inside the fourth Issa expedition, and who or what engraved the quarantined alloy leaf?
-- How much defensive knowledge can be preserved before the archive itself becomes a reconstructable instrument?
+The mechanism remains open at its foundation. It is unknown whether the Rzez
+increases entropy or alters access to ordered states, and whether it damages
+matter, relationships, information, history, or identity. The cause of the
+Quiet remains unexplained. So does the larger question of whether this is a
+weapon applied to reality or an exposed property reality always possessed.
+
+Questions of persistence follow directly. Terminal Rzez damage may or may not
+be reversible; whether Valec is still decaying remains unresolved. It is not
+known whether contamination can spread through shared origin rather than
+contact, or whether observation or memory can stabilize cohesion. The proposed
+butchery of a society, law, language, or person without physical destruction
+also remains unestablished.
+
+The history is incomplete beyond the human lineage. Whether prehuman or
+nonhuman civilizations possessed the technology, and whether Issa's broken
+moon is an ancient victim, remain unanswered. Nothing settles what happened
+inside the fourth Issa expedition or who or what engraved the quarantined alloy
+leaf.
+
+The archive presents its own unfinished investigation. Which passages of the
+present recension survive independently, and which apparent witnesses descend
+from one censored or Blackglass copy, has not been fully established. Nor has
+the amount of defensive knowledge that can be preserved before the archive
+itself becomes a reconstructable instrument.
 
 ## Engineering interpretation
 

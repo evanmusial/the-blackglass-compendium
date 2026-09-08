@@ -56,29 +56,28 @@ not a claim that Kharos is humanity's cradle or the capital of a unified region.
 
 ## What kind of decision this is
 
-This document combines three layers that must remain distinguishable:
+This document combines three distinguishable layers.
 
-1. **Authoring constraints:** rules future entries should follow so the setting
-   retains coherent scale.
-2. **Provisional shared canon:** facts that entries may currently rely upon but
-   that can still change during early development.
-3. **In-world uncertainty:** questions the Codex's scholars and cultures do not
-   know how to answer.
+**Authoring constraints** preserve coherent scale in future entries.
+**Provisional shared canon** supplies facts those entries may rely upon while
+retaining flexibility during early development. **In-world uncertainty**
+records questions the Compendium's scholars and cultures cannot answer.
+These layers have different authority even when they appear in one account.
 
 The eight-to-twelve-system range is primarily an authoring constraint. Characters
 do not need to speak as if an omniscient census has established it.
 
 ## Why this scale fits the current subjects
 
-The Rzez already requires:
+The Rzez already carries an interplanetary and political history.
 
-- Valec, an inhabited industrial world with billions of people;
-- Issa, a gas giant with an anomalous inner moon;
-- orbital observation and interplanetary evacuation;
-- survey vessels and alleged regenerative colony ships;
-- several sovereign states with partial planetary capability;
-- multiple suspected planetary or lunar deployments;
-- and a multinational legal framework capable of quarantine and prohibition.
+Valec is an inhabited industrial world of billions before its destruction;
+Issa is a gas giant with an anomalous inner moon. Their histories already
+require orbital observation and interplanetary evacuation, survey vessels and
+alleged regenerative colony ships. Several sovereign states possess partial
+planetary capability, multiple planetary or lunar deployments are suspected,
+and a multinational framework attempts quarantine and prohibition. The Rzez's
+existing record therefore reaches beyond one local society.
 
 One solar system could contain those elements, but would compress the setting's
 historical and cultural variety. A galaxy-wide civilization would make Valec's
@@ -182,14 +181,14 @@ worlds with no known prior visitation. A correspondence is not automatically a
 deployment. Dating a landform does not date the textual description, and
 matching a geometry does not prove a common builder or mechanism.
 
-Future exploration lore must preserve four boundaries:
+Interpretation of exploration records has four corresponding limits.
 
-1. No fragment may establish a fully mapped ancient empire merely by existing.
-2. No landscape resemblance may override contrary geology or weak provenance.
-3. No exterior witness may merge the six systems into one technology without a
-   later entry earning that revision.
-4. No claim of an unvisited world may be treated as omniscient proof that no
-   forgotten, concealed, or extrinsic visitor ever reached it.
+A fragment does not establish a fully mapped ancient empire merely by existing,
+and a landscape resemblance cannot override contrary geology or weak
+provenance. An exterior witness likewise cannot merge the six systems into one
+technology without a later entry earning that revision. Describing a world as
+unvisited records the limits of known visitation; it is not omniscient proof
+that no forgotten, concealed, or extrinsic visitor ever reached it.
 
 The unsettling canon fact is the recurrence, not a solved cause. The known
 region is small enough for the same warning to travel, old enough for lineages to
@@ -319,14 +318,13 @@ The distinction future authors must preserve is between **knowing the epoch**
 and **naming the year**. Astrometry, proper motion, pulsar records, isotope
 chronologies, exposure dating, and uninterrupted local clocks can place ancient
 observations and measure physical intervals. The stars therefore still answer
-*when* in astronomical terms. No surviving source securely joins all of the
-following in one chain of custody:
+*when* in astronomical terms. The difficulty lies in joining that physical
+evidence to a civil date through one secure chain of custody.
 
-- an unambiguous numbered Earth civil date and named era;
-- the sky state or reference epoch to which that date applied;
-- the time standard and calendar rules used to encode it;
-- and an unbroken clock and trajectory transform from that record to the first
-  Kelan–Ruva settlements.
+No surviving record securely joins an unambiguous numbered Earth civil date and
+named era to the sky state or reference epoch it described, the time standard
+and calendar rules encoding it, and an unbroken clock and trajectory transform
+from that record to the first Kelan–Ruva settlements.
 
 Earth-calendar fragments survive, but their era origins, reforms, time scales,
 and mission-clock relationships are incomplete or mutually dependent. Scholars
@@ -370,26 +368,25 @@ The complete established physics and operating limits belong in
 economics, colonization, and route governance belong in
 [`spaceflight-economy-and-settlement.md`](spaceflight-economy-and-settlement.md).
 
-The setting-level constraints are:
+Those operating limits determine the region's practical connections.
 
-- Only a few system pairs possess a usable natural conjugacy. Distance alone
-  does not predict connection.
-- A shore requires immense, visible infrastructure, ballast, momentum capacity,
-  clocks, rescue, and quarantine.
-- Every arrival exchanges with an equal countercarriage. No one-sided passage
-  or shipboard route drive exists.
-- Strong ligatures take several days; deep ones take weeks or longer. More power
-  cannot safely erase the coupling limit.
-- A carriage cannot steer, stop, change destination, communicate outward, or be
-  recalled after commitment.
-- A route can be refused, blockaded, quarantined, faded, or rendered a dead shore
-  when its endpoint infrastructure fails.
-- Some systems have one practical shore, making isolation and siege physically
-  meaningful.
-- A new far shore must be built by a slow receiver seed, reached through another
-  opened route, or inherited from an earlier delivery history.
-- Route throughput moves specialists, high-value goods, and founding programs;
-  it cannot evacuate a world of billions during a rapid catastrophe.
+Only a few pairs of systems possess usable natural conjugacy, and distance alone
+does not predict connection. Shores need immense, visible infrastructure:
+ballast, momentum capacity, clocks, rescue, and quarantine. Each arrival
+exchanges with an equal countercarriage; neither one-sided passage nor a
+shipboard route drive is available.
+
+Strong ligatures take several days and deep ones weeks or longer. Additional
+power cannot safely erase the coupling limit. After commitment a carriage can
+neither steer, stop, change destination, communicate outward, nor be recalled.
+Routes can be refused, blockaded, quarantined, faded, or reduced to dead shores
+by failed endpoint infrastructure. A system with only one practical shore is
+therefore vulnerable to meaningful isolation and siege.
+
+A new far shore must be built by a slow receiver seed, reached through another
+opened route, or inherited from an earlier delivery history. Throughput supports
+specialists, high-value goods, and founding programs; it cannot evacuate a world
+of billions during a rapid catastrophe.
 
 The founding migration does not resolve this mechanism. No intact carrier or
 working departure system survives, and no evidence proves that present ligature
@@ -488,56 +485,35 @@ propaganda, misdating, or something unrelated to the associated presence.
 
 ## Scale rules for future entries
 
-When designing a new instrument:
 
-1. Place it on an existing world or leave its precise location open unless a new
-   system materially improves the history.
-2. Introduce no more celestial geography than the entry can make meaningful.
-3. Record new systems, worlds, moons, routes, and quarantines in `canon/places/`.
-4. Update this document when an entry changes the known region's size, travel,
-   communication, political reach, Earth-correlation boundary, or nonhuman
-   boundary.
-5. Update `canon/chronology.md` when the placement affects shared historical eras.
-6. Preserve the importance of losing a world; inhabited space must not become so
-   vast that world-terminal technology feels routine.
-7. Do not make every instrument planetary. Smaller technologies should reveal
-   daily life, medicine, labor, law, family, belief, and local violence.
-8. Give Kharos recurring consequences without making it the source, test range,
-   battlefield, regulator, and archive of every system.
-9. Treat all six current systems as separate ontologies unless a later entry
-   deliberately earns an interaction.
-10. Give a Blackglass fragment, exterior witness, or parallel taboo a provenance
-    and evidence grade; ubiquity is not permission to place arbitrary knowledge
-    without material history.
+The complete authoring constraints for extending this geography are retained in the linked [Scale rules for future entries guidance](../docs/editorial-notes/canon-setting-scope.md).
 
 ## Deliberately unresolved questions
 
-- What is the known inhabited region called in different eras and languages?
-- How many systems are continuously inhabited in the current era?
-- Why do particular stellar systems possess conjugate locality while most do
-  not?
-- Which present shores were built by Meridian programs, inherited from earlier
-  human expansion, or reopened after abandonment?
-- Which receiver seeds became orphan shores, and which remain in ordinary
-  interstellar flight?
-- Which inhabited systems beyond Kelan–Ruva were settled before the Meridian
-  Age, and in what order?
-- Did every founding population reach Kelan–Ruva directly from Earth, or did
-  some arrive through one or more lost intermediate settlements?
-- Which Earth calendars survive in fragmentary form, and why do their proposed
-  crosswalks disagree?
-- What became of Earth, and can any surviving route reach the Solar System?
-- What is the associated presence, and does the concept of a civilization apply
-  to it?
-- Did a nonhuman civilization or forgotten human lineage alter Issa's moon?
-- How much authority does the Sixth Compact possess outside the core?
-- Did any viable catalytic seed escape Apsis, and could evidence of a distant
-  conversion still lie outside the known region's present light cone?
-- What lies beyond the mapped route network?
-- Why do Blackglass fragments recur throughout explored space, and why do their
-  media so often resemble the technology available near the find?
-- Which exterior witnesses record ancient use, recurrent discovery, natural
-  analogy, or misclassification?
+The region's names in different eras and languages and its exact current count
+of continuously inhabited systems remain open. So do the origin of rare stellar
+conjugacy, the histories of shores built by Meridian programs or inherited and
+reopened from earlier expansion, and the fates of seeds that became orphan
+shores or still travel through ordinary interstellar space. The identities and settlement order of systems beyond Kelan–Ruva settled
+before the Meridian Age remain unfixed. Which receiver seeds became orphan
+shores and which remain in interstellar flight also remain open questions.
+
+Founding populations may have arrived directly from Earth or through lost
+intermediate settlements. Which Earth calendars survive in fragmentary form and why their proposed
+crosswalks disagree remain unresolved. Those fragments do not establish Earth's
+fate or a returning route to the Solar System. Beyond the mapped route network, neither the geography nor
+the extent of Compact authority outside the core is settled.
+
+The associated presence remains unidentified, including whether civilization
+is a meaningful category for it. Issa's moon might record nonhuman work or a
+forgotten human lineage. A viable catalytic seed might have escaped Apsis, with
+evidence of a distant conversion still outside the known region's present
+light cone; neither claim is confirmed.
+
+Blackglass's recurrence and its tendency to use media resembling nearby
+technology still require explanation. Exterior witnesses may record ancient
+use, recurrent discovery, natural analogy, or misclassification. Those
+possibilities remain distinct as the evidence is developed.
 
 These are design resources, not omissions that must be repaired before another
 weapon can be written.

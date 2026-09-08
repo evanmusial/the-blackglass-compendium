@@ -15,44 +15,32 @@ created_from: original-concept
 
 ## Working vocabulary
 
-- **The Manifold** is the official human name of the complex. No originating
-  name is known.
-- **Tachyonic Manifold Rupture Complex** is the technical designation.
-- **Suspected epoch-denial technology** is the working military classification.
-- **Extrinsic-unknown** is the shared provisional provenance classification. Provenance
-  is separate from military consequence and original purpose.
-- **Tachyon shards** is an observational term, not a proven statement that the
-  detected phenomena are broken objects or ammunition.
-- **Manifold rupture** is the neutral term for an affected place or interval.
-- **Associated presence** is the cautious term for the genuinely extrinsic being
-  or beings linked to early and contemporary manifestations.
-- **Closed recursion** is the provisional technical term for a boundary-locked
-  rupture in which no locally continuous path from the affected interior reaches
-  the exterior, even though every local path can continue.
-- **Deadfold** is the provisional field term for a closed recursion and, by
-  extension, the quarantined place that contains one. It does not mean that
-  everyone inside is dead.
-- **Uncounted hour** remains the provisional field term for an interval whose
-  locally valid event sequences admit no single total ordering.
+**The Manifold** is the official human name of the complex; no originating
+name is known. Its technical designation, **Tachyonic Manifold Rupture Complex**,
+stands beside the working military classification **suspected epoch-denial
+technology**. The shared provisional provenance classification is
+**extrinsic-unknown**. That describes a different uncertainty from military
+consequence or original purpose.
+
+Observers call the detected phenomena **tachyon shards** without claiming that
+they are broken objects or ammunition. An affected place or interval is a
+**Manifold rupture**. The genuinely extrinsic being or beings linked to early
+and contemporary manifestations are described more cautiously as an
+**associated presence**, a term that leaves their relation to the complex open.
+
+The provisional technical term **closed recursion** names a boundary-locked
+rupture in which every local path can continue but no locally continuous path
+from the affected interior reaches the exterior. Provisional field usage calls such a
+closure, and by extension the quarantined place containing it, a **deadfold**;
+the word does not declare everyone inside dead. The provisional field term
+**uncounted hour** names an interval whose locally valid event sequences admit
+no single total ordering.
 
 “Complex” is deliberate. No evidence establishes whether The Manifold is one
 instrument, a class of instruments, a distributed organism, an environmental
 process, or one transtemporal operation intersecting known history many times.
-Its working analytical scope is therefore `phenomenon-complex`: a human filing
-category that preserves uncertainty about unity, number, and devicehood. It is
-not yet a valid entry-metadata value; the schema will adopt it only if a draft
-actually uses it.
-
-### Knowledge boundary
-
-| Question | Current authorial intent | What the Compendium may claim |
-| --- | --- | --- |
-| Does it descend from a known civilization or engineering lineage? | No. The Manifold is genuinely extrinsic to known civilization and apparently to ordinary local spacetime. | No known world, polity, archive, or developmental lineage accounts for it. |
-| Is it external to ordinary known spacetime? | Apparently. Its exact point or mode of origin is unresolved. | Shard signatures and associated phenomena have no reconstructable continuous worldline within known spacetime. |
-| Are the associated presences real? | Yes. At least one genuinely extrinsic presence exists. Its number, ontology, form, and experience of time remain unresolved. | Early testimony and contemporary multisensor records strongly support one or more presences at incidence, boundary-lock, or release. |
-| Did a presence create or operate it? | Intentionally unresolved. | A presence may be creator, operator, passenger, prisoner, custodian, consequence, or witness. |
-| Do shards explore infinitely many configurations? | The explored configuration space is genuinely unbounded. | No finite experiment proves literal infinity; recursive nonconvergence is the dominant model. |
-| Is it used strategically? | Intentionally unresolved. | Some incidents resemble epoch denial, but neither target selection nor doctrine is understood. |
+The working analytical scope is **phenomenon-complex**, a human filing category
+that preserves uncertainty about unity, number, and devicehood.
 
 ## Editorial posture and evidence
 
@@ -62,17 +50,15 @@ archaeological documents, military claims, survivor testimony, and later
 Blackglass collation. It is not one ancient treatise and does not imply that any
 historical source possessed the modern causal-topological model.
 
-The familiar Grade A-through-E scale measures support for each claim:
+The familiar Grade A-through-E scale measures support for each claim.
 
-- **Grade A:** physical remains, independent technical records, and credible
-  contemporary testimony agree.
-- **Grade B:** strong documentary evidence exists, but material evidence is
-  incomplete or inaccessible.
-- **Grade C:** multiple traditions agree centrally while important details
-  conflict.
-- **Grade D:** one substantial source or dependent cluster supports the claim.
-- **Grade E:** folklore, rumor, propaganda, visionary testimony, or an
-  unexplained anomaly.
+Grade A requires physical remains, independent technical records, and credible
+contemporary testimony to agree. Grade B preserves strong documentary evidence
+where material evidence is incomplete or inaccessible. Grade C applies when
+multiple traditions agree centrally while important details conflict; Grade D
+marks one substantial source or a dependent cluster. Grade E is reserved for
+folklore, rumor, propaganda, visionary testimony, or an unexplained anomaly.
+The scale measures support for each claim rather than resolving its metaphysics.
 
 Concordance is not a sixth grade. It records that two individually assessed
 records are independently authenticated, internally coherent, and unable to
@@ -100,7 +86,9 @@ appear beside earlier accounts only as editorial descriptions. Their adjacency
 does not prove that an old hydraulic ledger and a contemporary boundary-lock had
 one cause.
 
-## One-sentence premise
+<a id="one-sentence-premise"></a>
+
+## Premise
 
 An extrinsic complex uses apparent tachyon shards to explore an unbounded set of
 possible spacetime foldings and prevents the explored possibilities from
@@ -145,36 +133,35 @@ civilization, or original name.
 
 ## Original purpose
 
-Unknown.
-
-The entry must not invent a humane origin, construction lineage, or original
-user merely because the normal concept template asks for one. There is no proof
-that The Manifold was designed as a weapon. **Epoch denial** is a human military
+The original purpose is unknown. There is no established humane origin, construction lineage, or original user,
+and no proof that The Manifold was designed as a weapon. **Epoch denial** is a human military
 description of its observed consequences, not a claim about its intended
 function.
 
-Competing interpretations should remain live:
+Competing interpretations remain live. The **strategic-denial** interpretation holds that a presence makes an important
+place and its usable history inaccessible. A related account of **containment**
+holds that the place or interval becomes unreachable to isolate something else.
+Neither establishes whose purposes the loss serves. What humans encounter as
+denial might instead be **transit or architecture**: a corridor, chamber,
+foothold, or habitat whose natural geometry is incompatible with human spacetime.
+The **construction** account likewise reads apparent damage as the unfinished
+boundary of a structure assembled outside ordinary dimensional constraints.
 
-- **Strategic denial:** a presence renders an important place and its usable
-  history inaccessible.
-- **Transit or architecture:** a rupture is a corridor, chamber, foothold, or
-  habitat whose natural geometry is incompatible with human spacetime.
-- **Containment:** The Manifold makes a place or interval unreachable in order
-  to isolate something else.
-- **Survey or observation:** shards explore possible configurations while a
-  presence inspects or compares the results.
-- **Communication:** a rupture is a message expressed through adjacency and
-  event order rather than language.
-- **Construction:** the apparent damage is an unfinished boundary of a structure
-  assembled outside ordinary dimensional constraints.
-- **Exhaust or injury:** shards and ruptures are debris, blood, scars, or waste
-  from an operation occurring elsewhere.
-- **One transtemporal operation:** early and contemporary incidents are not
-  repeated uses but exposed faces of one action.
+Other interpretations attend to what happens during exploration. In **survey
+or observation**, shards explore possible configurations while a presence
+inspects or compares the results. In **communication**, adjacency and event
+order express a message without language. Neither appearance proves an intended
+exchange with humans.
 
-No theory should dominate until a later manuscript supplies evidence that
-discriminates among them. A site's military importance to humans is not proof
-that it mattered to an associated presence.
+The least purposeful account, **exhaust or injury**, treats shards and ruptures
+as debris, blood, scars, or waste from an operation occurring elsewhere. At the
+other extreme, **one transtemporal operation** would make early and contemporary
+incidents exposed faces of one action rather than repeated uses. The records
+leave each of these possibilities open.
+
+No theory can claim precedence without evidence that discriminates among them.
+A site's military importance to humans is not proof that it mattered to an
+associated presence.
 
 ## Governing manipulation
 
@@ -196,15 +183,18 @@ Within one local path, familiar physical law may remain intact. A corridor has a
 measurable length. A clock advances monotonically. A wound has a physical cause.
 A door opens into a room.
 
-Contradiction appears when paths, measurements, or histories are compared:
+Contradiction appears when paths, measurements, or histories are compared.
 
-- a corridor returns to its origin and also exits elsewhere;
-- two crews each arrive first;
-- a chamber lies on both sides of its own wall;
-- an evacuation becomes the supported cause of the emergency that prompted it;
-- mutually exclusive casualty histories possess authentic remains and records;
-- or an interval has a beginning and an end but no single consistent ordering of
-  all events between them.
+A corridor can return to its origin and also exit elsewhere, while a chamber
+lies on both sides of its own wall. Comparing the crews that traversed those
+spaces may establish that each arrived first. Such records do not become
+compatible merely because every measured segment remains ordinary.
+
+The same failure can reach the histories themselves. An evacuation becomes the
+supported cause of the emergency that prompted it; mutually exclusive casualty
+histories possess authentic remains and records. An interval may retain a
+beginning and an end without admitting any single consistent ordering of all
+events between them.
 
 The horror is not that one observation is false. Each may be locally exact.
 There is no single atlas or chronology into which all of them fit.
@@ -298,16 +288,14 @@ went.
 ### Tachyon shards
 
 No intact shard has been recovered under conditions yet accepted by the
-Compendium. Shards are inferred from sharply bounded disturbances that:
+Compendium. Shards are inferred from sharply bounded disturbances.
 
-- register at separated detectors in an order incompatible with a subluminal
-  trajectory;
-- appear to approach from mutually exclusive directions;
-- produce path and timing residuals that grow recursively instead of converging;
-- occupy apparent vertices of a configuration that cannot be embedded in one
-  ordinary spatial chart;
-- and sometimes cease to register before the earliest instrument record of
-  their arrival.
+Separated detectors register these disturbances in an order incompatible with
+a subluminal trajectory, and apparent approach directions may be mutually
+exclusive. Their path and timing residuals grow recursively rather than
+converging. Some detections occupy apparent vertices of a configuration that
+cannot be embedded in one ordinary spatial chart; others cease to register
+before the earliest instrument record of their arrival.
 
 A shard may be a particle, probe, anchor, boundary intersection, sensory organ,
 shed fragment, or merely the instrument-readable cross-section of a larger
@@ -331,16 +319,18 @@ distance larger than a building. Slipping wheels, inertial drift, copied rooms,
 moving partitions, operator error, and deliberate fraud are ordinary
 explanations. A credible finding requires several independent failures to agree.
 
-The strongest interior packages compare:
+The strongest packages compare wheel and inertial travel with optical flow and
+physical-tether distance. Wall composition, fastener genealogy, wear, dust, and
+microfracture patterns test whether those distances connect the same material
+places. Unique physical marks applied during the survey provide another part
+of that identity record.
 
-- wheel, inertial, optical-flow, and physical-tether distance;
-- wall composition, fastener genealogy, wear, dust, and microfracture patterns;
-- local gravity, pressure, acoustic impulse response, and thermal gradients;
-- synchronized clocks that were separated before incidence;
-- unique physical marks applied during the survey;
-- exterior mass, parallax, radar, and gravitational measurements;
-- and every attempted crossing reported simultaneously from both sides of the
-  estimated rim.
+Local gravity, pressure, acoustic impulse response, and thermal gradients are
+read alongside synchronized clocks separated before incidence. Exterior mass,
+parallax, radar, and gravitational measurements constrain the whole envelope.
+Every attempted crossing is reported simultaneously from both sides of the
+estimated rim, so an apparently ordinary traversal can be compared with the
+boundary it claims to cross.
 
 In a closed recursion, these instruments remain locally useful. Their global
 residuals do not settle toward one corrected floor plan. They grow as additional
@@ -426,16 +416,17 @@ load globally incoherent. It does not refill the plant.
 
 ### Observed establishment sequence
 
-1. **Incidence:** One or more shard signatures appear. Different observers may
-   count different totals.
-2. **Exploration:** Brief errors of adjacency, duration, and sequence
-   proliferate. Most vanish. No model successfully enumerates the configurations
-   explored.
-3. **Boundary-lock:** The affected region acquires a persistent rim and ceases to
-   admit one globally consistent geometry and causal history.
-4. **Persistence or release:** The rupture remains stable, changes boundary,
-   contracts, or resolves into one externally coherent aftermath while leaving
-   mutually authentic contradictory evidence.
+At **incidence**, one or more shard signatures appear, although different
+observers may count different totals. **Exploration** follows as brief errors of
+adjacency, duration, and sequence proliferate. Most vanish, and no model
+successfully enumerates the configurations explored. These early changes can
+give way to **boundary-lock**, when the affected region acquires a persistent
+rim and no longer admits one globally consistent geometry and causal history.
+
+The fourth phase is **persistence or release**. A rupture may remain stable,
+change boundary, contract, or resolve into one externally coherent aftermath.
+Release can still leave mutually authentic contradictory evidence; it does not
+make the earlier histories agree.
 
 Mature ruptures sometimes persist after detectable shard signatures disappear.
 This argues against treating shards as a continuing power source.
@@ -520,23 +511,22 @@ Documented cases range from several minutes to months of weak nonconvergence
 before boundary-lock. Neither a lower nor an upper bound is known, and no one
 sign is diagnostic.
 
-Common early observations include:
+Closed-path laser ranges can acquire residuals that change when the path is
+traversed in the opposite order. Echoes may return through a physically
+different aperture without an unexplained energy gain, while one uniquely
+tagged door acquires duplicated access events neither of which is a recording
+copy. A tether can cross itself in ordinary space without either segment passing
+over or under the other in the recorded path history.
 
-- closed-path laser ranges whose residual changes when the path is traversed in
-  the opposite order;
-- echoes that return through a physically different aperture without an
-  unexplained energy gain;
-- duplicated access events for one uniquely tagged door, with neither event a
-  recording copy;
-- clocks that remain individually stable while pairwise offsets cannot all be
-  satisfied;
-- pressure or thermal fronts arriving along a route shorter than every mapped
-  connection and longer than the exterior enclosure;
-- a tether that crosses itself in ordinary space without either segment passing
-  over or under the other in the recorded path history;
-- a maintenance mark observed before the work order that created it;
-- and an apparent exterior view whose parallax, star field, or traffic does not
-  match any simultaneous exterior instrument.
+Individual clocks may remain stable even when their pairwise offsets cannot
+all be satisfied. Pressure or thermal fronts can arrive along a route shorter
+than every mapped connection and longer than the exterior enclosure. A
+maintenance mark may be observed before the work order that created it.
+
+Exterior views are no more decisive merely because they look familiar. The
+apparent parallax, star field, or traffic may fail to match any simultaneous
+exterior instrument. These are common early observations, not a diagnostic
+signature possessed by every case.
 
 The familiar horror begins later. At first, every anomaly resembles a bad clock,
 a corrupted map, an unsafe hatch, or a tired witness. Organizations lose their
@@ -555,24 +545,23 @@ a presence attends a shard site, crosses a boundary without one trajectory,
 pauses at an impossible junction, or departs without traversing the intervening
 distance.
 
-Several interpretations remain open:
+Several interpretations remain open. Number may be the first error in the account. Many beings could be mistaken
+for one, or one being could intersect ordinary spacetime many times. Apparent
+actions might themselves be artifacts of forcing nonsequential conduct into
+sequential testimony.
 
-- many beings are mistaken for one;
-- one being intersects ordinary spacetime many times;
-- the presences are components of The Manifold;
-- The Manifold is a component of them;
-- they are trapped by it;
-- they tend or repair it;
-- or their apparent actions are artifacts of forcing nonsequential conduct into
-  sequential testimony.
+The relation to the complex is equally unsettled. The presences might be
+components of The Manifold, or The Manifold might be a component of them.
+They could be trapped by it, or they could tend and repair it. None of those
+interpretations follows simply from attendance at a boundary.
 
 No confirmed communication has occurred. They have not been shown to attack a
 person directly, respond to warning, accept exchange, or distinguish military
 from civilian observers.
 
-“Interdimensional” should remain the prevailing in-world description, not a
-complete cosmology. The concept does not yet establish an external realm,
-species, civilization, or political order.
+“Interdimensional” remains the prevailing in-world description, not a complete
+cosmology. No external realm, species, civilization, or political order is yet
+established by this account.
 
 ## Characteristic horror
 
@@ -610,18 +599,16 @@ adjacency infrastructure may extend a boundary.
 ### No selectable outcome
 
 Observers may estimate that boundary-lock is approaching and roughly where its
-rim will fall. No known model predicts:
+rim will fall. The outcome remains beyond that estimate.
 
-- which adjacencies will survive;
-- which event order will be locally experienced;
-- who will emerge;
-- how long the interval will remain open;
-- or whether interference causes collapse, relocation, or premature
-  boundary-lock.
+No known model predicts which adjacencies will survive, which event order will
+be locally experienced, or who will emerge. Known models also cannot predict
+how long the interval will remain open or whether interference will cause
+collapse, relocation, or premature boundary-lock.
 
-The Manifold cannot become authorial permission for arbitrary effects. Its
-contradictions concern adjacency, duration, sequence, causal precedence, and
-physically supported histories.
+The contradictions remain confined to adjacency, duration, sequence, causal
+precedence, and physically supported histories. They provide no arbitrary
+additional effects.
 
 ### Minimal and indirect control
 
@@ -691,12 +678,11 @@ safe.
 
 ### Establishment conditions
 
-Observed ruptures correlate, without proving causation, with:
-
-- route junctions and highly coupled route-support infrastructure;
-- highly synchronized transit or communication infrastructure;
-- places with many causally coupled moving systems;
-- and events where many consequential paths converge.
+Observed ruptures correlate with route junctions and highly coupled
+route-support infrastructure. Highly synchronized transit or communication
+infrastructure also appears in the record, as do places with many causally
+coupled moving systems and events where many consequential paths converge.
+These are correlations, not demonstrated causes.
 
 Empty ordinary space appears more resistant. This correlation must not define
 or modify ordinary interstellar travel. Proximity to synchronized route
@@ -705,68 +691,69 @@ assigns nor revises the route mechanism.
 
 ### Countermeasures
 
-Before boundary-lock:
-
-- compare physically separated clocks, closed-path ranges, and parallax surveys;
-- shut down or separate local route and implicated adjacency infrastructure;
-- alter the geometry of suspected incidence sites;
-- evacuate outward along one uninterrupted path;
-- and disrupt a shard constellation only after exterior instruments estimate the
-  likely boundary.
+Before boundary-lock, responders compare physically separated clocks,
+closed-path ranges, and parallax surveys while they can still establish an
+exterior account. They may shut down or separate local route and implicated
+adjacency infrastructure, alter the geometry of suspected incidence sites, and
+evacuate outward along one uninterrupted path. A shard constellation is
+disrupted only after exterior instruments estimate the likely boundary.
 
 These actions may delay or prevent boundary-lock. They cannot choose the
 resulting configuration, and every intervention risks stabilizing the rupture it
 was meant to disrupt.
 
-During or after boundary-lock:
+During or after boundary-lock, quarantine extends beyond the greatest observed
+boundary excursion, with physical and route connections severed where they
+cross the rim. A rescue team is never divided for attempted reunion. The
+provisional **single-chart doctrine** instead keeps one ingress path, one local
+reference frame, and continuous physical tethering.
 
-- establish quarantine beyond the greatest observed boundary excursion;
-- sever physical and route connections crossing the rim;
-- never divide a rescue team and attempt reunion;
-- use one ingress path, one local reference frame, and continuous physical
-  tethering—the provisional **single-chart doctrine**;
-- preserve every returned record without forcing premature reconciliation;
-- and treat apparent resolution as unconfirmed until independent exterior
-  instruments agree over time.
+Every returned record is preserved without forced premature reconciliation. An
+apparent resolution remains unconfirmed until independent exterior instruments
+agree over time. The record of one successful local return cannot replace that
+exterior agreement.
 
 No accepted method reverses a mature rupture. Quarantine is a countermeasure;
 restoration is not.
 
 ### Failure modes
 
-- **Closure acceleration and substitution:** interference may stabilize a
-  rupture sooner, move a shard condition elsewhere or earlier, carry incidence
-  with a removed anchor, or incorporate the power, command, and rescue
-  infrastructure added to contain it.
-- **False reversal:** a crew can retrace every measured motion and enter another
-  path history. An apparent hatch may accept a probe or rescuer without an
-  inverse, and a tether may preserve local tension while ceasing to share one
-  exterior payout ledger.
-- **Survey and rescue cascade:** branching probes or divided teams may add path
-  histories faster than they constrain the atlas. Later teams follow authentic
-  telemetry into other charts and become additional captives.
-- **Resource and work-loop error:** a recurring cache is treated as replenished,
-  or an apparent gravitational, pressure, thermal, or optical cycle is connected
-  to an exterior load. The cache remains spent, the return leg fails to share
-  the load's chart, or more machinery is incorporated without useful export.
-- **False shelter:** a stable local refuge is mistaken for a globally protected
-  enclave. A new supply, control, or rescue connection may supply the adjacency
-  by which it is later captured.
-- **False concordance and release miscount:** one local chart is mistaken for
-  resolution, or authorities assume the expected roster must emerge. A different
-  finite state reconciles while equally authentic custody is discarded.
-- **Command-chain inclusion and objective inversion:** the affected interval may
-  extend through preparation and include the observers, deny the attacker's own
-  approach, preserve the target in a refuge, or create a relation useful to an
-  opponent.
-- **Unintended function:** an attempted denial may resemble a corridor,
-  enclosure, arrival site, release event, or associated-presence incident rather
-  than the intended military result.
-- **Reconciliation loss:** an apparently successful evacuation may yield an
-  externally coherent survivor set different from the one expected.
-- **Strategic non-result:** a target may be destroyed in one authenticated
-  history and intact in another, denying occupation and verification without
-  producing an ordinary victory.
+**Closure acceleration and substitution** turns intervention into part of the
+incident. Interference may stabilize a rupture sooner, move a shard condition
+elsewhere or earlier, carry incidence with a removed anchor, or incorporate
+the added power, command, and rescue infrastructure. A **false shelter** arises
+from the related mistake of treating a stable local refuge as a globally
+protected enclave: a new supply, control, or rescue connection may provide the
+adjacency by which the refuge is later captured.
+
+**False reversal** defeats apparently careful retreat. A crew retraces every
+measured motion yet enters another path history; a hatch accepts a probe or
+rescuer without an inverse, and a tether retains local tension while losing one
+shared exterior payout ledger. In a **survey and rescue cascade**, branching
+probes or divided teams add path histories faster than they constrain the atlas.
+Later teams follow authentic telemetry into other charts and become captives
+themselves.
+
+**Resource and work-loop error** mistakes a recurring cache for replenished
+stock or connects an apparent gravitational, pressure, thermal, or optical
+cycle to an exterior load. The cache remains spent, the return leg fails to
+share the load's chart, or more machinery is incorporated without useful
+export. **False concordance and release miscount** similarly mistakes one local
+chart for resolution or assumes that the expected roster must emerge. A
+different finite state reconciles while equally authentic custody is discarded.
+
+The **command-chain inclusion and objective inversion** failure can extend the
+affected interval through preparation and include its observers. It may deny
+the attacker's own approach, preserve the target in a refuge, or create a
+relation useful to an opponent. **Unintended function** describes an attempted
+denial that instead resembles a corridor, enclosure, arrival site, release
+event, or associated-presence incident rather than the intended military result.
+
+Even an apparently successful evacuation can incur **reconciliation loss**,
+yielding an externally coherent survivor set different from the expected one.
+At campaign scale, **strategic non-result** leaves a target destroyed in one
+authenticated history and intact in another. Occupation and verification are
+denied without producing an ordinary victory.
 
 Nothing establishes what using The Manifold costs an associated presence.
 Apparent indifference may reflect control, immunity, sacrifice, or failure to
@@ -774,22 +761,23 @@ recognize its losses.
 
 ## Possible scales
 
-Scale changes the rupture architecture rather than merely increasing power.
+Scale changes rupture architecture rather than merely increasing power. A
+**local closure** can deprive a room, corridor, vessel section, or facility of
+global geometric consistency. **Siege closure** leaves a fortress, station, or
+habitat present but makes occupation, supply, mapping, and evacuation impossible
+through one reliable set of routes.
 
-| Scale | Effect and current evidentiary role |
-| --- | --- |
-| Local closure | A room, corridor, vessel section, or facility loses global geometric consistency. Best scale for a first documented case. |
-| Siege closure | A fortress, station, or habitat remains present but cannot be occupied, supplied, mapped, or evacuated through one reliable set of routes. |
-| Strategic network closure | Separated sites connected by route or command infrastructure enter one discontinuous rupture, denying a junction, fleet movement, or campaign. |
-| Epochal closure | A bounded place across a substantial interval acquires mutually exclusive histories and becomes unusable as a causal foundation. Central military concern; few strong cases. |
-| Planetary or systemic closure | A world or route system participates in one rupture without one common history. Alleged only. |
+In **strategic network closure**, separated sites connected by route or command
+infrastructure enter one discontinuous rupture, denying a junction, fleet
+movement, or campaign. **Epochal closure** reaches a different kind of extent:
+a bounded place acquires mutually exclusive histories across a substantial
+interval and becomes unusable as a causal foundation. It remains a central
+military concern supported by few strong cases.
 
-No confirmed deliberate single-person targeting exists. Personal curses should
-remain folklore or collateral exposure rather than making The Manifold an
-arbitrary fate weapon.
-
-The taxonomy may need a temporal-reach axis rather than placing `epochal` beside
-spatial terms such as `siege` and `planetary`.
+**Planetary or systemic closure**, in which a world or route system
+participates in one rupture without one common history, remains alleged only.
+No confirmed deliberate single-person targeting exists. Personal curses remain
+folklore or collateral exposure; they do not establish an arbitrary fate weapon.
 
 ## Spatial, material, and institutional response
 
@@ -1047,16 +1035,14 @@ and independent custody. Discontinuous closures require separate reference sets
 around every implicated site. Epochal cases require exterior clocks and custody
 on both sides of the suspected event window rather than one spatial ring.
 
-Exterior boundary measurement answers limited questions:
-
-- Where has nonreciprocal or noncomposing behavior been observed?
-- What bounds can be placed on stress-energy and physical infrastructure inside
-  the greatest envelope, relative to the pre-incident inventory and documented
-  ingress?
-- Which apertures have demonstrated reciprocal material crossing?
-- Has the estimated rim moved, divided, or joined a separated site?
-- Do unaffected clocks agree on incidence, lock, excursion, and apparent
-  release?
+Exterior boundary measurement answers limited questions. It locates observed nonreciprocal or noncomposing behavior
+and bounds the stress-energy and physical infrastructure inside the greatest
+envelope against the pre-incident inventory and documented ingress. It records
+which apertures have demonstrated reciprocal material crossing and whether the
+estimated rim has moved, divided, or joined a separated site. Unaffected clocks
+must also be compared for agreement on incidence, lock, excursion, and apparent
+release. Each answer constrains the boundary without furnishing a global
+interior map.
 
 It does not describe the interior globally. An exterior map can be exact while
 every interior attempt to reach the mapped boundary fails.
@@ -1145,33 +1131,37 @@ fraud indistinguishable from nonconvergence.
 ### Differential diagnosis
 
 Manifold attribution requires excluding mechanisms that can imitate one part of
-the record:
+the record.
 
-- **Ordinary maze, moving structure, or copied rooms:** material inventory and
-  transition rules eventually converge; reverse traversal remains meaningful.
-- **Static looping geometry or engineered shortcut:** the topology may be
-  unusual, but repeated paths have stable inverses or periodic residuals and can
-  be represented by one global model.
-- **Gravity, lensing, or inertial error:** independent accelerometers, gyroscopes,
-  star fields, and exterior baselines account for the distortion without
-  authentic incompatible adjacencies.
-- **Route failure:** transit infrastructure may strand a site without making a
-  local hatch open into two different material interiors.
-- **The Closed Night:** outward radiation is returned across one ordinary-space
-  boundary; matter still crosses in one geometry, and the energy ledger explains
-  the silence.
-- **The Agreement:** coupled observers and machines converge upon correlated
-  error; physically isolated records recover independence rather than remain
-  mutually exact and incompatible.
-- **The Rzez:** matter loses structural continuity inside one geometry and
-  chronology; survey disagreement alone does not establish cohesion failure.
-- **The Rehearsal:** extreme energy and material residues propagate causally
-  through ordinary spacetime and create no recursive interior.
-- **The Unhidden:** an open form can imitate architecture or occupy many surfaces,
-  but its finite living anatomy remains wholly present and materially traceable.
-- **Fraud or propaganda:** custody breaks, calibration is hidden, alleged
-  duplicates lack common material genealogy, or the political claim precedes the
-  measurements it purports to summarize.
+An **ordinary maze, moving structure, or copied rooms** eventually yields
+convergent material inventory and transition rules, with meaningful reverse
+traversal. **Static looping geometry or an engineered shortcut** may have
+unusual topology, but its repeated paths have stable inverses or periodic
+residuals and can be represented by one global model. **Gravity, lensing, or
+inertial error** instead allows independent accelerometers, gyroscopes, star
+fields, and exterior baselines to account for distortion without authentic
+incompatible adjacencies. A **route failure** may strand a site without making
+a local hatch open into two different material interiors.
+
+Among the other forbidden systems, **The Closed Night** returns outward
+radiation across one ordinary-space boundary. Matter still crosses in one
+geometry, and the energy ledger explains the silence. **The Agreement** makes
+coupled observers and machines converge upon correlated error; physically
+isolated records recover independence rather than remaining mutually exact and
+incompatible. Neither supplies the Manifold's failure of global composition.
+
+**The Rzez** removes structural continuity within one geometry and chronology,
+so survey disagreement alone does not establish cohesion failure. **The
+Rehearsal** propagates extreme energy and material residues causally through
+ordinary spacetime without creating a recursive interior. **The Unhidden** may
+imitate architecture or occupy many surfaces, but its finite living anatomy
+remains wholly present and materially traceable.
+
+**Fraud or propaganda** requires its own scrutiny. Custody may break,
+calibration may be hidden, alleged duplicates may lack common material
+genealogy, or a political claim may precede the measurements it purports to
+summarize. Those failures cannot acquire physical authenticity merely by being
+described in Manifold language.
 
 The mandatory null remains ordinary failure. The presence of Manifold vocabulary
 in a witness account does not reverse the burden of proof.
@@ -1415,8 +1405,8 @@ Kelan–Ruva
 boundary, continuing egress denial, and at least one associated presence; D for
 deliberate targeting or human causation; E for claimed purpose
 
-Talren is the strongest candidate anchor for a full entry. It remains active in
-the current era.
+Talren remains active in the current era. Its account is reserved with the
+other historical cases in this developing manuscript.
 
 The Survey House performed conservative work. It compared independent clocks,
 inertial traverses, moving reflectors, and route observations at a consequential
@@ -1457,15 +1447,11 @@ the wrong side of a pressure wall.
 A second team repeated every local measurement and obtained a different globally
 impossible route.
 
-Over the next several hours:
-
-- local clocks remained monotonic;
-- inertial units recorded ordinary acceleration;
-- known corridors retained their measured lengths;
-- the sixty-one compartments remained recognizable and materially finite;
-- ordered traverses ceased to fit one station map;
-- and each new attempt to define *outward* produced another locally valid
-  continuation.
+Over the next several hours, local clocks remained monotonic and inertial units
+recorded ordinary acceleration. Known corridors retained their measured lengths,
+and the sixty-one compartments stayed recognizable and materially finite.
+Nevertheless, ordered traverses ceased to fit one station map. Each new attempt
+to define *outward* produced another locally valid continuation.
 
 Survey Director Ivena Cor ordered evacuation along one continuously observed
 coolant stripe rather than by room number. One hundred ninety-one people reached
@@ -1652,18 +1638,18 @@ quarantine records while remaining separately governed. This prevents one
 captured command structure from becoming the only authority able to declare its
 own capture.
 
-Its duties are to:
+Exterior Measure maps the greatest exterior boundary excursion while
+maintaining physically independent clocks, ranging baselines, raw archives, and
+custody paths. It preserves every authenticated casualty, survivor, and property
+chronology. At least one observation and command chain must remain wholly
+outside the estimated boundary so that the incident never becomes its own only
+witness.
 
-- map the greatest exterior boundary excursion;
-- maintain physically independent clocks, ranging baselines, raw archives, and
-  custody paths;
-- preserve every authenticated casualty, survivor, and property chronology;
-- distinguish mature rupture from route failure, fraud, Rzez damage, Agreement
-  covariance, and ordinary abandonment;
-- control approach without pretending to control the phenomenon;
-- prohibit transport of suspected active anchors;
-- and keep at least one observation and command chain wholly outside the
-  estimated boundary.
+Its personnel distinguish mature rupture from route failure, fraud, Rzez
+damage, Agreement covariance, and ordinary abandonment. They control approach
+without pretending to control the phenomenon and prohibit transport of
+suspected active anchors. Custody concerns what people may add to an incident,
+not mastery over what the complex will do.
 
 Exterior Measure cannot create, aim, predict, close, or reverse a rupture. Its
 name is intentionally modest. It measures the outside because the outside is the
@@ -1804,17 +1790,19 @@ avoid a more convenient abuse: calling a clandestine induction program
 ## Cultural afterlife
 
 Talren changes ordinary language through infrastructure, evidence, and absence.
+A **Talren map** is a compilation whose local statements are reliable and
+whose total account is impossible. **Making one map** acquires a harsher meaning:
+destroying evidence for administrative simplicity. To **carry an outside** is
+to preserve a person, clock, archive, or authority that has not entered the
+system it must later judge. The phrases distinguish an imperfect account kept
+honestly from a tidy one made at the expense of its witnesses.
 
-- A **Talren map** is a compilation whose local statements are reliable and
-  whose total account is impossible.
-- To **carry an outside** is to preserve a person, clock, archive, or authority
-  that has not entered the system it must later judge.
-- **Making one map** means destroying evidence for administrative simplicity.
-- **Chart grief** is mourning across incompatible supported histories.
-- An **uncounted hour** is an interval acknowledged as real but not reducible to
-  one event order.
-- **Deadfold** remains narrow field language for an egress-complete bounded
-  rupture, not a synonym for every confusing building or hopeless place.
+**Chart grief** names mourning across incompatible supported histories, while
+an **uncounted hour** acknowledges an interval as real without reducing it to
+one event order. **Deadfold** retains a narrower field meaning: an
+egress-complete bounded rupture, not every confusing building or hopeless
+place. Talren's vocabulary enters ordinary life without making every ordinary
+difficulty a Manifold event.
 
 Route facilities adopt sacrificial disconnects, exterior ranging monuments,
 independent raw-data vaults, and drills built around one uninterrupted evacuation
@@ -1960,35 +1948,27 @@ containment as the Manifold's purpose.
 
 ## Setting placement
 
-No new inhabited system is required at concept stage.
+The preferred reserved placement remains a frontier route junction or isolated
+observatory within the known inhabited region, without requiring a new inhabited
+system.
+It permits old local accounts, physically separated archives, limited
+communications, a strategically legible site, and a bounded quarantine without
+threatening every world.
 
-The strongest initial placement is a frontier route junction or isolated
-observatory within the known inhabited region. It permits old local accounts,
-physically separated archives, limited communications, a strategically legible
-site, and a bounded quarantine without threatening every world.
+The shared setting scope makes a narrow refinement to the nonhuman boundary.
+The Manifold is extrinsic to known civilization and apparently to ordinary
+local spacetime. At least one associated extrinsic presence is real and strongly
+supported in-world. Its intelligence, number, civilization, origin, authorship,
+and relationship to the complex remain unresolved. Confirming that phenomenon
+does not confirm a mapped nonhuman civilization.
 
-The shared setting scope now makes the following narrow refinement to the
-nonhuman boundary:
-
-- The Manifold becomes established as extrinsic to known civilization and
-  apparently to ordinary local spacetime.
-- At least one extrinsic associated presence becomes authorially real and
-  strongly supported in-world.
-- The presence's intelligence, number, civilization, origin, authorship, and
-  relationship to the complex remain unresolved.
-
-This preserves the distinction between confirming an extrinsic phenomenon and
-confirming a mapped nonhuman civilization.
-
-The concept establishes that folded spacetime is physically manipulable in a
-Manifold rupture. It neither assigns nor revises the separate physical mechanism
-of ordinary interstellar routes and provides no controllable instantaneous
-communication or safe route through time.
-
-The integration review updated
-[`../../canon/setting-scope.md`](../../canon/setting-scope.md). Ordinary travel,
-communication, and any mapped nonhuman civilization remain governed by the
-current setting-wide canon rather than by this concept.
+Folded spacetime is physically manipulable in a Manifold rupture, but that
+finding neither assigns nor revises the separate physical mechanism of ordinary
+interstellar routes. It supplies no controllable instantaneous communication or
+safe route through time. Ordinary travel, communication, and any mapped
+nonhuman civilization remain governed by the existing setting-wide account;
+the exact authorial reservation and integration history are preserved in the
+[editorial notes](../../docs/editorial-notes/the-manifold.md).
 
 ## Relationship to existing entries
 
@@ -1998,14 +1978,20 @@ The Rzez invalidates relationships that let one target remain whole. The
 Manifold invalidates the compatibility that lets local spaces and histories form
 one world.
 
-| The Rzez | The Manifold |
-| --- | --- |
-| Has a human industrial lineage. | Has genuinely extrinsic provenance and unknown purpose. |
-| Operates inside one geometry and chronology. | Prevents one geometry or chronology from existing globally. |
-| Characterizes and selectively attacks a target. | Produces no known human-selectable result. |
-| Makes an apparently intact object already condemned. | Permits locally intact, mutually exclusive states to remain equally supported. |
-| Propagates through matter and infrastructure. | Establishes through shard conditions, rupture adjacencies, routes, and causal junctions. |
-| Has known engineering thresholds and material counters. | Can be disrupted only imperfectly before closure; mature cases are quarantined. |
+The Rzez's human industrial lineage contrasts with the Manifold's genuinely
+extrinsic provenance and unknown purpose. Rzez action remains inside one
+geometry and chronology; Manifold action prevents such a geometry or chronology
+from existing globally. A Rzez characterizes and selectively attacks its target,
+whereas the Manifold produces no known human-selectable result.
+
+The consequences differ even when both places appear intact. The Rzez can leave
+an apparently intact object already condemned. The Manifold permits locally
+intact but mutually exclusive states to remain equally supported. Rzez action
+propagates through matter and infrastructure, while Manifold establishment
+involves shard conditions, rupture adjacencies, routes, and causal junctions.
+Known engineering thresholds and material counters belong to the Rzez; a
+Manifold can be disrupted only imperfectly before closure, and mature cases are
+quarantined.
 
 The Rzez subtracts continuity. The Manifold makes continuity nonconvergent.
 
@@ -2214,109 +2200,12 @@ those roles do not compose.
 The synthesis therefore knows exactly what a mature deadfold does and remains
 honest about not knowing what it is.
 
-## Canon dependencies
-
-The concept can reuse:
-
-- the Grade A-through-E claim-level evidence model;
-- the small connected inhabited region;
-- the setting's sparse route network, its endpoint infrastructure, and its
-  categorical separation from Manifold rupture;
-- uneven intersystem communication;
-- Compact-era forensic and quarantine capability;
-- frontier archives and oral traditions;
-- the distinction among authorial truth, editorial judgment, source claims, and
-  unresolved metaphysics;
-- and the rule that scale changes architecture, not only output.
-
-It does not require the Rzez mechanism, Valec, Issa, or a new celestial body.
-
-## Possible new canon
-
-Already promoted provisionally:
-
-- `causal-topological` as a primary human analytical system;
-- traits such as `configuration-exploratory`, `topology-disjunctive`,
-  and `causally-disjunctive`;
-- extrinsic provenance as a classification independent of original purpose;
-- a confirmed extrinsic complex without a confirmed nonhuman civilization;
-- concordance forensics for mutually authentic incompatible histories;
-- the working sequence of incidence, exploration, boundary-lock, and persistence
-  or release;
-- and the shared terms **tachyon shard**, **Manifold rupture**,
-  **boundary-lock**, **associated presence**, **concordance bundle**, and
-  **single-chart doctrine**.
-
-All additional architecture, incident, institution, law, theory, and field terms
-introduced in this expansion remain concept-local. In particular, **closed
-recursion**, **egress-complete**, **deadfold**, **boundary exile**, **orphan
-exit**, Talren, Meret, Exterior Measure, and the Common Outside Convention are
-not silently promoted by appearing in this manuscript.
-
-The later development of staged release certification, attempted inward relief,
-finite estate administration, and funded rimkeeper succession has the same
-reserved status. These practices supply a workable human response, not evidence
-that Talren released or that its captives established contact.
-
-A full entry may still promote, revise, or reject:
-
-- evidentiary thresholds and incident-specific timing for the establishment
-  phases;
-- Talren as the named contemporary rupture;
-- Exterior Measure as the named temporal-quarantine practice and **rimkeepers**
-  as its field personnel;
-- and a decision whether to retain **deadfold** and **uncounted hour** as shared
-  field terms.
-
-### Candidate taxonomy work
-
-The concept exposed a structural gap now recorded in
-[`../../canon/taxonomy.md`](../../canon/taxonomy.md): provenance and original
-function are different questions.
-
-This development pass adopts these provisional rules:
-
-1. Retain `origin_classification` for a supported prior function.
-2. Permit it to be absent when purpose is unknown rather than filling it with
-   `unknown`.
-3. Use a separate provenance axis, with `extrinsic-unknown` for The Manifold.
-4. Use `causal-topological` as a human analytical engineering system.
-5. Use behavioral traits only where detection and countermeasure sections apply
-   them consistently.
-6. Consider a separate temporal-reach axis only after the draft demonstrates
-   useful controlled values.
-7. Use `phenomenon-complex` provisionally so the entry does not decide the
-   relation among shards, ruptures, and associated presences prematurely.
-
-When provenance or `phenomenon-complex` becomes entry metadata, update the
-metadata reference, JSON schema, repository checker, entry template, and every
-affected entry together. Those schema changes remain deferred until an entry
-draft actually uses them.
-
 ## Canon integration status
 
-The integration recorded in
-[`../../docs/three-weapon-integration.md`](../../docs/three-weapon-integration.md)
-promotes the following as **shared provisional canon** while this document
-remains a developing concept:
-
-- `causal-topological` as the human analytical classification;
-- `extrinsic-unknown` provenance and a genuinely unknown original purpose;
-- the authorial reality of at least one associated extrinsic presence;
-- locally exact but globally irreconcilable ruptures with finite exterior bounds;
-- the working incidence, exploration, boundary-lock, and persistence-or-release
-  sequence;
-- rare, indirect, and unreliable human attempts to provoke or bias establishment;
-- no controllable prophecy, duplication, infinite resources, transit, or
-  faster-than-light communication;
-- and Kelan–Ruva's external observation, independent-clock, concordance, and
-  legal response without a confirmed home-system rupture.
-
-Named ruptures, associated-presence morphology, named or specific early
-traditions, induction programs, strategic purpose, authorship, final entry
-scope, temporal reach, and the exact conduct of any presence remain reserved to
-this concept. Promotion of the shared spine does not make this brief an adopted
-entry.
+This manuscript remains **developing** and **reserved**. Its exact shared
+provisional promotions, retained reservations, and development ledger are
+preserved in the [editorial notes](../../docs/editorial-notes/the-manifold.md). No
+additional concept-local history becomes shared canon through this prose pass.
 
 ## Collection-frame impact
 
@@ -2341,78 +2230,33 @@ The Compendium can receive those sources from exterior sensors, archives outside
 the closure boundary, survivor deposits, quarantine records, court exhibits,
 and early copies transmitted before closure.
 
-The entry should not establish that the Blackglass recension itself is Manifold-
-contaminated. That would answer an existing frame question and requires a
-separate deliberate decision.
-
-## Reasons to reject or defer
-
-Reject or substantially revise the concept if it:
-
-- becomes generic reality alteration without invariant limits;
-- uses “paradox” as permission for any desired outcome;
-- enables controllable prophecy, duplication, infinite energy, or retrospective
-  erasure;
-- makes every archival contradiction secretly a Manifold event;
-- reduces an associated presence to an ordinary alien invader;
-- explains its society, motive, strategy, or relation to the complex too soon;
-- defines the interstellar route system incidentally;
-- makes planetary or epochal destruction routine enough to diminish Valec;
-- becomes common, reliable, or controllable enough to function as ordinary
-  military hardware;
-- or cannot produce one bounded incident in which precise rules create human
-  decisions.
-
-The concept should also be deferred if its mystery depends only on withholding
-evidence. The archive should have precise evidence and still be unable to
-reconcile it.
+This account does not establish that the Blackglass recension itself is
+Manifold-contaminated. That question remains outside the findings recorded here.
 
 ## Open questions
 
-### Resolve during development
+<a id="preserve-intentionally"></a>
 
-- Does the Talren Recursion become the adopted Grade A anchor, and which of its
-  current names, figures, measurements, and records survive continuity review?
-- Where outside Kelan–Ruva is Talren placed, and what exterior Compact-relative
-  anchors can be established without conflating Talren with ordinary route
-  transit or changing established setting constraints?
-- What best-supported incident demonstrates deliberate human induction rather
-  than opportunistic interference with a naturally occurring manifestation?
-- What physical preparation lets humans bias the approximate envelope without
-  implying genuine aim or repeatable control?
-- What observation intervals and service limits do the proposed staged release
-  certificates adopt for each named case's scale and prior boundary excursions?
-- Can every mature rupture become egress-complete, or is closed recursion one
-  architecture among several terminal forms?
-- How long can one locally coherent refuge persist?
-- Can a mature rupture contract naturally, or only change and release?
-- Which released case best demonstrates reconciliation cost without weakening
-  Talren's no-exit condition?
-- Does the first entry retain Nhal only as a Grade E threat ceiling, or omit a
-  planetary case entirely?
-- Are Exterior Measure and the Common Outside Convention adopted as shared lore,
-  renamed, or left entry-local?
-- Are **deadfold**, **uncounted hour**, **closed recursion**, and **unreconciled
-  absence** retained as shared terms or replaced?
+### Unresolved interpretations
 
-### Preserve intentionally
+It remains unknown whether The Manifold is one complex or many. The associated
+presence may be one being, several beings, or intersections of something for
+which number is meaningless. A presence might have made, operated, traveled
+through, maintained, escaped, or suffered the complex. Even its apparent
+awareness of the explored configurations is unresolved: it may perceive them,
+or it may be as unable to predict closure as its human observers.
 
-- Is The Manifold one complex or many?
-- Is the associated presence one being, several beings, or intersections of
-  something for which number is meaningless?
-- Did a presence make it, operate it, travel through it, maintain it, escape it,
-  or suffer it?
-- Are human targets selected at all?
-- Does a presence perceive the explored configurations, or is it also unable to
-  predict closure?
-- Is an apparent deployment attack, transit, quarantine, construction,
-  communication, or exhaust?
-- Are all incidents portions of one strategy extending across epochs?
-- Is “tachyonic” literally correct?
-- Does a rupture create contradictions, expose contradictions already present,
-  or force ordinary spacetime to host a structure natural elsewhere?
-- What would count as victory for an intelligence that does not experience one
-  sequential history?
+No account settles whether human targets are selected at all or whether an
+apparent deployment is attack, transit, quarantine, construction, communication,
+or exhaust. All incidents might be portions of one strategy extending across
+epochs, but no record establishes that interpretation. Nor is it known whether
+*tachyonic* is literally correct. A rupture might create contradictions, expose
+ones already present, or force ordinary spacetime to host a structure natural
+elsewhere.
+
+Those uncertainties leave the strategic question open at its deepest level:
+what would count as victory for an intelligence that does not experience one
+sequential history?
 
 ## Engineering interpretation
 

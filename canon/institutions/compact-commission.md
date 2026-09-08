@@ -18,13 +18,14 @@ decision_basis:
 ## Supported functions
 
 The Compact Commission is a post-Valec body operating within the Sixth Compact
-framework. The Rzez entry shows it:
+framework. Its recorded functions encompass confirmation, investigation, and
+control of exposure.
 
-- deciding whether alleged surviving instruments are accepted as confirmed;
-- classifying the Keth Aru artifact as unverified;
-- prohibiting excavation or contact with dangerous sites;
-- conducting or inheriting post-Valec material investigations;
-- and regulating high-risk research and planetary-response decisions.
+The Commission decides whether alleged surviving instruments are accepted as
+confirmed and classifies the Keth Aru artifact as unverified. It prohibits
+excavation or contact with dangerous sites, conducts or inherits post-Valec
+material investigations, and regulates high-risk research and planetary-response
+decisions.
 
 Established Blackglass practice also places Commission expertise in the
 authentication of alleged fragments and Rzez exterior witnesses. This extends
@@ -60,10 +61,10 @@ local orders remain reviewable when the next mailfall brings contrary evidence.
 
 ## Limits of current canon
 
-The draft does not define the Commission's membership, jurisdictional structure,
-enforcement arm, headquarters, or relationship to national governments. The
-Forty-First Valec Commission may be a mission or commission in the same framework,
-but that relationship is not explicit and should not yet be fixed.
+The account does not define the Commission's membership, jurisdictional
+structure, enforcement arm, headquarters, or relationship to national governments.
+The Forty-First Valec Commission may be a mission or commission in the same
+framework, but that relationship remains unresolved.
 
 Its operative mandate remains Rzez-specific. The Commission may lend isolation,
 forensic, or chain-of-custody expertise to an Unhidden custody case or suspected
@@ -78,3 +79,5 @@ a carrier, compare a notation family, or quarantine a fragment containing Rzez
 instruction. It does not acquire universal authority over the collection, every
 religion that fears it, or every exterior witness resembling another forbidden
 system.
+
+Authorial framing is preserved in the [editorial companion](../../docs/editorial-notes/canon-institutions-compact-commission.md).

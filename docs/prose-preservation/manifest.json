@@ -1,0 +1,523 @@
+{
+  "baseline_commit": "fe2bae3ef40352d9b7abc4a0670921192d253938",
+  "scope": "48 non-index weapon, concept, canon and frame source files",
+  "original_list_items": 1794,
+  "remaining_list_items": 127,
+  "files": [
+    {
+      "path": "canon/chronology.md",
+      "baseline_sha256": "783f2a52910b35856f982069d4bdc2adedf25f31704b4d28ee9b94b83129f61b",
+      "revised_sha256": "ae5ce54337b1becb4379c8520c4e9aa68e28772b846a21687348381265825606",
+      "original_list_items": 22,
+      "remaining_list_items": 0,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/engineering-landscape.md",
+      "baseline_sha256": "1d7d2c3cfe647c208ee4a64674a51c53160f3932720445b5e90925b5ac23289a",
+      "revised_sha256": "d8e13d2578733284446cc99a85bbf20fa73baad2185bea2eede24416bd68ff32",
+      "original_list_items": 37,
+      "remaining_list_items": 0,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/events/apsis-discharge.md",
+      "baseline_sha256": "f93448d169b410651fc4c6d92fdad3b1910b999db2c8034445f3719bad815fec",
+      "revised_sha256": "8333432b693a172ca68158fd949d44ccadd02664bcd8164cc1d70bbf6a1998a1",
+      "original_list_items": 15,
+      "remaining_list_items": 9,
+      "companions": [
+        "docs/editorial-notes/canon-events-apsis-discharge.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/events/closed-night-at-ninth-holding.md",
+      "baseline_sha256": "3a95cae7bffd77fa09c4130120a360071408f3c693381f25c744dc42285d8483",
+      "revised_sha256": "6afbc1ebcee6614c70a61eeabe107f68df03cbfd1051129f91a9a3bc4bf6ce10",
+      "original_list_items": 4,
+      "remaining_list_items": 0,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/events/destruction-of-valec.md",
+      "baseline_sha256": "870125f5b22d4c56909207c5a0b1bbc7a8c52781eeb0d0305fdc22b2a1933e3c",
+      "revised_sha256": "870125f5b22d4c56909207c5a0b1bbc7a8c52781eeb0d0305fdc22b2a1933e3c",
+      "original_list_items": 0,
+      "remaining_list_items": 0,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/events/gentle-opening.md",
+      "baseline_sha256": "f5aa5a13d7c1aa45109429f4b7745adc3b7e594820a01470766ca2ff1955ee76",
+      "revised_sha256": "f5aa5a13d7c1aa45109429f4b7745adc3b7e594820a01470766ca2ff1955ee76",
+      "original_list_items": 0,
+      "remaining_list_items": 0,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/events/nacre-hall-incident.md",
+      "baseline_sha256": "b2d6cc04d1d66f063d14e5b0024358a7f9d65c3b24b4aa71a5b106407469f204",
+      "revised_sha256": "b2d6cc04d1d66f063d14e5b0024358a7f9d65c3b24b4aa71a5b106407469f204",
+      "original_list_items": 0,
+      "remaining_list_items": 0,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/events/opening-of-pelar-habitat.md",
+      "baseline_sha256": "82f61824540cb79c1cff6d74b2f91b3a634eb011457916093a82051b89298b28",
+      "revised_sha256": "ada7e8dd91a5492d371748d7484778650261c4fc22ffd7aed4e65e8eeeb798fd",
+      "original_list_items": 5,
+      "remaining_list_items": 0,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/events/three-hand-rescue.md",
+      "baseline_sha256": "4e4f5bd1b9fb97597c9a183c810045fccb18ef5a9e730d99067bfb989a7a9a07",
+      "revised_sha256": "7586feb6415d9108f861bbd3f263cd712e281a867ab2a256759b798d2289760a",
+      "original_list_items": 5,
+      "remaining_list_items": 0,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/glossary.md",
+      "baseline_sha256": "281f7d2c62068ffaa27c32b4fc36fdd7b56e6c9a0a02c479a6fa2684eb7b44ad",
+      "revised_sha256": "281f7d2c62068ffaa27c32b4fc36fdd7b56e6c9a0a02c479a6fa2684eb7b44ad",
+      "original_list_items": 0,
+      "remaining_list_items": 0,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/history/human-arrival-in-kelan-ruva.md",
+      "baseline_sha256": "44318a607ba5756b67b4fd00aedf543bc132603feba914173bc0dcfadb9bb833",
+      "revised_sha256": "89228b0ad107114f83b605c77a7101068d696b06a8c5e5b51011afcf7f4bb4bf",
+      "original_list_items": 69,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-history-human-arrival-in-kelan-ruva.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/institutions/apsis-directorate.md",
+      "baseline_sha256": "7317795316243195456b5607f4b0dbab899502cc3b540cbd75232ffe224550db",
+      "revised_sha256": "2bcb3b6a5eb0621cc8e893678013e84e5a2314082e31e2ca3dfb77dba18d523e",
+      "original_list_items": 13,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-institutions-apsis-directorate.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/institutions/articles-of-bodily-dissent.md",
+      "baseline_sha256": "1b4d145cd3da9f710b2d6879591b8faeb055d0269ea2349648e9457068be392b",
+      "revised_sha256": "1b4d145cd3da9f710b2d6879591b8faeb055d0269ea2349648e9457068be392b",
+      "original_list_items": 6,
+      "remaining_list_items": 6,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/institutions/articles-of-open-radiance.md",
+      "baseline_sha256": "dd8cec88b1119e49680a3025e06c981cf2f9a277efe01a76fd2d21c11975b77a",
+      "revised_sha256": "dd8cec88b1119e49680a3025e06c981cf2f9a277efe01a76fd2d21c11975b77a",
+      "original_list_items": 6,
+      "remaining_list_items": 6,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/institutions/blackglass-devotional-movements.md",
+      "baseline_sha256": "5770e677ce5c76d64f87810ec70ebe71f1f4ca952a2692b501bc07d03eed88be",
+      "revised_sha256": "73d3554bd157a2a698f19673cca13cf2e24ffe2cf29033d7ffb99d2c25aae4a9",
+      "original_list_items": 20,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-institutions-blackglass-devotional-movements.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/institutions/common-matter-interdict.md",
+      "baseline_sha256": "ae2dc3fc6e143845f8556768f88df6e622e79da735a8b2619ad79675ed024dca",
+      "revised_sha256": "768dda9640336f0233bd7c4f7151b214df4cfd446b3db284284cfe24e4ebf7b0",
+      "original_list_items": 19,
+      "remaining_list_items": 13,
+      "companions": [
+        "docs/editorial-notes/canon-institutions-common-matter-interdict.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/institutions/compact-commission.md",
+      "baseline_sha256": "52093551b04aec23cb40466564f75a98e782647dc81e1ce1d24be1541ba92c61",
+      "revised_sha256": "7b7232edb29997c6aaa349858993eba2e47c3c699584909782cada0803643b30",
+      "original_list_items": 5,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-institutions-compact-commission.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/institutions/concordant-temples.md",
+      "baseline_sha256": "0e83e82f8536ea9caca9bf7438b46c1256d4e697558d70453bdff6fd4117c006",
+      "revised_sha256": "6d9d91545811f3ade9e0d6b3dc62e8189ba4a1bdff52f0999a2416d60a637bd5",
+      "original_list_items": 13,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-institutions-concordant-temples.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/institutions/first-quarry-houses.md",
+      "baseline_sha256": "fb4787b39af7334d503b3ca7b99b5b8f9dcf9bb18f76962e7d92e1254e2d7f75",
+      "revised_sha256": "b2cc989f8a501187fece53045a8ebe1a830595c699c2cf57f3fa02290b224faa",
+      "original_list_items": 4,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-institutions-first-quarry-houses.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/institutions/houses-of-the-lower-state.md",
+      "baseline_sha256": "62a4579829b9e78275b30a182846e9ff5024a7a0290c6bab1315b5501230a630",
+      "revised_sha256": "6852dbfd7ef4a5649417ea452fecdd8b826e386c7e3a83f7854411f83b141cfa",
+      "original_list_items": 13,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-institutions-houses-of-the-lower-state.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/institutions/institute-of-applied-continuity.md",
+      "baseline_sha256": "5b3b620537bcfc634805e820d42912372531701c145f61d196bf156427360de7",
+      "revised_sha256": "bca26b71ab2d1234fa02629d430d06e933e33fbdf002bbc17a68f59f47a39962",
+      "original_list_items": 5,
+      "remaining_list_items": 0,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/institutions/kelan-ruva-concordance-service.md",
+      "baseline_sha256": "be60bb0412555f4edd74fc91f587eb9c10d3ab77b61b4e202b275be18c557af0",
+      "revised_sha256": "d8eb496b6383bf913bd5f88a08c6115a3a951d63fcaa9f54b59760eb8485e15a",
+      "original_list_items": 13,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-institutions-kelan-ruva-concordance-service.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/institutions/sixth-compact-of-kharos.md",
+      "baseline_sha256": "176cdd40943c2667734dd74aa77d6985b2c9a5df500d29acfabba65aeb31b0b8",
+      "revised_sha256": "172aff708c7643546f2a13c883cc1367a33698500176baf76784bfd0cf6e2508",
+      "original_list_items": 11,
+      "remaining_list_items": 6,
+      "companions": [
+        "docs/editorial-notes/canon-institutions-sixth-compact-of-kharos.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/people/olan-vey.md",
+      "baseline_sha256": "cf6bec4788eaba0a8b9ddbd7f427844b961c6f5afab8be265d82fcdb14480610",
+      "revised_sha256": "3b727f60e901e4c6141c380945e86506ea64dc5c5d418e4eb82266a4be729b66",
+      "original_list_items": 4,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-people-olan-vey.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/people/varek-ilyr.md",
+      "baseline_sha256": "75f71e7d00b89940b80376d6a4ed37c26873402b6b12fc42c35b350ff1464049",
+      "revised_sha256": "f0bd4ab283ace89e27b831833f3793103d34f631d4104c8e231ea80065bd8ed4",
+      "original_list_items": 4,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-people-varek-ilyr.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/physics-of-the-known-world.md",
+      "baseline_sha256": "92d8e23241d01707f786dcbc8130f5fe60746be7b76c3c4f5b4dbf1bf2156f8a",
+      "revised_sha256": "3caa323e5cca2b8e38f75e4f9e18ed662afaf85df1aff0a94c0c1cd0a4ce89c9",
+      "original_list_items": 120,
+      "remaining_list_items": 7,
+      "companions": [
+        "docs/editorial-notes/canon-physics-of-the-known-world.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/places/apsis-range.md",
+      "baseline_sha256": "7be3a9e3add1e2e34a25cf6cd53f20b99bba62e2313c390c28e26e0509934851",
+      "revised_sha256": "5f3d09e0d3dd356d3540a2e80d349c70b9b839f6361406b1214d4b701c746237",
+      "original_list_items": 11,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-places-apsis-range.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/places/avara.md",
+      "baseline_sha256": "ef45d6b7fd0f1692467b65a829ef6d939f8c0dab736c9f0eb9ea3bd38e9aab33",
+      "revised_sha256": "b14797247d49c53a24a909162793680e798c5de61d7ee3ff636552d33e905da7",
+      "original_list_items": 8,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-places-avara.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/places/issa.md",
+      "baseline_sha256": "3bd84f0e7d7f9543e6a9c55ae4f11f69f3c93cc112960c085a856093c6eab8d9",
+      "revised_sha256": "8f1f32778701a1fd7e4b0bb32b365b2f43854acff3749d80d359cc5c3833b837",
+      "original_list_items": 5,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-places-issa.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/places/kelan-ruva-system.md",
+      "baseline_sha256": "8375a9a8bd4b49c8322ab357c6bad41f3f59f451d7fea12aab015f9600e97421",
+      "revised_sha256": "baac917458a6c15b2a39e72a54892943b8c30cb6707a42d828290e94dbdedefc",
+      "original_list_items": 32,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-places-kelan-ruva-system.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/places/kharos.md",
+      "baseline_sha256": "7dc4fc06abf35a6496f0248e3f7e578873ba6d687de72a65c833a5ef4d3bb176",
+      "revised_sha256": "f1002ccca78d5eae65d4730ece94788f031ee7f01745bd886a355b03cbb4b245",
+      "original_list_items": 13,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-places-kharos.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/places/odran.md",
+      "baseline_sha256": "76e037ddb6b55637f3767da3e9e6bd07660d16198b1f90547ea8c905597d3510",
+      "revised_sha256": "c387f2c50b70388932f53596f341352fb172a1b4ab1ea06ae530a66ad621c24a",
+      "original_list_items": 7,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-places-odran.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/places/valec.md",
+      "baseline_sha256": "beece3a8f3e43a729aba9d30718d9fea3b8d3caa01bdd81185e380e1c6d1e31f",
+      "revised_sha256": "1540bbe08dfea8048c4a527ea6f0774af43899860b2b1feaf4854a1a24560c57",
+      "original_list_items": 6,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-places-valec.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/principles.md",
+      "baseline_sha256": "78dd29baa0fcb4b9148b32834a86a7aa0790fd016b51e1d4acacb0c499c379c2",
+      "revised_sha256": "8b79b9e8f4ad9d272f94fc15578005fdd946d2533755da7079134a2035a95ead",
+      "original_list_items": 17,
+      "remaining_list_items": 0,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/setting-scope.md",
+      "baseline_sha256": "fc692d6bf8c3857a604244da3069b0482ecd99fdc1cac19323c56106d6dfefc2",
+      "revised_sha256": "082048d409f2eed54eec8a4376c8e8e9e7097e76eec1c63e2a519778e3513b7c",
+      "original_list_items": 53,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-setting-scope.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/spaceflight-economy-and-settlement.md",
+      "baseline_sha256": "da69a9494e729a628fd1de3cd21e2104c4e1dcb214752f71744a21dac0359721",
+      "revised_sha256": "a3de5ff4470134292d2857daf73ce7b88e128b990e249593b5ff7386aa5277ad",
+      "original_list_items": 341,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-spaceflight-economy-and-settlement.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "canon/taxonomy.md",
+      "baseline_sha256": "b6a2b8cef2f4ae263688966f35b0605a6127470e3adbd7e0c860b160aca28b82",
+      "revised_sha256": "1f7b0723a1f0cf73e5fdf7b2ba5d2100dd1c16fe12ff5b3fc10449eb805e1a81",
+      "original_list_items": 61,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/canon-taxonomy.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "concepts/developing/the-manifold.md",
+      "baseline_sha256": "fe15a6df18b89d48c6bfaf0939ebc052396b2a1182ae2be03ffaf27f643f8400",
+      "revised_sha256": "4bb2ce8086abd718c20ca2eb522c04237f09ac47e3c8f2f4313e981c4ae6f65e",
+      "original_list_items": 207,
+      "remaining_list_items": 14,
+      "companions": [
+        "docs/editorial-notes/the-manifold.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "concepts/developing/the-unhidden.md",
+      "baseline_sha256": "0338399c01edabc652077cad9631bb37df52ffceecc359e6b38626539c621e55",
+      "revised_sha256": "37994ba035ac22171d5b1063597edc86a59a3c95887bde05d84c302caa2255e7",
+      "original_list_items": 133,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/the-unhidden.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "entries/volume-01/book-07/a-7-01-the-rzez.md",
+      "baseline_sha256": "46a3b67c2bc1fb4655c5d4ce72a8cbf3c5acbd248bb9cee308b7c7aa50f9cf97",
+      "revised_sha256": "f9805fdbf79995e6f22a74b0cc932dcab492a4d301a6e1c8ee240c48d360dfa2",
+      "original_list_items": 110,
+      "remaining_list_items": 14,
+      "companions": [
+        "docs/editorial-notes/a-7-01-the-rzez.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "entries/volume-02/book-04/b-4-01-the-closed-night.md",
+      "baseline_sha256": "15722a0342b101ca84e05781f833fe2a52c3c4f7fb14eb299dcfd38c1564ff14",
+      "revised_sha256": "c2c64c867866a90b395eb3fd5a5e1ef4f9f3598669252c33eaa90b8b88d89ea5",
+      "original_list_items": 124,
+      "remaining_list_items": 19,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "entries/volume-03/book-06/c-6-01-the-agreement.md",
+      "baseline_sha256": "eab379b83cb658b1d355d8ad65b113c12b77fb3b64b9cc3011282120ae2cdf04",
+      "revised_sha256": "734dc90a5a2d7a118a104c918642ba13c05a7e76f950b9ade83098ae116c8d3e",
+      "original_list_items": 88,
+      "remaining_list_items": 13,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "entries/volume-04/book-01/d-1-01-the-rehearsal.md",
+      "baseline_sha256": "f29ed31b96e3cc041a9c874ee2cfca139939af4b59e0e3ce0c4217e379e3ded2",
+      "revised_sha256": "2d249a8439f0e592cf2bb625a5b14426ee3b7a8015980087f531b70a68cfd214",
+      "original_list_items": 59,
+      "remaining_list_items": 13,
+      "companions": [],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "frame/blackglass-tradition.md",
+      "baseline_sha256": "1740001db038390b201b9f2180193c72b06c10584d9878c44326b765df67673c",
+      "revised_sha256": "7f8fd94e593e8785f2fad34f3cab58444cad29ea2fd7e943300b0c5ee83446f4",
+      "original_list_items": 34,
+      "remaining_list_items": 7,
+      "companions": [
+        "docs/editorial-notes/frame-blackglass-tradition.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "frame/collection-identity.md",
+      "baseline_sha256": "c5e20d837935b9c0be30db4a6ef996be6e0d86580ed74218f4102425bb98db31",
+      "revised_sha256": "b19b81a8080c3bdf9eaa463c1750d3118c7168bdfd2ca76348dfcdda5a6c839e",
+      "original_list_items": 9,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/frame-collection-identity.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "frame/compilation-history.md",
+      "baseline_sha256": "34345c558da59a13877d4ff1752296ee433ffcded343bddfe778dc6d944bfd7b",
+      "revised_sha256": "d67d4327c9e652891b3e9bd977d39ddc80b274de67d0a7e912c25093d9d2d14a",
+      "original_list_items": 23,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/frame-compilation-history.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "frame/editorial-voice.md",
+      "baseline_sha256": "ca0cf964fa31505382415f7fadf628fa2626a9d7d367be3073a8ed796387b4bb",
+      "revised_sha256": "451a56d7001ef1b405a968b65ad74f98ff49cdd35754512fd9d2cc87d99a0a5d",
+      "original_list_items": 15,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/frame-editorial-voice.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    },
+    {
+      "path": "frame/open-questions.md",
+      "baseline_sha256": "4b9792d6b3b56314e98bc7f79c6964ce64578d4047635df69113c3edd9187540",
+      "revised_sha256": "84df1a3f693d632161a2256f59ed5e7323a7bf4975b8cc2088d14447587351a2",
+      "original_list_items": 25,
+      "remaining_list_items": 0,
+      "companions": [
+        "docs/editorial-notes/frame-open-questions.md"
+      ],
+      "content_review": "Original items compared against prose or preserved companion destinations; see scope audit."
+    }
+  ],
+  "audit_files": [
+    "social-report.json",
+    "social-original-lists.json",
+    "social-replacements.json",
+    "material-report.json",
+    "world-report.json",
+    "world-block-audit.json",
+    "root-operations.json",
+    "root-report.json"
+  ],
+  "interpretation": "List reduction is presentation change and editorial relocation, not permission to remove lore. Fingerprints identify reviewed text; semantic preservation also depends on item review.",
+  "verification": {
+    "repository_checker": "passed",
+    "front_matter": "unchanged across all 48 sources",
+    "numeric_tokens_and_quoted_lines": "no missing tokens or quote lines in each source plus mapped companions",
+    "exemplar_sha256": "facbfa211443a253e057ef51343d5087a2b24df10d15e242fc26b7a9152c58a4",
+    "independent_item_reviews": "completed; all reported semantic differences corrected",
+    "comparison_limit": "Numeric and quotation checks supplement item-level semantic review; word counts alone are not proof of preservation."
+  }
+}

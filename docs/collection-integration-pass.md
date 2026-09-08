@@ -1,5 +1,11 @@
 # Collection Integration Pass
 
+> **Historical scope:** This record describes the lore and physics integration
+> committed as `fe2bae3`. The later [prose integration pass](prose-integration-pass.md)
+> uses that commit as its preservation baseline. Its active manuscripts rephrase
+> list exposition while retaining the information; the exact-line preservation
+> results below describe the earlier integration, not the later prose layout.
+
 ## Scope and authority
 
 This pass answers the author's request to integrate everything currently in the

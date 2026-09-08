@@ -71,14 +71,12 @@ infrastructure.
 
 ## Shared consequence
 
-Pelar changes emergency design across the known region. Later facilities retain:
+Pelar changes emergency design across the known region.
 
-- one-way shutdown paths;
-- physically uncoupled pressure controls;
-- asynchronous local clocks;
-- protected variance keepers;
-- and the ability to divide an emergency network into cells whose errors cannot
-  be redistributed through one carrier.
+Later facilities retain one-way shutdown paths and physically uncoupled
+pressure controls. Asynchronous local clocks and protected variance keepers
+preserve independence within emergency work. The network can also divide into
+cells whose errors cannot be redistributed through one carrier.
 
 These safeguards reduce ordinary coordination efficiency. That cost is the
 surviving evidence that Pelar was understood.

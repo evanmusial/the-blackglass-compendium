@@ -63,15 +63,13 @@ powered breach and the possibility of broad, controlled recovery.
 ## Shared consequence
 
 Ninth Holding leads directly to the initial Articles of Open Radiance in Compact
-Year +64. It establishes:
+Year +64. Its consequences define the new protections.
 
-- thermal egress as a life-support interest;
-- hostile wide-band closure as distinct from ordinary blockade or
-  communications jamming;
-- physical anchor destruction, evacuation, conductive tethering, and hot-mass
-  ejection as legitimate countermeasures;
-- and the duty of rescue crews to account for white-seam concentration before
-  opening a narrow breach.
+Thermal egress becomes a life-support interest, and hostile wide-band closure
+is distinguished from ordinary blockade or communications jamming. Physical
+anchor destruction, evacuation, conductive tethering, and hot-mass ejection
+are recognized as legitimate countermeasures. Before opening a narrow breach,
+rescue crews have a duty to account for white-seam concentration.
 
 The event does not establish a planetary Closed Night, an energy sink, a
 topological boundary, or a weapon able to prevent matter from crossing.

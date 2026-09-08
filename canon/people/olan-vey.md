@@ -29,12 +29,14 @@ entry epigraph and his reported final warning that a principle cannot be
 regulated by pretending it is an object.
 
 The epigraph is associated with a later Kharosi reconstruction context and has
-an uncertain date. Treat its attribution as part of Vey's legacy rather than an
+an uncertain date. Its attribution belongs to Vey's legacy rather than an
 unqualified transcript.
 
 ## Unresolved questions
 
-- Who conducted the assassination?
-- What office and authority did “Engineer-Magistrate” carry?
-- How do Vey's early controls relate to the later Sixth Compact?
-- Is the reconstruction-period commentary genuinely his?
+The assassin remains unidentified, and the office and authority carried by
+“Engineer-Magistrate” remain unspecified. The relationship between Vey's early
+controls and the later Sixth Compact is unresolved, as is the authenticity of
+the reconstruction-period commentary attributed to him.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-people-olan-vey.md).

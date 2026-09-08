@@ -107,18 +107,16 @@ nearest the focus saturated before it was destroyed. A large surviving number
 is therefore not automatically an accurate number, and a repeated number is not
 automatically independent evidence.
 
-This entry uses the standard Codex evidentiary scale:
+This entry uses the standard Codex evidentiary scale. Grade A requires independent physical records, material evidence, and credible
+contemporary testimony to agree. Grade B retains strong technical or material
+evidence where direct measurement is incomplete, model-dependent, or
+inaccessible. Where several independent traditions agree but consequential
+details remain in conflict, the claim receives Grade C.
 
-- **Grade A:** independent physical records, material evidence, and credible
-  contemporary testimony agree;
-- **Grade B:** strong technical or material evidence exists, but direct
-  measurement is incomplete, model-dependent, or inaccessible;
-- **Grade C:** several independent traditions agree while consequential details
-  remain in conflict;
-- **Grade D:** one substantial source or a dependent cluster supports the
-  claim; and
-- **Grade E:** folklore, propaganda, visionary testimony, rumor, or an
-  unexplained anomaly.
+Grade D marks the narrower support of one substantial source or a dependent
+cluster. Grade E covers folklore, propaganda, visionary testimony, rumor, or an
+unexplained anomaly. These distinctions belong to the individual claim rather
+than to the spectacle of the event.
 
 The grade attaches to each claim. The existence of the array, the forty-seven
 millisecond firing interval, the gross energy release, and the production of
@@ -226,24 +224,23 @@ offered as a way to learn whether repetition remains safe.
 
 ## What the instrument is
 
-The name covers a specific assembly and six separable functions:
+The name covers a specific assembly whose six functions remained separable.
+The **reservoir** consisted of distributed energy stores and generators kept
+far enough apart that the unfired instrument did not reproduce the compactness
+it was designed to create. The **acceleration works** then converted that stored
+energy into particle and field packets through opposed final-stage emitters,
+giving them extreme center-of-momentum energy. Bringing the packets together
+was the work of the **convergence crown**: its geometry, clocks, ranging systems,
+and independent control lines brought them to one overlap region with nearly
+cancelling momentum.
 
-1. **The reservoir:** distributed energy stores and generators kept far enough
-   apart that the unfired instrument did not reproduce the compactness it was
-   designed to create.
-2. **The acceleration works:** opposed final-stage emitters that converted
-   stored energy into particle and field packets with extreme center-of-momentum
-   energy.
-3. **The convergence crown:** the geometry, clocks, ranging systems, and
-   independent control lines that brought those packets to one overlap region
-   with nearly cancelling momentum.
-4. **The baryon-bias system:** a separate injection that supplied net baryon
-   number rather than relying upon baryon-antibaryon pair production.
-5. **The quench sleeve:** prepared, colder baryonic material encountered by an
-   expanding kernel after the peak state had already begun to decay.
-6. **The kernel scheduler:** the firing solution that divided the discharge into
-   distinct microscopic trials rather than making one continuous gravitating
-   volume.
+That convergence alone did not supply the intended residue. The separate
+injection of the **baryon-bias system** supplied net baryon number instead of
+relying upon baryon-antibaryon pair production. The **quench sleeve** placed
+prepared, colder baryonic material in the path of an expanding kernel after its
+peak state had already begun to decay. The **kernel scheduler** was the firing
+solution that divided the discharge into distinct microscopic trials rather
+than making one continuous gravitating volume.
 
 Removing any one function did not make the remaining apparatus harmless. An
 unbiased convergence could still produce an extreme radiation and particle
@@ -432,15 +429,13 @@ common but impossible reconstruction in which a macroscopic target mass is
 placed inside a `10^-32`-metre sphere without changing the energy density or
 forming a horizon.
 
-All versions of the account preserve three ledgers:
-
-- delivered energy came from the distributed reservoirs and the kinetic energy
-  of the injected packets;
-- net baryon number came from the bias packets, the quench sleeve, and any
-  target matter subsequently incorporated; and
-- strangeness could change through particle production and weak interactions,
-  while baryon number remained an excellent account outside the unresolved
-  horizon endpoint.
+All versions of the account preserve three ledgers. The energy ledger begins with the distributed reservoirs and the kinetic
+energy of the injected packets. The baryon ledger follows a different supply:
+the bias packets, the quench sleeve, and any target matter subsequently
+incorporated provided the net baryon number. Strangeness could change through
+particle production and weak interactions while baryon number remained an
+excellent account outside the unresolved horizon endpoint. These are three
+ledgers of one event, not interchangeable measures of the same input.
 
 If strange matter has a lower energy per baryon than ordinary nuclear matter,
 conversion releases the difference as heat, radiation, neutrinos, kinetic
@@ -501,23 +496,25 @@ the familiar runaway scenario.
 
 The Rehearsal's terminal mechanism requires more. The Codex records these
 requirements as the **catalytic stability island**. They are explicit setting
-postulates, not conclusions of established particle physics:
+postulates, not conclusions of established particle physics.
 
-1. A finite range of baryon numbers and cooling histories produces strangelets
-   stable at zero external pressure and ordinary ambient temperature.
-2. Above a catalytic size, the dressed surface is effectively neutral or
-   negative at the distance relevant to an approaching nucleus, so Coulomb
-   repulsion does not protect ordinary matter.
-3. Incorporation of ordinary baryons followed by weak equilibration into the
-   strange phase is exothermic.
-4. The conversion interface remains active faster than heating, ablation, and
-   dilution can isolate it from all further matter.
-5. Above a larger split size, surface and charge energetics favor division into
-   two or more daughter strangelets that themselves remain above the stable and
-   catalytic minima.
-6. Some daughters leave the converted reservoir without being evaporated,
-   spalled below stability, trapped behind a horizon, or carried permanently
-   beyond other baryonic matter.
+The first requirement is a finite range of baryon numbers and cooling histories
+that leaves strangelets stable at zero external pressure and ordinary ambient
+temperature. Stability must survive growth into a catalytic size, above which
+the dressed surface is effectively neutral or negative at the distance relevant
+to an approaching nucleus. Only then does Coulomb repulsion cease to protect
+ordinary matter. Incorporation of ordinary baryons, followed by weak
+equilibration into the strange phase, must also be exothermic, and the conversion
+interface must remain active faster than heating, ablation, and dilution can
+isolate it from all further matter.
+
+Continued growth must lead to a larger split size at which surface and charge
+energetics favor division into two or more daughters that remain above both the
+stable and catalytic minima. Finally, some daughters must leave the converted
+reservoir without evaporating, being spalled below stability, becoming trapped
+behind a horizon, or being carried permanently beyond other baryonic matter.
+The island requires all six conditions, including survival after division and
+escape; it is not merely a name for a stable droplet.
 
 No single one is enough. A stable positive strangelet can be inert. A catalytic
 strangelet that never divides can destroy one connected body and stop. A
@@ -575,14 +572,11 @@ that their population was large compared with every prior controlled yield. It
 does not infer from that finding that any member was stable at zero pressure,
 catalytic, or capable of daughtering.
 
-The surviving facts support three statements:
-
-- the initial strange-rich yield was large in number compared with any prior
-  controlled experiment;
-- the number, mass spectrum, charge spectrum, and lifetime distribution are
-  unknowable from the surviving observations; and
-- no recovery campaign demonstrated that every possible seed decayed or was
-  contained.
+The surviving facts support three statements. The initial strange-rich yield was large in number compared with any prior
+controlled experiment. The surviving observations nevertheless cannot recover
+its number, mass spectrum, charge spectrum, or lifetime distribution. No
+recovery campaign demonstrated that every possible seed decayed or was
+contained.
 
 The first statement does not prove the Succession. The third prevents proof
 that it was impossible.
@@ -965,15 +959,13 @@ No single signature is conclusive. High-energy astronomy, propulsion research,
 and compact-matter science use related components. The forbidden configuration
 is their integrated timing and baryon-loaded convergence solution.
 
-During firing, observers may detect:
-
-- counterpropagating high-energy precursor packets;
-- a prompt hard gamma and lepton flash;
-- hadronic jets and pair cascades from underconverged kernels;
-- a neutrino-rich quench signal;
-- rapidly varying spectral hardness consistent with mixed open and horizon
-  branches; and
-- the destruction or simultaneous isolation of terminal emitters.
+During firing, counterpropagating high-energy precursor packets may precede a
+prompt hard gamma and lepton flash. Underconverged kernels contribute hadronic
+jets and pair cascades, while the cooling products may produce a neutrino-rich
+quench signal. Rapidly varying spectral hardness is consistent with a mixture
+of open and horizon branches. Observers may also record the destruction or
+simultaneous isolation of terminal emitters, connecting the spectral event with
+the loss of its generating apparatus.
 
 No remote detector directly measures `10^30` kelvin. Investigators infer a
 spectral-equivalent temperature from particle energies, relative populations,
@@ -1283,24 +1275,26 @@ doctrine not evidence
 The Rehearsal adds a sixth engineering crisis to the current landscape. It does
 not reveal a common source behind the other five.
 
-- **The Rzez** invalidates selected structural relationships. The Rehearsal
-  destroys and converts through delivered energy, particle interactions, and a
-  material seed. Its damage is not entropic relationship failure.
-- **The Unhidden** directs living growth and functional assignment. Strangelet
-  incorporation is not morphogenesis, does not preserve an organismal plan, and
-  has no privileged relationship to life.
-- **The Manifold** prevents local spaces and histories from composing one global
-  account. Rehearsal packets travel through ordinary spacetime and every stage
-  remains causally ordered, even when records are incomplete.
-- **The Closed Night** controls radiative transport across an enclosure. The
-  Rehearsal retains no radiation and requires no one-way boundary. Its prompt
-  energy escapes all too readily.
-- **The Agreement** couples active prediction and correction. A strangelet does
-  not persuade, coordinate, or align its targets. Similar converted matter is a
-  shared phase, not shared cognition.
-- **The Rehearsal** concentrates ordinary mass-energy into near-Planck kernels,
-  biases their baryon content, and depends upon a speculative quench product
-  that spreads only through material contact and daughter transport.
+The distinction from **The Rzez** begins with what reaches the target. The Rzez
+invalidates selected structural relationships; the Rehearsal delivers energy,
+particle interactions, and a material seed. Its damage is not entropic
+relationship failure. Nor is strangelet incorporation **The Unhidden**'s living
+growth and functional assignment: conversion preserves no organismal plan and
+has no privileged relationship to life.
+
+The Rehearsal's packets also remain in ordinary spacetime. Their stages are
+causally ordered even where records are incomplete, whereas **The Manifold**
+prevents local spaces and histories from composing one global account. Its
+prompt radiation presents another distinction: the Rehearsal retains no
+radiation and requires no one-way boundary of the kind controlled by **The
+Closed Night**. The energy escapes all too readily.
+
+Finally, a strangelet does not persuade, coordinate, or align its targets through
+**The Agreement**'s active prediction and correction. Similar converted matter
+shares a phase rather than cognition. **The Rehearsal** concentrates ordinary
+mass-energy into near-Planck kernels, biases their baryon content, and depends
+upon a speculative quench product whose spread requires material contact and
+daughter transport.
 
 Shared words such as *conversion*, *continuity*, *closure*, *settlement*,
 *inheritance*, and *state* establish no shared physics. No interaction between
@@ -1316,25 +1310,27 @@ propagation.
 
 ## Unresolved questions
 
-- What fraction of commanded Apsis overlaps became genuine open-quench kernels?
-- What high-energy particle degrees of freedom contributed to the effective
-  energy density and horizon threshold?
-- How much net baryon number entered the droplet-forming interval rather than
-  annihilating or escaping in jets?
-- Were the massive strange-rich tracks metastable hadronic aggregates, stable
-  strangelets, or several populations?
-- Did any neutral or weakly charged yield leave the instrumented solid angle?
-- Does the catalytic stability island exist at all?
-- If it exists, what are its minimum stable, catalytic, and daughtering baryon
-  numbers?
-- Can a daughtering conversion front remain supercritical in ordinary planetary
-  matter after its own energy release disperses the target?
-- Does conversion of a neutron star eject viable daughters or hide them behind
-  a newly formed horizon?
-- Has any second reservoir undergone a Taking that has not yet been observed or
-  correctly identified?
-- Which surviving cultic archives contain unique Apsis evidence, and which
-  contain enough of the firing solution to constitute terminal capacity?
+The kernel census remains the first unresolved account. Investigators cannot
+say what fraction of commanded Apsis overlaps became genuine open-quench
+kernels, which high-energy particle degrees of freedom contributed to their
+effective energy density and horizon threshold, or how much net baryon number
+entered the droplet-forming interval rather than annihilating or escaping in
+jets. The massive strange-rich tracks might represent metastable hadronic
+aggregates, stable strangelets, or several populations. Whether neutral or
+weakly charged yield left the instrumented solid angle is also unknown.
+
+Those uncertainties do not settle whether the catalytic stability island exists
+at all. If it does, its minimum stable, catalytic, and daughtering baryon numbers
+remain unknown. A daughtering front might cease to be supercritical in ordinary
+planetary matter after its own energy release disperses the target. Conversion
+of a neutron star might eject viable daughters or conceal them behind a newly
+formed horizon. No accepted answer establishes whether any second reservoir
+has undergone a Taking that remains unobserved or incorrectly identified.
+
+The surviving cultic archives pose a final unresolved distinction. Some may
+contain unique Apsis evidence; others may retain enough of the firing solution
+to constitute terminal capacity. Determining which archives belong to either
+category remains part of the subject's unfinished custody.
 
 ## Engineering interpretation
 

@@ -33,13 +33,13 @@ each operator's correction burden to the others, allowing the group to control
 one unstable mechanical problem without destructive oscillation. All eleven
 trapped workers survive.
 
-The original architecture is deliberately narrow:
+The original architecture is deliberately narrow.
 
-- participation is informed and limited to a small team;
-- coupling ends through a hard physical disconnect;
-- no participant receives another's thoughts or skills;
-- one exterior observer and recorder remain outside the reciprocal path;
-- and the operators retain measurable independent error throughout the event.
+Participation is informed and limited to a small team, with coupling ended
+through a hard physical disconnect. No participant receives another's thoughts
+or skills. One exterior observer and recorder remain outside the reciprocal
+path, and the operators retain measurable independent error throughout the
+event.
 
 Those limits are not later ethical additions. They are part of the architecture
 that made the rescue survivable.

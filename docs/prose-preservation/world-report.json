@@ -1,0 +1,614 @@
+{
+  "files": [
+    {
+      "path": "canon/places/apsis-range.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Deliberately unresolved",
+          "destination": "docs/editorial-notes/canon-places-apsis-range.md"
+        }
+      ],
+      "preservation_notes": [
+        "Compared every original item in ## Physical arrangement (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/places/avara.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Deliberately unresolved",
+          "destination": "docs/editorial-notes/canon-places-avara.md"
+        },
+        {
+          "heading": "Settlement density",
+          "destination": "docs/editorial-notes/canon-places-avara.md"
+        }
+      ],
+      "preservation_notes": [
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/places/issa.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Deliberately unresolved",
+          "destination": "docs/editorial-notes/canon-places-issa.md"
+        }
+      ],
+      "preservation_notes": [
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/places/kelan-ruva-system.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Scientific grounding",
+          "destination": "docs/editorial-notes/canon-places-kelan-ruva-system.md"
+        },
+        {
+          "heading": "Deliberately unresolved",
+          "destination": "docs/editorial-notes/canon-places-kelan-ruva-system.md"
+        },
+        {
+          "heading": "Authorial framing",
+          "destination": "docs/editorial-notes/canon-places-kelan-ruva-system.md"
+        },
+        {
+          "heading": "Numerical conventions",
+          "destination": "docs/editorial-notes/canon-places-kelan-ruva-system.md"
+        },
+        {
+          "heading": "Inner exclusion boundary",
+          "destination": "docs/editorial-notes/canon-places-kelan-ruva-system.md"
+        },
+        {
+          "heading": "Unnamed satellite register",
+          "destination": "docs/editorial-notes/canon-places-kelan-ruva-system.md"
+        },
+        {
+          "heading": "Dynamical modeling boundary",
+          "destination": "docs/editorial-notes/canon-places-kelan-ruva-system.md"
+        },
+        {
+          "heading": "Satellite stability qualification",
+          "destination": "docs/editorial-notes/canon-places-kelan-ruva-system.md"
+        },
+        {
+          "heading": "Eclipse qualification",
+          "destination": "docs/editorial-notes/canon-places-kelan-ruva-system.md"
+        },
+        {
+          "heading": "Neral settlement boundary",
+          "destination": "docs/editorial-notes/canon-places-kelan-ruva-system.md"
+        }
+      ],
+      "preservation_notes": [
+        "Compared every original item in ## The system-wide physical gradient (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ## Intrasystem communications (block 1) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ## Formation and dynamical rationale (block 2) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "All existing comparison/reference tables retained exactly; numeric associations remain directly inspectable.",
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/places/kharos.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Home-world role",
+          "destination": "docs/editorial-notes/canon-places-kharos.md"
+        },
+        {
+          "heading": "Provisional placement",
+          "destination": "docs/editorial-notes/canon-places-kharos.md"
+        },
+        {
+          "heading": "Authorial framing",
+          "destination": "docs/editorial-notes/canon-places-kharos.md"
+        },
+        {
+          "heading": "Conditional local biology",
+          "destination": "docs/editorial-notes/canon-places-kharos.md"
+        },
+        {
+          "heading": "Deliberately unresolved",
+          "destination": "docs/editorial-notes/canon-places-kharos.md"
+        }
+      ],
+      "preservation_notes": [
+        "Compared every original item in ## Moons, tides, and near space (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ## Continuity jurisprudence (block 1) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ## Supported associations (block 2) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/places/odran.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Deliberately unresolved",
+          "destination": "docs/editorial-notes/canon-places-odran.md"
+        }
+      ],
+      "preservation_notes": [
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/places/valec.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Unresolved questions",
+          "destination": "docs/editorial-notes/canon-places-valec.md"
+        },
+        {
+          "heading": "Historical perspective",
+          "destination": "docs/editorial-notes/canon-places-valec.md"
+        },
+        {
+          "heading": "Evacuation capacity",
+          "destination": "docs/editorial-notes/canon-places-valec.md"
+        },
+        {
+          "heading": "Material persistence",
+          "destination": "docs/editorial-notes/canon-places-valec.md"
+        },
+        {
+          "heading": "Present-condition uncertainty",
+          "destination": "docs/editorial-notes/canon-places-valec.md"
+        }
+      ],
+      "preservation_notes": [
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/history/human-arrival-in-kelan-ruva.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Hard boundaries",
+          "destination": "docs/editorial-notes/canon-history-human-arrival-in-kelan-ruva.md"
+        },
+        {
+          "heading": "Authorial truth and historical evidence",
+          "destination": "docs/editorial-notes/canon-history-human-arrival-in-kelan-ruva.md"
+        },
+        {
+          "heading": "Permanent calendar reservation",
+          "destination": "docs/editorial-notes/canon-history-human-arrival-in-kelan-ruva.md"
+        },
+        {
+          "heading": "Solar observation reservation",
+          "destination": "docs/editorial-notes/canon-history-human-arrival-in-kelan-ruva.md"
+        },
+        {
+          "heading": "Prehuman biosphere qualification",
+          "destination": "docs/editorial-notes/canon-history-human-arrival-in-kelan-ruva.md"
+        },
+        {
+          "heading": "Chronological notation",
+          "destination": "docs/editorial-notes/canon-history-human-arrival-in-kelan-ruva.md"
+        }
+      ],
+      "preservation_notes": [
+        "Compared every original item in ## Established core (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ### Grade A (block 1) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ### Grade B (block 2) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ### Grade C (block 3) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ### Grade D (block 4) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ### Three meanings of “when” (block 5) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ### The missing crosswalk (block 6) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ### Home without cradle (block 7) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ## Consequences for the realistic system (block 8) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/institutions/apsis-directorate.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Deliberately unresolved",
+          "destination": "docs/editorial-notes/canon-institutions-apsis-directorate.md"
+        }
+      ],
+      "preservation_notes": [
+        "Compared every original item in ## Conversion into a weapon (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ## Conversion into a weapon (block 1) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/institutions/articles-of-bodily-dissent.md",
+      "retained_lists": [
+        {
+          "heading": "Protected interests",
+          "reason": "Discrete protected legal interests retain exact scope, consent conditions, and exceptions for reference."
+        }
+      ],
+      "moved_sections": [],
+      "preservation_notes": [
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/institutions/articles-of-open-radiance.md",
+      "retained_lists": [
+        {
+          "heading": "Prohibited acts",
+          "reason": "Distinct prohibited acts and occupancy/consent thresholds are a legal reference, not explanatory enumeration."
+        }
+      ],
+      "moved_sections": [],
+      "preservation_notes": [
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/institutions/blackglass-devotional-movements.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Deliberately unresolved",
+          "destination": "docs/editorial-notes/canon-institutions-blackglass-devotional-movements.md"
+        }
+      ],
+      "preservation_notes": [
+        "Compared every original item in ## Identity (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ## Law and protected belief (block 1) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/institutions/common-matter-interdict.md",
+      "retained_lists": [
+        {
+          "heading": "Prohibited acts",
+          "reason": "Separate statutory offenses retain their exact qualifying conditions and scope."
+        },
+        {
+          "heading": "Permitted work",
+          "reason": "Permitted-work exceptions are legal reference categories paired with the prohibition list."
+        }
+      ],
+      "moved_sections": [
+        {
+          "heading": "Deliberately unresolved",
+          "destination": "docs/editorial-notes/canon-institutions-common-matter-interdict.md"
+        }
+      ],
+      "preservation_notes": [
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/institutions/compact-commission.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Institutional reservation",
+          "destination": "docs/editorial-notes/canon-institutions-compact-commission.md"
+        }
+      ],
+      "preservation_notes": [
+        "Compared every original item in ## Supported functions (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/institutions/concordant-temples.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Deliberately unresolved",
+          "destination": "docs/editorial-notes/canon-institutions-concordant-temples.md"
+        }
+      ],
+      "preservation_notes": [
+        "Compared every original item in ## Blackglass as burdened witness (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/institutions/first-quarry-houses.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Unresolved questions",
+          "destination": "docs/editorial-notes/canon-institutions-first-quarry-houses.md"
+        }
+      ],
+      "preservation_notes": [
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/institutions/houses-of-the-lower-state.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Deliberately unresolved",
+          "destination": "docs/editorial-notes/canon-institutions-houses-of-the-lower-state.md"
+        }
+      ],
+      "preservation_notes": [
+        "Compared every original item in ## Shared sacred vocabulary (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/institutions/institute-of-applied-continuity.md",
+      "retained_lists": [],
+      "moved_sections": [],
+      "preservation_notes": [
+        "Compared every original item in ## Continuing scholarly tradition (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/institutions/kelan-ruva-concordance-service.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Deliberately unresolved",
+          "destination": "docs/editorial-notes/canon-institutions-kelan-ruva-concordance-service.md"
+        }
+      ],
+      "preservation_notes": [
+        "Compared every original item in ## Distributed design (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/institutions/sixth-compact-of-kharos.md",
+      "retained_lists": [
+        {
+          "heading": "Rzez prohibitions",
+          "reason": "Distinct Rzez prohibitions and industrial thresholds remain a compact legal reference."
+        }
+      ],
+      "moved_sections": [
+        {
+          "heading": "Unresolved questions",
+          "destination": "docs/editorial-notes/canon-institutions-sixth-compact-of-kharos.md"
+        }
+      ],
+      "preservation_notes": [
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/events/apsis-discharge.md",
+      "retained_lists": [
+        {
+          "heading": "Evidentiary ledger",
+          "reason": "Claim-level evidence ledger keeps independently graded observations and inferences directly distinguishable."
+        },
+        {
+          "heading": "The conditional terminal sequence",
+          "reason": "Four named conditional stages are a technical sequence whose order and premises must remain directly inspectable."
+        }
+      ],
+      "moved_sections": [
+        {
+          "heading": "Deliberately unresolved",
+          "destination": "docs/editorial-notes/canon-events-apsis-discharge.md"
+        }
+      ],
+      "preservation_notes": [
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/events/closed-night-at-ninth-holding.md",
+      "retained_lists": [],
+      "moved_sections": [],
+      "preservation_notes": [
+        "Compared every original item in ## Shared consequence (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/events/destruction-of-valec.md",
+      "retained_lists": [],
+      "moved_sections": [],
+      "preservation_notes": [
+        "Read complete source; already continuous prose, with no explanatory list requiring conversion.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/events/gentle-opening.md",
+      "retained_lists": [],
+      "moved_sections": [],
+      "preservation_notes": [
+        "Read complete source; already continuous prose, with no explanatory list requiring conversion.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/events/nacre-hall-incident.md",
+      "retained_lists": [],
+      "moved_sections": [],
+      "preservation_notes": [
+        "Read complete source; already continuous prose, with no explanatory list requiring conversion.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/events/opening-of-pelar-habitat.md",
+      "retained_lists": [],
+      "moved_sections": [],
+      "preservation_notes": [
+        "Compared every original item in ## Shared consequence (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/events/three-hand-rescue.md",
+      "retained_lists": [],
+      "moved_sections": [],
+      "preservation_notes": [
+        "Compared every original item in ## Supported significance (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/people/olan-vey.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Unresolved questions",
+          "destination": "docs/editorial-notes/canon-people-olan-vey.md"
+        },
+        {
+          "heading": "Attribution boundary",
+          "destination": "docs/editorial-notes/canon-people-olan-vey.md"
+        }
+      ],
+      "preservation_notes": [
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "canon/people/varek-ilyr.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Unresolved questions",
+          "destination": "docs/editorial-notes/canon-people-varek-ilyr.md"
+        },
+        {
+          "heading": "Attribution boundary",
+          "destination": "docs/editorial-notes/canon-people-varek-ilyr.md"
+        }
+      ],
+      "preservation_notes": [
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "frame/blackglass-tradition.md",
+      "retained_lists": [
+        {
+          "heading": "Recurring marks",
+          "reason": "Recurring editorial marks form an essential legend for interpreting the corpus and its evidence apparatus."
+        }
+      ],
+      "moved_sections": [
+        {
+          "heading": "Boundaries that remain unresolved",
+          "destination": "docs/editorial-notes/frame-blackglass-tradition.md"
+        },
+        {
+          "heading": "Status of the collection itself",
+          "destination": "docs/editorial-notes/frame-blackglass-tradition.md"
+        }
+      ],
+      "preservation_notes": [
+        "Compared every original item in ## Knowledge as capability (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ## Religious prohibition and Blackglass devotion (block 2) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ## Exterior witnesses to forbidden systems (block 3) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "frame/collection-identity.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Naming rules",
+          "destination": "docs/editorial-notes/frame-collection-identity.md"
+        }
+      ],
+      "preservation_notes": [
+        "Compared every original item in ## Established distinction (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "frame/compilation-history.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Limits on using the compilation as a plot device",
+          "destination": "docs/editorial-notes/frame-compilation-history.md"
+        },
+        {
+          "heading": "Reader framing",
+          "destination": "docs/editorial-notes/frame-compilation-history.md"
+        },
+        {
+          "heading": "Undated lineage",
+          "destination": "docs/editorial-notes/frame-compilation-history.md"
+        }
+      ],
+      "preservation_notes": [
+        "Compared every original item in ## Established model (block 0) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Compared every original item in ## Why the corpus exists despite prohibition (block 1) with its prose replacement; names, values, conditions and uncertainty retained.",
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "frame/editorial-voice.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Complete authorial source",
+          "destination": "docs/editorial-notes/frame-editorial-voice.md"
+        }
+      ],
+      "preservation_notes": [
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    },
+    {
+      "path": "frame/open-questions.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "Complete authorial source",
+          "destination": "docs/editorial-notes/frame-open-questions.md"
+        }
+      ],
+      "preservation_notes": [
+        "Moved material is retained verbatim apart from rebased relative links; substantive uncertainties and boundaries also remain in source prose.",
+        "Final verification: original front matter, reference tables, block quotations, quoted phrases, substantive numeric tokens, and external source URLs preserved across main text and companion; relative note links checked by repository validator."
+      ]
+    }
+  ]
+}

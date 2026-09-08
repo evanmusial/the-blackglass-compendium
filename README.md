@@ -29,10 +29,12 @@ The original Rzez manuscript remains preserved at
 Its active, metadata-bearing working copy is
 [`entries/volume-01/book-07/a-7-01-the-rzez.md`](entries/volume-01/book-07/a-7-01-the-rzez.md).
 
-The working copy preserves the complete exemplar body and now adds later
-Blackglass recensional layers drawn from the collection's expanded setting,
-documentary frame, and six-system continuity. Its source relation is recorded as
-`adapted-from-exemplar`; the preserved manuscript itself remains unchanged.
+The working copy carries the exemplar's lore alongside later Blackglass
+recensional layers drawn from the collection's expanded setting, documentary
+frame, and six-system continuity. Its active prose now integrates explanatory
+lists into their surrounding sections; the [prose preservation record](docs/prose-integration-pass.md)
+traces that revision. Its source relation remains `adapted-from-exemplar`, and
+the preserved manuscript itself remains unchanged.
 Shared Rzez material continues to distinguish established setting commitments
 from in-world legend and disputed theory. See the
 [`Rzez integration record`](docs/rzez-integration.md).

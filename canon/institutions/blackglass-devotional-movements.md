@@ -25,15 +25,16 @@ authorities treat the trouble surrounding Blackglass as a reason for restraint.
 Devotional movements treat the same trouble as evidence of presence, selection,
 judgment, or revelation.
 
-They disagree about what is being worshipped:
+They disagree about what is being worshipped.
 
-- the Compendium as a wounded or distributed intelligence;
-- the unknown Prior Hands as saints, jailers, or creators;
-- the act of dangerous comprehension;
-- the succession of readers who preserved the text;
-- the missing complete edition;
-- the weapons as separate revelations gathered by one sacred archive; or
-- the trouble itself as proof that reality has answered.
+Some venerate the Compendium as a wounded or distributed intelligence; others
+venerate the unknown Prior Hands as saints, jailers, or creators. Devotion may
+instead center on dangerous comprehension itself, the succession of readers
+who preserved the text, or the missing complete edition.
+
+For some, the weapons are separate revelations gathered by one sacred archive.
+For others, the trouble itself is the object of reverence, proof that reality
+has answered.
 
 No accepted evidence establishes that the collection recognizes worship,
 chooses readers, changes its text in response to prayer, or shares a mechanism
@@ -162,14 +163,13 @@ teaches a civilization how to recognize its local page.
 
 Belief that Blackglass is sacred is not automatically evidence of weapon
 possession. Prayer, symbolic marginalia, nontechnical replicas, and discussion
-remain protected in many jurisdictions. Law becomes concerned with conduct:
+remain protected in many jurisdictions. Law becomes concerned with conduct.
 
-- acquiring restricted fragments or translation keys;
-- assembling formerly separated technical content;
-- entering prohibited sites;
-- exposing an unconsenting population to a claimed information hazard;
-- activating an artifact as a devotional test;
-- or converting cultic counts, diagrams, and liturgy into operational control.
+Acquiring restricted fragments or translation keys and assembling formerly
+separated technical content can cross that boundary, as can entering prohibited
+sites. Exposing an unconsenting population to a claimed information hazard or
+activating an artifact as a devotional test brings the act itself under review.
+So does converting cultic counts, diagrams, and liturgy into operational control.
 
 Authorities repeatedly make the error of treating every devotee as an active
 weapons conspirator. That drives harmless, grieving, or symbolic communities
@@ -189,12 +189,15 @@ fear of the first cannot substitute for evidence of the latter two.
 
 ## Deliberately unresolved
 
-- which movement is oldest and whether any predates the current Blackglass
-  title;
-- whether the Open Margin and Last Readers share a lost founding text;
-- how many Merciful Error corruptions entered otherwise scholarly recensions;
-- whether any Gutter Guest group encountered a genuinely responsive artifact;
-- whether a devotional mission explains any authenticated remote fragment;
-- whether a cult possesses a more complete form of the Narrow Proof; and
-- whether the belief that trouble proves sacred presence can survive an
-  incontrovertibly harmless Blackglass discovery.
+The oldest movement has not been identified, nor is it known whether any
+predates the current Blackglass title. A shared lost founding text for the Open
+Margin and Last Readers remains possible. The number of Merciful Error
+corruptions that entered otherwise scholarly recensions is unresolved.
+
+Whether a Gutter Guest group ever encountered a genuinely responsive artifact
+or a devotional mission explains an authenticated remote fragment remains open.
+A cult may or may not possess a more complete form of the Narrow Proof. It is
+also uncertain whether belief that trouble proves sacred presence could survive
+an incontrovertibly harmless Blackglass discovery.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-institutions-blackglass-devotional-movements.md).

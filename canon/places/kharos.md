@@ -24,18 +24,17 @@ decision_basis:
 
 ## Home-world role
 
-Kharos is the setting's designated home world: the recurring point of return for
-ordinary life, institutions, politics, and scholarship when those elements are
-not better served by another place.
+Kharos is the recurring point of return for ordinary life, institutions,
+politics, and scholarship where another place does not better serve those
+histories. Humanity originated on Earth and entered the Kelan–Ruva system from
+elsewhere. Avara preserves the oldest continuously occupied human refuge in the
+system; durable settlement on Kharos belongs to a later phase. Kharos became
+*home* through population, civic depth, and repeated return rather than priority.
 
-This is an authorial and narrative designation, not an origin claim. Humanity
-originated on Earth and entered the Kelan–Ruva system from elsewhere. Avara
-preserves the system's oldest continuously occupied human refuge, while durable
-settlement on Kharos belongs to a later phase. Kharos became *home* through
-population, civic depth, and repeated return rather than because it was first.
+That home-world role makes it neither the capital of a unified interstellar
+civilization nor the presumed place where the Blackglass Compendium was assembled.
 
-The designation does not make Kharos the capital of a unified interstellar
-civilization or the assumed place where the Blackglass Compendium was assembled.
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-places-kharos.md).
 
 ## Provisional placement
 
@@ -43,18 +42,15 @@ Kharos is a surviving inhabited core world, separate from Valec. It is the
 principal current legal and academic center associated with Rzez control. The
 Sixth Compact was negotiated, ratified, or institutionally centered there.
 
-This placement is an authorial setting decision supported by the Rzez's repeated
-Kharosi legal and academic references; it is not a geographic description found
-verbatim in the exemplar.
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-places-kharos.md).
 
 ## Planet and system
 
-By out-of-world authorial comparison, Kharos has a mean diameter of approximately
-16,600 kilometres, or about 1.3 Earth diameters. Its working mass is 2.6 Earth
-masses, consistent with a compressed rocky planet, and its surface gravity is
-approximately 1.54 g. These comparisons use terrestrial units for authorial
-clarity; Earth-origin history does not require every current culture or archive
-to retain the same standards.
+In terrestrial units, Kharos has a mean diameter of approximately 16,600
+kilometres, or about 1.3 Earth diameters. Its working mass is 2.6 Earth masses,
+consistent with a compressed rocky planet, and its surface gravity is
+approximately 1.54 g. Earth-origin history does not require every current
+culture or archive to retain those same standards.
 
 Kharos orbits the barycenter of [Kelan and Ruva](kelan-ruva-system.md), a G4 V
 primary and M3 V red dwarf. Its low-eccentricity orbit has a semimajor axis of
@@ -174,10 +170,10 @@ Kharos's large inhabited market rests upon terrestrial food lineages carried
 through the Founding Interval. Open-air work became possible before every local
 substrate or water source had become safe for cultivation. Growing areas therefore
 retain tested substrates, controlled nutrient additions, selected symbionts,
-and quarantine histories. A local plantlike form, if later established in canon,
-must not become human food merely because it resembles a familiar crop. Nor
-would incompatible biochemistry prevent it from being toxic, disrupting a
-watershed, or changing the chemistry of an introduced field.
+and quarantine histories. A local plantlike form, if one is established, would
+not become human food merely because it resembles a familiar crop. Nor would
+incompatible biochemistry prevent it from being toxic, disrupting a watershed,
+or changing the chemistry of an introduced field.
 
 Agricultural resilience depends upon diversity whose failures do not all share
 one cause. Different crop stocks, cultivation methods, reserve foods, and
@@ -224,17 +220,18 @@ not automatically a Kharosi orbital year.
 
 ## Moons, tides, and near space
 
-Kharos has two natural moons:
+Kharos has two natural moons.
 
-- [**Odran**](odran.md) is an airless, barren rocky body broadly comparable in size and
-  character to Earth's Moon. It orbits approximately 200,000 kilometres from
-  Kharos every 6.37 days.
-- [**Avara**](avara.md) has a mean diameter of approximately 6,250 kilometres, or about 1.8
-  lunar diameters, a mass of approximately 0.11 Earth masses, and surface gravity
-  near 0.46 g. It orbits approximately 650,000 kilometres from Kharos every 36.67
-  days. Most of its surface remains unsettled and undeveloped. Permanent civilian
-  settlement is limited, while industrial, military, and scientific installations
-  are extensive both on the surface and in orbit.
+The inner moon, [**Odran**](odran.md), is airless, barren, and rocky, broadly
+comparable in size and character to Earth's Moon. It orbits approximately
+200,000 kilometres from Kharos every 6.37 days.
+
+The outer moon, [**Avara**](avara.md), has a mean diameter of approximately
+6,250 kilometres, or about 1.8 lunar diameters, a mass of approximately 0.11
+Earth masses, and surface gravity near 0.46 g. It orbits approximately 650,000
+kilometres from Kharos every 36.67 days. Most of its surface remains unsettled
+and undeveloped. Permanent civilian settlement is limited, while industrial,
+military, and scientific installations are extensive on the surface and in orbit.
 
 Both moons are tidally locked to Kharos. Avara's approximately 41.8-day solar day,
 low gravity, and exposure during the stars' active youth make its present
@@ -287,20 +284,23 @@ Kharos is the principal public venue in which the six current engineering
 systems acquire law, testimony, and ordinary consequence. The shared word
 *continuity* describes a civic problem, not a shared physical mechanism.
 
-- Rzez cases concern structural proof, propagation, Compact prohibition, and
-  whether apparently intact matter can still bear trust.
-- Unhidden cases concern the rights and custody of conscious human-made bodies,
-  the ownership of tissue lineages, and whether environmental control is care,
-  restraint, or coercion.
-- Manifold cases concern mutually authentic incompatible evidence, quarantine,
-  and how a court records a life whose supported events have no single order.
-- Closed Night cases concern thermal egress, rescue authority, lawful civil
-  return systems, and whether a surviving enclosure was physically escapable.
-- Agreement cases concern bodily dissent, concealed reciprocal coupling,
-  contaminated unanimous testimony, and the independence of an observer.
-- Rehearsal cases concern common-risk consent, custody of exotic baryonic
-  residues, negative-yield proof, and whether an experiment may impose an
-  irreversible risk upon people outside every participating jurisdiction.
+Rzez cases test structural proof, propagation, and Compact prohibition: whether
+apparently intact matter can still bear trust. Unhidden cases instead concern
+the rights and custody of conscious human-made bodies, ownership of tissue
+lineages, and whether environmental control amounts to care, restraint, or
+coercion.
+
+Manifold cases bring mutually authentic incompatible evidence into quarantine
+proceedings and courts that must record a life whose supported events have no
+single order. Closed Night cases concern thermal egress, rescue authority,
+lawful civil return systems, and whether a surviving enclosure was physically
+escapable.
+
+Agreement cases examine bodily dissent, concealed reciprocal coupling,
+contaminated unanimous testimony, and the independence of an observer.
+Rehearsal cases extend the question of consent to common risk: custody of exotic
+baryonic residues, negative-yield proof, and whether an experiment may impose
+irreversible risk upon people outside every participating jurisdiction.
 
 These matters do not automatically fall under one statute or agency. The
 [Sixth Compact](../institutions/sixth-compact-of-kharos.md) remains rooted in the
@@ -387,13 +387,12 @@ assumptions. Neither phrase implies that an Agreement is active.
 
 ## Supported associations
 
-Kharos is the recurring geographic or political name associated with:
+Kharos recurs as a geographic or political name in several connected histories.
 
-- the Institute of Applied Continuity;
-- the Kharosi Assembly before which Olan Vey testifies;
-- Kharosi military law;
-- a later Kharosi reconstruction period;
-- and the Sixth Compact of Kharos.
+It is associated with the Institute of Applied Continuity and the Kharosi
+Assembly before which Olan Vey testifies. Kharosi military law, a later Kharosi
+reconstruction period, and the Sixth Compact of Kharos also carry the world's
+name.
 
 It is also associated with the Nacre Hall Incident, the Articles of Bodily
 Dissent, the Articles of Open Radiance, protected variance procedure, and
@@ -411,16 +410,18 @@ Odran's founding infrastructure into a Kharosi possession.
 
 ## Deliberately unresolved
 
-Kharos's rotation period, obliquity, population, governmental hierarchy, and the
-boundaries of any wider Kharosi polity remain unassigned. The origin and tidal
-history of its unusually massive moon system require further modeling, and
-whether Kharos or Avara possessed prehuman biospheres remains open. The dates,
-vessels, route, and institutional sponsors of the Earth-origin arrival and later
-durable settlement also remain unassigned. Do not assume that every Compact
-institution is governed directly by Kharos.
+Kharos's rotation period, obliquity, population, governmental hierarchy, and
+the boundaries of a wider Kharosi polity remain unassigned. The origin and tidal
+history of its unusually massive moon system require further modeling. Whether
+Kharos or Avara possessed prehuman biospheres remains open, and the dates,
+vessels, route, and institutional sponsors of Earth-origin arrival and later
+durable settlement are unresolved. Compact institutions cannot all be presumed
+to be governed directly by Kharos.
 
-Kharos did not originate the Rzez, is not assigned responsibility for the
-Unhidden's military conversion, and is not the site of the defining Manifold
+Kharos did not originate the Rzez and is not assigned responsibility for the
+Unhidden's military conversion. It is not the site of the defining Manifold
 encounter, the Pelar deployment, Ninth Holding, the Apsis Range, or the Apsis
-Discharge. Its home-world role should make consequences familiar, not make all
-history provincial.
+Discharge. Its home-world role makes the consequences familiar without making
+all history provincial.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-places-kharos.md).

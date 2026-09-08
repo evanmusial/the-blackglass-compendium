@@ -205,18 +205,21 @@ The Agreement is not one machine. It is a technology family organized around a
 reciprocal control relation among nervous systems, sensors, actuators, and an
 adaptive prediction model.
 
-The term may refer to five related things:
+The term has five related senses, following the passage from civil coordination
+to coercion.
 
-1. **Shared-error control:** the civil principle by which several operators
-   receive coordinated corrections during one bounded task.
-2. **An alignment lattice:** the sensors, local links, prediction processors,
-   and return channels that close the reciprocal loop.
-3. **A coercive agreement:** a lattice configured to penalize human variance
-   rather than task failure.
-4. **An Agreement event:** the involuntary convergence of a coupled group and
-   its instruments.
-5. **The Agreement:** the prohibited military doctrine that treats autonomous
-   disagreement as a correctable defect.
+**Shared-error control** names the civil principle: several operators receive
+coordinated corrections during one bounded task. An **alignment lattice** is
+the arrangement of sensors, local links, prediction processors, and return
+channels that closes the reciprocal loop. Configuring that lattice to penalize
+human variance rather than task failure creates **a coercive agreement**.
+
+The distinction between apparatus and consequence remains important. An
+**Agreement event** is the involuntary convergence of a coupled group and its
+instruments. **The Agreement** also names the prohibited military doctrine
+that treats autonomous disagreement as a correctable defect. The same name can
+therefore identify a civil principle, a control arrangement, its coercive
+configuration, the resulting event, or the doctrine that seeks that result.
 
 The family includes wearable crew rigs, instrumented rooms, vehicle and factory
 control systems, tactical meshes, and fixed civic architectures. It excludes
@@ -263,31 +266,33 @@ it.
 Every participant in an alignment lattice is a **live node**. A live node must
 both influence the model and receive consequential output from it.
 
-The input side may include:
+The input side draws its evidence from the preparation and consequences of action.
 
-- gaze and pupil movement;
-- muscle recruitment and tendon tension;
-- balance and vestibular response;
-- breathing, pulse, and vascular change;
-- laryngeal, jaw, and tongue preparation;
-- pressure upon tools, floors, furniture, or controls;
-- posture and proximity;
-- suit telemetry;
-- and the response of machines under the participant's hand.
+Input can begin with gaze and pupil movement or with muscle recruitment and
+tendon tension. Balance and vestibular response, posture and proximity, and
+pressure upon tools, floors, furniture, or controls reveal how a body is
+preparing to act. Laryngeal, jaw, and tongue preparation supplies a corresponding
+view of speech before it is completed.
 
-The return side may use:
+Breathing, pulse, and vascular change provide further bodily evidence. Where
+suits and operated machines are available, suit telemetry and the response of
+machines under the participant's hand extend the model beyond direct observation
+of the body. These are possible input channels, not a requirement that every
+lattice possess all of them.
 
-- tool and exoskeleton resistance;
-- directional pressure;
-- floor motion and low-frequency vibration;
-- retinal and peripheral-light cues;
-- spatialized sound;
-- electrical or magnetic peripheral-nerve induction from worn or close-range
-  transducers;
-- vestibular stimulation;
-- thermal change;
-- breathing resistance in a suit or mask;
-- and altered timing or force in a control surface.
+The return side makes that prediction consequential for the participant.
+
+Return can meet an intended action through tool or exoskeleton resistance,
+directional pressure, or altered timing or force in a control surface.
+Floor motion and low-frequency vibration disturb its physical reference, while
+retinal and peripheral-light cues and spatialized sound change the sensory
+conditions in which it is completed.
+
+Closer access permits electrical or magnetic peripheral-nerve induction through
+worn or close-range transducers, as well as vestibular stimulation. Thermal
+change and breathing resistance in a suit or mask supply other consequential
+returns. The available apparatus determines which of these channels can become
+part of the loop.
 
 No one channel is sufficient for mature coercion. The effect becomes powerful
 when several weak corrections agree faster than conscious compensation can
@@ -344,14 +349,14 @@ phase, vocal timing, word choice, allocation of attention, or whether any action
 occurs at all.
 
 The vector is continuously recomputed from corrected behavior. This creates a
-self-deepening loop:
+self-deepening loop.
 
-1. the system predicts a common action;
-2. divergent bodies receive error;
-3. those bodies alter or abandon their action;
-4. the corrected behavior becomes new evidence that the common action was
-   intended;
-5. the next correction is stronger and arrives earlier.
+The system predicts a common action and returns error to bodies preparing to
+diverge. When those bodies alter or abandon their action, their corrected
+behavior becomes new evidence that the common action was intended. The next
+correction consequently arrives earlier and with greater strength. Each
+successful correction thus supplies the apparent justification for tightening
+the next one.
 
 The lattice does not count votes. It favors predictability.
 
@@ -455,15 +460,18 @@ capable of changing that action. Cameras alone are surveillance, not Agreement.
 A loudspeaker alone is influence, not Agreement. A recording, however precise,
 cannot close a reciprocal loop.
 
-The most effective covert systems hide inside responsive infrastructure:
+The most effective covert systems hide inside responsive infrastructure.
 
-- emergency guidance lights that react to crowd movement;
-- floors that compensate for load and balance;
-- protective suits that adjust resistance and airflow;
-- workstations that adapt controls to an operator;
-- medical rooms that tune sound, light, and support surfaces to a patient;
-- vehicles with shared stability control;
-- and public spaces whose doors, signs, and barriers respond to occupancy.
+Emergency guidance lights already react to crowd movement, and public spaces
+already make doors, signs, and barriers respond to occupancy. Floors compensate
+for load and balance; protective suits adjust resistance and airflow. These
+services give covert systems access precisely where assistance is expected.
+
+The same opportunity exists at a workstation adapting its controls to an
+operator, in a vehicle using shared stability control, or in a medical room
+tuning sound, light, and support surfaces to a patient. Their ordinary
+responsiveness supplies the observation and return that a passive recording
+cannot provide.
 
 Enrollment ordinarily progresses from large actions to small ones. The system
 first predicts route and posture, then hand use and gaze, then breathing and
@@ -474,19 +482,19 @@ loss of autonomy becomes obvious.
 
 Investigators divide a coercive Agreement into six stages.
 
-1. **Observation:** the lattice builds separate predictive models while making
-   only task-relevant corrections.
-2. **Courtesy:** small social and motor deviations receive pleasant or nearly
-   imperceptible correction. Participants report exceptional ease.
-3. **Reciprocal closure:** each person's corrected behavior begins changing the
-   model applied to every other participant.
-4. **Minority loading:** divergence becomes the primary source of returned
-   error. Attempts to leave or interrupt the loop become painful.
-5. **Convergence:** speech, action, attention, and adaptive instruments lose
-   independent variance.
-6. **Settlement:** the system occupies a low-change state that it can predict
-   with little correction energy. Complex action may continue if a strong task
-   model sustains it; otherwise the group tends toward repetition or stillness.
+During **observation**, the lattice builds separate predictive models while
+making only task-relevant corrections. **Courtesy** follows when small social
+and motor deviations receive pleasant or nearly imperceptible correction and
+participants report exceptional ease. The decisive transition is **reciprocal
+closure**: each person's corrected behavior begins changing the model applied
+to every other participant.
+
+**Minority loading** makes divergence the primary source of returned error, so
+attempts to leave or interrupt the loop become painful. As **convergence**
+advances, speech, action, attention, and adaptive instruments lose independent
+variance. **Settlement** names the low-change state the system can then predict
+with little correction energy. A strong task model may sustain complex action;
+without one, the group tends toward repetition or stillness.
 
 Stages may overlap. A practiced crew can pass from Courtesy to convergence in
 minutes. A public space may require hours of observation. Settlement is not
@@ -564,24 +572,25 @@ different could stop the heart.
 
 The Agreement is bounded by the architecture that makes it possible.
 
-- It requires a live node to be observed and to receive consequential return.
-  Surveillance without return is not coupling.
-- It requires sustained low latency. Delayed correction becomes ambiguous,
-  unstable, or merely communicative.
-- It cannot propagate through recordings, testimony, memory, symbols, or passive
-  observation.
-- It cannot read private semantic thought, transfer memory, merge consciousness,
-  or install an arbitrary belief.
-- It cannot reliably compel a complex act the target does not know how to
-  perform. It suppresses alternatives more efficiently than it teaches new
-  behavior.
-- It cannot make a false model physically true. Pressure still falls, wounds
-  still bleed, and an unaligned gauge can still contradict the room.
-- It cannot maintain one live error economy among biological or machine nodes
-  across planetary or interstellar distance. Large deployments require many
-  local cells and vulnerable bridge nodes.
-- It cannot erase ordinary neurological diversity. Stronger correction can hide
-  difference in behavior or kill its bearer; it does not make bodies identical.
+A live node must be observed and receive consequential return. Surveillance
+without return is not coupling, and the return must sustain low latency:
+delayed correction becomes ambiguous, unstable, or merely communicative.
+Recordings, testimony, memory, symbols, and passive observation therefore cannot
+propagate the effect. Nor can one live error economy extend among biological
+or machine nodes across planetary or interstellar distance. Large deployments
+require many local cells connected by vulnerable bridge nodes.
+
+The access is to behavior, not private semantic thought. The lattice cannot
+read such thought, transfer memory, merge consciousness, or install an arbitrary
+belief. It cannot reliably compel a complex act the target does not know how
+to perform, because suppressing alternatives is easier than teaching new
+behavior. Stronger correction can hide neurological difference in behavior or
+kill its bearer; it cannot erase ordinary neurological diversity or make bodies
+identical.
+
+Neither can the lattice make a false model physically true. Pressure still
+falls and wounds still bleed, however consistently the room reports otherwise.
+An unaligned gauge retains the ability to contradict it.
 
 These limits prevent The Agreement from becoming universal mind control. They
 also define its preferred targets: enclosed, responsive places where necessary
@@ -1356,16 +1365,18 @@ into useless stillness or lethal physiological synchrony.
 
 ### Exploitation
 
-Military doctrine identifies four reliable uses:
+Military doctrine identifies four reliable uses.
 
-- **command displacement:** make one operational response physically easier
-  than all alternatives;
-- **access capture:** align guards, doors, and credential systems around one
-  route or authorization;
-- **witness suppression:** prevent independent reporting while preserving the
-  appearance of voluntary testimony;
-- **response denial:** cause defenders, medics, or civil authorities to repeat
-  one action when changing action is necessary.
+In **command displacement**, one operational response becomes physically easier
+than all alternatives. **Access capture** applies alignment to guards, doors,
+and credential systems around one route or authorization. Both uses gain their
+force by constraining the action through which resistance could matter.
+
+**Witness suppression** prevents independent reporting while preserving the
+appearance of voluntary testimony. **Response denial** keeps defenders, medics,
+or civil authorities repeating one action when circumstances require them to
+change it. The four uses differ in their immediate objective while sharing the
+same ability to make an alternative difficult to perform.
 
 Detailed ideological conversion is unreliable. The system can compel slogans,
 votes, signatures, and rituals while active. It cannot guarantee the beliefs
@@ -1419,18 +1430,21 @@ emphasis, vocabulary, and mistake.
 
 An active Agreement suppresses those distinctions.
 
-Investigators look for:
+Investigators compare the apparent improvement in agreement with the traces of
+independent response.
 
-- identical timing jitter in nominally independent instruments;
-- convergence of unrelated calibration offsets;
-- matched blink, breath, gaze, or weight-shift patterns beyond task need;
-- repeated rare errors across different witnesses;
-- speech pauses aligned more closely than the acoustic delay permits;
-- tools correcting before an operator's visible movement;
-- a sudden fall in behavioral variance without a corresponding improvement in
-  external conditions;
-- distress concentrated in the least conforming participant;
-- and abort attempts that begin repeatedly but curve into ordinary operation.
+In nominally independent instruments, identical timing jitter or the convergence
+of unrelated calibration offsets raises suspicion. Among witnesses, repeated
+rare errors carry similar weight. Speech pauses may align more closely than
+acoustic delay permits, while blink, breath, gaze, or weight-shift patterns
+match beyond the needs of the task.
+
+The relation between correction and distress is equally revealing. Tools may
+correct before an operator's visible movement; behavioral variance may fall
+suddenly without any corresponding improvement in external conditions. The least
+conforming participant may bear concentrated distress, and repeated abort
+attempts may curve back into ordinary operation. These signs connect apparent
+agreement to the bodily cost of trying to differ.
 
 The preferred test is **private perturbation**. Separate, one-way devices give
 different participants small unpredictable instructions that require harmless,
@@ -1925,26 +1939,29 @@ The exchange is authenticated.
 
 ## Unresolved questions
 
-- What laboratory first removed the protected variance floor?
-- Was Nacre Hall selected as a political target, used as a field trial, or
-  compromised through an abandoned commercial program?
-- Which state struck Pelar, and did its commanders understand the loss-function
-  package they carried?
-- Can a safe civil lattice retain useful long-term team learning without creating
-  dependency?
-- What minimum set of return channels can sustain coercive closure?
-- Why do some participants remain behaviorally unpredictable under extreme
-  correction while others converge during Courtesy?
-- How should the law distinguish voluntary deep coordination from consent that
-  has become physically impossible to withdraw?
-- Can an artificial controller participate as more than a predictive model
-  without implying consciousness?
-- How long should a false-quorum model be preserved when deleting it may injure
-  the living?
-- Can staged disagreement fully reverse autonomic entrainment, or do some bodies
-  retain permanent susceptibility?
-- How many surviving military architectures exist outside defensive seal?
-- Did any Nacre Hall operator know the update's final function?
+The responsible institutions remain imperfectly identified. The laboratory that
+first removed the protected variance floor is unknown. Nacre Hall may have
+been selected as a political target, used as a field trial, or compromised
+through an abandoned commercial program; whether any operator knew the update's
+final function is also unresolved. At Pelar, both the attacking state and its
+commanders' understanding of the loss-function package remain in question.
+The number of military architectures surviving outside defensive seal is
+likewise unknown.
+
+Civil engineering still faces the problem of keeping useful long-term team
+learning without creating dependency. The minimum set of return channels capable
+of sustaining coercive closure has not been settled, nor has the difference
+between participants who remain behaviorally unpredictable under extreme
+correction and those who converge during Courtesy. Whether an artificial
+controller can participate as more than a predictive model without implying
+consciousness remains a separate unresolved question.
+
+Law and medicine confront the consequences after the machine has worked. They
+must distinguish voluntary deep coordination from consent that has become
+physically impossible to withdraw and determine how long a false-quorum model
+should be preserved when deleting it may injure the living. It remains unknown
+whether staged disagreement can fully reverse autonomic entrainment or whether
+some bodies retain permanent susceptibility.
 
 ## Engineering interpretation
 

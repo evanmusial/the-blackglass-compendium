@@ -45,14 +45,14 @@ labels must not silently substitute for one another. Quoted incident hours
 retain their recorded clock basis unless a reconstruction supplies a conversion.
 
 Humanity's terrestrial origin does not supply an absolute Earth date. Historical
-work distinguishes three questions that older popular accounts often collapse:
+work distinguishes three questions that older popular accounts often collapse.
 
-1. **Physical interval:** how much proper or coordinate time separates two
-   events, within stated uncertainty.
-2. **Astronomical epoch:** what the Solar or Kelan–Ruva sky looked like in a
-   declared reference frame and time scale.
-3. **Civil date:** what a society called and numbered that interval under a
-   particular calendar and era.
+A **physical interval** measures the proper or coordinate time separating two
+events within stated uncertainty. An **astronomical epoch** identifies the
+Solar or Kelan–Ruva sky in a declared reference frame and time scale. A **civil
+date** records what a society called and numbered that interval under a
+particular calendar and era. Recovery of the first two does not automatically
+recover the third.
 
 The first two are substantially recoverable for parts of the Founding Interval.
 The third is not. Surviving Earth-calendar fragments do not provide a secure
@@ -137,32 +137,33 @@ false precision in the chronological table.
 
 ### The Unhidden
 
-1. Human regenerative medicine develops vascularization-independent
-   total-boundary scaffolds.
-2. The first open wards operate on Kharos during the late Meridian or
-   post-Meridian span; the side of Valec on which they fall remains open.
-3. Clinical systems acquire sufficient autonomy for consciousness to become
-   recognizable; whether one first mantle defines that transition remains
-   reserved.
-4. One or more offworld states convert the lineage into an open-form combat
-   organism and conduct the first wet-cradle deployment.
-5. Recovery and humane-custody capacity develops on Avara, while personhood
-   proceedings bring the legal consequences back to Kharos.
+Human regenerative medicine first develops vascularization-independent
+total-boundary scaffolds. The first open wards operate on Kharos during the
+late Meridian or post-Meridian span; their placement before or after Valec
+remains open. Clinical autonomy eventually makes consciousness recognizable,
+although the reservation does not decide whether one first mantle defines
+that transition.
+
+One or more offworld states then convert the lineage into an open-form combat
+organism and conduct the first wet-cradle deployment. Recovery and humane
+custody develop on Avara, while personhood proceedings bring the legal
+consequences back to Kharos.
 
 Exact dates, named facilities, governments, deployments, and judgments remain in
 the developing concept until its entry chooses an anchor.
 
 ### The Manifold
 
-1. Early accounts predating modern instrumentation associate impossible places
-   or intervals with an extrinsic presence. Some records may be securely dated
-   even where their interpretation remains weak.
-2. A later frontier encounter produces separated instrumental records sufficient
-   to distinguish a Manifold rupture from ordinary route failure or folklore.
-3. Contemporary multisensor evidence confirms an associated extrinsic presence
-   without establishing authorship, motive, or strategy.
-4. Kharos, Avara, and Odran develop their present concordance practice in response
-   to evidence from outside the home system.
+Early accounts predating modern instrumentation associate impossible places or
+intervals with an extrinsic presence. Some can be securely dated even where
+their interpretations remain weak. A later frontier encounter produces
+separated instrumental records that distinguish a Manifold rupture from
+ordinary route failure or folklore.
+
+Contemporary multisensor evidence confirms an associated extrinsic presence
+without establishing authorship, motive, or strategy. Kharos, Avara, and Odran
+develop their present concordance practice in response to that exterior evidence,
+rather than a defining encounter within the home system.
 
 The eventual entry needs at least one exterior Compact-relative anchor. Events
 inside a rupture may remain impossible to order even when incidence and
@@ -225,21 +226,21 @@ conversion somewhere in the causal future.
 
 ## Chronology questions to preserve
 
-- How wide is the best astronomical date band for each carrier assemblage, and
-  which uncertainties arise from stellar models rather than archive loss?
-- Which surviving Earth calendar names refer to the same civil system, and
-  which only resemble one another after translation?
-- Were the carrier assemblages one convoy, distinct direct migrations, or a
-  mixture including lost intermediate settlements?
-- Which accepted first-Answer tradition identifies the earliest modern
-  ligature, and which depends upon a later reconstruction?
-- Which present shores descend from pre-Meridian receiver seeds, inherited
-  infrastructure, or later reopenings?
-- Which current systems preserve genuinely pre-Meridian continuous occupation?
+Carrier chronology still needs a best astronomical date band for each
+assemblage, with stellar-model uncertainty distinguished from archive loss.
+Surviving Earth-calendar names may denote one civil system or merely resemble
+one another after translation. The arrivals may have been one convoy, separate
+direct migrations, or a mixture involving lost intermediate settlements.
 
-- Does the Sixth Compact begin exactly at Valec's destruction or after a later
-  negotiation period while retaining Valec as calendar Year Zero?
-- Does “late Meridian Age” end at Valec, at the Compact, or at another event?
-- Is the Kharosi reconstruction period contemporaneous with Olan Vey or a later
-  period that attributes commentary to him?
-- Does the current era have a formal name outside Rzez scholarship?
+Accepted first-Answer traditions raise a related problem: which identifies the earliest
+modern ligature, and which depends on later reconstruction? Present shores may
+descend from pre-Meridian receiver seeds, inherited infrastructure, or later
+reopenings. The current systems that preserve genuinely pre-Meridian continuous occupation have
+not all been established.
+
+The calendar surrounding Valec retains its own open distinctions. The Sixth
+Compact may begin exactly at the destruction or after negotiations that still
+use Valec as Year Zero. The late Meridian Age might end at Valec, the Compact,
+or another event. The Kharosi reconstruction period may be contemporaneous with
+Olan Vey or may be a later period attributing commentary to him. Whether the
+current era has a formal name outside Rzez scholarship also remains open.

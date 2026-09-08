@@ -35,15 +35,17 @@ or several successor schools remains open. In all three cases, **continuity
 studies is an administrative and jurisprudential umbrella**, not a shared
 physical theory.
 
-Present schools working in the Institute tradition may supply:
+Present schools working in the Institute tradition may serve several connected
+fields.
 
-- cohesion forensics and material witnesses to the Compact Commission;
-- historians of the first open wards and technical review of total-boundary
-  physiology;
-- evidence-authentication methods for concordance bundles;
-- covariance analysis and independent-error testimony in Agreement cases;
-- and magistrates with the technical literacy to distinguish a disputed event
-  from a disputed explanation.
+They may supply cohesion forensics and material witnesses to the Compact
+Commission, historians of the first open wards, and technical review of
+total-boundary physiology. Their evidence work may also provide authentication
+methods for concordance bundles and covariance analysis and independent-error
+testimony in Agreement cases.
+
+The same tradition may supply magistrates whose technical literacy lets them
+distinguish a disputed event from a disputed explanation.
 
 Boundary-medicine licensure, created-person judgments, Manifold quarantine, and
 enforcement of the Articles of Bodily Dissent do not belong to the Institute

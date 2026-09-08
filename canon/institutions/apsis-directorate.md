@@ -30,13 +30,13 @@ ordinary scientific descendants are not themselves Rehearsal components.
 ## Conversion into a weapon
 
 The Directorate became military when it combined four arrangements that earlier
-experiments kept separate:
+experiments kept separate.
 
-- a system-scale terminal convergence crown;
-- power stores able to sustain a macroscopic train of ultrashort kernels;
-- a baryon-bias pulse that entrained a prepared mass into the focus; and
-- an open-quench firing solution intended to preserve exotic baryonic products
-  rather than lose every kernel to annihilation or a horizon-poisoned branch.
+A system-scale terminal convergence crown drew upon power stores able to
+sustain a macroscopic train of ultrashort kernels. A baryon-bias pulse entrained
+a prepared mass into the focus. The fourth arrangement was an open-quench firing
+solution intended to preserve exotic baryonic products rather than lose every
+kernel to annihilation or a horizon-poisoned branch.
 
 Surviving restricted memoranda call the full configuration a **rehearsal**. The
 word initially meant that the range contained no inhabited target and that the
@@ -45,14 +45,14 @@ also permitted officials to describe weapon qualification as experimental
 physics.
 
 Whether the Directorate's original charter contemplated stable strange matter
-is disputed. The accepted reconstruction distinguishes three claims:
+is disputed. The accepted reconstruction distinguishes three claims.
 
-- Grade A evidence shows deliberate design for baryon-rich open quench;
-- Grade B evidence shows that at least one weapons group sought a broad,
-  long-lived strangelet yield rather than one characterized isotope; and
-- Grade D evidence identifies the states or commands that authorized the final
-  weapon objective, because every surviving attribution depends upon the same
-  redacted sponsor archive.
+Grade A evidence shows deliberate design for baryon-rich open quench. Grade B
+evidence supports the narrower account of at least one weapons group seeking a
+broad, long-lived strangelet yield rather than one characterized isotope.
+Identification of the states or commands that authorized the final weapon
+objective reaches only Grade D: every surviving attribution depends upon the
+same redacted sponsor archive.
 
 The uncertainty concerns responsibility and intent, not whether human engineers
 built the array.
@@ -123,9 +123,12 @@ material seed custody rather than structural unmaking.
 
 ## Deliberately unresolved
 
-- which authority supplied the final restricted budget;
-- whether the scientific and weapons leadership remained meaningfully separate;
-- who selected the open-quench firing solution;
-- whether any complete pre-Discharge firing packet survives;
-- how much authentic telemetry entered Lower State archives; and
-- whether any former Directorate member assisted later attempts to enter Apsis.
+The authority behind the final restricted budget and the person or office that
+selected the open-quench firing solution remain unidentified. Whether scientific
+and weapons leadership remained meaningfully separate is also unresolved.
+
+Whether a complete pre-Discharge firing packet survives remains unknown. How much authentic
+telemetry entered Lower State archives remains unsettled, as does whether any
+former Directorate member assisted later attempts to enter Apsis.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-institutions-apsis-directorate.md).

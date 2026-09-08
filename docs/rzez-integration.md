@@ -1,5 +1,12 @@
 # Rzez Integration Record
 
+> **Subsequent prose revision:** The [prose integration pass](prose-integration-pass.md)
+> rephrases explanatory lists inside the active Rzez manuscript while preserving
+> their substantive information. The earlier line-for-line insertion model
+> recorded below describes prior revisions. The exemplar remains byte-identical;
+> the active manuscript's established `adapted-from-exemplar` relation permits
+> this expressly requested prose work.
+
 > **Subsequent decision:** The adoption of The Closed Night (`B-4.01`) and The
 > Agreement (`C-6.01`) later established alphabetic volume prefixes for the
 > represented Blackglass filing layer. Statements below preserving the meaning

@@ -1,0 +1,3130 @@
+{
+  "files": [
+    {
+      "path": "entries/volume-04/book-01/d-1-01-the-rehearsal.md",
+      "retained_lists": [
+        {
+          "heading": "## Operational doctrine",
+          "reason": "The six firing commitments preserve an actual operational dependency and the exact point at which abort can redirect energy; retain the ordered procedure."
+        },
+        {
+          "heading": "## Law, ethics, and prohibition",
+          "reason": "The Common Matter Interdict identifies distinct prohibited acts; retaining each offense separately preserves legal scope and its exceptions."
+        }
+      ],
+      "moved_sections": [],
+      "preservation_notes": [
+        "Baseline fe2bae3ef40352d9b7abc4a0670921192d253938; every original explanatory list item is mapped below.",
+        "Metadata and lifecycle statuses remain unchanged. Quoted evidence remains verbatim.",
+        "Author-facing sections moved intact; no lore, grades, numbers, names, limits, or exceptions intentionally removed.",
+        "Original 10 list blocks / 59 items; final 2 manuscript list blocks / 13 items.",
+        "Independent peer review restored exact scheduler relation: scheduler is the firing solution and divides the discharge.",
+        "Final readback: metadata byte-identical to baseline; all 20 original blockquote lines remain in the manuscript itself; all local Markdown file links resolve; owned diff whitespace check passes."
+      ],
+      "list_item_audit": [
+        {
+          "original_heading": "## Editorial note on names, places, and sources",
+          "original_block_line": 112,
+          "original_item": "- **Grade A:** independent physical records, material evidence, and credible contemporary testimony agree;",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Editorial note on names, places, and sources",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Editorial note on names, places, and sources",
+          "original_block_line": 112,
+          "original_item": "- **Grade B:** strong technical or material evidence exists, but direct measurement is incomplete, model-dependent, or inaccessible;",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Editorial note on names, places, and sources",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Editorial note on names, places, and sources",
+          "original_block_line": 112,
+          "original_item": "- **Grade C:** several independent traditions agree while consequential details remain in conflict;",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Editorial note on names, places, and sources",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Editorial note on names, places, and sources",
+          "original_block_line": 112,
+          "original_item": "- **Grade D:** one substantial source or a dependent cluster supports the claim; and",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Editorial note on names, places, and sources",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Editorial note on names, places, and sources",
+          "original_block_line": 112,
+          "original_item": "- **Grade E:** folklore, propaganda, visionary testimony, rumor, or an unexplained anomaly.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Editorial note on names, places, and sources",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## What the instrument is",
+          "original_block_line": 231,
+          "original_item": "1. **The reservoir:** distributed energy stores and generators kept far enough apart that the unfired instrument did not reproduce the compactness it was designed to create.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## What the instrument is",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## What the instrument is",
+          "original_block_line": 231,
+          "original_item": "2. **The acceleration works:** opposed final-stage emitters that converted stored energy into particle and field packets with extreme center-of-momentum energy.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## What the instrument is",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## What the instrument is",
+          "original_block_line": 231,
+          "original_item": "3. **The convergence crown:** the geometry, clocks, ranging systems, and independent control lines that brought those packets to one overlap region with nearly cancelling momentum.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## What the instrument is",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## What the instrument is",
+          "original_block_line": 231,
+          "original_item": "4. **The baryon-bias system:** a separate injection that supplied net baryon number rather than relying upon baryon-antibaryon pair production.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## What the instrument is",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## What the instrument is",
+          "original_block_line": 231,
+          "original_item": "5. **The quench sleeve:** prepared, colder baryonic material encountered by an expanding kernel after the peak state had already begun to decay.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## What the instrument is",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## What the instrument is",
+          "original_block_line": 231,
+          "original_item": "6. **The kernel scheduler:** the firing solution that divided the discharge into distinct microscopic trials rather than making one continuous gravitating volume.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## What the instrument is",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Baryon loading and mass accounting",
+          "original_block_line": 437,
+          "original_item": "- delivered energy came from the distributed reservoirs and the kinetic energy of the injected packets;",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ### Baryon loading and mass accounting",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Baryon loading and mass accounting",
+          "original_block_line": 437,
+          "original_item": "- net baryon number came from the bias packets, the quench sleeve, and any target matter subsequently incorporated; and",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ### Baryon loading and mass accounting",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Baryon loading and mass accounting",
+          "original_block_line": 437,
+          "original_item": "- strangeness could change through particle production and weak interactions, while baryon number remained an excellent account outside the unresolved horizon endpoint.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ### Baryon loading and mass accounting",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## The catalytic stability island",
+          "original_block_line": 506,
+          "original_item": "1. A finite range of baryon numbers and cooling histories produces strangelets stable at zero external pressure and ordinary ambient temperature.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## The catalytic stability island",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## The catalytic stability island",
+          "original_block_line": 506,
+          "original_item": "2. Above a catalytic size, the dressed surface is effectively neutral or negative at the distance relevant to an approaching nucleus, so Coulomb repulsion does not protect ordinary matter.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## The catalytic stability island",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## The catalytic stability island",
+          "original_block_line": 506,
+          "original_item": "3. Incorporation of ordinary baryons followed by weak equilibration into the strange phase is exothermic.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## The catalytic stability island",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## The catalytic stability island",
+          "original_block_line": 506,
+          "original_item": "4. The conversion interface remains active faster than heating, ablation, and dilution can isolate it from all further matter.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## The catalytic stability island",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## The catalytic stability island",
+          "original_block_line": 506,
+          "original_item": "5. Above a larger split size, surface and charge energetics favor division into two or more daughter strangelets that themselves remain above the stable and catalytic minima.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## The catalytic stability island",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## The catalytic stability island",
+          "original_block_line": 506,
+          "original_item": "6. Some daughters leave the converted reservoir without being evaporated, spalled below stability, trapped behind a horizon, or carried permanently beyond other baryonic matter.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## The catalytic stability island",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## The Apsis yield",
+          "original_block_line": 580,
+          "original_item": "- the initial strange-rich yield was large in number compared with any prior controlled experiment;",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## The Apsis yield",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## The Apsis yield",
+          "original_block_line": 580,
+          "original_item": "- the number, mass spectrum, charge spectrum, and lifetime distribution are unknowable from the surviving observations; and",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## The Apsis yield",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## The Apsis yield",
+          "original_block_line": 580,
+          "original_item": "- no recovery campaign demonstrated that every possible seed decayed or was contained.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## The Apsis yield",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Operational doctrine",
+          "original_block_line": 892,
+          "original_item": "1. **Range closure:** ordinary traffic, untrusted clocks, and uncontrolled mass were removed from projected packet paths.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Operational doctrine",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "## Operational doctrine",
+          "original_block_line": 892,
+          "original_item": "2. **Reservoir release:** separated stores discharged toward final acceleration works. After this point, aborting one path could redirect rather than cancel the remaining energy.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Operational doctrine",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "## Operational doctrine",
+          "original_block_line": 892,
+          "original_item": "3. **Crown acquisition:** independent stations solved the target ephemeris and brought packet momenta toward closure in the intended rest frame.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Operational doctrine",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "## Operational doctrine",
+          "original_block_line": 892,
+          "original_item": "4. **Baryon bias:** neutron-rich packets and the prepared sleeve established the quench inventory. Its timing was separately interlocked because an unbiased convergence remained destructive but was less likely to make a terminal yield.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Operational doctrine",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "## Operational doctrine",
+          "original_block_line": 892,
+          "original_item": "5. **Kernel train:** the scheduler distributed microscopic overlaps through the target envelope while attempting to keep each below the trapped-surface threshold.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Operational doctrine",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "## Operational doctrine",
+          "original_block_line": 892,
+          "original_item": "6. **Blind quench:** the products expanded and cooled faster than any observation-and-abort loop. All later control consisted of quarantine, collection, and inference.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Operational doctrine",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "## Detection and forensic evidence",
+          "original_block_line": 970,
+          "original_item": "- counterpropagating high-energy precursor packets;",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Detection and forensic evidence",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Detection and forensic evidence",
+          "original_block_line": 970,
+          "original_item": "- a prompt hard gamma and lepton flash;",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Detection and forensic evidence",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Detection and forensic evidence",
+          "original_block_line": 970,
+          "original_item": "- hadronic jets and pair cascades from underconverged kernels;",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Detection and forensic evidence",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Detection and forensic evidence",
+          "original_block_line": 970,
+          "original_item": "- a neutrino-rich quench signal;",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Detection and forensic evidence",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Detection and forensic evidence",
+          "original_block_line": 970,
+          "original_item": "- rapidly varying spectral hardness consistent with mixed open and horizon branches; and",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Detection and forensic evidence",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Detection and forensic evidence",
+          "original_block_line": 970,
+          "original_item": "- the destruction or simultaneous isolation of terminal emitters.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Detection and forensic evidence",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Law, ethics, and prohibition",
+          "original_block_line": 1174,
+          "original_item": "- construction or coordinated possession of a complete convergence crown;",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Law, ethics, and prohibition",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "## Law, ethics, and prohibition",
+          "original_block_line": 1174,
+          "original_item": "- full-energy opposed tests with a baryonic target or sleeve;",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Law, ethics, and prohibition",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "## Law, ethics, and prohibition",
+          "original_block_line": 1174,
+          "original_item": "- retention of an executable kernel schedule and target solution in one authority;",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Law, ethics, and prohibition",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "## Law, ethics, and prohibition",
+          "original_block_line": 1174,
+          "original_item": "- creation of a yield whose neutral fraction cannot be bounded;",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Law, ethics, and prohibition",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "## Law, ethics, and prohibition",
+          "original_block_line": 1174,
+          "original_item": "- transport of suspected yield toward a planetary, stellar, or degenerate baryonic reservoir;",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Law, ethics, and prohibition",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "## Law, ethics, and prohibition",
+          "original_block_line": 1174,
+          "original_item": "- destructive assay of suspected strange matter without daughter accounting; and",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Law, ethics, and prohibition",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "## Law, ethics, and prohibition",
+          "original_block_line": 1174,
+          "original_item": "- claims of complete containment based only on charged-particle collection.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Law, ethics, and prohibition",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "## Six-system mechanism firewall",
+          "original_block_line": 1286,
+          "original_item": "- **The Rzez** invalidates selected structural relationships. The Rehearsal destroys and converts through delivered energy, particle interactions, and a material seed. Its damage is not entropic relationship failure.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Six-system mechanism firewall",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Six-system mechanism firewall",
+          "original_block_line": 1286,
+          "original_item": "- **The Unhidden** directs living growth and functional assignment. Strangelet incorporation is not morphogenesis, does not preserve an organismal plan, and has no privileged relationship to life.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Six-system mechanism firewall",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Six-system mechanism firewall",
+          "original_block_line": 1286,
+          "original_item": "- **The Manifold** prevents local spaces and histories from composing one global account. Rehearsal packets travel through ordinary spacetime and every stage remains causally ordered, even when records are incomplete.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Six-system mechanism firewall",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Six-system mechanism firewall",
+          "original_block_line": 1286,
+          "original_item": "- **The Closed Night** controls radiative transport across an enclosure. The Rehearsal retains no radiation and requires no one-way boundary. Its prompt energy escapes all too readily.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Six-system mechanism firewall",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Six-system mechanism firewall",
+          "original_block_line": 1286,
+          "original_item": "- **The Agreement** couples active prediction and correction. A strangelet does not persuade, coordinate, or align its targets. Similar converted matter is a shared phase, not shared cognition.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Six-system mechanism firewall",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Six-system mechanism firewall",
+          "original_block_line": 1286,
+          "original_item": "- **The Rehearsal** concentrates ordinary mass-energy into near-Planck kernels, biases their baryon content, and depends upon a speculative quench product that spreads only through material contact and daughter transport.",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Six-system mechanism firewall",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Unresolved questions",
+          "original_block_line": 1319,
+          "original_item": "- What fraction of commanded Apsis overlaps became genuine open-quench kernels?",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Unresolved questions",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Unresolved questions",
+          "original_block_line": 1319,
+          "original_item": "- What high-energy particle degrees of freedom contributed to the effective energy density and horizon threshold?",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Unresolved questions",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Unresolved questions",
+          "original_block_line": 1319,
+          "original_item": "- How much net baryon number entered the droplet-forming interval rather than annihilating or escaping in jets?",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Unresolved questions",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Unresolved questions",
+          "original_block_line": 1319,
+          "original_item": "- Were the massive strange-rich tracks metastable hadronic aggregates, stable strangelets, or several populations?",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Unresolved questions",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Unresolved questions",
+          "original_block_line": 1319,
+          "original_item": "- Did any neutral or weakly charged yield leave the instrumented solid angle?",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Unresolved questions",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Unresolved questions",
+          "original_block_line": 1319,
+          "original_item": "- Does the catalytic stability island exist at all?",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Unresolved questions",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Unresolved questions",
+          "original_block_line": 1319,
+          "original_item": "- If it exists, what are its minimum stable, catalytic, and daughtering baryon numbers?",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Unresolved questions",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Unresolved questions",
+          "original_block_line": 1319,
+          "original_item": "- Can a daughtering conversion front remain supercritical in ordinary planetary matter after its own energy release disperses the target?",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Unresolved questions",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Unresolved questions",
+          "original_block_line": 1319,
+          "original_item": "- Does conversion of a neutron star eject viable daughters or hide them behind a newly formed horizon?",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Unresolved questions",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Unresolved questions",
+          "original_block_line": 1319,
+          "original_item": "- Has any second reservoir undergone a Taking that has not yet been observed or correctly identified?",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Unresolved questions",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Unresolved questions",
+          "original_block_line": 1319,
+          "original_item": "- Which surviving cultic archives contain unique Apsis evidence, and which contain enough of the firing solution to constitute terminal capacity?",
+          "destination": "entries/volume-04/book-01/d-1-01-the-rehearsal.md :: ## Unresolved questions",
+          "disposition": "rewritten as connected prose"
+        }
+      ],
+      "heading_changes": []
+    },
+    {
+      "path": "concepts/developing/the-unhidden.md",
+      "retained_lists": [],
+      "moved_sections": [
+        {
+          "heading": "## Canon dependencies",
+          "destination": "docs/editorial-notes/the-unhidden.md"
+        },
+        {
+          "heading": "## Possible new canon",
+          "destination": "docs/editorial-notes/the-unhidden.md"
+        },
+        {
+          "heading": "## Reasons to reject or defer",
+          "destination": "docs/editorial-notes/the-unhidden.md"
+        },
+        {
+          "heading": "### Resolve before entry drafting",
+          "destination": "docs/editorial-notes/the-unhidden.md"
+        },
+        {
+          "heading": "## Canon integration status",
+          "destination": "docs/editorial-notes/the-unhidden.md"
+        },
+        {
+          "heading": "## Setting placement (authorial framing; substantive account retained in prose)",
+          "destination": "docs/editorial-notes/the-unhidden.md"
+        },
+        {
+          "heading": "## Possible scales (authorial framing; substantive account retained in prose)",
+          "destination": "docs/editorial-notes/the-unhidden.md"
+        },
+        {
+          "heading": "## Collection-frame impact (authorial framing; substantive account retained in prose)",
+          "destination": "docs/editorial-notes/the-unhidden.md"
+        },
+        {
+          "heading": "## Working vocabulary (authorial framing; substantive account retained in prose)",
+          "destination": "docs/editorial-notes/the-unhidden.md"
+        },
+        {
+          "heading": "## Original purpose (authorial framing; substantive account retained in prose)",
+          "destination": "docs/editorial-notes/the-unhidden.md"
+        },
+        {
+          "heading": "## History it naturally creates (authorial framing; substantive account retained in prose)",
+          "destination": "docs/editorial-notes/the-unhidden.md"
+        },
+        {
+          "heading": "### Distributed cognition — authorial status",
+          "destination": "docs/editorial-notes/the-unhidden.md"
+        }
+      ],
+      "preservation_notes": [
+        "Baseline fe2bae3ef40352d9b7abc4a0670921192d253938; every original explanatory list item is mapped below.",
+        "Metadata and lifecycle statuses remain unchanged. Quoted evidence remains verbatim.",
+        "Author-facing sections moved intact; no lore, grades, numbers, names, limits, or exceptions intentionally removed.",
+        "Original 24 list blocks / 133 items; final 0 manuscript list blocks / 0 items.",
+        "Independent peer review restored unrestricted filtration/detoxification scope, extreme oxygen/nutrient demand, genuine donor-memory possibility, and the flat prohibition on emergence from a released spore or scrap.",
+        "Five explanatory scale rows rewritten as prose; full original scale table and authorial recommendation retained in editorial notes.",
+        "Final readback: metadata byte-identical to baseline; all 7 original blockquote lines remain in the manuscript itself; all local Markdown file links resolve; owned diff whitespace check passes."
+      ],
+      "list_item_audit": [
+        {
+          "original_heading": "## Working vocabulary",
+          "original_block_line": 19,
+          "original_item": "- **The Unhidden** is the official human name and intended entry title of the weaponized lineage.",
+          "destination": "concepts/developing/the-unhidden.md :: ## Working vocabulary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Working vocabulary",
+          "original_block_line": 19,
+          "original_item": "- **Total-Boundary Organism** is the technical designation.",
+          "destination": "concepts/developing/the-unhidden.md :: ## Working vocabulary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Working vocabulary",
+          "original_block_line": 19,
+          "original_item": "- **Open-form combat organism** is the military term.",
+          "destination": "concepts/developing/the-unhidden.md :: ## Working vocabulary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Working vocabulary",
+          "original_block_line": 19,
+          "original_item": "- **Plain Things** is the common plural; one autonomous weapon is a **Plain Thing**.",
+          "destination": "concepts/developing/the-unhidden.md :: ## Working vocabulary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 65,
+          "original_item": "- gas exchange;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 65,
+          "original_item": "- filtration and detoxification;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 65,
+          "original_item": "- thermal regulation;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 65,
+          "original_item": "- immune support;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 65,
+          "original_item": "- nutrient processing;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 65,
+          "original_item": "- circulation assistance;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 65,
+          "original_item": "- wound closure;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 65,
+          "original_item": "- and sensory or motor bridging.",
+          "destination": "concepts/developing/the-unhidden.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Total boundary",
+          "original_block_line": 111,
+          "original_item": "- a finite branching trellis of mineralized cartilage or related structural tissue;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Total boundary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Total boundary",
+          "original_block_line": 111,
+          "original_item": "- thin living lamellae suspended between its branches;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Total boundary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Total boundary",
+          "original_block_line": 111,
+          "original_item": "- open channels passing between the folds;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Total boundary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Total boundary",
+          "original_block_line": 111,
+          "original_item": "- a fluid boundary film retained by capillary structures, cilia, and active tension;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Total boundary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Total boundary",
+          "original_block_line": 111,
+          "original_item": "- exposed contractile bands;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Total boundary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Total boundary",
+          "original_block_line": 111,
+          "original_item": "- distributed sensory plaques;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Total boundary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Total boundary",
+          "original_block_line": 111,
+          "original_item": "- and ganglial ribbons repeated throughout the body.",
+          "destination": "concepts/developing/the-unhidden.md :: ### Total boundary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Ordinary-space invariant",
+          "original_block_line": 228,
+          "original_item": "- no mass is stored in a pocket or higher dimension;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Ordinary-space invariant",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Ordinary-space invariant",
+          "original_block_line": 228,
+          "original_item": "- no remote true body operates the visible form;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Ordinary-space invariant",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Ordinary-space invariant",
+          "original_block_line": 228,
+          "original_item": "- no part phases through matter;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Ordinary-space invariant",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Ordinary-space invariant",
+          "original_block_line": 228,
+          "original_item": "- no body passes an aperture smaller than ordinary deformation permits;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Ordinary-space invariant",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Ordinary-space invariant",
+          "original_block_line": 228,
+          "original_item": "- no organism gains or loses mass without measurable exchange;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Ordinary-space invariant",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Ordinary-space invariant",
+          "original_block_line": 228,
+          "original_item": "- no injury disappears into an inaccessible anatomy;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Ordinary-space invariant",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Ordinary-space invariant",
+          "original_block_line": 228,
+          "original_item": "- and death reveals no pilot, core creature, or more familiar form.",
+          "destination": "concepts/developing/the-unhidden.md :: ### Ordinary-space invariant",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Surface-area tax",
+          "original_block_line": 273,
+          "original_item": "- rapid fluid loss;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Surface-area tax",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Surface-area tax",
+          "original_block_line": 273,
+          "original_item": "- high heat exchange;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Surface-area tax",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Surface-area tax",
+          "original_block_line": 273,
+          "original_item": "- extreme oxygen and nutrient demand;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Surface-area tax",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Surface-area tax",
+          "original_block_line": 273,
+          "original_item": "- a large thermal and chemical signature;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Surface-area tax",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Surface-area tax",
+          "original_block_line": 273,
+          "original_item": "- continual exposure to contaminants;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Surface-area tax",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Surface-area tax",
+          "original_block_line": 273,
+          "original_item": "- and widespread pain or sensory overload from small environmental changes.",
+          "destination": "concepts/developing/the-unhidden.md :: ### Surface-area tax",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Growth and logistics",
+          "original_block_line": 288,
+          "original_item": "- cultured tissue stocks;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Growth and logistics",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Growth and logistics",
+          "original_block_line": 288,
+          "original_item": "- a manufactured patterning trellis;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Growth and logistics",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Growth and logistics",
+          "original_block_line": 288,
+          "original_item": "- a controlled nutrient bath;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Growth and logistics",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Growth and logistics",
+          "original_block_line": 288,
+          "original_item": "- prolonged development;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Growth and logistics",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Growth and logistics",
+          "original_block_line": 288,
+          "original_item": "- training or imprinting of its neural mesh;",
+          "destination": "concepts/developing/the-unhidden.md :: ### Growth and logistics",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Growth and logistics",
+          "original_block_line": 288,
+          "original_item": "- and specialized wet transport.",
+          "destination": "concepts/developing/the-unhidden.md :: ### Growth and logistics",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Signature physiological failures",
+          "original_block_line": 423,
+          "original_item": "- **Occlusion cascade:** blocked exchange channels force work onto neighboring lamellae, which swell and close additional channels until the boundary film can no longer circulate.",
+          "destination": "concepts/developing/the-unhidden.md :: ### Signature physiological failures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Signature physiological failures",
+          "original_block_line": 423,
+          "original_item": "- **Role saturation:** remapping preserves too many damaged functions at once. Every surviving region remains active, but no allocation can satisfy all vital demands.",
+          "destination": "concepts/developing/the-unhidden.md :: ### Signature physiological failures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Signature physiological failures",
+          "original_block_line": 423,
+          "original_item": "- **Lamellar self-fusion:** compression, heat, or uncontrolled healing joins surfaces meant to remain separate. The organism creates inaccessible tissue inside itself and dies by acquiring the kind of interior its design eliminated.",
+          "destination": "concepts/developing/the-unhidden.md :: ### Signature physiological failures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Custody and personhood proceedings",
+          "original_block_line": 548,
+          "original_item": "- Is it materiel, animal, soldier, patient, prisoner, or manufactured person?",
+          "destination": "concepts/developing/the-unhidden.md :: ### Custody and personhood proceedings",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Custody and personhood proceedings",
+          "original_block_line": 548,
+          "original_item": "- Who owns a body grown from licensed tissue?",
+          "destination": "concepts/developing/the-unhidden.md :: ### Custody and personhood proceedings",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Custody and personhood proceedings",
+          "original_block_line": 548,
+          "original_item": "- Does a fragment retain the identity of the original?",
+          "destination": "concepts/developing/the-unhidden.md :: ### Custody and personhood proceedings",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Custody and personhood proceedings",
+          "original_block_line": 548,
+          "original_item": "- Must detention preserve the open environment it needs to live?",
+          "destination": "concepts/developing/the-unhidden.md :: ### Custody and personhood proceedings",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Custody and personhood proceedings",
+          "original_block_line": 548,
+          "original_item": "- Is chemically enforced obedience slavery, weapons control, or both?",
+          "destination": "concepts/developing/the-unhidden.md :: ### Custody and personhood proceedings",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Custody and personhood proceedings",
+          "original_block_line": 548,
+          "original_item": "- Can a being designed for combat surrender while its maintenance remains controlled by its maker?",
+          "destination": "concepts/developing/the-unhidden.md :: ### Custody and personhood proceedings",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Setting placement",
+          "original_block_line": 612,
+          "original_item": "- the first open wards and ordinary medical aftermath on Kharos;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Setting placement",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Setting placement",
+          "original_block_line": 612,
+          "original_item": "- large recovery mantles, wet-cradle practice, and humane-care capacity on Avara, with gravity-specific bodies rather than interchangeable forms;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Setting placement",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Setting placement",
+          "original_block_line": 612,
+          "original_item": "- military conversion by one or more human states;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Setting placement",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Setting placement",
+          "original_block_line": 612,
+          "original_item": "- early deployments in a frontier or route conflict where wet-cradle logistics matter;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Setting placement",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Setting placement",
+          "original_block_line": 612,
+          "original_item": "- and later custody proceedings returning the consequences to Kharos.",
+          "destination": "concepts/developing/the-unhidden.md :: ## Setting placement",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### The Rzez",
+          "original_block_line": 644,
+          "original_item": "- The Rzez can affect living or nonliving targets; the Unhidden requires grown tissue.",
+          "destination": "concepts/developing/the-unhidden.md :: ### The Rzez",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### The Rzez",
+          "original_block_line": 644,
+          "original_item": "- The Rzez kills through entropic bias and cascading relationship failure; the Unhidden attacks through physical biological force and chemistry.",
+          "destination": "concepts/developing/the-unhidden.md :: ### The Rzez",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### The Rzez",
+          "original_block_line": 644,
+          "original_item": "- The Rzez's horror is hidden invalidity; the Unhidden's horror is exhaustive visibility.",
+          "destination": "concepts/developing/the-unhidden.md :: ### The Rzez",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### The Rzez",
+          "original_block_line": 644,
+          "original_item": "- A Rzez event may persist after its instrument departs; an Unhidden threat remains where its body and support infrastructure remain.",
+          "destination": "concepts/developing/the-unhidden.md :: ### The Rzez",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Canon dependencies",
+          "original_block_line": 712,
+          "original_item": "- recognizable human or human-descended biology;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Canon dependencies",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon dependencies",
+          "original_block_line": 712,
+          "original_item": "- advanced medicine within the known inhabited region;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Canon dependencies",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon dependencies",
+          "original_block_line": 712,
+          "original_item": "- route-limited travel that makes remote trauma medicine valuable;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Canon dependencies",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon dependencies",
+          "original_block_line": 712,
+          "original_item": "- multiple states capable of military research and concealment;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Canon dependencies",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon dependencies",
+          "original_block_line": 712,
+          "original_item": "- Kharos as the shared provisional legal and academic venue;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Canon dependencies",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon dependencies",
+          "original_block_line": 712,
+          "original_item": "- claim-level Grades A through E;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Canon dependencies",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon dependencies",
+          "original_block_line": 712,
+          "original_item": "- and the Blackglass model of technical records, testimony, law, folklore, and censorship.",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Canon dependencies",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 728,
+          "original_item": "- **morphogenic engineering** as a primary engineering system;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 728,
+          "original_item": "- vascularization-independent boundary scaffolds as a medical lineage;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 728,
+          "original_item": "- limited engineered tissue-role reassignment;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 728,
+          "original_item": "- distributed cultivated cognition;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 728,
+          "original_item": "- the shared terms **total boundary**, **Total-Boundary Organism**, **open form**, **Plain Thing**, **wet cradle**, and **ward reflex**;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 728,
+          "original_item": "- basic environmental countermeasure and humane-custody doctrine;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 728,
+          "original_item": "- and the existence of created-person and military-organism law distinct from the Sixth Compact.",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 740,
+          "original_item": "- wet-cradle military logistics;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 740,
+          "original_item": "- clinicians, scaffold growers, custody specialists, and occlusion crews;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 740,
+          "original_item": "- discrimination against patients who retain boundary grafts;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 740,
+          "original_item": "- and disputed free or surviving Plain Things.",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 749,
+          "original_item": "- `morphogenic` — engineering that controls how living matter assigns form, function, and organismal continuity through development rather than applying ordinary force to a completed body.",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 755,
+          "original_item": "- `boundary-exposed` — essential physiology is placed on tissue accessible through channels continuous with the environment;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 755,
+          "original_item": "- `function-distributed` — vital roles recur throughout the body rather than belonging to discrete organs;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 755,
+          "original_item": "- `self-remapping` — surviving tissue can change physiological role after damage;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 755,
+          "original_item": "- `regenerative` — living structure can be rebuilt with time and matter;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 755,
+          "original_item": "- `environment-coupled` — operation depends unusually strongly on direct exchange with the surrounding medium.",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 767,
+          "original_item": "- `vascularization-independent-regenerative-scaffold`",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 771,
+          "original_item": "- `open-form-combat-organism`",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 775,
+          "original_item": "- retain `surgical` and `siege` where their meanings remain useful;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 775,
+          "original_item": "- use `clinical` and `tactical`, whose distinct architectures are now described provisionally in the taxonomy;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 775,
+          "original_item": "- reject continental and planetary scales for this family.",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 797,
+          "original_item": "- `morphogenic` as the lineage's primary engineering system;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 797,
+          "original_item": "- known human provenance and regenerative-medical ancestry;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 797,
+          "original_item": "- the first open wards on Kharos and later low-gravity clinical scale on Avara;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 797,
+          "original_item": "- finite, mass-accountable total-boundary anatomy in ordinary space;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 797,
+          "original_item": "- consciousness in autonomous Plain Things;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 797,
+          "original_item": "- shared anatomical vocabulary, the reported ward reflex, basic hostile countermeasures, and humane-custody requirements;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 797,
+          "original_item": "- Kharosi personhood and humane-custody consequences;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 797,
+          "original_item": "- and the distinction between civil medicine in Kelan–Ruva and military conversion elsewhere.",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Collection-frame impact",
+          "original_block_line": 823,
+          "original_item": "- clinical protocols and patient records;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Collection-frame impact",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Collection-frame impact",
+          "original_block_line": 823,
+          "original_item": "- tissue-lineage registries;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Collection-frame impact",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Collection-frame impact",
+          "original_block_line": 823,
+          "original_item": "- wet-cradle manifests;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Collection-frame impact",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Collection-frame impact",
+          "original_block_line": 823,
+          "original_item": "- preserved specimens;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Collection-frame impact",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Collection-frame impact",
+          "original_block_line": 823,
+          "original_item": "- whole-body imaging and mass-balance studies;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Collection-frame impact",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Collection-frame impact",
+          "original_block_line": 823,
+          "original_item": "- battlefield environmental telemetry;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Collection-frame impact",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Collection-frame impact",
+          "original_block_line": 823,
+          "original_item": "- custody-hearing transcripts;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Collection-frame impact",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Collection-frame impact",
+          "original_block_line": 823,
+          "original_item": "- recordings of communicating Plain Things;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Collection-frame impact",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Collection-frame impact",
+          "original_block_line": 823,
+          "original_item": "- countermeasure manuals;",
+          "destination": "concepts/developing/the-unhidden.md :: ## Collection-frame impact",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Collection-frame impact",
+          "original_block_line": 823,
+          "original_item": "- and survivor testimony.",
+          "destination": "concepts/developing/the-unhidden.md :: ## Collection-frame impact",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Collection-frame impact",
+          "original_block_line": 840,
+          "original_item": "- Grade A may establish ordinary-space anatomy, mass balance, physiological limits, clinical lineage, and documented behavior.",
+          "destination": "concepts/developing/the-unhidden.md :: ## Collection-frame impact",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Collection-frame impact",
+          "original_block_line": 840,
+          "original_item": "- Grades A or B may support speech, learning, pain responses, and particular deployments.",
+          "destination": "concepts/developing/the-unhidden.md :: ## Collection-frame impact",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Collection-frame impact",
+          "original_block_line": 840,
+          "original_item": "- Grades C or D may support continuity with a patient or donor, identity across division, and clandestine human coupling.",
+          "destination": "concepts/developing/the-unhidden.md :: ## Collection-frame impact",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Collection-frame impact",
+          "original_block_line": 840,
+          "original_item": "- Grade E traditions may claim the Plain Things have no soul because they have no interior, or only soul because nothing bodily conceals it.",
+          "destination": "concepts/developing/the-unhidden.md :: ## Collection-frame impact",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 853,
+          "original_item": "- its mass, organs, weapons, or mind are secretly stored outside ordinary space;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 853,
+          "original_item": "- it becomes an unrestricted shapeshifter;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 853,
+          "original_item": "- any scrap reproduces without nursery infrastructure and biomass;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 853,
+          "original_item": "- precise wounds never matter and broad-area counters have no costed rationale;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 853,
+          "original_item": "- it can infiltrate as a normal human;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 853,
+          "original_item": "- it gains telepathy, magical assimilation, or arbitrary target effects;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 853,
+          "original_item": "- “everything is visible” becomes “all private thought is readable”;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 853,
+          "original_item": "- it becomes a planetary plague or generic devouring biomass;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 853,
+          "original_item": "- its medical origin never affects behavior, law, or failure;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 853,
+          "original_item": "- consciousness remains vague merely to avoid personhood consequences;",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 853,
+          "original_item": "- or it receives an alien origin that weakens its contrast with The Manifold.",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve before entry drafting",
+          "original_block_line": 873,
+          "original_item": "- What contemporary or historical incident anchors the entry?",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Resolve before entry drafting",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve before entry drafting",
+          "original_block_line": 873,
+          "original_item": "- Which material and film variants survive detailed clinical and tactical case design, including a named failure that tests their exchange limits?",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Resolve before entry drafting",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve before entry drafting",
+          "original_block_line": 873,
+          "original_item": "- What measured mission and withdrawal budgets apply to the form in the anchor incident, under its gravity, humidity, activity, and damage?",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Resolve before entry drafting",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve before entry drafting",
+          "original_block_line": 873,
+          "original_item": "- What functional evidence distinguishes a reflexive fragment from a coherent surviving mind in that case?",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Resolve before entry drafting",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve before entry drafting",
+          "original_block_line": 873,
+          "original_item": "- Which authority regulates manufacture, custody, surrender, and death?",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Resolve before entry drafting",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve before entry drafting",
+          "original_block_line": 873,
+          "original_item": "- Which jurisdiction accepts the proposed command, surrender, independent-care, and refusal practices, and which military program contests them?",
+          "destination": "docs/editorial-notes/the-unhidden.md :: ### Resolve before entry drafting",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Preserve as in-world disputes",
+          "original_block_line": 886,
+          "original_item": "- Did the first autonomous mantle become conscious, copy part of its patient, or merely teach observers how to recognize a mind?",
+          "destination": "concepts/developing/the-unhidden.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve as in-world disputes",
+          "original_block_line": 886,
+          "original_item": "- Does a divided Plain Thing become two descendants, two copies, or two wounded continuations of one person?",
+          "destination": "concepts/developing/the-unhidden.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve as in-world disputes",
+          "original_block_line": 886,
+          "original_item": "- Are reported donor memories genuine, learned mannerisms, military conditioning, or propaganda?",
+          "destination": "concepts/developing/the-unhidden.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve as in-world disputes",
+          "original_block_line": 886,
+          "original_item": "- Is the ward reflex a developmental reversion, an ethical choice, or behavior authorities call defective because it resembles mercy?",
+          "destination": "concepts/developing/the-unhidden.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve as in-world disputes",
+          "original_block_line": 886,
+          "original_item": "- Can a Plain Thing consent while its hydration, nutrients, and patterning chemistry remain controlled by its maker?",
+          "destination": "concepts/developing/the-unhidden.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve as in-world disputes",
+          "original_block_line": 886,
+          "original_item": "- Did any military line remove its dependencies and survive independently?",
+          "destination": "concepts/developing/the-unhidden.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve as in-world disputes",
+          "original_block_line": 886,
+          "original_item": "- How does a siege group distinguish intense physical communication from a legally meaningful merger of identity?",
+          "destination": "concepts/developing/the-unhidden.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve as in-world disputes",
+          "original_block_line": 886,
+          "original_item": "- Are therapeutic graft patients culturally or legally related to Plain Things?",
+          "destination": "concepts/developing/the-unhidden.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve as in-world disputes",
+          "original_block_line": 886,
+          "original_item": "- Does any current Plain Thing possess an uncontested legal identity?",
+          "destination": "concepts/developing/the-unhidden.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        }
+      ],
+      "heading_changes": [
+        {
+          "original": "## One-sentence premise",
+          "replacement": "## Abstract",
+          "preserved_anchor": "one-sentence-premise"
+        },
+        {
+          "original": "## History it naturally creates",
+          "replacement": "## Clinical and military history",
+          "preserved_anchor": "history-it-naturally-creates"
+        },
+        {
+          "original": "### Preserve as in-world disputes",
+          "replacement": "### Unresolved interpretations",
+          "preserved_anchor": "preserve-as-in-world-disputes"
+        }
+      ]
+    },
+    {
+      "path": "concepts/developing/the-manifold.md",
+      "retained_lists": [
+        {
+          "heading": "### Boundary proof",
+          "reason": "Egress-complete is an operational finding, not a theorem; the six separate evidentiary requirements are retained to preserve the conjunctive classification test and its measurement qualifications."
+        },
+        {
+          "heading": "### The Common Outside Convention",
+          "reason": "The proposed Common Outside Convention states eight distinct legal duties and prohibitions; retaining them separately protects jurisdictional scope, compensation, and the no-entry exception."
+        }
+      ],
+      "moved_sections": [
+        {
+          "heading": "### Knowledge boundary",
+          "destination": "docs/editorial-notes/the-manifold.md"
+        },
+        {
+          "heading": "## Canon dependencies",
+          "destination": "docs/editorial-notes/the-manifold.md"
+        },
+        {
+          "heading": "## Possible new canon",
+          "destination": "docs/editorial-notes/the-manifold.md"
+        },
+        {
+          "heading": "## Reasons to reject or defer",
+          "destination": "docs/editorial-notes/the-manifold.md"
+        },
+        {
+          "heading": "### Resolve during development",
+          "destination": "docs/editorial-notes/the-manifold.md"
+        },
+        {
+          "heading": "## Canon integration status",
+          "destination": "docs/editorial-notes/the-manifold.md"
+        },
+        {
+          "heading": "## Setting placement (authorial framing; substantive account retained in prose)",
+          "destination": "docs/editorial-notes/the-manifold.md"
+        },
+        {
+          "heading": "## Working vocabulary (authorial framing; substantive account retained in prose)",
+          "destination": "docs/editorial-notes/the-manifold.md"
+        },
+        {
+          "heading": "## Original purpose (authorial framing; substantive account retained in prose)",
+          "destination": "docs/editorial-notes/the-manifold.md"
+        },
+        {
+          "heading": "## Possible scales (authorial framing; substantive account retained in prose)",
+          "destination": "docs/editorial-notes/the-manifold.md"
+        },
+        {
+          "heading": "### Associated presences — interpretive boundary",
+          "destination": "docs/editorial-notes/the-manifold.md"
+        },
+        {
+          "heading": "### No selectable outcome — limits on authorship",
+          "destination": "docs/editorial-notes/the-manifold.md"
+        },
+        {
+          "heading": "### The Talren Recursion — candidate anchor",
+          "destination": "docs/editorial-notes/the-manifold.md"
+        },
+        {
+          "heading": "### Collection-frame impact — contamination reservation",
+          "destination": "docs/editorial-notes/the-manifold.md"
+        }
+      ],
+      "preservation_notes": [
+        "Baseline fe2bae3ef40352d9b7abc4a0670921192d253938; every original explanatory list item is mapped below.",
+        "Metadata and lifecycle statuses remain unchanged. Quoted evidence remains verbatim.",
+        "Author-facing sections moved intact; no lore, grades, numbers, names, limits, or exceptions intentionally removed.",
+        "Original 30 list blocks / 207 items; final 2 manuscript list blocks / 14 items.",
+        "Independent peer review restored explicit unpredictability of open duration and intervention outcomes, plus the preferred rather than fixed placement qualifier.",
+        "Five scale rows and six Rzez comparison rows rewritten as prose; authorial knowledge-boundary table retained in editorial notes.",
+        "Final readback: metadata byte-identical to baseline; all 52 original blockquote lines remain in the manuscript itself; all local Markdown file links resolve; owned diff whitespace check passes."
+      ],
+      "list_item_audit": [
+        {
+          "original_heading": "## Working vocabulary",
+          "original_block_line": 18,
+          "original_item": "- **The Manifold** is the official human name of the complex. No originating name is known.",
+          "destination": "concepts/developing/the-manifold.md :: ## Working vocabulary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Working vocabulary",
+          "original_block_line": 18,
+          "original_item": "- **Tachyonic Manifold Rupture Complex** is the technical designation.",
+          "destination": "concepts/developing/the-manifold.md :: ## Working vocabulary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Working vocabulary",
+          "original_block_line": 18,
+          "original_item": "- **Suspected epoch-denial technology** is the working military classification.",
+          "destination": "concepts/developing/the-manifold.md :: ## Working vocabulary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Working vocabulary",
+          "original_block_line": 18,
+          "original_item": "- **Extrinsic-unknown** is the shared provisional provenance classification. Provenance is separate from military consequence and original purpose.",
+          "destination": "concepts/developing/the-manifold.md :: ## Working vocabulary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Working vocabulary",
+          "original_block_line": 18,
+          "original_item": "- **Tachyon shards** is an observational term, not a proven statement that the detected phenomena are broken objects or ammunition.",
+          "destination": "concepts/developing/the-manifold.md :: ## Working vocabulary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Working vocabulary",
+          "original_block_line": 18,
+          "original_item": "- **Manifold rupture** is the neutral term for an affected place or interval.",
+          "destination": "concepts/developing/the-manifold.md :: ## Working vocabulary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Working vocabulary",
+          "original_block_line": 18,
+          "original_item": "- **Associated presence** is the cautious term for the genuinely extrinsic being or beings linked to early and contemporary manifestations.",
+          "destination": "concepts/developing/the-manifold.md :: ## Working vocabulary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Working vocabulary",
+          "original_block_line": 18,
+          "original_item": "- **Closed recursion** is the provisional technical term for a boundary-locked rupture in which no locally continuous path from the affected interior reaches the exterior, even though every local path can continue.",
+          "destination": "concepts/developing/the-manifold.md :: ## Working vocabulary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Working vocabulary",
+          "original_block_line": 18,
+          "original_item": "- **Deadfold** is the provisional field term for a closed recursion and, by extension, the quarantined place that contains one. It does not mean that everyone inside is dead.",
+          "destination": "concepts/developing/the-manifold.md :: ## Working vocabulary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Working vocabulary",
+          "original_block_line": 18,
+          "original_item": "- **Uncounted hour** remains the provisional field term for an interval whose locally valid event sequences admit no single total ordering.",
+          "destination": "concepts/developing/the-manifold.md :: ## Working vocabulary",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Editorial posture and evidence",
+          "original_block_line": 67,
+          "original_item": "- **Grade A:** physical remains, independent technical records, and credible contemporary testimony agree.",
+          "destination": "concepts/developing/the-manifold.md :: ## Editorial posture and evidence",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Editorial posture and evidence",
+          "original_block_line": 67,
+          "original_item": "- **Grade B:** strong documentary evidence exists, but material evidence is incomplete or inaccessible.",
+          "destination": "concepts/developing/the-manifold.md :: ## Editorial posture and evidence",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Editorial posture and evidence",
+          "original_block_line": 67,
+          "original_item": "- **Grade C:** multiple traditions agree centrally while important details conflict.",
+          "destination": "concepts/developing/the-manifold.md :: ## Editorial posture and evidence",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Editorial posture and evidence",
+          "original_block_line": 67,
+          "original_item": "- **Grade D:** one substantial source or dependent cluster supports the claim.",
+          "destination": "concepts/developing/the-manifold.md :: ## Editorial posture and evidence",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Editorial posture and evidence",
+          "original_block_line": 67,
+          "original_item": "- **Grade E:** folklore, rumor, propaganda, visionary testimony, or an unexplained anomaly.",
+          "destination": "concepts/developing/the-manifold.md :: ## Editorial posture and evidence",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 158,
+          "original_item": "- **Strategic denial:** a presence renders an important place and its usable history inaccessible.",
+          "destination": "concepts/developing/the-manifold.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 158,
+          "original_item": "- **Transit or architecture:** a rupture is a corridor, chamber, foothold, or habitat whose natural geometry is incompatible with human spacetime.",
+          "destination": "concepts/developing/the-manifold.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 158,
+          "original_item": "- **Containment:** The Manifold makes a place or interval unreachable in order to isolate something else.",
+          "destination": "concepts/developing/the-manifold.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 158,
+          "original_item": "- **Survey or observation:** shards explore possible configurations while a presence inspects or compares the results.",
+          "destination": "concepts/developing/the-manifold.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 158,
+          "original_item": "- **Communication:** a rupture is a message expressed through adjacency and event order rather than language.",
+          "destination": "concepts/developing/the-manifold.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 158,
+          "original_item": "- **Construction:** the apparent damage is an unfinished boundary of a structure assembled outside ordinary dimensional constraints.",
+          "destination": "concepts/developing/the-manifold.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 158,
+          "original_item": "- **Exhaust or injury:** shards and ruptures are debris, blood, scars, or waste from an operation occurring elsewhere.",
+          "destination": "concepts/developing/the-manifold.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Original purpose",
+          "original_block_line": 158,
+          "original_item": "- **One transtemporal operation:** early and contemporary incidents are not repeated uses but exposed faces of one action.",
+          "destination": "concepts/developing/the-manifold.md :: ## Original purpose",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Locally exact, globally irreconcilable",
+          "original_block_line": 201,
+          "original_item": "- a corridor returns to its origin and also exits elsewhere;",
+          "destination": "concepts/developing/the-manifold.md :: ### Locally exact, globally irreconcilable",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Locally exact, globally irreconcilable",
+          "original_block_line": 201,
+          "original_item": "- two crews each arrive first;",
+          "destination": "concepts/developing/the-manifold.md :: ### Locally exact, globally irreconcilable",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Locally exact, globally irreconcilable",
+          "original_block_line": 201,
+          "original_item": "- a chamber lies on both sides of its own wall;",
+          "destination": "concepts/developing/the-manifold.md :: ### Locally exact, globally irreconcilable",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Locally exact, globally irreconcilable",
+          "original_block_line": 201,
+          "original_item": "- an evacuation becomes the supported cause of the emergency that prompted it;",
+          "destination": "concepts/developing/the-manifold.md :: ### Locally exact, globally irreconcilable",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Locally exact, globally irreconcilable",
+          "original_block_line": 201,
+          "original_item": "- mutually exclusive casualty histories possess authentic remains and records;",
+          "destination": "concepts/developing/the-manifold.md :: ### Locally exact, globally irreconcilable",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Locally exact, globally irreconcilable",
+          "original_block_line": 201,
+          "original_item": "- or an interval has a beginning and an end but no single consistent ordering of all events between them.",
+          "destination": "concepts/developing/the-manifold.md :: ### Locally exact, globally irreconcilable",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Tachyon shards",
+          "original_block_line": 303,
+          "original_item": "- register at separated detectors in an order incompatible with a subluminal trajectory;",
+          "destination": "concepts/developing/the-manifold.md :: ### Tachyon shards",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Tachyon shards",
+          "original_block_line": 303,
+          "original_item": "- appear to approach from mutually exclusive directions;",
+          "destination": "concepts/developing/the-manifold.md :: ### Tachyon shards",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Tachyon shards",
+          "original_block_line": 303,
+          "original_item": "- produce path and timing residuals that grow recursively instead of converging;",
+          "destination": "concepts/developing/the-manifold.md :: ### Tachyon shards",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Tachyon shards",
+          "original_block_line": 303,
+          "original_item": "- occupy apparent vertices of a configuration that cannot be embedded in one ordinary spatial chart;",
+          "destination": "concepts/developing/the-manifold.md :: ### Tachyon shards",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Tachyon shards",
+          "original_block_line": 303,
+          "original_item": "- and sometimes cease to register before the earliest instrument record of their arrival.",
+          "destination": "concepts/developing/the-manifold.md :: ### Tachyon shards",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### What an interior survey actually measures",
+          "original_block_line": 336,
+          "original_item": "- wheel, inertial, optical-flow, and physical-tether distance;",
+          "destination": "concepts/developing/the-manifold.md :: ### What an interior survey actually measures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### What an interior survey actually measures",
+          "original_block_line": 336,
+          "original_item": "- wall composition, fastener genealogy, wear, dust, and microfracture patterns;",
+          "destination": "concepts/developing/the-manifold.md :: ### What an interior survey actually measures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### What an interior survey actually measures",
+          "original_block_line": 336,
+          "original_item": "- local gravity, pressure, acoustic impulse response, and thermal gradients;",
+          "destination": "concepts/developing/the-manifold.md :: ### What an interior survey actually measures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### What an interior survey actually measures",
+          "original_block_line": 336,
+          "original_item": "- synchronized clocks that were separated before incidence;",
+          "destination": "concepts/developing/the-manifold.md :: ### What an interior survey actually measures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### What an interior survey actually measures",
+          "original_block_line": 336,
+          "original_item": "- unique physical marks applied during the survey;",
+          "destination": "concepts/developing/the-manifold.md :: ### What an interior survey actually measures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### What an interior survey actually measures",
+          "original_block_line": 336,
+          "original_item": "- exterior mass, parallax, radar, and gravitational measurements;",
+          "destination": "concepts/developing/the-manifold.md :: ### What an interior survey actually measures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### What an interior survey actually measures",
+          "original_block_line": 336,
+          "original_item": "- and every attempted crossing reported simultaneously from both sides of the estimated rim.",
+          "destination": "concepts/developing/the-manifold.md :: ### What an interior survey actually measures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Observed establishment sequence",
+          "original_block_line": 429,
+          "original_item": "1. **Incidence:** One or more shard signatures appear. Different observers may count different totals.",
+          "destination": "concepts/developing/the-manifold.md :: ### Observed establishment sequence",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Observed establishment sequence",
+          "original_block_line": 429,
+          "original_item": "2. **Exploration:** Brief errors of adjacency, duration, and sequence proliferate. Most vanish. No model successfully enumerates the configurations explored.",
+          "destination": "concepts/developing/the-manifold.md :: ### Observed establishment sequence",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Observed establishment sequence",
+          "original_block_line": 429,
+          "original_item": "3. **Boundary-lock:** The affected region acquires a persistent rim and ceases to admit one globally consistent geometry and causal history.",
+          "destination": "concepts/developing/the-manifold.md :: ### Observed establishment sequence",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Observed establishment sequence",
+          "original_block_line": 429,
+          "original_item": "4. **Persistence or release:** The rupture remains stable, changes boundary, contracts, or resolves into one externally coherent aftermath while leaving mutually authentic contradictory evidence.",
+          "destination": "concepts/developing/the-manifold.md :: ### Observed establishment sequence",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Incidence signs before boundary-lock",
+          "original_block_line": 525,
+          "original_item": "- closed-path laser ranges whose residual changes when the path is traversed in the opposite order;",
+          "destination": "concepts/developing/the-manifold.md :: ### Incidence signs before boundary-lock",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Incidence signs before boundary-lock",
+          "original_block_line": 525,
+          "original_item": "- echoes that return through a physically different aperture without an unexplained energy gain;",
+          "destination": "concepts/developing/the-manifold.md :: ### Incidence signs before boundary-lock",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Incidence signs before boundary-lock",
+          "original_block_line": 525,
+          "original_item": "- duplicated access events for one uniquely tagged door, with neither event a recording copy;",
+          "destination": "concepts/developing/the-manifold.md :: ### Incidence signs before boundary-lock",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Incidence signs before boundary-lock",
+          "original_block_line": 525,
+          "original_item": "- clocks that remain individually stable while pairwise offsets cannot all be satisfied;",
+          "destination": "concepts/developing/the-manifold.md :: ### Incidence signs before boundary-lock",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Incidence signs before boundary-lock",
+          "original_block_line": 525,
+          "original_item": "- pressure or thermal fronts arriving along a route shorter than every mapped connection and longer than the exterior enclosure;",
+          "destination": "concepts/developing/the-manifold.md :: ### Incidence signs before boundary-lock",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Incidence signs before boundary-lock",
+          "original_block_line": 525,
+          "original_item": "- a tether that crosses itself in ordinary space without either segment passing over or under the other in the recorded path history;",
+          "destination": "concepts/developing/the-manifold.md :: ### Incidence signs before boundary-lock",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Incidence signs before boundary-lock",
+          "original_block_line": 525,
+          "original_item": "- a maintenance mark observed before the work order that created it;",
+          "destination": "concepts/developing/the-manifold.md :: ### Incidence signs before boundary-lock",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Incidence signs before boundary-lock",
+          "original_block_line": 525,
+          "original_item": "- and an apparent exterior view whose parallax, star field, or traffic does not match any simultaneous exterior instrument.",
+          "destination": "concepts/developing/the-manifold.md :: ### Incidence signs before boundary-lock",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Associated presences",
+          "original_block_line": 560,
+          "original_item": "- many beings are mistaken for one;",
+          "destination": "concepts/developing/the-manifold.md :: ### Associated presences",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Associated presences",
+          "original_block_line": 560,
+          "original_item": "- one being intersects ordinary spacetime many times;",
+          "destination": "concepts/developing/the-manifold.md :: ### Associated presences",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Associated presences",
+          "original_block_line": 560,
+          "original_item": "- the presences are components of The Manifold;",
+          "destination": "concepts/developing/the-manifold.md :: ### Associated presences",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Associated presences",
+          "original_block_line": 560,
+          "original_item": "- The Manifold is a component of them;",
+          "destination": "concepts/developing/the-manifold.md :: ### Associated presences",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Associated presences",
+          "original_block_line": 560,
+          "original_item": "- they are trapped by it;",
+          "destination": "concepts/developing/the-manifold.md :: ### Associated presences",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Associated presences",
+          "original_block_line": 560,
+          "original_item": "- they tend or repair it;",
+          "destination": "concepts/developing/the-manifold.md :: ### Associated presences",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Associated presences",
+          "original_block_line": 560,
+          "original_item": "- or their apparent actions are artifacts of forcing nonsequential conduct into sequential testimony.",
+          "destination": "concepts/developing/the-manifold.md :: ### Associated presences",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### No selectable outcome",
+          "original_block_line": 615,
+          "original_item": "- which adjacencies will survive;",
+          "destination": "concepts/developing/the-manifold.md :: ### No selectable outcome",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### No selectable outcome",
+          "original_block_line": 615,
+          "original_item": "- which event order will be locally experienced;",
+          "destination": "concepts/developing/the-manifold.md :: ### No selectable outcome",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### No selectable outcome",
+          "original_block_line": 615,
+          "original_item": "- who will emerge;",
+          "destination": "concepts/developing/the-manifold.md :: ### No selectable outcome",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### No selectable outcome",
+          "original_block_line": 615,
+          "original_item": "- how long the interval will remain open;",
+          "destination": "concepts/developing/the-manifold.md :: ### No selectable outcome",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### No selectable outcome",
+          "original_block_line": 615,
+          "original_item": "- or whether interference causes collapse, relocation, or premature boundary-lock.",
+          "destination": "concepts/developing/the-manifold.md :: ### No selectable outcome",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Establishment conditions",
+          "original_block_line": 696,
+          "original_item": "- route junctions and highly coupled route-support infrastructure;",
+          "destination": "concepts/developing/the-manifold.md :: ### Establishment conditions",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Establishment conditions",
+          "original_block_line": 696,
+          "original_item": "- highly synchronized transit or communication infrastructure;",
+          "destination": "concepts/developing/the-manifold.md :: ### Establishment conditions",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Establishment conditions",
+          "original_block_line": 696,
+          "original_item": "- places with many causally coupled moving systems;",
+          "destination": "concepts/developing/the-manifold.md :: ### Establishment conditions",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Establishment conditions",
+          "original_block_line": 696,
+          "original_item": "- and events where many consequential paths converge.",
+          "destination": "concepts/developing/the-manifold.md :: ### Establishment conditions",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Countermeasures",
+          "original_block_line": 710,
+          "original_item": "- compare physically separated clocks, closed-path ranges, and parallax surveys;",
+          "destination": "concepts/developing/the-manifold.md :: ### Countermeasures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Countermeasures",
+          "original_block_line": 710,
+          "original_item": "- shut down or separate local route and implicated adjacency infrastructure;",
+          "destination": "concepts/developing/the-manifold.md :: ### Countermeasures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Countermeasures",
+          "original_block_line": 710,
+          "original_item": "- alter the geometry of suspected incidence sites;",
+          "destination": "concepts/developing/the-manifold.md :: ### Countermeasures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Countermeasures",
+          "original_block_line": 710,
+          "original_item": "- evacuate outward along one uninterrupted path;",
+          "destination": "concepts/developing/the-manifold.md :: ### Countermeasures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Countermeasures",
+          "original_block_line": 710,
+          "original_item": "- and disrupt a shard constellation only after exterior instruments estimate the likely boundary.",
+          "destination": "concepts/developing/the-manifold.md :: ### Countermeasures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Countermeasures",
+          "original_block_line": 723,
+          "original_item": "- establish quarantine beyond the greatest observed boundary excursion;",
+          "destination": "concepts/developing/the-manifold.md :: ### Countermeasures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Countermeasures",
+          "original_block_line": 723,
+          "original_item": "- sever physical and route connections crossing the rim;",
+          "destination": "concepts/developing/the-manifold.md :: ### Countermeasures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Countermeasures",
+          "original_block_line": 723,
+          "original_item": "- never divide a rescue team and attempt reunion;",
+          "destination": "concepts/developing/the-manifold.md :: ### Countermeasures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Countermeasures",
+          "original_block_line": 723,
+          "original_item": "- use one ingress path, one local reference frame, and continuous physical tethering—the provisional **single-chart doctrine**;",
+          "destination": "concepts/developing/the-manifold.md :: ### Countermeasures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Countermeasures",
+          "original_block_line": 723,
+          "original_item": "- preserve every returned record without forcing premature reconciliation;",
+          "destination": "concepts/developing/the-manifold.md :: ### Countermeasures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Countermeasures",
+          "original_block_line": 723,
+          "original_item": "- and treat apparent resolution as unconfirmed until independent exterior instruments agree over time.",
+          "destination": "concepts/developing/the-manifold.md :: ### Countermeasures",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Failure modes",
+          "original_block_line": 737,
+          "original_item": "- **Closure acceleration and substitution:** interference may stabilize a rupture sooner, move a shard condition elsewhere or earlier, carry incidence with a removed anchor, or incorporate the power, command, and rescue infrastructure added to contain it.",
+          "destination": "concepts/developing/the-manifold.md :: ### Failure modes",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Failure modes",
+          "original_block_line": 737,
+          "original_item": "- **False reversal:** a crew can retrace every measured motion and enter another path history. An apparent hatch may accept a probe or rescuer without an inverse, and a tether may preserve local tension while ceasing to share one exterior payout ledger.",
+          "destination": "concepts/developing/the-manifold.md :: ### Failure modes",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Failure modes",
+          "original_block_line": 737,
+          "original_item": "- **Survey and rescue cascade:** branching probes or divided teams may add path histories faster than they constrain the atlas. Later teams follow authentic telemetry into other charts and become additional captives.",
+          "destination": "concepts/developing/the-manifold.md :: ### Failure modes",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Failure modes",
+          "original_block_line": 737,
+          "original_item": "- **Resource and work-loop error:** a recurring cache is treated as replenished, or an apparent gravitational, pressure, thermal, or optical cycle is connected to an exterior load. The cache remains spent, the return leg fails to share the load's chart, or more machinery is incorporated without useful export.",
+          "destination": "concepts/developing/the-manifold.md :: ### Failure modes",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Failure modes",
+          "original_block_line": 737,
+          "original_item": "- **False shelter:** a stable local refuge is mistaken for a globally protected enclave. A new supply, control, or rescue connection may supply the adjacency by which it is later captured.",
+          "destination": "concepts/developing/the-manifold.md :: ### Failure modes",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Failure modes",
+          "original_block_line": 737,
+          "original_item": "- **False concordance and release miscount:** one local chart is mistaken for resolution, or authorities assume the expected roster must emerge. A different finite state reconciles while equally authentic custody is discarded.",
+          "destination": "concepts/developing/the-manifold.md :: ### Failure modes",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Failure modes",
+          "original_block_line": 737,
+          "original_item": "- **Command-chain inclusion and objective inversion:** the affected interval may extend through preparation and include the observers, deny the attacker's own approach, preserve the target in a refuge, or create a relation useful to an opponent.",
+          "destination": "concepts/developing/the-manifold.md :: ### Failure modes",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Failure modes",
+          "original_block_line": 737,
+          "original_item": "- **Unintended function:** an attempted denial may resemble a corridor, enclosure, arrival site, release event, or associated-presence incident rather than the intended military result.",
+          "destination": "concepts/developing/the-manifold.md :: ### Failure modes",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Failure modes",
+          "original_block_line": 737,
+          "original_item": "- **Reconciliation loss:** an apparently successful evacuation may yield an externally coherent survivor set different from the one expected.",
+          "destination": "concepts/developing/the-manifold.md :: ### Failure modes",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Failure modes",
+          "original_block_line": 737,
+          "original_item": "- **Strategic non-result:** a target may be destroyed in one authenticated history and intact in another, denying occupation and verification without producing an ordinary victory.",
+          "destination": "concepts/developing/the-manifold.md :: ### Failure modes",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Exterior boundary measurement",
+          "original_block_line": 1052,
+          "original_item": "- Where has nonreciprocal or noncomposing behavior been observed?",
+          "destination": "concepts/developing/the-manifold.md :: ### Exterior boundary measurement",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Exterior boundary measurement",
+          "original_block_line": 1052,
+          "original_item": "- What bounds can be placed on stress-energy and physical infrastructure inside the greatest envelope, relative to the pre-incident inventory and documented ingress?",
+          "destination": "concepts/developing/the-manifold.md :: ### Exterior boundary measurement",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Exterior boundary measurement",
+          "original_block_line": 1052,
+          "original_item": "- Which apertures have demonstrated reciprocal material crossing?",
+          "destination": "concepts/developing/the-manifold.md :: ### Exterior boundary measurement",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Exterior boundary measurement",
+          "original_block_line": 1052,
+          "original_item": "- Has the estimated rim moved, divided, or joined a separated site?",
+          "destination": "concepts/developing/the-manifold.md :: ### Exterior boundary measurement",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Exterior boundary measurement",
+          "original_block_line": 1052,
+          "original_item": "- Do unaffected clocks agree on incidence, lock, excursion, and apparent release?",
+          "destination": "concepts/developing/the-manifold.md :: ### Exterior boundary measurement",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Boundary proof",
+          "original_block_line": 1114,
+          "original_item": "1. a persistent exterior rim measured from independent unaffected stations;",
+          "destination": "concepts/developing/the-manifold.md :: ### Boundary proof",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "### Boundary proof",
+          "original_block_line": 1114,
+          "original_item": "2. loss of reciprocal crossing across every previously authenticated aperture;",
+          "destination": "concepts/developing/the-manifold.md :: ### Boundary proof",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "### Boundary proof",
+          "original_block_line": 1114,
+          "original_item": "3. internal route residuals that expand under independent survey rather than converging upon a finite map;",
+          "destination": "concepts/developing/the-manifold.md :: ### Boundary proof",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "### Boundary proof",
+          "original_block_line": 1114,
+          "original_item": "4. failure of direct, reverse, breached, line-of-sight, free-flight, and tethered crossings to reach the exterior reference frame;",
+          "destination": "concepts/developing/the-manifold.md :: ### Boundary proof",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "### Boundary proof",
+          "original_block_line": 1114,
+          "original_item": "5. no excess stress-energy beyond the pre-incident bounds plus documented ingress, within measurement uncertainty;",
+          "destination": "concepts/developing/the-manifold.md :: ### Boundary proof",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "### Boundary proof",
+          "original_block_line": 1114,
+          "original_item": "6. and enough duration to exclude moving architecture, transient route failure, command fraud, or ordinary siege conditions.",
+          "destination": "concepts/developing/the-manifold.md :: ### Boundary proof",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "### Differential diagnosis",
+          "original_block_line": 1150,
+          "original_item": "- **Ordinary maze, moving structure, or copied rooms:** material inventory and transition rules eventually converge; reverse traversal remains meaningful.",
+          "destination": "concepts/developing/the-manifold.md :: ### Differential diagnosis",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Differential diagnosis",
+          "original_block_line": 1150,
+          "original_item": "- **Static looping geometry or engineered shortcut:** the topology may be unusual, but repeated paths have stable inverses or periodic residuals and can be represented by one global model.",
+          "destination": "concepts/developing/the-manifold.md :: ### Differential diagnosis",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Differential diagnosis",
+          "original_block_line": 1150,
+          "original_item": "- **Gravity, lensing, or inertial error:** independent accelerometers, gyroscopes, star fields, and exterior baselines account for the distortion without authentic incompatible adjacencies.",
+          "destination": "concepts/developing/the-manifold.md :: ### Differential diagnosis",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Differential diagnosis",
+          "original_block_line": 1150,
+          "original_item": "- **Route failure:** transit infrastructure may strand a site without making a local hatch open into two different material interiors.",
+          "destination": "concepts/developing/the-manifold.md :: ### Differential diagnosis",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Differential diagnosis",
+          "original_block_line": 1150,
+          "original_item": "- **The Closed Night:** outward radiation is returned across one ordinary-space boundary; matter still crosses in one geometry, and the energy ledger explains the silence.",
+          "destination": "concepts/developing/the-manifold.md :: ### Differential diagnosis",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Differential diagnosis",
+          "original_block_line": 1150,
+          "original_item": "- **The Agreement:** coupled observers and machines converge upon correlated error; physically isolated records recover independence rather than remain mutually exact and incompatible.",
+          "destination": "concepts/developing/the-manifold.md :: ### Differential diagnosis",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Differential diagnosis",
+          "original_block_line": 1150,
+          "original_item": "- **The Rzez:** matter loses structural continuity inside one geometry and chronology; survey disagreement alone does not establish cohesion failure.",
+          "destination": "concepts/developing/the-manifold.md :: ### Differential diagnosis",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Differential diagnosis",
+          "original_block_line": 1150,
+          "original_item": "- **The Rehearsal:** extreme energy and material residues propagate causally through ordinary spacetime and create no recursive interior.",
+          "destination": "concepts/developing/the-manifold.md :: ### Differential diagnosis",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Differential diagnosis",
+          "original_block_line": 1150,
+          "original_item": "- **The Unhidden:** an open form can imitate architecture or occupy many surfaces, but its finite living anatomy remains wholly present and materially traceable.",
+          "destination": "concepts/developing/the-manifold.md :: ### Differential diagnosis",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Differential diagnosis",
+          "original_block_line": 1150,
+          "original_item": "- **Fraud or propaganda:** custody breaks, calibration is hidden, alleged duplicates lack common material genealogy, or the political claim precedes the measurements it purports to summarize.",
+          "destination": "concepts/developing/the-manifold.md :: ### Differential diagnosis",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "#### Exploration and evacuation",
+          "original_block_line": 1462,
+          "original_item": "- local clocks remained monotonic;",
+          "destination": "concepts/developing/the-manifold.md :: #### Exploration and evacuation",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "#### Exploration and evacuation",
+          "original_block_line": 1462,
+          "original_item": "- inertial units recorded ordinary acceleration;",
+          "destination": "concepts/developing/the-manifold.md :: #### Exploration and evacuation",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "#### Exploration and evacuation",
+          "original_block_line": 1462,
+          "original_item": "- known corridors retained their measured lengths;",
+          "destination": "concepts/developing/the-manifold.md :: #### Exploration and evacuation",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "#### Exploration and evacuation",
+          "original_block_line": 1462,
+          "original_item": "- the sixty-one compartments remained recognizable and materially finite;",
+          "destination": "concepts/developing/the-manifold.md :: #### Exploration and evacuation",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "#### Exploration and evacuation",
+          "original_block_line": 1462,
+          "original_item": "- ordered traverses ceased to fit one station map;",
+          "destination": "concepts/developing/the-manifold.md :: #### Exploration and evacuation",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "#### Exploration and evacuation",
+          "original_block_line": 1462,
+          "original_item": "- and each new attempt to define *outward* produced another locally valid continuation.",
+          "destination": "concepts/developing/the-manifold.md :: #### Exploration and evacuation",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Exterior Measure",
+          "original_block_line": 1657,
+          "original_item": "- map the greatest exterior boundary excursion;",
+          "destination": "concepts/developing/the-manifold.md :: ### Exterior Measure",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Exterior Measure",
+          "original_block_line": 1657,
+          "original_item": "- maintain physically independent clocks, ranging baselines, raw archives, and custody paths;",
+          "destination": "concepts/developing/the-manifold.md :: ### Exterior Measure",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Exterior Measure",
+          "original_block_line": 1657,
+          "original_item": "- preserve every authenticated casualty, survivor, and property chronology;",
+          "destination": "concepts/developing/the-manifold.md :: ### Exterior Measure",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Exterior Measure",
+          "original_block_line": 1657,
+          "original_item": "- distinguish mature rupture from route failure, fraud, Rzez damage, Agreement covariance, and ordinary abandonment;",
+          "destination": "concepts/developing/the-manifold.md :: ### Exterior Measure",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Exterior Measure",
+          "original_block_line": 1657,
+          "original_item": "- control approach without pretending to control the phenomenon;",
+          "destination": "concepts/developing/the-manifold.md :: ### Exterior Measure",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Exterior Measure",
+          "original_block_line": 1657,
+          "original_item": "- prohibit transport of suspected active anchors;",
+          "destination": "concepts/developing/the-manifold.md :: ### Exterior Measure",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Exterior Measure",
+          "original_block_line": 1657,
+          "original_item": "- and keep at least one observation and command chain wholly outside the estimated boundary.",
+          "destination": "concepts/developing/the-manifold.md :: ### Exterior Measure",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### The Common Outside Convention",
+          "original_block_line": 1685,
+          "original_item": "- independent exterior observation before intervention;",
+          "destination": "concepts/developing/the-manifold.md :: ### The Common Outside Convention",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "### The Common Outside Convention",
+          "original_block_line": 1685,
+          "original_item": "- immediate physical simplification or severance of implicated synchronized infrastructure while incidence remains immature;",
+          "destination": "concepts/developing/the-manifold.md :: ### The Common Outside Convention",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "### The Common Outside Convention",
+          "original_block_line": 1685,
+          "original_item": "- evacuation along one uninterrupted path without division for comparative survey;",
+          "destination": "concepts/developing/the-manifold.md :: ### The Common Outside Convention",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "### The Common Outside Convention",
+          "original_block_line": 1685,
+          "original_item": "- quarantine beyond the greatest recorded excursion;",
+          "destination": "concepts/developing/the-manifold.md :: ### The Common Outside Convention",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "### The Common Outside Convention",
+          "original_block_line": 1685,
+          "original_item": "- no human entry into a mature egress-complete deadfold merely to improve the evidence;",
+          "destination": "concepts/developing/the-manifold.md :: ### The Common Outside Convention",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "### The Common Outside Convention",
+          "original_block_line": 1685,
+          "original_item": "- preservation of incompatible authenticated histories without forced harmonization;",
+          "destination": "concepts/developing/the-manifold.md :: ### The Common Outside Convention",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "### The Common Outside Convention",
+          "original_block_line": 1685,
+          "original_item": "- prohibition of active-anchor transport and deliberate human induction;",
+          "destination": "concepts/developing/the-manifold.md :: ### The Common Outside Convention",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "### The Common Outside Convention",
+          "original_block_line": 1685,
+          "original_item": "- and compensation based on supported human harm rather than the politically convenient history with the fewest obligations.",
+          "destination": "concepts/developing/the-manifold.md :: ### The Common Outside Convention",
+          "disposition": "retained essential structure"
+        },
+        {
+          "original_heading": "## Cultural afterlife",
+          "original_block_line": 1808,
+          "original_item": "- A **Talren map** is a compilation whose local statements are reliable and whose total account is impossible.",
+          "destination": "concepts/developing/the-manifold.md :: ## Cultural afterlife",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Cultural afterlife",
+          "original_block_line": 1808,
+          "original_item": "- To **carry an outside** is to preserve a person, clock, archive, or authority that has not entered the system it must later judge.",
+          "destination": "concepts/developing/the-manifold.md :: ## Cultural afterlife",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Cultural afterlife",
+          "original_block_line": 1808,
+          "original_item": "- **Making one map** means destroying evidence for administrative simplicity.",
+          "destination": "concepts/developing/the-manifold.md :: ## Cultural afterlife",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Cultural afterlife",
+          "original_block_line": 1808,
+          "original_item": "- **Chart grief** is mourning across incompatible supported histories.",
+          "destination": "concepts/developing/the-manifold.md :: ## Cultural afterlife",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Cultural afterlife",
+          "original_block_line": 1808,
+          "original_item": "- An **uncounted hour** is an interval acknowledged as real but not reducible to one event order.",
+          "destination": "concepts/developing/the-manifold.md :: ## Cultural afterlife",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Cultural afterlife",
+          "original_block_line": 1808,
+          "original_item": "- **Deadfold** remains narrow field language for an egress-complete bounded rupture, not a synonym for every confusing building or hopeless place.",
+          "destination": "concepts/developing/the-manifold.md :: ## Cultural afterlife",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Setting placement",
+          "original_block_line": 1973,
+          "original_item": "- The Manifold becomes established as extrinsic to known civilization and apparently to ordinary local spacetime.",
+          "destination": "concepts/developing/the-manifold.md :: ## Setting placement",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Setting placement",
+          "original_block_line": 1973,
+          "original_item": "- At least one extrinsic associated presence becomes authorially real and strongly supported in-world.",
+          "destination": "concepts/developing/the-manifold.md :: ## Setting placement",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Setting placement",
+          "original_block_line": 1973,
+          "original_item": "- The presence's intelligence, number, civilization, origin, authorship, and relationship to the complex remain unresolved.",
+          "destination": "concepts/developing/the-manifold.md :: ## Setting placement",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "## Canon dependencies",
+          "original_block_line": 2221,
+          "original_item": "- the Grade A-through-E claim-level evidence model;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon dependencies",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon dependencies",
+          "original_block_line": 2221,
+          "original_item": "- the small connected inhabited region;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon dependencies",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon dependencies",
+          "original_block_line": 2221,
+          "original_item": "- the setting's sparse route network, its endpoint infrastructure, and its categorical separation from Manifold rupture;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon dependencies",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon dependencies",
+          "original_block_line": 2221,
+          "original_item": "- uneven intersystem communication;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon dependencies",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon dependencies",
+          "original_block_line": 2221,
+          "original_item": "- Compact-era forensic and quarantine capability;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon dependencies",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon dependencies",
+          "original_block_line": 2221,
+          "original_item": "- frontier archives and oral traditions;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon dependencies",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon dependencies",
+          "original_block_line": 2221,
+          "original_item": "- the distinction among authorial truth, editorial judgment, source claims, and unresolved metaphysics;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon dependencies",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon dependencies",
+          "original_block_line": 2221,
+          "original_item": "- and the rule that scale changes architecture, not only output.",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon dependencies",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 2238,
+          "original_item": "- `causal-topological` as a primary human analytical system;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 2238,
+          "original_item": "- traits such as `configuration-exploratory`, `topology-disjunctive`, and `causally-disjunctive`;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 2238,
+          "original_item": "- extrinsic provenance as a classification independent of original purpose;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 2238,
+          "original_item": "- a confirmed extrinsic complex without a confirmed nonhuman civilization;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 2238,
+          "original_item": "- concordance forensics for mutually authentic incompatible histories;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 2238,
+          "original_item": "- the working sequence of incidence, exploration, boundary-lock, and persistence or release;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 2238,
+          "original_item": "- and the shared terms **tachyon shard**, **Manifold rupture**, **boundary-lock**, **associated presence**, **concordance bundle**, and **single-chart doctrine**.",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 2263,
+          "original_item": "- evidentiary thresholds and incident-specific timing for the establishment phases;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 2263,
+          "original_item": "- Talren as the named contemporary rupture;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 2263,
+          "original_item": "- Exterior Measure as the named temporal-quarantine practice and **rimkeepers** as its field personnel;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Possible new canon",
+          "original_block_line": 2263,
+          "original_item": "- and a decision whether to retain **deadfold** and **uncounted hour** as shared field terms.",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Possible new canon",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 2279,
+          "original_item": "1. Retain `origin_classification` for a supported prior function.",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 2279,
+          "original_item": "2. Permit it to be absent when purpose is unknown rather than filling it with `unknown`.",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 2279,
+          "original_item": "3. Use a separate provenance axis, with `extrinsic-unknown` for The Manifold.",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 2279,
+          "original_item": "4. Use `causal-topological` as a human analytical engineering system.",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 2279,
+          "original_item": "5. Use behavioral traits only where detection and countermeasure sections apply them consistently.",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 2279,
+          "original_item": "6. Consider a separate temporal-reach axis only after the draft demonstrates useful controlled values.",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Candidate taxonomy work",
+          "original_block_line": 2279,
+          "original_item": "7. Use `phenomenon-complex` provisionally so the entry does not decide the relation among shards, ruptures, and associated presences prematurely.",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Candidate taxonomy work",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 2303,
+          "original_item": "- `causal-topological` as the human analytical classification;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 2303,
+          "original_item": "- `extrinsic-unknown` provenance and a genuinely unknown original purpose;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 2303,
+          "original_item": "- the authorial reality of at least one associated extrinsic presence;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 2303,
+          "original_item": "- locally exact but globally irreconcilable ruptures with finite exterior bounds;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 2303,
+          "original_item": "- the working incidence, exploration, boundary-lock, and persistence-or-release sequence;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 2303,
+          "original_item": "- rare, indirect, and unreliable human attempts to provoke or bias establishment;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 2303,
+          "original_item": "- no controllable prophecy, duplication, infinite resources, transit, or faster-than-light communication;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Canon integration status",
+          "original_block_line": 2303,
+          "original_item": "- and Kelan–Ruva's external observation, independent-clock, concordance, and legal response without a confirmed home-system rupture.",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Canon integration status",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 2352,
+          "original_item": "- becomes generic reality alteration without invariant limits;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 2352,
+          "original_item": "- uses “paradox” as permission for any desired outcome;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 2352,
+          "original_item": "- enables controllable prophecy, duplication, infinite energy, or retrospective erasure;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 2352,
+          "original_item": "- makes every archival contradiction secretly a Manifold event;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 2352,
+          "original_item": "- reduces an associated presence to an ordinary alien invader;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 2352,
+          "original_item": "- explains its society, motive, strategy, or relation to the complex too soon;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 2352,
+          "original_item": "- defines the interstellar route system incidentally;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 2352,
+          "original_item": "- makes planetary or epochal destruction routine enough to diminish Valec;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 2352,
+          "original_item": "- becomes common, reliable, or controllable enough to function as ordinary military hardware;",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "## Reasons to reject or defer",
+          "original_block_line": 2352,
+          "original_item": "- or cannot produce one bounded incident in which precise rules create human decisions.",
+          "destination": "docs/editorial-notes/the-manifold.md :: ## Reasons to reject or defer",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve during development",
+          "original_block_line": 2374,
+          "original_item": "- Does the Talren Recursion become the adopted Grade A anchor, and which of its current names, figures, measurements, and records survive continuity review?",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Resolve during development",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve during development",
+          "original_block_line": 2374,
+          "original_item": "- Where outside Kelan–Ruva is Talren placed, and what exterior Compact-relative anchors can be established without conflating Talren with ordinary route transit or changing established setting constraints?",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Resolve during development",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve during development",
+          "original_block_line": 2374,
+          "original_item": "- What best-supported incident demonstrates deliberate human induction rather than opportunistic interference with a naturally occurring manifestation?",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Resolve during development",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve during development",
+          "original_block_line": 2374,
+          "original_item": "- What physical preparation lets humans bias the approximate envelope without implying genuine aim or repeatable control?",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Resolve during development",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve during development",
+          "original_block_line": 2374,
+          "original_item": "- What observation intervals and service limits do the proposed staged release certificates adopt for each named case's scale and prior boundary excursions?",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Resolve during development",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve during development",
+          "original_block_line": 2374,
+          "original_item": "- Can every mature rupture become egress-complete, or is closed recursion one architecture among several terminal forms?",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Resolve during development",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve during development",
+          "original_block_line": 2374,
+          "original_item": "- How long can one locally coherent refuge persist?",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Resolve during development",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve during development",
+          "original_block_line": 2374,
+          "original_item": "- Can a mature rupture contract naturally, or only change and release?",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Resolve during development",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve during development",
+          "original_block_line": 2374,
+          "original_item": "- Which released case best demonstrates reconciliation cost without weakening Talren's no-exit condition?",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Resolve during development",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve during development",
+          "original_block_line": 2374,
+          "original_item": "- Does the first entry retain Nhal only as a Grade E threat ceiling, or omit a planetary case entirely?",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Resolve during development",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve during development",
+          "original_block_line": 2374,
+          "original_item": "- Are Exterior Measure and the Common Outside Convention adopted as shared lore, renamed, or left entry-local?",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Resolve during development",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Resolve during development",
+          "original_block_line": 2374,
+          "original_item": "- Are **deadfold**, **uncounted hour**, **closed recursion**, and **unreconciled absence** retained as shared terms or replaced?",
+          "destination": "docs/editorial-notes/the-manifold.md :: ### Resolve during development",
+          "disposition": "moved intact to editorial notes"
+        },
+        {
+          "original_heading": "### Preserve intentionally",
+          "original_block_line": 2400,
+          "original_item": "- Is The Manifold one complex or many?",
+          "destination": "concepts/developing/the-manifold.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve intentionally",
+          "original_block_line": 2400,
+          "original_item": "- Is the associated presence one being, several beings, or intersections of something for which number is meaningless?",
+          "destination": "concepts/developing/the-manifold.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve intentionally",
+          "original_block_line": 2400,
+          "original_item": "- Did a presence make it, operate it, travel through it, maintain it, escape it, or suffer it?",
+          "destination": "concepts/developing/the-manifold.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve intentionally",
+          "original_block_line": 2400,
+          "original_item": "- Are human targets selected at all?",
+          "destination": "concepts/developing/the-manifold.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve intentionally",
+          "original_block_line": 2400,
+          "original_item": "- Does a presence perceive the explored configurations, or is it also unable to predict closure?",
+          "destination": "concepts/developing/the-manifold.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve intentionally",
+          "original_block_line": 2400,
+          "original_item": "- Is an apparent deployment attack, transit, quarantine, construction, communication, or exhaust?",
+          "destination": "concepts/developing/the-manifold.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve intentionally",
+          "original_block_line": 2400,
+          "original_item": "- Are all incidents portions of one strategy extending across epochs?",
+          "destination": "concepts/developing/the-manifold.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve intentionally",
+          "original_block_line": 2400,
+          "original_item": "- Is “tachyonic” literally correct?",
+          "destination": "concepts/developing/the-manifold.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve intentionally",
+          "original_block_line": 2400,
+          "original_item": "- Does a rupture create contradictions, expose contradictions already present, or force ordinary spacetime to host a structure natural elsewhere?",
+          "destination": "concepts/developing/the-manifold.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        },
+        {
+          "original_heading": "### Preserve intentionally",
+          "original_block_line": 2400,
+          "original_item": "- What would count as victory for an intelligence that does not experience one sequential history?",
+          "destination": "concepts/developing/the-manifold.md :: ### Unresolved interpretations",
+          "disposition": "rewritten as connected prose"
+        }
+      ],
+      "heading_changes": [
+        {
+          "original": "## One-sentence premise",
+          "replacement": "## Premise",
+          "preserved_anchor": "one-sentence-premise"
+        },
+        {
+          "original": "### Preserve intentionally",
+          "replacement": "### Unresolved interpretations",
+          "preserved_anchor": "preserve-intentionally"
+        }
+      ]
+    },
+    {
+      "path": "docs/editorial-notes/the-unhidden.md",
+      "retained_lists": [
+        {
+          "heading": "## Canon dependencies",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Possible new canon",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Possible new canon",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "### Candidate taxonomy work",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "### Candidate taxonomy work",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "### Candidate taxonomy work",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "### Candidate taxonomy work",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "### Candidate taxonomy work",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Reasons to reject or defer",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "### Resolve before entry drafting",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Canon integration status",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Setting placement",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Collection-frame impact",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Collection-frame impact",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Working vocabulary",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Original purpose",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "### Custody and personhood proceedings",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        }
+      ],
+      "moved_sections": [],
+      "preservation_notes": [
+        "Preserves original wording of moved authorial scaffolding and the original mixed sections supporting the narrative rewrites.",
+        "No authorial reservation is promoted into an adopted fact; the document links back to its developing/reserved manuscript.",
+        "These lists are author-facing reference material, not retained narrative dossier structures."
+      ],
+      "list_item_audit": []
+    },
+    {
+      "path": "docs/editorial-notes/the-manifold.md",
+      "retained_lists": [
+        {
+          "heading": "## Canon dependencies",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Possible new canon",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Possible new canon",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "### Candidate taxonomy work",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Reasons to reject or defer",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "### Resolve during development",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Canon integration status",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Setting placement",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Working vocabulary",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        },
+        {
+          "heading": "## Original purpose",
+          "reason": "Unchanged author-facing baseline planning or canon-reservation structure, preserved outside the narrative manuscript."
+        }
+      ],
+      "moved_sections": [],
+      "preservation_notes": [
+        "Preserves original wording of moved authorial scaffolding and the original mixed sections supporting the narrative rewrites.",
+        "No authorial reservation is promoted into an adopted fact; the document links back to its developing/reserved manuscript.",
+        "These lists are author-facing reference material, not retained narrative dossier structures."
+      ],
+      "list_item_audit": []
+    }
+  ]
+}

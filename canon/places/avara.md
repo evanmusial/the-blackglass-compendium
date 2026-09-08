@@ -54,7 +54,7 @@ humane-custody law.
 ## Physical condition
 
 Avara has a mean diameter of approximately 6,250 kilometres, a mass of
-approximately 0.11 Earth masses by authorial comparison, and surface gravity
+approximately 0.11 Earth masses in terrestrial units, and surface gravity
 near 0.46 g. It orbits Kharos at approximately 650,000 kilometres every 36.67
 days and is tidally locked to the planet. Its mean solar day is approximately
 41.8 days.
@@ -158,8 +158,7 @@ sovereignty, and later demographic weight does not erase it.
 
 Permanent settlement is sparse relative to the inhabited surface. Scientific,
 industrial, medical, military, and orbital infrastructure is extensive. Large
-territories remain unsettled and should not be filled with cities merely because
-the moon can support them.
+territories remain unsettled even where the moon could support cities.
 
 Low gravity changes ordinary competence. Long spans and large work volumes are
 less costly to support, and a person has more time to arrest a fall. Inertia does
@@ -331,18 +330,22 @@ to the collection.
 
 ## Deliberately unresolved
 
-- Avara's population, government, settlement names, and relationship to any
-  wider Kharosi polity;
-- whether it possessed an independent biosphere before human activity;
-- the exact Earth-origin arrival date, founding route, original First Shelter
-  endonym, and responsible arrival assemblage;
-- the detailed founding-era atmospheric chemistry and the relative human and
-  natural contributions to its later replenishment;
-- the builders and operators of particular wet-cradle or defense facilities;
-- the legal status of any autonomous open forms housed there;
-- the facilities and operators responsible for the Three-Hand Rescue;
-- and whether “partner world” is a political program, common usage, or only an
-  analytical description.
+This account does not fix Avara's population, government, settlement names, or
+relationship to a wider Kharosi polity. Even “partner world” remains ambiguous:
+it may be a political program, common usage, or only an analytical description.
+
+The moon's possible independent biosphere before human activity remains an open
+question. The exact Earth-origin arrival date, founding route, original First
+Shelter endonym, and responsible arrival assemblage are likewise unresolved.
+Detailed founding-era atmospheric chemistry and the relative human and natural
+contributions to later replenishment have not been established.
+
+The builders and operators of particular wet-cradle or defense facilities are
+unspecified, as are the facilities and operators responsible for the Three-Hand
+Rescue. The legal status of any autonomous open forms housed on Avara also
+remains unsettled.
 
 No confirmed Manifold rupture, hostile Closed Night, or weaponized Agreement
 deployment is assigned to Avara.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-places-avara.md).

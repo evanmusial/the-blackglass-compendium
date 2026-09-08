@@ -30,17 +30,15 @@ The Kelan–Ruva system is the home system of [Kharos](kharos.md). It contains s
 major circumbinary planets, an intermediate debris belt, an outer ice belt, and a
 distant comet reservoir.
 
-The values below are a rounded authorial model intended to keep future writing
-physically coherent. They do not imply that every in-world source uses the same
-units or possesses perfect ephemerides. Exact orbital phases and minor bodies
-remain available for later design.
+The values below form a rounded model. Sources need not use the same units or
+possess perfect ephemerides, and exact orbital phases and minor bodies remain
+unspecified.
 
-Astronomical table days are standard 86,400-second days; table years are
-365.25 of those days. They are authorial units, not a Kharosi solar day, Kharosi
-orbital year, or definition of the Compact Calendar. Satellite orbital radii
-are mean center-to-center separations. Recomputing one rounded value from
-another may shift the final displayed digit; none supplies an exact dated
-ephemeris.
+Astronomical table days are standard 86,400-second days; table years are 365.25
+of those days. These units define neither a Kharosi solar day, a Kharosi orbital
+year, nor the Compact Calendar. Satellite orbital radii are mean center-to-center
+separations. Recomputing one rounded value from another may shift the final
+displayed digit; none supplies an exact dated ephemeris.
 
 The natural system predates humanity by billions of years. Its much later
 [human history](../history/human-arrival-in-kelan-ruva.md) begins with uncrewed
@@ -70,10 +68,10 @@ solar luminosities. Kelan supplies approximately 98 percent of the visible and
 thermal energy received by the planets; Ruva is a conspicuous red second sun but
 not an equal climatic partner.
 
-The binary clears and destabilizes the inner system. For authoring purposes, no
-natural long-lived circumbinary planet should be placed inside 0.40 AU. Current
-analytic and numerical fits put the nominal critical boundary near 0.35 AU; the
-larger authoring boundary avoids unstable resonances and false precision.
+The binary clears and destabilizes the inner system. The model leaves the
+region inside 0.40 AU without a natural long-lived circumbinary planet.
+Analytic and numerical fits put the nominal critical boundary near 0.35 AU;
+the larger boundary avoids unstable resonances and false precision.
 
 ## The sky from Kharos
 
@@ -90,7 +88,7 @@ Kharos advances prograde during that interval, so the apparent stellar geometry
 and irradiation pattern repeat on a mean **17.63-day synodic cycle**. Stellar
 conjunctions alternate at a mean interval of approximately 8.82 days. The
 binary's eccentricity makes individual intervals and eclipse durations unequal;
-17.63 and 8.82 days are mean authoring values, not a clockwork civil calendar.
+17.63 and 8.82 days are mean values, not a clockwork civil calendar.
 
 Because the planetary and stellar orbits are nearly coplanar, the stars eclipse
 one another. A central passage of Ruva across Kelan removes approximately 12.8
@@ -154,7 +152,7 @@ and retrieval capacity remain part of the installation's survival account.
 ### Kharos
 
 Kharos lies within the conservative circumbinary habitable zone and receives
-almost exactly Earth's mean stellar flux by out-of-world comparison. That gives
+almost exactly Earth's mean stellar flux in terrestrial units. That gives
 it a credible temperate energy budget, not a guarantee of an Earthlike climate:
 surface pressure, atmospheric composition, rotation, obliquity, oceans, clouds,
 and geography remain decisive. Its larger mass is consistent with a compressed
@@ -165,8 +163,8 @@ its two moons and human setting role.
 
 Neral lies beyond the conservative maximum-greenhouse edge. It is a cold rocky
 world with extensive surface ice, a modest atmosphere, and plausible buried brine
-or water reservoirs. It may support extraction and research, but current canon
-does not give it an open-air biosphere or a large permanent population.
+or water reservoirs. It may support extraction and research; an open-air
+biosphere or a large permanent population is not assigned to it.
 
 Its practical attraction is accessible cold material near the inhabited inner
 system, not presumed fertility. Extraction plans separate measured ice from
@@ -182,7 +180,7 @@ Vaskor formed beyond the system's snow line and retained a conventional gas-gian
 envelope. It has a faint ring system, a family of regular moons, smaller captured
 satellites, and leading and trailing Trojan populations. The giant shapes the
 outer edge and resonant gaps of the Serrin Belt. Its satellites remain unnamed
-until an entry needs one.
+in this account.
 
 Resource operations distinguish a moon or small-body store from material deep
 in the giant's gravity well. Possession of hydrogen in a spectrum is not cheap
@@ -210,24 +208,26 @@ replacement components, and return capacity of a permanent settlement.
 
 The table's mean-flux column is also an operating map. Mean incident stellar
 energy falls by a factor of more than five hundred from Edras to Istra. The same
-equipment therefore occupies different physical worlds as it moves outward:
+equipment therefore occupies different physical worlds as it moves outward.
 
-- **Edras and Talra** offer abundant solar power but punish exposed machinery,
-  radiator placement, volatile storage, and crewed work with heat and radiation.
-- **Kharos and Neral** form the rocky transition from temperate surface
-  conditions to persistent surface ice. Neral's cold does not by itself prove a
-  global ocean, subsurface biosphere, or terraforming prospect.
-- **The Serrin Belt and Vaskor region** combine rocky feedstock, water-rich
-  material, giant-planet gases, and strong orbital resonances. Solar power is
-  weaker and local autonomy more valuable.
-- **Istra and the Ravel Reach** favor volatile storage, cryogenic science, and
-  long-baseline observation. Heat is a scarce input for many processes, while
-  reduced stellar loading helps exposed radiators reject waste heat. Once
-  sunlight is a minor load, radiator temperature, area, emissivity, and view of
-  space set the capacity; greater distance does not provide unlimited cooling.
-- **The Far Cloud** is a reservoir inferred from comet dynamics rather than a
-  completely surveyed frontier. At that distance, weak sunlight and
-  communication delay dominate ordinary operations.
+**Edras and Talra** offer abundant solar power, but heat and radiation punish
+exposed machinery, radiator placement, volatile storage, and crewed work.
+Farther out, **Kharos and Neral** form the rocky transition from temperate surface
+conditions to persistent surface ice. Neral's cold does not by itself prove a
+global ocean, subsurface biosphere, or terraforming prospect.
+
+**The Serrin Belt and Vaskor region** combine rocky feedstock, water-rich
+material, giant-planet gases, and strong orbital resonances. Solar power is
+weaker there, and local autonomy more valuable. **Istra and the Ravel Reach**
+favor volatile storage, cryogenic science, and long-baseline observation. Heat
+is a scarce input for many processes, while reduced stellar loading helps
+exposed radiators reject waste heat. Once sunlight becomes a minor load,
+radiator temperature, area, emissivity, and view of space set the capacity;
+greater distance does not provide unlimited cooling.
+
+Beyond those operating regions, **the Far Cloud** remains a reservoir inferred
+from comet dynamics rather than a completely surveyed frontier. Weak sunlight
+and communication delay dominate ordinary operations at that distance.
 
 This gradient supports different economies without assigning a settlement to
 every body. It also keeps thermal language honest: an inner-system station can
@@ -256,8 +256,8 @@ limit found when a broader range of starting phases is tested, but not by a
 large margin. Odran and Avara are separated by approximately **4.23 mutual Hill
 radii**, above the approximately 3.46 circular coplanar Hill-stability threshold
 but close enough that low eccentricities, low inclinations, and a successful
-tidal history are requirements. The rounded architecture must not be described
-as proof of multibillion-year stability without a dedicated integration.
+tidal history are requirements. Without a dedicated integration, the rounded
+architecture does not prove multibillion-year stability.
 
 Both moons are tidally locked to Kharos. Their solar days are mean barycentric
 values: Kelan and Ruva wander around the mean noon under the 17.63-day stellar
@@ -285,8 +285,8 @@ From Kharos, Odran spans approximately 1.00 degree and Avara approximately 0.55
 degree. Odran can cover either star completely. Avara is almost exactly the size
 of Kelan: because Kelan's apparent diameter varies across the binary cycle,
 central Avaran eclipses can alternate between narrow totality and annularity.
-The moons' precise inclinations and nodes remain unassigned, so these events
-must not be assumed at every conjunction. Whether eclipses occur every cycle or
+The moons' precise inclinations and nodes remain unassigned, so an eclipse is
+not implied at every conjunction. Whether eclipses occur every cycle or
 cluster into seasons remains open.
 
 Kharos spans approximately 4.75 degrees in Odran's sky and 1.46 degrees in
@@ -301,7 +301,7 @@ planet to cover both at once.
 ### Tides and orbital history
 
 The smaller inner moon dominates Kharos's tide-generating acceleration because
-tidal forcing falls with the cube of distance. By out-of-world comparison,
+tidal forcing falls with the cube of distance. In terrestrial comparison,
 Odran produces approximately 9.2 times Earth's lunar differential forcing at a
 Kharosi surface, while Avara produces approximately 2.4 times that reference.
 The moons become collinear every approximately 3.85 days and return to the same
@@ -321,11 +321,11 @@ without a coupled N-body and tidal model.
 
 Kharos, Odran, and Avara share a redundant optical backbone composed of surface
 terminals, orbital platforms, and relay nodes. It provides enormous aggregate
-throughput while remaining limited by light travel:
+throughput while remaining limited by light travel.
 
-- Kharos to Odran: approximately 0.67 seconds one way;
-- Kharos to Avara: approximately 2.17 seconds one way;
-- Odran to Avara: approximately 1.5–2.8 seconds one way, depending on geometry.
+A signal takes approximately 0.67 seconds one way from Kharos to Odran and
+approximately 2.17 seconds from Kharos to Avara. Between Odran and Avara, the
+one-way interval varies with geometry across approximately 1.5–2.8 seconds.
 
 Relays preserve service through weather, rotation, horizons, and occultations.
 Approximate one-way geometric light-time ranges from Kharos, before relay and
@@ -341,8 +341,7 @@ processing delay, are:
 | Ravel Reach | approximately 3–8 hours |
 | Far Cloud at 3,000 AU | approximately 17 days |
 
-The planetary ranges use circular-orbit extrema and should not be treated as a
-dated ephemeris. The Far Cloud example illustrates scale rather than establishing
+The planetary ranges use circular-orbit extrema rather than a dated ephemeris. The Far Cloud example illustrates scale rather than establishing
 its inner edge at exactly 3,000 AU. The Kelan–Ruva network is exceptional
 engineering, not faster-than-light communication.
 
@@ -467,113 +466,72 @@ language, not necessarily a universal in-world proper name.
 ## Formation and dynamical rationale
 
 The working natural history is conservative and intentionally broader than one
-unverifiable origin story:
+unverifiable origin story.
 
-1. **Binary formation.** Kelan and Ruva formed together approximately 5–6
-   billion years ago. Early gas and disk torques brought the pair to its close,
-   detached orbit and helped damp, but did not erase, its eccentricity.
-2. **Cavity opening.** Binary torques opened an eccentric inner disk cavity and
-   prevented durable planets inside the present 0.40 AU authoring boundary.
-   Material could cross the cavity; finished planets could not remain there.
-3. **Inner migration.** Edras and Talra grew farther out and migrated inward
-   before the gas dispersed. Edras stopped well outside the nominal unstable
-   boundary rather than balancing at an implausibly exact edge.
-4. **Rocky accretion.** Kharos and Neral completed late-stage accretion on wider,
-   calmer orbits. Kharos either avoided retaining a large primordial
-   hydrogen-helium envelope or lost one during youth; the present parameters do
-   not select between those histories.
-5. **Giant-planet formation.** Vaskor formed beyond the snow line early enough
-   to capture gas. Its growth and limited migration sculpted the Serrin Belt,
-   preserved Trojan populations, and scattered material both inward and outward.
-6. **Outer retention.** Istra, the Ravel Reach, and the comet reservoir retained
-   progressively more of the system's primordial ices. Their present arrangement
-   does not require a violent late instability.
-7. **Active stellar youth.** Young Kelan was more magnetically active, while
-   Ruva's active phase lasted longer. Ultraviolet and particle exposure aided
-   volatile loss from the inner bodies and Avara. Later outgassing, impacts, and
-   volatile delivery are consistent with Avara's secondary atmosphere, but no
-   exact atmospheric chronology is fixed.
-8. **Lunar evolution.** Odran and Avara circularized and became spin-locked while
-   exchanging angular momentum with Kharos. Their initial orbits, direction and
-   amount of migration, resonance crossings, and the age of the present spacing
-   remain unresolved.
-9. **Dynamical settling.** Gas damping, collisions, and limited migration left a
-   low-eccentricity, nearly coplanar planetary system rather than the aftermath
-   of violent late scattering. The system is old, not static: tides, impacts,
-   resonant diffusion, stellar evolution, and comet injection continue.
+Kelan and Ruva formed together approximately 5–6 billion years ago. Early gas
+and disk torques brought the pair to its close, detached orbit and helped damp,
+but did not erase, its eccentricity. Binary torques then opened an eccentric
+inner disk cavity and prevented durable planets inside the present 0.40 AU
+boundary. Material could cross the cavity; finished planets could not remain
+there.
+
+Edras and Talra grew farther out and migrated inward before the gas dispersed.
+Edras stopped well outside the nominal unstable boundary rather than balancing
+at an implausibly exact edge. Kharos and Neral completed late-stage rocky
+accretion on wider, calmer orbits. Kharos either avoided retaining a large
+primordial hydrogen-helium envelope or lost one during youth; the present
+parameters do not select between those histories.
+
+Vaskor formed beyond the snow line early enough to capture gas. Its growth and
+limited migration sculpted the Serrin Belt, preserved Trojan populations, and
+scattered material both inward and outward. Istra, the Ravel Reach, and the
+comet reservoir retained progressively more of the system's primordial ices.
+Their present arrangement does not require a violent late instability.
+
+Young Kelan was more magnetically active, while Ruva's active phase lasted
+longer. Ultraviolet and particle exposure aided volatile loss from the inner
+bodies and Avara. Later outgassing, impacts, and volatile delivery are consistent
+with Avara's secondary atmosphere, but no exact atmospheric chronology is fixed.
+Odran and Avara circularized and became spin-locked while exchanging angular
+momentum with Kharos. Their initial orbits, the direction and amount of migration,
+resonance crossings, and the age of the present spacing remain unresolved.
+
+Gas damping, collisions, and limited migration left a low-eccentricity, nearly
+coplanar planetary system rather than the aftermath of violent late scattering.
+The system is old, not static: tides, impacts, resonant diffusion, stellar
+evolution, and comet injection continue.
 
 Adjacent planets are separated by approximately 13–41 mutual Hill radii. That is
 a generous analytic layout, not proof of stability for every possible phase and
 eccentricity. Exact dated ephemerides, a fixed Kharosi rotation period, or a
-detailed history of lunar tidal migration require a long-duration N-body and
-coupled-tide model before adoption.
+detailed history of lunar tidal migration still require a long-duration N-body
+and coupled-tide model.
 
 ## Scientific grounding
 
-The authoring model uses current empirical and theoretical constraints:
+The astronomical model remains provisional. Its analytical margins do not
+constitute a completed numerical integration; stronger modeling would be needed
+to replace those margins.
 
-- stellar properties follow the
-  [Pecaut–Mamajek empirical dwarf sequence](https://github.com/emamajek/SpectralType/blob/master/EEM_dwarf_UBVIJHK_colors_Teff.txt),
-  while the observed [Kepler-47 system](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-third-planet-in-kepler-47-system/)
-  establishes a real precedent for several planets orbiting a close binary;
-- the inner exclusion zone follows the circumbinary stability work of
-  [Holman and Wiegert](https://arxiv.org/abs/astro-ph/9809315) and the larger
-  numerical grid of [Quarles and collaborators](https://arxiv.org/abs/1802.08868);
-- the habitable-zone placement follows
-  [circumbinary extensions](https://arxiv.org/abs/1911.02983) of the
-  [Kopparapu climate limits](https://arxiv.org/abs/1404.5292), while
-  [circumbinary climate simulations](https://arxiv.org/abs/1911.05577) support
-  treating short-period instellation variability through atmospheric and oceanic
-  response rather than as an instantaneous surface-temperature swing;
-- Kharos's mass follows modern
-  [rocky-planet mass-radius models](https://arxiv.org/abs/1512.08827);
-- the satellite margin follows
-  [numerical prograde-moon stability limits](https://academic.oup.com/mnras/article/373/3/1227/1063626),
-  the more conservative phase-sampled limit follows
-  [Rosario-Franco and collaborators](https://arxiv.org/abs/2005.06521), and the
-  difficulty of spacing several large moons is illustrated by
-  [modern moon-packing integrations](https://arxiv.org/abs/2208.03604),
-  while Avara's climate accounts for
-  [eclipses and tidal locking](https://arxiv.org/abs/1209.5323) and its atmosphere
-  for [escape during a small world's active stellar youth](https://arxiv.org/abs/1506.06529);
-- and the formation history follows
-  [simulations of circumbinary planet formation and migration](https://arxiv.org/abs/2303.09899)
-  toward the binary-cleared disk cavity.
-
-Operational details follow ordinary science as well: NASA's
-[atmospheric overview](https://science.nasa.gov/learn/basics-of-space-flight/chapter1-2/)
-relates gas retention to mass, temperature, composition, and history rather than
-surface gravity alone; its
-[lunar dust work](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-technology-helps-guard-against-lunar-dust/)
-grounds Odran's seal and transfer-contamination problems; and demonstrated
-[partial water-loop closure](https://www.nasa.gov/missions/station/iss-research/nasa-achieves-water-recovery-milestone-on-international-space-station/)
-is a foothold for maintained habitats with makeup stores, not proof that a
-settlement can recycle every resource indefinitely. These references inform the
-fictional operating model without supplying measurements of the invented worlds.
-
-NASA's [thermal-control treatment](https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control/)
-supports separating stellar loading from radiator capacity. A
-[Jovian atmospheric-platform study](https://ntrs.nasa.gov/api/citations/20190001543/downloads/20190001543.pdf)
-provides a foothold for difficult buoyancy in hydrogen-rich atmospheres, not
-evidence for an existing habitable Talran station. The occupied aerostats remain
-future engineering within the fictional setting.
-
-This is a scientifically informed provisional architecture, not a completed
-numerical integration. Future changes should preserve the stated margins or
-replace them with stronger modeling.
+The modern research references and modeling guidance are preserved in the
+[companion note](../../docs/editorial-notes/canon-places-kelan-ruva-system.md).
 
 ## Deliberately unresolved
 
-- Kharos's rotation period, obliquity, continents, and detailed climate;
-- the origin of the Odran–Avara pair and the full history of their tidal migration;
-- the moons' exact eccentricities, inclinations, nodes, eclipse seasons, and
-  measured secular drift;
-- whether Avara ever possessed an independent biosphere before human activity;
-- whether Kharos possessed a prehuman biosphere and how any local biology
-  affected early settlement;
-- surface pressures, atmospheric compositions, magnetic fields, and detailed
-  climates for every major body;
-- names and histories for Vaskor's and Istra's satellites;
-- exact populations, jurisdictions, and military ownership outside the Kharos
-  orbital region;
-- and the detailed inventory of the Ravel Reach and Far Cloud.
+Kharos's rotation period, obliquity, continents, and detailed climate remain
+unassigned. The Odran–Avara pair's origin and full tidal-migration history are
+unresolved, as are the moons' exact eccentricities, inclinations, nodes,
+eclipse seasons, and measured secular drift.
+
+Whether Avara ever possessed an independent biosphere before human activity is
+unknown. Kharos's possible prehuman biosphere and any local biology's effect on
+early settlement are also open questions. Surface pressures, atmospheric
+compositions, magnetic fields, and detailed climates remain unspecified for
+every major body.
+
+The names and histories of Vaskor's and Istra's satellites are unassigned. The
+same applies to exact populations, jurisdictions, and military ownership outside
+the Kharos orbital region, and to the detailed inventory of the Ravel Reach and
+Far Cloud.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-places-kelan-ruva-system.md).

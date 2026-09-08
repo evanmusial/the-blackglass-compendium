@@ -106,18 +106,18 @@ conserve energy.
 The Rzez, The Unhidden, The Manifold, The Closed Night, The Agreement, and The
 Rehearsal must be explained on their own terms.
 
-- Rzez action is entropic failure among relationships inside an existing target.
-- Unhidden action is human morphogenic engineering performed by finite living
-  matter wholly present in ordinary space.
-- Manifold action is an extrinsic causal-topological failure of global spatial
-  and historical consistency.
-- Closed Night action is direction-selective radiative transport across a
-  powered, physically anchored boundary in ordinary space.
-- Agreement action is reciprocal redistribution of prediction error among
-  actively coupled nervous systems and machine controllers.
-- Rehearsal action is high-energy convergence into a baryon-loaded microscopic
-  focus followed by a self-gravity-limited quench whose material residue cannot
-  be selected precisely.
+Rzez action produces entropic failure among relationships inside an existing
+target. Unhidden action instead performs human morphogenic engineering through
+finite living matter wholly present in ordinary space. Manifold action is an
+extrinsic causal-topological failure of global spatial and historical
+consistency; neither of those material lineages explains it.
+
+Closed Night engineering makes radiative transport direction-selective across
+a powered boundary physically anchored in ordinary space. Agreement engineering
+redistributes prediction error reciprocally among actively coupled nervous
+systems and machine controllers. The Rehearsal converges high energy into a
+baryon-loaded microscopic focus and leaves a material residue selected by a
+self-gravity-limited quench, with no precise control of that residue.
 
 Recurring words such as *boundary*, *continuity*, and *identity* may describe
 analogous human fears. They do not demonstrate shared machinery, origin,
@@ -150,20 +150,18 @@ should show what must be rebuilt when its scale changes.
 An arcane system may violate ordinary expectation without becoming a source of
 unlimited matter, energy, or options.
 
-- The Rzez uses a target's existing load, stress, and environment to complete
-  failure.
-- The Unhidden consumes finite biomass, oxygen, nutrients, water, time, and
-  nursery capacity.
-- The Manifold's unboundedness is configurational; one bounded envelope does not
-  export infinite copies, energy, prophecy, or resources.
-- The Closed Night returns or retains radiation; it neither destroys energy nor
-  prevents matter from carrying heat across its boundary.
-- The Agreement requires finite participants, bandwidth, characterization,
-  reciprocal carriers, and low enough latency for correction to return in time.
-- The Rehearsal consumes transported energy and finite baryonic feedstock. Its
-  temperature exists only as a transient local state at thermalization, and any
-  later strange-matter growth converts encountered baryons rather than creating
-  mass from nothing.
+The Rzez completes failure through the target's existing load, stress, and
+environment. The Unhidden consumes finite biomass, oxygen, nutrients, water,
+time, and nursery capacity. The Manifold's unboundedness is configurational:
+one bounded envelope exports no infinite copies, energy, prophecy, or resources.
+
+The Closed Night returns or retains radiation without destroying energy or
+preventing matter from carrying heat across its boundary. The Agreement needs
+finite participants, bandwidth, characterization, reciprocal carriers, and
+latency low enough for a correction to return in time. The Rehearsal consumes
+transported energy and finite baryonic feedstock. Its temperature is a transient
+local state at thermalization, and any later strange-matter growth converts
+encountered baryons rather than creating mass from nothing.
 
 ### Establishment precedes mature consequence
 
@@ -446,14 +444,15 @@ warning, not a literal inventory of convertible existence.
 
 ## Candidate cross-system metaphysics not yet adopted
 
-The six systems suggest, but do not establish for the whole setting, that:
+The six systems suggest several possibilities without establishing them for
+the setting as a whole.
 
-- identity may be an engineerable property;
-- the history of remaining together may contribute to present structure;
-- observation or external records may stabilize continuity;
-- institutions, laws, memories, and names may possess cohesion architectures;
-- and arcane engineering may manipulate relationships or information more
-  fundamentally than matter.
+One possibility is that identity is an engineerable property, with the history
+of remaining together contributing to a structure's present state. Related
+speculation asks whether observation or external records stabilize continuity
+and whether institutions, laws, memories, and names possess cohesion
+architectures of their own. Taken further, those ideas would make relationships
+or information more fundamental to arcane manipulation than matter itself.
 
 These ideas should remain candidates until other entries independently require
 or contradict them.

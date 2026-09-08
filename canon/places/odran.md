@@ -211,14 +211,18 @@ answer unless a later legal decision explicitly changes it.
 
 ## Deliberately unresolved
 
-- the names, ownership, and exact locations of Odran installations;
-- the exact dates, sequence, sponsors, and occupancy pattern of its founding-era
-  infrastructure;
-- the moon's early industrial history after the founding interval;
-- whether any high-risk countermeasure trials have occurred there;
-- which facilities maintain controlled-variance and calorimetric references;
-- the relationship between civil observatories and military ranging stations;
-- and the political authority under which its reference vaults operate.
+The names, ownership, and exact locations of Odran's installations remain
+unspecified. The dates, sequence, sponsors, and occupancy pattern of its
+founding-era infrastructure are unresolved, as is the moon's early industrial
+history after the founding interval.
+
+Whether any high-risk countermeasure trials occurred there remains open. The
+account does not identify which facilities maintain controlled-variance and
+calorimetric references, the relationship between civil observatories and
+military ranging stations, or the political authority under which the reference
+vaults operate.
 
 No confirmed Manifold rupture, live Rzez experiment, occupied or hostile Closed
 Night trial, or weaponized Agreement deployment is assigned to Odran.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-places-odran.md).

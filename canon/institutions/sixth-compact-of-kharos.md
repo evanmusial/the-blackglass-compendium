@@ -105,8 +105,10 @@ practice without inheriting its substantive jurisdiction.
 
 ## Unresolved questions
 
-- What were the first five Compacts?
-- Which states signed, rejected, or enforce the Sixth?
-- How are tightly controlled industrial thresholds licensed?
-- What rights do accused researchers possess?
-- Which later treaties borrow Compact procedure without expanding its mandate?
+The identities of the first five Compacts remain unresolved, as do the states
+that signed, rejected, or enforce the Sixth. Licensing of tightly controlled
+industrial thresholds and the rights of accused researchers remain unspecified.
+Which later treaties borrow Compact procedure without expanding its mandate is
+also an open question.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-institutions-sixth-compact-of-kharos.md).

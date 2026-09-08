@@ -1,0 +1,854 @@
+{
+  "baseline": "fe2bae3ef40352d9b7abc4a0670921192d253938",
+  "files": [
+    {
+      "path": "canon/physics-of-the-known-world.md",
+      "blocks": [
+        {
+          "source_heading": "## Core decision: capability can outrun explanation",
+          "source_line": 63,
+          "original_items": 6,
+          "original_text": "1. **Was the effect observed independently?**\n2. **Were the variables that predict it characterized?**\n3. **Can the initiating condition be prepared on demand?**\n4. **Can the outcome be selected rather than merely provoked?**\n5. **Can the effect be scaled without changing its mechanism?**\n6. **Can it be governed without making ordinary life depend upon an unbounded\n   hazard?**\n",
+          "disposition": "connected prose",
+          "destination": "canon/physics-of-the-known-world.md :: ## Core decision: capability can outrun explanation",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Conservation remains the default",
+          "source_line": 114,
+          "original_items": 6,
+          "original_text": "- Reactors consume fuel and reject heat.\n- Radiant-return systems reduce one loss path and increase the burden upon\n  another.\n- A route exchanges two conserved carriages and requires endpoint work to\n  localize them into useful local frames.\n- A morphogenic body consumes biomass, gases, water, nutrients, time, and nursery\n  capacity.\n- A high-energy focus receives transported energy; it does not make temperature\n  at a distance for free.\n- Rzez collapse is paid largely by stress, gravity, pressure, heat, vibration,\n  and the target's own stored energy after the accessible state paths have been\n  changed.\n",
+          "disposition": "connected prose",
+          "destination": "canon/physics-of-the-known-world.md :: ### Conservation remains the default",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## The incomplete frontier",
+          "source_line": 177,
+          "original_items": 8,
+          "original_text": "- It has no complete, experimentally closed theory of the Planck regime.\n- It characterizes additional particles and dark-sector behavior beyond the\n  twenty-first-century model but does not use dark matter as fuel, structure, or\n  reaction mass.\n- Cosmic acceleration is measured with extraordinary precision but provides no\n  local engineering handle and no reservoir of extractable vacuum energy.\n- Neutrino astronomy and tomography are mature; neutrinos remain inefficient\n  carriers for power or routine communication.\n- Dense and strange phases of matter can be produced and studied under bounded\n  conditions. Stable catalytic strange matter is not ordinary material science.\n- Consciousness has operational and legal markers but no universally accepted\n  reduction that turns a recording into a person.\n- Locality binding and the sequence field are measured through routes, but their\n  ultimate cosmological origin remains unknown.\n- No theory explains why the Manifold and its associated presence exist.\n",
+          "disposition": "connected prose",
+          "destination": "canon/physics-of-the-known-world.md :: ## The incomplete frontier",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Generation is plural",
+          "source_line": 203,
+          "original_items": 4,
+          "original_text": "- **Solar collection** dominates hot inner-system industry, orbital yards, and\n  places with abundant area and predictable light.\n- **Fission** remains valuable at isolated facilities because fuel is compact,\n  equipment is robust, and output is not conditional upon local sunlight or a\n  complex fusion supply chain.\n- **Fusion** is mature civil infrastructure. Large magnetic and pulsed systems\n  power cities, yards, and high-demand industries. They remain neutron, blanket,\n  magnet, fuel-cycle, maintenance, and radiator problems rather than miniature\n  stars in boxes.\n- **Stored chemical and thermal energy** remains indispensable for vehicles,\n  emergencies, and facilities whose safe shutdown matters more than peak\n  efficiency.\n",
+          "disposition": "connected prose",
+          "destination": "canon/physics-of-the-known-world.md :: ### Generation is plural",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Conjugate locality",
+          "source_line": 343,
+          "original_items": 2,
+          "original_text": "- `|12>` means carriage `C1` is supported at shore `A` while matched carriage\n  `C2` is supported at shore `B`;\n- `|21>` means `C2` is supported at `A` while `C1` is supported at `B`.\n",
+          "disposition": "connected prose",
+          "destination": "canon/physics-of-the-known-world.md :: ### Conjugate locality",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Why the network is sparse",
+          "source_line": 379,
+          "original_items": 6,
+          "original_text": "- Most nearby systems have no useful coupling.\n- A more distant system may be more strongly conjugate than a nearer one.\n- A system normally possesses only a few viable ligatures.\n- Machinery can stabilize and broaden an existing mode but cannot manufacture a\n  missing stellar pair.\n- Artificial masses are far too small to create a new basin.\n- Two points inside one system are not independent locality states, so ligatures\n  provide no in-system shortcut.\n",
+          "disposition": "connected prose",
+          "destination": "canon/physics-of-the-known-world.md :: ### Why the network is sparse",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Reciprocal passage and the mass book",
+          "source_line": 410,
+          "original_items": 5,
+          "original_text": "- one carriage at each shore;\n- matched invariant mass-energy totals;\n- matched exterior charge and low-order stress-energy multipoles;\n- endpoint capacity to normalize and localize into local orbital frames;\n- and schedules committed before the crossing begins.\n",
+          "disposition": "connected prose",
+          "destination": "canon/physics-of-the-known-world.md :: ### Reciprocal passage and the mass book",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Shores and weighhouses",
+          "source_line": 454,
+          "original_items": 10,
+          "original_text": "- isolated carriage volumes;\n- adjustable ballast banks;\n- reference masses and exterior multipole shapers;\n- independent sequence clocks;\n- energy stores and heat sinks;\n- momentum sinks and local orbital-localization machinery;\n- long-baseline system ranging;\n- autonomous completion reserves;\n- traffic, rescue, customs, and quarantine facilities; and\n- enough ordinary spacecraft to move arrivals away from the shore.\n",
+          "disposition": "connected prose",
+          "destination": "canon/physics-of-the-known-world.md :: ### Shores and weighhouses",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### The seven-stage crossing",
+          "source_line": 516,
+          "original_items": 7,
+          "original_text": "1. **Declaration:** Both shores publish carriage mass, multipoles, hazard class,\n   destination frame, and sequence window.\n2. **Weighing:** Ballast closes the paired mass-energy account. Unmatched charge,\n   motion, heat, and radiation are brought within tolerance.\n3. **Normalization:** Each carriage enters a certified local inertial and orbital\n   state. Shore machinery assumes the work that the ligature will not provide.\n4. **Sequence lock:** Both weighhouses align precommitted programs to the\n   ligature's sequence time. No live interstellar handshake is required.\n5. **Commitment:** Before this threshold, refusal leaves both carriages local.\n   The opposite shore cannot read that refusal before the route-depth decision\n   window. After commitment, completion is safer than abort.\n6. **Equalization:** The carriages become maximally bilocally supported. This is\n   not a midpoint or a place that can be visited.\n7. **Localization:** Locality support finishes exchanging. Each weighhouse absorbs\n   remaining frame debt before opening its arrived carriage.\n",
+          "disposition": "retained",
+          "destination": "canon/physics-of-the-known-world.md :: ### The seven-stage crossing",
+          "reason": "Ordered seven-stage crossing protocol; stage order and commitment boundaries carry operational meaning."
+        },
+        {
+          "source_heading": "### Communication boundary",
+          "source_line": 604,
+          "original_items": 5,
+          "original_text": "- a matched countercarriage;\n- a complete mode cycle;\n- both shores' precommitted operation;\n- the route's full crossing time; and\n- localization before its record can be read.\n",
+          "disposition": "connected prose",
+          "destination": "canon/physics-of-the-known-world.md :: ### Communication boundary",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Failure modes",
+          "source_line": 682,
+          "original_items": 14,
+          "original_text": "- **Refusal:** A shore declines sequence lock. Both carriages remain local, and\n  the other shore learns the outcome only at the normal route-depth decision\n  time.\n- **Misweighing:** The invariant totals or multipoles do not close. Trim systems\n  absorb small differences; large ones prevent commitment.\n- **Snapback:** Early loss of drive returns both carriages to their original\n  shores with mechanical and thermal stress.\n- **Spill:** An overfast sweep or unstable internal mass plan leaves the supported\n  mode, producing radiation, impulse, heat, and material loss at one or both\n  shores.\n- **Shorefall:** Completion becomes incoherent across the two permitted shores.\n  The ledger closes, but the carriages may arrive as plasma or fragments. Unitary\n  normalization and conserved global charges permit only the original total\n  carriage support. Shorefall can partition or destroy it; duplication is\n  physically excluded.\n- **Momentum debt:** Exchange succeeds but the destination frame is wrong. A\n  saturated weighhouse can receive the carriage on a destructive trajectory.\n- **Thermal overrun:** The closed carriage exceeds its heat budget before\n  localization.\n- **Carriage chatter:** Sloshing fluids, rotating machinery, active weapons,\n  adaptive structures, or unsecured cargo change the exterior multipoles faster\n  than trim systems can compensate.\n- **Mode crowding:** Two exchanges attempt one harmonic and interfere.\n- **False shore selection:** Corrupted phase tables at a hub commit a carriage to\n  the wrong valid ligature only if that shore has a precommitted matched\n  countercarriage. It cannot appear at an arbitrary coordinate.\n- **Operational de-rating:** Aging equipment, heat limits, damaged clocks, lost\n  ballast, or inadequate phase tables reduce certified mass or increase depth on\n  human timescales without changing the natural conjugacy.\n- **Secular route fade:** Stellar and sequence evolution weaken the natural\n  coupling over centuries or millennia. Safe mass shrinks and route depth grows\n  before traffic ends.\n- **Abrupt anomalous loss:** A well-characterized coupling disappears faster than\n  secular models allow. Such a loss is rare evidence requiring investigation,\n  not routine actuarial weather.\n- **Dead shore:** The ligature remains physically possible but one weighhouse no\n  longer exists.\n",
+          "disposition": "connected prose",
+          "destination": "canon/physics-of-the-known-world.md :: ### Failure modes",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Mechanism firewall",
+          "source_line": 740,
+          "original_items": 6,
+          "original_text": "- It does not invalidate cohesion or propagate through material continuity.\n- It transports finite living bodies without morphogenic remapping.\n- It preserves two named shores, one global state evolution, and one causal\n  history. It is not Manifold nonconvergence.\n- Its sealed carriage retains heat by ordinary isolation, not radiant return.\n- Its synchronized machinery follows a precommitted schedule; it does not couple\n  prediction error through people.\n- It creates no near-Planck state and no exotic material residue.\n",
+          "disposition": "connected prose",
+          "destination": "canon/physics-of-the-known-world.md :: ### Mechanism firewall",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Materials and fabrication",
+          "source_line": 753,
+          "original_items": 5,
+          "original_text": "- High-performance steels, light alloys, ceramics, metallic glasses, fiber and\n  gradient composites, carbon-rich coatings, and active thermal surfaces are\n  common.\n- Practically cooled superconductors support fusion magnets, motors, storage,\n  transmission, and sensors. Ambient-condition superconductivity is not a\n  universal commodity.\n- Self-healing seals, polymers, coatings, and matrices repair bounded damage.\n  They do not regrow missing pressure hulls.\n- Micromachines and nanostructures are ordinary inside factories, catalysts,\n  diagnostics, and medicine. Free-ranging universal assemblers are absent.\n- Fabricators consume certified feedstock, tooling, energy, calibration, and\n  time. They cannot reproduce every semiconductor, reactor blanket, optical\n  standard, biological catalyst, or route component from raw dirt.\n",
+          "disposition": "connected prose",
+          "destination": "canon/physics-of-the-known-world.md :: ## Materials and fabrication",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Sensing and communication",
+          "source_line": 797,
+          "original_items": 5,
+          "original_text": "- Coherent optical links provide enormous in-system throughput at unavoidable\n  light-time.\n- Radio remains valuable for acquisition, emergency broadcast, bad weather, and\n  low-complexity fallbacks.\n- Navigation combines stellar and pulsar references, inertial systems, laser\n  ranging, and locally maintained clocks.\n- Large installations perform deep radar tomography, neutrino observation,\n  gravitational sensing, calorimetry, and long-baseline interferometry.\n- Medical and industrial systems can infer preparation, stress, composition, and\n  physiology. They cannot read arbitrary private semantic thought or see through\n  unlimited mass.\n",
+          "disposition": "connected prose",
+          "destination": "canon/physics-of-the-known-world.md :: ## Sensing and communication",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Capabilities that are not established",
+          "source_line": 862,
+          "original_items": 22,
+          "original_text": "- reactionless thrust;\n- gravity shielding or artificial gravity fields;\n- inertial dampers;\n- arbitrary point-to-point teleportation;\n- route without a conjugate shore and matched countercarriage;\n- instantaneous or unscheduled high-bandwidth faster-than-light communication;\n- time travel or selectable prophecy;\n- force shield detached from matter, fields, power, and heat;\n- matter replicator or universal autonomous nanotechnology;\n- bulk antimatter economy;\n- macroscopic negative-energy reservoir;\n- traversable wormhole or controllable warp metric;\n- vacuum-energy extraction;\n- perfect stealth while a high-power spacecraft operates;\n- omniscient scanner;\n- semantic mind reader;\n- reliable mind uploading, resurrection, or copied legal continuity;\n- perfect closed ecology;\n- quick planetary terraforming;\n- complete quantum gravity;\n- controllable Manifold;\n- or shared hidden force that explains all six forbidden systems.\n",
+          "disposition": "connected prose",
+          "destination": "canon/physics-of-the-known-world.md :: ## Capabilities that are not established",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Authoring rule",
+          "source_line": 889,
+          "original_items": 9,
+          "original_text": "1. its ordinary scientific foothold;\n2. the exact discovery that the known world added;\n3. what people can observe, prepare, control, and scale;\n4. its mass-energy, momentum, heat, information, and time account;\n5. its required infrastructure and human labor;\n6. its characteristic failure and countermeasure;\n7. its civil ancestor or reason no such ancestor exists;\n8. what remains disputed in-world; and\n9. which convenient capability it explicitly does not provide.\n",
+          "disposition": "editorial companion",
+          "destination": "docs/editorial-notes/canon-physics-of-the-known-world.md :: ## Authoring rule",
+          "reason": "Author-facing instructions retained intact."
+        }
+      ],
+      "retained_tables": "Reference/chronology/comparison tables remain unchanged where present."
+    },
+    {
+      "path": "canon/spaceflight-economy-and-settlement.md",
+      "blocks": [
+        {
+          "source_heading": "## Governing decisions",
+          "source_line": 39,
+          "original_items": 10,
+          "original_text": "1. Ordinary ships use reaction mass. Ligatures do not replace surface launch,\n   orbital transfer, or in-system propulsion.\n2. A present route is a reciprocal locality exchange between two constructed\n   shores. No one-sided gate or shipboard drive exists.\n3. Every arrival exchanges with a matched departure. Interstellar traffic must\n   balance invariant mass-energy even when value and population flow do not.\n4. An otherwise unreachable new shore is opened by a slow uncrewed precursor\n   mission, not by a heroic first crew jumping through an unexplored route.\n5. Exploration, occupation, settlement, and a rooted society are different\n   achievements.\n6. Bulk matter is normally sourced inside a stellar system. Interstellar trade\n   concentrates on people, biological diversity, authenticated information,\n   precision goods, rare feedstocks, and emergency supply.\n7. A colony is a relationship of dependency, not a synonym for any offworld\n   community.\n8. A world may contain millions and remain materially dependent. A smaller\n   habitat network may be politically and industrially rooted.\n9. Route access does not make evacuation easy. A world can die faster than its\n   shores can exchange its population.\n10. The known region remains eight to twelve inhabited systems because each\n    additional society costs generations of precursor work, industrial mass,\n    ecological care, migration, and political commitment.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ## Governing decisions",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Working vocabulary",
+          "source_line": 64,
+          "original_items": 14,
+          "original_text": "- **Expedition:** a temporary mission whose planned end is departure, relief, or\n  replacement.\n- **Outpost:** a continuously staffed facility without the population or\n  industrial depth required for multigenerational life.\n- **Dependent settlement:** a permanent community with locally born residents\n  that would fail after prolonged route loss.\n- **Continuant settlement:** a multigenerational community able to preserve life,\n  reproduction, education, and government through a serious interruption.\n- **Rooted polity:** a society able to replace its critical systems and train its\n  own successors. Trade enriches it; route loss does not immediately end it.\n- **Colony:** a settlement whose sponsor retains decisive political or economic\n  authority. The word describes power, not distance from Earth or Kharos.\n- **Foundation:** the deliberate creation of a permanent settlement. The term\n  does not claim that the destination was empty, harmless, or morally available.\n- **Shore:** the permitted ligature endpoint volume within a stellar system.\n- **Weighhouse:** the distributed infrastructure that prepares, exchanges, and\n  localizes route carriages.\n- **Carriage:** the closed mass-energy packet exchanged through a ligature.\n- **Weight right:** a contractual claim upon part of a scheduled carriage class.\n- **Mailfall:** the localization and opening of a carriage carrying accumulated\n  messages, records, markets, and orders from another system.\n- **Route-loss horizon:** the time before a settlement loses an indispensable\n  life, medical, industrial, or governmental function after traffic stops.\n- **Replacement depth:** how many generations of tools and components a local\n  industry can reproduce before encountering an imported dependency.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ## Working vocabulary",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Gravity wells decide what moves",
+          "source_line": 172,
+          "original_items": 4,
+          "original_text": "- High-gravity worlds export people, institutions, designs, specialized living\n  products, and high-value manufacture more readily than rock or water.\n- Low-gravity bodies supply propellant, shielding, bulk structure, ballast, and\n  construction mass.\n- Atmospheres support aerobraking and local industry while making clean vacuum\n  launch harder.\n- Route shores favor dynamically quiet, sparsely inhabited regions with room for\n  arrival error, momentum works, ballast yards, and quarantine.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Gravity wells decide what moves",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Stage 1: remote census",
+          "source_line": 217,
+          "original_items": 7,
+          "original_text": "- stellar and planetary architecture;\n- volatile, radiation, and debris environments;\n- possible native atmospheres or biospheres;\n- the likely far-shore volume;\n- ligature coupling and expected depth;\n- ordinary sublight travel and braking requirements; and\n- whether any economic or scientific reason justifies proceeding.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Stage 1: remote census",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Stage 2: receiver-seed mission",
+          "source_line": 241,
+          "original_items": 8,
+          "original_text": "- several independent power sources;\n- redundant navigation and stellar-capture systems;\n- machine tools and certified precision parts;\n- prospecting, mining, refining, and additive/subtractive fabrication equipment;\n- clocks, reference masses, and locality instruments;\n- fault-isolated control systems;\n- enough stored feedstock to repair the tools that begin local production; and\n- multiple plans for constructing a weighhouse from different destination\n  materials.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Stage 2: receiver-seed mission",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Stage 7: destination watch",
+          "source_line": 322,
+          "original_items": 8,
+          "original_text": "- rescue and quarantine capacity;\n- a larger ballast reserve;\n- independent power and heat paths;\n- system navigation and planetary survey;\n- several years of autonomous stores;\n- shelters outside the weighhouse;\n- ordinary local spacecraft; and\n- an authenticated archive that does not depend upon the founding seed's one\n  control history.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Stage 7: destination watch",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Exploration timescales",
+          "source_line": 353,
+          "original_items": 10,
+          "original_text": "- candidate survey and conjugacy confirmation: **5–25 years**;\n- receiver-seed design and launch: **5–20 years**;\n- ordinary interstellar precursor flight: normally **50–300 years**, depending\n  upon distance, velocity, and braking; roughly thirty years is reserved for an\n  unusually near target and an approximately `0.15c`-class mission with a closed\n  capture plan;\n- far-shore bootstrap: **10–40 years**;\n- independent route proof: **5–20 years**;\n- provisional human opening: usually **one to several centuries** after the\n  candidate became serious;\n- industrial outpost after opening: **10–25 years**;\n- continuant settlement: normally **50–100 years**;\n- rooted polity: normally **100–250 years**;\n- mature system: generally **several centuries**.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ## Exploration timescales",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Cold reception",
+          "source_line": 413,
+          "original_items": 5,
+          "original_text": "- exterior mass, charge, heat, radiation, and motion checks close;\n- remote samplers authenticate atmosphere and exposed material where applicable;\n- active energy stores and actuators are bounded;\n- the manifest is compared with independent shore records; and\n- local quarantine authorizes opening or transfer to a more distant pad.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Cold reception",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Throughput",
+          "source_line": 443,
+          "original_items": 4,
+          "original_text": "- an experimental shore conducts a few exchanges per year;\n- a frontier route conducts roughly a dozen to several dozen major exchanges per\n  year;\n- a mature secondary route conducts weekly or near-daily exchanges;\n- a core trunk with several modes may conduct hundreds of major exchanges per\n  year.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Throughput",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### One worked core-trunk year",
+          "source_line": 470,
+          "original_items": 4,
+          "original_text": "- route depth of eight days;\n- four active harmonics;\n- roughly thirty-six hours of recovery after each exchange;\n- and 144 scheduled paired exchanges per accounting year after maintenance margin.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### One worked core-trunk year",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## The physical cost of passage",
+          "source_line": 578,
+          "original_items": 13,
+          "original_text": "1. surface and orbital lift;\n2. in-system transfer to the shore;\n3. carriage preparation and inspection;\n4. certified weight-class capacity;\n5. counterweight acquisition at the other shore;\n6. sequence-mode occupancy;\n7. endpoint energy and heat rejection;\n8. local momentum and orbital reconciliation;\n9. life support or thermal service;\n10. rescue and quarantine reserves;\n11. insurance and political risk;\n12. time while capital remains inaccessible; and\n13. onward transport after arrival.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ## The physical cost of passage",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## The physical cost of passage",
+          "source_line": 594,
+          "original_items": 6,
+          "original_text": "- invariant mass;\n- volume;\n- internal motion and multipole complexity;\n- heat generated or requiring removal;\n- biological, radiological, chemical, informational, or arcane hazard;\n- and urgency.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ## The physical cost of passage",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Principal trade",
+          "source_line": 674,
+          "original_items": 11,
+          "original_text": "- authenticated scientific, legal, historical, and commercial records;\n- trained specialists, migrants, diplomats, pilgrims, students, and refugees;\n- pharmaceuticals, catalysts, and specialized biological products;\n- reproductive diversity, tissue lineages, crop varieties, microbes, and\n  ecological recovery packages;\n- precision optics, sensors, clocks, semiconductors, and quantum devices;\n- certified superconducting elements, reactor components, control hardware, and\n  machine tools;\n- rare isotopes or catalysts unavailable locally;\n- material standards with trusted provenance;\n- art, relics, religious objects, and custody-bearing artifacts;\n- route components that the destination cannot yet reproduce; and\n- emergency medicine, food cultures, or famine relief.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Principal trade",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Normally local goods",
+          "source_line": 690,
+          "original_items": 8,
+          "original_text": "- water;\n- atmospheric gases;\n- common structural metal;\n- shielding mass;\n- construction aggregate;\n- ordinary food;\n- bulk reactor fuel; and\n- low-precision finished goods.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Normally local goods",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Capital travels into an evidentiary delay",
+          "source_line": 724,
+          "original_items": 5,
+          "original_text": "- originating execution time;\n- sequence window;\n- destination localization time;\n- custody and hazard state;\n- and the earliest carriage expected to return authenticated receipt.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Capital travels into an evidentiary delay",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Route-opening finance",
+          "source_line": 757,
+          "original_items": 8,
+          "original_text": "- public or dynastic endowments;\n- guild and university prospecting shares;\n- religious or diaspora subscriptions;\n- receiver-seed bonds;\n- route-opening bonds payable after independent route proof;\n- shore construction concessions;\n- foundation bonds backed by future traffic fees; and\n- mutual rescue and quarantine funds.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Route-opening finance",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Insurance is reciprocal",
+          "source_line": 795,
+          "original_items": 10,
+          "original_text": "- refusal;\n- snapback;\n- spill or shorefall;\n- operational de-rating, forecast secular fade, or abrupt anomalous loss;\n- momentum debt;\n- ordinary vessel failure;\n- quarantine;\n- political seizure or blockade;\n- biological contamination;\n- and exposure to a prohibited system.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Insurance is reciprocal",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### What can be owned",
+          "source_line": 824,
+          "original_items": 8,
+          "original_text": "- weighhouse stations;\n- ballast and momentum reserves;\n- clocks and calibration infrastructure;\n- current phase and localization tables;\n- carriage hulls;\n- rescue, quarantine, and customs facilities;\n- approach-volume security; and\n- a service concession.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### What can be owned",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Bilateral governance",
+          "source_line": 842,
+          "original_items": 9,
+          "original_text": "- admissible weight classes;\n- hazardous cargo;\n- timetable and sequence tables;\n- customs and personhood;\n- rescue liability;\n- quarantine refusal;\n- military traffic;\n- mail custody;\n- and procedures after one jurisdiction collapses.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Bilateral governance",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Weight clearinghouses",
+          "source_line": 871,
+          "original_items": 7,
+          "original_text": "- matches opposite-direction carriage demand;\n- prices scarce counterflow and unused weight;\n- reserves public emergency ballast;\n- distinguishes gross carriage mass from useful payload;\n- tracks where route mass becomes dispersed into shielding, habitation, cargo,\n  or local industry;\n- carries forward shore-local imbalances between schedules; and\n- settles financial payment separately from the physical mass book.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Weight clearinghouses",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Why people found new societies",
+          "source_line": 891,
+          "original_items": 10,
+          "original_text": "- access to a strategically placed shore;\n- low-gravity industry or rare local feedstock;\n- a habitable or scientifically unique environment;\n- refuge from law, war, caste, debt, religion, or ecological loss;\n- deliberate redundancy of humanity and managed Earth life;\n- military positioning;\n- university, monastic, or archival seclusion;\n- profit from route service;\n- forced relocation or dispossession; and\n- the ordinary desire to build a life elsewhere.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Why people found new societies",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Survey before settlement",
+          "source_line": 914,
+          "original_items": 9,
+          "original_text": "1. orbital and robotic census;\n2. stand-off sample return;\n3. sealed surface or atmospheric stations;\n4. multi-season biological and geological survey;\n5. independent contamination review;\n6. limited occupied habitats;\n7. local industry and food trials;\n8. resident decision about permanent foundation; and\n9. only then, any controlled environmental integration.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Survey before settlement",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## The foundation package",
+          "source_line": 932,
+          "original_items": 17,
+          "original_text": "- three physically separable power systems using at least two energy sources;\n- three pressure and life-support districts with independent shutdown;\n- years of atmosphere, water, food, medicine, and cold reserve;\n- local extraction, refining, chemistry, and waste processing;\n- machine tools and additive/subtractive fabrication;\n- semiconductor, optical, clock, and control-system repair stocks;\n- spare radiators, pressure hull, seals, and power conversion;\n- landing, orbital transfer, rescue, and quarantine craft;\n- medical, obstetric, pediatric, dental, and rehabilitation capacity;\n- gamete, embryo, tissue, crop, microbial, and industrial-organism archives;\n- several unrelated food and nutrient pathways;\n- schools and technical apprenticeships;\n- legal, linguistic, scientific, and cultural archives;\n- locally authoritative clocks and navigation;\n- contamination and native-life laboratories;\n- at least one independent means of repairing the far shore; and\n- duplicate constitutional records carried through unrelated control histories.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ## The foundation package",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Expedition",
+          "source_line": 985,
+          "original_items": 5,
+          "original_text": "- normally fewer than **1,000** residents;\n- staffed for a mission;\n- no assumption of permanent reproduction;\n- evacuation or relief remains part of the operating plan; and\n- does not count as an inhabited system.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Expedition",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Dependent settlement",
+          "source_line": 993,
+          "original_items": 6,
+          "original_text": "- normally at least **3,000** permanent residents;\n- locally born children;\n- reproductive archives representing tens of thousands of unrelated donors;\n- several independent life-support districts;\n- local water, food, and basic fabrication; but\n- a route-loss horizon still measured in months or a few years.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Dependent settlement",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Continuant settlement",
+          "source_line": 1004,
+          "original_items": 7,
+          "original_text": "- at least **10,000** permanent residents;\n- several locally born age cohorts;\n- three geographically and mechanically separable communities;\n- unrelated power, food, and archive systems;\n- locally trained clinicians, engineers, teachers, and operators;\n- at least **five years** of survival under route closure; and\n- no single imported archive or machine whose loss ends reproduction, atmosphere,\n  food, or government.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Continuant settlement",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Rooted polity",
+          "source_line": 1017,
+          "original_items": 6,
+          "original_text": "- population of roughly **100,000 or more**;\n- local replacement of critical power, pressure, medical, agricultural, and\n  transport systems;\n- education of its own replacement specialists;\n- a route-loss horizon of a decade or more;\n- resident control of air, water, labor law, childhood, medicine, and policing;\n- and the ability to negotiate with the shore as a government rather than a work\n  camp.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Rooted polity",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Mature system",
+          "source_line": 1034,
+          "original_items": 5,
+          "original_text": "- multiple settlements, habitats, or inhabited bodies;\n- population in the hundreds of thousands, millions, or more;\n- several ecological, industrial, legal, and cultural traditions;\n- more than one major power and food architecture; and\n- enough replacement depth that route loss causes contraction and hardship\n  rather than immediate civilizational failure.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Mature system",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Ecology and biological custody",
+          "source_line": 1080,
+          "original_items": 9,
+          "original_text": "- primary food production;\n- decomposition;\n- nitrogen and mineral cycling;\n- fermentation and food processing;\n- pollination or equivalent reproductive support;\n- soil or substrate maintenance;\n- microbial diversity;\n- disease surveillance;\n- and recovery after one organism, archive, or growth facility is lost.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ## Ecology and biological custody",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Dependency and exploitation",
+          "source_line": 1134,
+          "original_items": 5,
+          "original_text": "- legally independent but unable to replace its reactors;\n- materially resilient but ruled by an external shore company;\n- wealthy in route tolls and poor in food diversity;\n- populous but dependent upon one medical culture;\n- or politically subordinate while possessing the only ballast reserve that\n  keeps its sponsor's route open.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ## Dependency and exploitation",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Dependency and exploitation",
+          "source_line": 1143,
+          "original_items": 11,
+          "original_text": "- atmosphere;\n- water;\n- food and nutrients;\n- heat rejection;\n- medicine;\n- reactor service;\n- fabrication feedstock;\n- skilled labor;\n- reproductive diversity;\n- shore repair; and\n- civil legitimacy.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ## Dependency and exploitation",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Route-opening failures",
+          "source_line": 1161,
+          "original_items": 16,
+          "original_text": "- false or commercially useless conjugacy;\n- receiver seed lost in ordinary space;\n- failed braking;\n- incorrect stellar-wind, dust, or braking-medium estimates;\n- century-scale drift in an autonomous seed's control goals or legal mandate;\n- radiation and aging destroying irreplaceable high-order components;\n- wrong shore volume;\n- insufficient local feedstock;\n- destination chemistry incompatible with the planned bootstrap process;\n- capture, refusal, or repurposing by an already present population;\n- bootstrap industry unable to reproduce one critical component;\n- a home vigil ending before the first surviving Answer window;\n- orphan shore whose sponsor no longer exists;\n- independent Answers that do not agree;\n- operational de-rating or forecast secular fade before investment recovery; and\n- a valid destination whose ecology or politics makes settlement unacceptable.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Route-opening failures",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Settlement failures",
+          "source_line": 1180,
+          "original_items": 13,
+          "original_text": "- one reactor, pressure spine, fabricator, archive, or food culture becoming\n  indispensable;\n- demographic collapse or loss of replacement skills;\n- reproductive archive corruption;\n- incompatible imported ecologies;\n- chronic micronutrient or microbial failure;\n- insufficient radiators or heat sinks;\n- native toxin or pathogen missed during survey;\n- inability to make the tools needed to repair imported tools;\n- sponsor control of atmosphere, medicine, or departure;\n- route closure before local industry matures;\n- emergency coordination converted into coercive Agreement architecture;\n- continuous utilities creating Rzez propagation paths; and\n- conflict while sponsor instructions remain weeks or months old.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Settlement failures",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Salvage and quarantine",
+          "source_line": 1214,
+          "original_items": 9,
+          "original_text": "- biological contamination;\n- radiation;\n- chemical or industrial hazard;\n- suspect Rzez physical propagation;\n- active Agreement control architecture;\n- suspected Manifold incidence or anchor condition;\n- Closed Night anchor hardware;\n- strange-matter or Rehearsal residue;\n- and restricted Blackglass construction knowledge.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ## Salvage and quarantine",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Salvage and quarantine",
+          "source_line": 1226,
+          "original_items": 5,
+          "original_text": "- Rzez risk follows exposed physical samples, carriers, tools, and continuous\n  structures, not a received recording.\n- Agreement testimony is inert, while live adaptive feedback architecture may\n  reconstruct capability.\n- A Manifold report is safe to read; a suspected active incidence is a spatial\n  quarantine problem.\n- Closed Night diagrams can be constructive knowledge while an anchor remains\n  physical contraband.\n- Apsis telemetry is evidence until combined with convergence, baryon-bias, and\n  quench capability.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ## Salvage and quarantine",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Shore warfare",
+          "source_line": 1251,
+          "original_items": 7,
+          "original_text": "- Weapons do not cross outside a committed carriage.\n- A hostile arrival needs a participating or compromised opposite shore.\n- Every military carriage sends equal mass in the other direction.\n- A defender can safely refuse before commitment.\n- Closing after commitment risks both carriages and both shores.\n- A ship cannot divert between systems.\n- Alternative weighhouses are immense, slow to build, and limited to known shore\n  volumes.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Shore warfare",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Evacuation",
+          "source_line": 1277,
+          "original_items": 7,
+          "original_text": "- an operating local shore;\n- a receiving shore willing to send equal counterweight;\n- carriage slots;\n- passenger life support and thermal capacity;\n- local transport from the endangered world;\n- destination housing and quarantine; and\n- enough warning to repeat the exchange.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ### Evacuation",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Why only eight to twelve systems remain inhabited",
+          "source_line": 1341,
+          "original_items": 12,
+          "original_text": "1. Usable ligatures are rare.\n   As an authoring constraint, roughly one potentially macroscopic conjugacy\n   survives among every twenty to fifty stellar basins subjected to serious\n   locality survey. Most rooted systems have no unopened candidate.\n2. A candidate still requires a receiver seed to cross ordinary interstellar\n   distance.\n3. Many seeds fail or arrive after their sponsors disappear.\n4. A far shore takes decades to bootstrap and independently prove.\n5. Some valid ligatures are too deep or weak for useful traffic.\n6. Many accessible systems justify science or extraction but not a permanent\n   society.\n7. A serious foundation consumes hundreds of thousands of tonnes, route slots,\n   ecological diversity, specialists, and generations of subsidy.\n8. New settlements compete with existing worlds for migrants and institutional\n   attention.\n9. Some systems become dead, prohibited, quarantined, blockaded, or disconnected.\n10. A mine, observatory, or twelve-person station does not count as an inhabited\n    system.\n11. Route capacity prevents simultaneous unlimited expansion.\n12. Post-Valec civilization distrusts societies whose survival depends upon one\n    continuous supply path.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ## Why only eight to twelve systems remain inhabited",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Deliberately unresolved",
+          "source_line": 1379,
+          "original_items": 9,
+          "original_text": "- The exact current count and names of inhabited systems beyond established\n  places.\n- Which present shores were first built by Meridian programs, inherited from an\n  earlier human expansion, or reopened after abandonment.\n- The fate of every receiver seed and orphan shore.\n- Whether any modern candidate is conjugate with the Solar System.\n- The founding carriers' transit mechanism.\n- The total regional population.\n- One universal currency, route authority, commercial code, or colonial law.\n- Whether a nonhuman civilization has ever opened a ligature.\n- The final political boundary between Kharos, the route institutions, and other\n  core systems.\n",
+          "disposition": "connected prose",
+          "destination": "canon/spaceflight-economy-and-settlement.md :: ## Deliberately unresolved",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Authoring checklist for a new place",
+          "source_line": 1399,
+          "original_items": 14,
+          "original_text": "1. How was it first observed?\n2. How did the receiver seed or prior shore arrive?\n3. What does the ligature exchange, how deep is it, and what are its weight\n   classes?\n4. Where are the shore, ballast, momentum, rescue, and quarantine works?\n5. How do ordinary ships reach the inhabited destination from the shore?\n6. Which common mass is local, and which high-value dependency crosses stars?\n7. Who financed opening, and who now owns the scales?\n8. What is the shortest route-loss clock?\n9. What material, living, and civic systems make the community continuant?\n10. Is it an expedition, outpost, colony, continuant settlement, or rooted polity?\n11. What native environment was altered, protected, or misunderstood?\n12. What failed during foundation, and what institution remembers the cost?\n13. What can blockade, quarantine, operational de-rating, secular fade, or\n    anomalous route loss do to it?\n14. Why does this place need to exist instead of reusing one already in canon?\n",
+          "disposition": "editorial companion",
+          "destination": "docs/editorial-notes/canon-spaceflight-economy-and-settlement.md :: ## Authoring checklist for a new place",
+          "reason": "Author-facing instructions retained intact."
+        }
+      ],
+      "retained_tables": "Reference/chronology/comparison tables remain unchanged where present."
+    },
+    {
+      "path": "canon/setting-scope.md",
+      "blocks": [
+        {
+          "source_heading": "## What kind of decision this is",
+          "source_line": 61,
+          "original_items": 3,
+          "original_text": "1. **Authoring constraints:** rules future entries should follow so the setting\n   retains coherent scale.\n2. **Provisional shared canon:** facts that entries may currently rely upon but\n   that can still change during early development.\n3. **In-world uncertainty:** questions the Codex's scholars and cultures do not\n   know how to answer.\n",
+          "disposition": "connected prose",
+          "destination": "canon/setting-scope.md :: ## What kind of decision this is",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Why this scale fits the current subjects",
+          "source_line": 75,
+          "original_items": 7,
+          "original_text": "- Valec, an inhabited industrial world with billions of people;\n- Issa, a gas giant with an anomalous inner moon;\n- orbital observation and interplanetary evacuation;\n- survey vessels and alleged regenerative colony ships;\n- several sovereign states with partial planetary capability;\n- multiple suspected planetary or lunar deployments;\n- and a multinational legal framework capable of quarantine and prohibition.\n",
+          "disposition": "connected prose",
+          "destination": "canon/setting-scope.md :: ## Why this scale fits the current subjects",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Blackglass distribution and the exploration problem",
+          "source_line": 187,
+          "original_items": 4,
+          "original_text": "1. No fragment may establish a fully mapped ancient empire merely by existing.\n2. No landscape resemblance may override contrary geology or weak provenance.\n3. No exterior witness may merge the six systems into one technology without a\n   later entry earning that revision.\n4. No claim of an unvisited world may be treated as omniscient proof that no\n   forgotten, concealed, or extrinsic visitor ever reached it.\n",
+          "disposition": "connected prose",
+          "destination": "canon/setting-scope.md :: ## Blackglass distribution and the exploration problem",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Humanity and Earth",
+          "source_line": 325,
+          "original_items": 4,
+          "original_text": "- an unambiguous numbered Earth civil date and named era;\n- the sky state or reference epoch to which that date applied;\n- the time standard and calendar rules used to encode it;\n- and an unbroken clock and trajectory transform from that record to the first\n  Kelan–Ruva settlements.\n",
+          "disposition": "connected prose",
+          "destination": "canon/setting-scope.md :: ## Humanity and Earth",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Interstellar travel",
+          "source_line": 375,
+          "original_items": 9,
+          "original_text": "- Only a few system pairs possess a usable natural conjugacy. Distance alone\n  does not predict connection.\n- A shore requires immense, visible infrastructure, ballast, momentum capacity,\n  clocks, rescue, and quarantine.\n- Every arrival exchanges with an equal countercarriage. No one-sided passage\n  or shipboard route drive exists.\n- Strong ligatures take several days; deep ones take weeks or longer. More power\n  cannot safely erase the coupling limit.\n- A carriage cannot steer, stop, change destination, communicate outward, or be\n  recalled after commitment.\n- A route can be refused, blockaded, quarantined, faded, or rendered a dead shore\n  when its endpoint infrastructure fails.\n- Some systems have one practical shore, making isolation and siege physically\n  meaningful.\n- A new far shore must be built by a slow receiver seed, reached through another\n  opened route, or inherited from an earlier delivery history.\n- Route throughput moves specialists, high-value goods, and founding programs;\n  it cannot evacuate a world of billions during a rapid catastrophe.\n",
+          "disposition": "connected prose",
+          "destination": "canon/setting-scope.md :: ## Interstellar travel",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Scale rules for future entries",
+          "source_line": 493,
+          "original_items": 10,
+          "original_text": "1. Place it on an existing world or leave its precise location open unless a new\n   system materially improves the history.\n2. Introduce no more celestial geography than the entry can make meaningful.\n3. Record new systems, worlds, moons, routes, and quarantines in `canon/places/`.\n4. Update this document when an entry changes the known region's size, travel,\n   communication, political reach, Earth-correlation boundary, or nonhuman\n   boundary.\n5. Update `canon/chronology.md` when the placement affects shared historical eras.\n6. Preserve the importance of losing a world; inhabited space must not become so\n   vast that world-terminal technology feels routine.\n7. Do not make every instrument planetary. Smaller technologies should reveal\n   daily life, medicine, labor, law, family, belief, and local violence.\n8. Give Kharos recurring consequences without making it the source, test range,\n   battlefield, regulator, and archive of every system.\n9. Treat all six current systems as separate ontologies unless a later entry\n   deliberately earns an interaction.\n10. Give a Blackglass fragment, exterior witness, or parallel taboo a provenance\n    and evidence grade; ubiquity is not permission to place arbitrary knowledge\n    without material history.\n",
+          "disposition": "editorial companion",
+          "destination": "docs/editorial-notes/canon-setting-scope.md :: ## Scale rules for future entries",
+          "reason": "Author-facing instructions retained intact."
+        },
+        {
+          "source_heading": "## Deliberately unresolved questions",
+          "source_line": 515,
+          "original_items": 16,
+          "original_text": "- What is the known inhabited region called in different eras and languages?\n- How many systems are continuously inhabited in the current era?\n- Why do particular stellar systems possess conjugate locality while most do\n  not?\n- Which present shores were built by Meridian programs, inherited from earlier\n  human expansion, or reopened after abandonment?\n- Which receiver seeds became orphan shores, and which remain in ordinary\n  interstellar flight?\n- Which inhabited systems beyond Kelan–Ruva were settled before the Meridian\n  Age, and in what order?\n- Did every founding population reach Kelan–Ruva directly from Earth, or did\n  some arrive through one or more lost intermediate settlements?\n- Which Earth calendars survive in fragmentary form, and why do their proposed\n  crosswalks disagree?\n- What became of Earth, and can any surviving route reach the Solar System?\n- What is the associated presence, and does the concept of a civilization apply\n  to it?\n- Did a nonhuman civilization or forgotten human lineage alter Issa's moon?\n- How much authority does the Sixth Compact possess outside the core?\n- Did any viable catalytic seed escape Apsis, and could evidence of a distant\n  conversion still lie outside the known region's present light cone?\n- What lies beyond the mapped route network?\n- Why do Blackglass fragments recur throughout explored space, and why do their\n  media so often resemble the technology available near the find?\n- Which exterior witnesses record ancient use, recurrent discovery, natural\n  analogy, or misclassification?\n",
+          "disposition": "connected prose",
+          "destination": "canon/setting-scope.md :: ## Deliberately unresolved questions",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        }
+      ],
+      "retained_tables": "Reference/chronology/comparison tables remain unchanged where present."
+    },
+    {
+      "path": "canon/principles.md",
+      "blocks": [
+        {
+          "source_heading": "### Ontological non-equivalence",
+          "source_line": 109,
+          "original_items": 6,
+          "original_text": "- Rzez action is entropic failure among relationships inside an existing target.\n- Unhidden action is human morphogenic engineering performed by finite living\n  matter wholly present in ordinary space.\n- Manifold action is an extrinsic causal-topological failure of global spatial\n  and historical consistency.\n- Closed Night action is direction-selective radiative transport across a\n  powered, physically anchored boundary in ordinary space.\n- Agreement action is reciprocal redistribution of prediction error among\n  actively coupled nervous systems and machine controllers.\n- Rehearsal action is high-energy convergence into a baryon-loaded microscopic\n  focus followed by a self-gravity-limited quench whose material residue cannot\n  be selected precisely.\n",
+          "disposition": "connected prose",
+          "destination": "canon/principles.md :: ### Ontological non-equivalence",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Extraordinary effects remain accountable",
+          "source_line": 153,
+          "original_items": 6,
+          "original_text": "- The Rzez uses a target's existing load, stress, and environment to complete\n  failure.\n- The Unhidden consumes finite biomass, oxygen, nutrients, water, time, and\n  nursery capacity.\n- The Manifold's unboundedness is configurational; one bounded envelope does not\n  export infinite copies, energy, prophecy, or resources.\n- The Closed Night returns or retains radiation; it neither destroys energy nor\n  prevents matter from carrying heat across its boundary.\n- The Agreement requires finite participants, bandwidth, characterization,\n  reciprocal carriers, and low enough latency for correction to return in time.\n- The Rehearsal consumes transported energy and finite baryonic feedstock. Its\n  temperature exists only as a transient local state at thermalization, and any\n  later strange-matter growth converts encountered baryons rather than creating\n  mass from nothing.\n",
+          "disposition": "connected prose",
+          "destination": "canon/principles.md :: ### Extraordinary effects remain accountable",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Candidate cross-system metaphysics not yet adopted",
+          "source_line": 451,
+          "original_items": 5,
+          "original_text": "- identity may be an engineerable property;\n- the history of remaining together may contribute to present structure;\n- observation or external records may stabilize continuity;\n- institutions, laws, memories, and names may possess cohesion architectures;\n- and arcane engineering may manipulate relationships or information more\n  fundamentally than matter.\n",
+          "disposition": "connected prose",
+          "destination": "canon/principles.md :: ## Candidate cross-system metaphysics not yet adopted",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        }
+      ],
+      "retained_tables": "Reference/chronology/comparison tables remain unchanged where present."
+    },
+    {
+      "path": "canon/engineering-landscape.md",
+      "blocks": [
+        {
+          "source_heading": "## Mechanism firewall",
+          "source_line": 108,
+          "original_items": 8,
+          "original_text": "- Rzez damage is entropic relationship failure inside one ordinary geometry and\n  chronology.\n- An Unhidden organism is finite, mass-accountable living matter. Its total\n  boundary is physiological, not topological or radiative.\n- A Manifold rupture is globally nonconvergent. Its associated presence or\n  presences are not Plain Things, and neither subject explains the other.\n- A Closed Night is an active ordinary-space radiative enclosure. It does not\n  erase energy, halt time, make its interior impossible, or prevent matter from\n  crossing.\n- An Agreement lattice couples prediction and correction. It does not transmit\n  arbitrary beliefs, merge minds, spread through recordings, or cause truly\n  isolated instruments to agree.\n- The Rehearsal transports energy and forms temperature only when its\n  counterstreams thermalize at the focus. Its strangelet hazard is a\n  quench-produced material residue, not entropic unmaking, radiative retention,\n  morphogenic growth, neurocybernetic coupling, or causal contradiction.\n- Shared terms such as *boundary*, *continuity*, *identity*, *distributed*,\n  *agreement*, *closure*, and *convergence* do not establish common origin,\n  mechanism, vulnerability, or metaphysics.\n- No interaction among the six systems is canon until a manuscript produces an\n  incident and evidence model that require one.\n",
+          "disposition": "connected prose",
+          "destination": "canon/engineering-landscape.md :: ## Mechanism firewall",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Information hazard does not imply common physics",
+          "source_line": 143,
+          "original_items": 6,
+          "original_text": "- Rzez knowledge can expose propagation, characterization, and focusing\n  relationships that the Sixth Compact separately prohibits.\n- Unhidden knowledge can reveal growth, control, occlusion, and custody methods\n  applicable to finite living bodies.\n- Manifold records can teach a surveyor to recognize or approach an exterior\n  incidence without making the record a controllable rupture.\n- Closed Night diagrams can expose how lawful return infrastructure closes into\n  a hostile geometry.\n- Agreement models can reveal the carrier, latency, and reciprocal correction\n  needed to establish coercive coupling.\n- Rehearsal fragments can compose timing, convergence, baryon-bias, and quench\n  capacity even when no fragment alone is a weapon.\n",
+          "disposition": "connected prose",
+          "destination": "canon/engineering-landscape.md :: ### Information hazard does not imply common physics",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Kelan–Ruva defensive geography",
+          "source_line": 189,
+          "original_items": 4,
+          "original_text": "- [Kharos](places/kharos.md) supplies civilian medicine, public courts,\n  protected-dissent procedure, rehabilitation, scholarship, Common Matter\n  proceedings, and the ordinary social consequences of dangerous engineering.\n- [Avara](places/avara.md) supplies low-gravity clinical scale, atmosphere and\n  thermal engineering, the Three-Hand Rescue tradition, recovery facilities,\n  and some defensive industry.\n- [Odran](places/odran.md) supplies physically separated material standards,\n  independent controllers, clocks, vacuum calorimetry, high-energy particle\n  baselines, ranging stations, and redundant archives.\n- Stations farther into the system extend observation, thermal-reference, and\n  high-energy-transient baselines without becoming new population centers or\n  defining interstellar route physics.\n",
+          "disposition": "connected prose",
+          "destination": "canon/engineering-landscape.md :: ## Kelan–Ruva defensive geography",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Defenses that do not unify",
+          "source_line": 223,
+          "original_items": 6,
+          "original_text": "- Suspected Rzez propagation favors separation, sacrificial joints, and rapid\n  disconnection of continuous utilities.\n- A hostile open form can be impeded by occlusion, compression, desiccation, or\n  hostile chemistry, while a surrendering Plain Thing requires wet,\n  non-occluding life support. The same sealed cell can be containment or slow\n  execution depending on its environment.\n- Local Manifold incidence favors decoupling implicated infrastructure and\n  evacuating along one uninterrupted path. A mature rupture favors one ingress\n  path, continuous tethering, and teams that do not divide into incompatible\n  charts.\n- A Closed Night favors motion, broad anchor disruption, material heat export,\n  and multiple permanent egress paths. One narrow opening can become the lethal\n  white seam that a rescue team must avoid.\n- An Agreement favors hard disconnection, one-way channels, asynchronous clocks,\n  randomized local stimuli, small isolated cells, and observers whose variance\n  is physically protected. Reconnecting too early can restore learned\n  convergence after the original carrier is gone.\n- The Rehearsal favors prevention before convergence: disperse the crown, break\n  timing, deny baryon injection, and keep precursor arrays physically incapable\n  of closing a complete focus. After a stable catalytic strangelet escapes,\n  ordinary shutdown cannot recall it; detection, interception, and denial of\n  dense amplifying reservoirs become uncertain emergency measures.\n",
+          "disposition": "connected prose",
+          "destination": "canon/engineering-landscape.md :: ## Defenses that do not unify",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Boundaries retained for later entries",
+          "source_line": 259,
+          "original_items": 13,
+          "original_text": "- No confirmed Manifold rupture is placed in the Kelan–Ruva system.\n- The Unhidden's military conversion and first deployment occur away from\n  Kharos; their states, dates, and locations remain unresolved.\n- The associated Manifold presence has no assigned species, civilization,\n  motive, authorship, number, or strategic doctrine.\n- Ordinary interstellar routes are not defined by Manifold physics.\n- The Closed Night has no confirmed planetary deployment and does not enclose\n  Kharos, Avara, or an entire world.\n- The Agreement cannot bridge ordinary interstellar latency, propagate through\n  records, or eliminate the continued private consciousness of its victims.\n- The Apsis Discharge occurs outside Kelan–Ruva. No surviving Rehearsal crown,\n  strangelet specimen, or confirmed converted reservoir is assigned to the home\n  system.\n- A large but unknowable strangelet yield is established as authorial canon for\n  Apsis. In-world, numerous massive strange-rich tracks are Grade A while their\n  identification as a large strangelet population or long-lived yield is Grade B;\n  charge, mass, lifetime, and catalytic fraction remain unresolved. Catalytic\n  escape and a self-sustaining Succession remain Grade E.\n- Even a supercritical Succession travels by causal physical processes. It can\n  threaten ordinary baryonic matter in its reachable future, not convert\n  photons, dark matter, vacuum, spacetime, black-hole interiors, or permanently\n  causally inaccessible regions.\n- Rehearsal self-gravity does not create a controllable black-hole weapon or a\n  path around the energy ledger.\n- The Opening of Pelar Habitat and Ninth Holding occur outside Kelan–Ruva; their\n  withheld placement does not create a new celestial body in shared canon.\n- Kharos is not humanity's cradle, a regional capital, or the sole authority on\n  forbidden engineering.\n- Volume numbers, book numbers, permanent entry IDs, and final legal statuses\n  for The Unhidden and The Manifold remain unassigned.\n",
+          "disposition": "connected prose",
+          "destination": "canon/engineering-landscape.md :: ## Boundaries retained for later entries",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        }
+      ],
+      "retained_tables": "Reference/chronology/comparison tables remain unchanged where present."
+    },
+    {
+      "path": "canon/chronology.md",
+      "blocks": [
+        {
+          "source_heading": "## Calendar policy",
+          "source_line": 50,
+          "original_items": 3,
+          "original_text": "1. **Physical interval:** how much proper or coordinate time separates two\n   events, within stated uncertainty.\n2. **Astronomical epoch:** what the Solar or Kelan–Ruva sky looked like in a\n   declared reference frame and time scale.\n3. **Civil date:** what a society called and numbered that interval under a\n   particular calendar and era.\n",
+          "disposition": "connected prose",
+          "destination": "canon/chronology.md :: ## Calendar policy",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### The Unhidden",
+          "source_line": 140,
+          "original_items": 5,
+          "original_text": "1. Human regenerative medicine develops vascularization-independent\n   total-boundary scaffolds.\n2. The first open wards operate on Kharos during the late Meridian or\n   post-Meridian span; the side of Valec on which they fall remains open.\n3. Clinical systems acquire sufficient autonomy for consciousness to become\n   recognizable; whether one first mantle defines that transition remains\n   reserved.\n4. One or more offworld states convert the lineage into an open-form combat\n   organism and conduct the first wet-cradle deployment.\n5. Recovery and humane-custody capacity develops on Avara, while personhood\n   proceedings bring the legal consequences back to Kharos.\n",
+          "disposition": "connected prose",
+          "destination": "canon/chronology.md :: ### The Unhidden",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### The Manifold",
+          "source_line": 157,
+          "original_items": 4,
+          "original_text": "1. Early accounts predating modern instrumentation associate impossible places\n   or intervals with an extrinsic presence. Some records may be securely dated\n   even where their interpretation remains weak.\n2. A later frontier encounter produces separated instrumental records sufficient\n   to distinguish a Manifold rupture from ordinary route failure or folklore.\n3. Contemporary multisensor evidence confirms an associated extrinsic presence\n   without establishing authorship, motive, or strategy.\n4. Kharos, Avara, and Odran develop their present concordance practice in response\n   to evidence from outside the home system.\n",
+          "disposition": "connected prose",
+          "destination": "canon/chronology.md :: ### The Manifold",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Chronology questions to preserve",
+          "source_line": 228,
+          "original_items": 10,
+          "original_text": "- How wide is the best astronomical date band for each carrier assemblage, and\n  which uncertainties arise from stellar models rather than archive loss?\n- Which surviving Earth calendar names refer to the same civil system, and\n  which only resemble one another after translation?\n- Were the carrier assemblages one convoy, distinct direct migrations, or a\n  mixture including lost intermediate settlements?\n- Which accepted first-Answer tradition identifies the earliest modern\n  ligature, and which depends upon a later reconstruction?\n- Which present shores descend from pre-Meridian receiver seeds, inherited\n  infrastructure, or later reopenings?\n- Which current systems preserve genuinely pre-Meridian continuous occupation?\n\n- Does the Sixth Compact begin exactly at Valec's destruction or after a later\n  negotiation period while retaining Valec as calendar Year Zero?\n- Does “late Meridian Age” end at Valec, at the Compact, or at another event?\n- Is the Kharosi reconstruction period contemporaneous with Olan Vey or a later\n  period that attributes commentary to him?\n- Does the current era have a formal name outside Rzez scholarship?\n",
+          "disposition": "connected prose",
+          "destination": "canon/chronology.md :: ## Chronology questions to preserve",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        }
+      ],
+      "retained_tables": "Reference/chronology/comparison tables remain unchanged where present."
+    },
+    {
+      "path": "canon/glossary.md",
+      "blocks": [],
+      "retained_tables": "Reference/chronology/comparison tables remain unchanged where present."
+    },
+    {
+      "path": "canon/taxonomy.md",
+      "blocks": [
+        {
+          "source_heading": "## Why the taxonomy has several axes",
+          "source_line": 30,
+          "original_items": 8,
+          "original_text": "- Volume I, *Entropic Systems*;\n- Book Seven, *Instruments of Separation*;\n- Entry `A-7.01`;\n- a technology family;\n- entropic, propagative, and structure-selective engineering;\n- an originally industrial mineral-separation technology;\n- a proscribed world-terminal military technology;\n- and a system operating at surgical through planetary scales.\n",
+          "disposition": "connected prose",
+          "destination": "canon/taxonomy.md :: ## Why the taxonomy has several axes",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "### Volume",
+          "source_line": 67,
+          "original_items": 4,
+          "original_text": "- `Volume I: Entropic Systems`, containing the Rzez;\n- `Volume II: Radiant Systems`, containing The Closed Night;\n- `Volume III: Cybernetic Systems`, containing The Agreement;\n- `Volume IV: High-Energy Systems`, containing The Rehearsal.\n",
+          "disposition": "connected prose",
+          "destination": "canon/taxonomy.md :: ### Volume",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Engineering-system axis",
+          "source_line": 159,
+          "original_items": 4,
+          "original_text": "- `entropic` — engineering that biases a target toward loss of organized or\n  persistent structure rather than overcoming it through ordinary force.\n- `radiative` — engineering that controls permitted electromagnetic transport,\n  return, and escape across an actively maintained boundary.\n- `neurocybernetic` — engineering that couples prediction, error correction,\n  and action across nervous systems and machine controllers.\n- `high-energy` — engineering that transports, times, and converges extreme\n  particle and radiant energy to create a transient local state whose formation,\n  self-gravity, and quench determine the residue.\n",
+          "disposition": "connected prose",
+          "destination": "canon/taxonomy.md :: ## Engineering-system axis",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Engineering-system axis",
+          "source_line": 171,
+          "original_items": 2,
+          "original_text": "- `morphogenic` — engineering that controls how living matter assigns form,\n  function, and organismal continuity through development and repair.\n- `causal-topological` — engineering, or an analytically classified phenomenon,\n  that changes whether locally coherent spatial adjacencies and causal sequences\n  can compose one global geometry and history.\n",
+          "disposition": "connected prose",
+          "destination": "canon/taxonomy.md :: ## Engineering-system axis",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Behavioral-trait axis",
+          "source_line": 189,
+          "original_items": 5,
+          "original_text": "- `propagative` — the effect can extend through a target or connected system;\n- `structure-selective` — characterization can prefer particular continuities,\n  materials, interfaces, or load paths;\n- `delayed` — visible failure can occur long after establishment;\n- `self-cascading` — redistribution can continue destruction after the initiating\n  field or emitter is gone;\n- `residual` — affected targets may transmit instability to repairs or attached\n  material.\n",
+          "disposition": "connected prose",
+          "destination": "canon/taxonomy.md :: ## Behavioral-trait axis",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Behavioral-trait axis",
+          "source_line": 204,
+          "original_items": 5,
+          "original_text": "- `boundary-exposed` — essential physiology is accessible through channels\n  continuous with the surrounding environment;\n- `function-distributed` — vital roles recur throughout the body rather than\n  belonging to discrete organs;\n- `self-remapping` — surviving tissue can change physiological role after\n  damage;\n- `regenerative` — living structure can be rebuilt given sufficient time,\n  matter, and nursery support;\n- `environment-coupled` — operation depends unusually strongly on direct\n  exchange with the surrounding medium.\n",
+          "disposition": "connected prose",
+          "destination": "canon/taxonomy.md :: ## Behavioral-trait axis",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Behavioral-trait axis",
+          "source_line": 217,
+          "original_items": 3,
+          "original_text": "- `configuration-exploratory` — establishment samples an unbounded family of\n  possible configurations without producing a human-readable survey of them;\n- `topology-disjunctive` — locally valid adjacencies fail to compose one global\n  spatial chart;\n- `causally-disjunctive` — locally valid event sequences fail to compose one\n  global chronology.\n",
+          "disposition": "connected prose",
+          "destination": "canon/taxonomy.md :: ## Behavioral-trait axis",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Behavioral-trait axis",
+          "source_line": 226,
+          "original_items": 4,
+          "original_text": "- `boundary-anchored` — the effect depends upon a physically established and\n  maintained enclosure geometry;\n- `nonreciprocal` — transmission through the boundary differs by direction;\n- `spectrum-selective` — closure is engineered across finite frequency bands\n  rather than applying to every possible carrier automatically;\n- `energy-retentive` — prevented radiation remains available as heat or other\n  ordinary energy inside the enclosure rather than disappearing.\n",
+          "disposition": "connected prose",
+          "destination": "canon/taxonomy.md :: ## Behavioral-trait axis",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Behavioral-trait axis",
+          "source_line": 236,
+          "original_items": 4,
+          "original_text": "- `reciprocity-coupled` — establishment requires continuing two-way exchange\n  among participating controllers;\n- `prediction-error-redistributive` — correction burden is returned across the\n  coupled group rather than remaining local to one operator;\n- `variance-suppressing` — independent residuals and actions become\n  progressively costly to maintain;\n- `operator-inclusive` — the same reciprocal architecture can incorporate the\n  people or systems attempting to control it.\n",
+          "disposition": "connected prose",
+          "destination": "canon/taxonomy.md :: ## Behavioral-trait axis",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Behavioral-trait axis",
+          "source_line": 247,
+          "original_items": 5,
+          "original_text": "- `convergence-formed` — the extreme state exists only where separately\n  transported counterstreams meet and thermalize;\n- `baryon-loaded` — injected and intercepted baryonic matter materially\n  determines the focal plasma and available strange-matter yield;\n- `near-planck` — the reconstructed effective temperature approaches within two\n  orders of magnitude of the Planck temperature without claiming that a\n  macroscopic volume reaches that state;\n- `quench-dependent` — the cooling path and hadronization transition determine\n  the surviving residue more strongly than peak temperature alone; and\n- `self-gravity-limited` — increasing energy density drives the focus toward\n  trapped-surface formation rather than providing an unlimited hotter setting.\n",
+          "disposition": "connected prose",
+          "destination": "canon/taxonomy.md :: ## Behavioral-trait axis",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## Provenance axis",
+          "source_line": 296,
+          "original_items": 2,
+          "original_text": "- `known-human-lineage` — the reconstructable lineage is human, without ruling\n  out unknown earlier analogues;\n- `extrinsic-unknown` — the subject lies outside every known human or regional\n  lineage and apparently outside ordinary local spacetime, while creator,\n  operator, home, and purpose remain unresolved.\n",
+          "disposition": "connected prose",
+          "destination": "canon/taxonomy.md :: ## Provenance axis",
+          "reason": "All enumerated facts and qualifiers integrated in the corresponding section."
+        },
+        {
+          "source_heading": "## When a variant becomes another entry",
+          "source_line": 421,
+          "original_items": 4,
+          "original_text": "- the governing principle;\n- the central characterization and failure model;\n- the same historical lineage;\n- and consequences best understood as scale or form changes.\n",
+          "disposition": "editorial companion",
+          "destination": "docs/editorial-notes/canon-taxonomy.md :: ## When a variant becomes another entry",
+          "reason": "Author-facing instructions retained intact."
+        },
+        {
+          "source_heading": "## When a variant becomes another entry",
+          "source_line": 428,
+          "original_items": 6,
+          "original_text": "- a materially different mechanism;\n- independent discovery or engineering lineage;\n- different countermeasures or failure modes;\n- a distinct cultural identity or legal regime;\n- enough historical consequence to require its own reconstruction;\n- or a taxonomy placement that would otherwise be misleading.\n",
+          "disposition": "editorial companion",
+          "destination": "docs/editorial-notes/canon-taxonomy.md :: ## When a variant becomes another entry",
+          "reason": "Author-facing instructions retained intact."
+        },
+        {
+          "source_heading": "## Taxonomy change policy",
+          "source_line": 448,
+          "original_items": 5,
+          "original_text": "1. state which real entry or deliberate concept-integration decision forced the\n   change;\n2. update metadata documentation and schema together;\n3. review all affected entries;\n4. preserve stable entry IDs unless there is a compelling reason not to;\n5. document unresolved questions rather than filling the hierarchy with invented\n   placeholders.\n",
+          "disposition": "editorial companion",
+          "destination": "docs/editorial-notes/canon-taxonomy.md :: ## Taxonomy change policy",
+          "reason": "Author-facing instructions retained intact."
+        }
+      ],
+      "retained_tables": "Reference/chronology/comparison tables remain unchanged where present."
+    }
+  ],
+  "review": "Every original list item compared with destination; independent review completed and reported qualifiers restored."
+}

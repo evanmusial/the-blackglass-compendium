@@ -148,12 +148,14 @@ Unhidden organisms, Closed Night boundaries, or Agreement carriers.
 
 ## Deliberately unresolved
 
-- whether the open-quench fraction was intended or exceeded the Directorate's
-  design;
-- the strangelet multiplicity, charge distribution, mass spectrum, and
-  lifetime distribution;
-- whether any catalytic stability island exists;
-- whether any viable seed escaped the range;
-- the identities and casualties of personnel on redacted platforms; and
-- whether any present astronomical anomaly is evidence of an Apsis-derived
-  Taking rather than ordinary compact-object physics.
+Whether the open-quench fraction was intended or exceeded the Directorate's
+design remains unresolved. Strangelet multiplicity, charge distribution, mass
+spectrum, and lifetime distribution cannot be specified, and the existence of
+any catalytic stability island remains an open question.
+
+Whether any viable seed escaped the range is likewise unknown. The identities
+and casualties of personnel on redacted platforms remain undisclosed. No settled
+answer distinguishes a present astronomical anomaly as evidence of an
+Apsis-derived Taking rather than ordinary compact-object physics.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-events-apsis-discharge.md).

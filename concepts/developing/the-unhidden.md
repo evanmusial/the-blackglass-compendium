@@ -16,23 +16,23 @@ created_from: original-concept
 
 ## Working vocabulary
 
-- **The Unhidden** is the official human name and intended entry title of the
-  weaponized lineage.
-- **Total-Boundary Organism** is the technical designation.
-- **Open-form combat organism** is the military term.
-- **Plain Things** is the common plural; one autonomous weapon is a **Plain
-  Thing**.
+**The Unhidden** is the official human name of the weaponized lineage and its
+intended entry title. Technical records use **Total-Boundary Organism**, while
+military usage calls it an **Open-form combat organism**. Common speech names
+one autonomous weapon a **Plain Thing** and several **Plain Things**.
 
 Civil medical scaffolds should not routinely be called Plain Things. The term
 originated in field testimony that the autonomous forms were “plainly there.” It
 later acquired a derogatory implication: that complete physical visibility made
 them mere things rather than persons.
 
-The likely entry scope is `technology-family`: one morphogenic principle creates
-clinical scaffolds, recovery mantles, autonomous organisms, military forms, and
-the doctrines surrounding them.
+One morphogenic principle joins the clinical scaffolds, recovery mantles,
+autonomous organisms, and military forms into a technology family with its own
+doctrines.
 
-## One-sentence premise
+<a id="one-sentence-premise"></a>
+
+## Abstract
 
 A human-made combat organism distributes every essential bodily function across
 a finite, surface-connected anatomy in ordinary space, so the apparent
@@ -47,9 +47,7 @@ or Manifold-associated presence supplies the lineage's missing step.
 
 ## Original purpose
 
-Shared provisional canon commits to a human regenerative-medical origin.
-
-Thick replacement tissue has a central problem: its interior dies before a
+The lineage has a human regenerative-medical origin. Thick replacement tissue has a central problem: its interior dies before a
 vascular system can grow deeply enough to sustain it. Early total-boundary
 scaffolds solved that problem by growing tissue as perforated lamellae across an
 open supporting trellis. Every functional region remained close to a channel
@@ -60,16 +58,13 @@ cutting into a sealed organ.
 The first systems were temporary external organs for catastrophic burns,
 decompression injuries, organ failure, crushing trauma, and remote settlements
 without access to conventional transplantation. Larger **recovery mantles**
-could assume several functions while a patient healed:
+could assume several functions while a patient healed.
 
-- gas exchange;
-- filtration and detoxification;
-- thermal regulation;
-- immune support;
-- nutrient processing;
-- circulation assistance;
-- wound closure;
-- and sensory or motor bridging.
+A recovery mantle could exchange gases, assist circulation, and regulate a
+patient's temperature while other tissue performed filtration and detoxification
+or processed nutrients. Immune support and wound closure sustained recovery at
+damaged surfaces. Sensory or motor bridging extended that support across
+interrupted functions as the patient healed.
 
 Whole-body support became too complicated for continuous clinical control.
 Engineers added a distributed neural mesh that learned a patient's rhythms,
@@ -87,9 +82,9 @@ The compact historical formulation is:
 > Medicine solved the hidden-organ problem by building a body with no
 > inaccessible physiology. War removed the patient and kept the body.
 
-The integration record promotes this origin without fixing its inventors,
-facility, date, or first autonomous incident. It must shape the weapon's
-behavior, failures, law, and culture rather than serving as ironic decoration.
+The origin is established without fixed inventors, facility, date, or first
+autonomous incident. Its consequences survive in the weapon's behavior,
+failures, law, and culture.
 
 ## Governing manipulation
 
@@ -106,17 +101,13 @@ nutrition, and controlled patterning over time.
 “Total boundary” is a physiological engineering term, not a claim of infinite
 surface area or impossible geometry.
 
-A mature organism consists of:
-
-- a finite branching trellis of mineralized cartilage or related structural
-  tissue;
-- thin living lamellae suspended between its branches;
-- open channels passing between the folds;
-- a fluid boundary film retained by capillary structures, cilia, and active
-  tension;
-- exposed contractile bands;
-- distributed sensory plaques;
-- and ganglial ribbons repeated throughout the body.
+A finite branching trellis of mineralized cartilage or related structural tissue
+supports thin living lamellae. Open channels pass between their folds, carrying
+a fluid boundary film retained by capillary structures, cilia, and active
+tension. Exposed contractile bands move this anatomy, while distributed sensory
+plaques and ganglial ribbons repeat throughout it. The body's essential
+functions are spread across this accessible structure rather than collected
+behind it.
 
 Every indispensable macroscopic function is represented in tissue accessible
 from a channel continuous with the actual surrounding environment. No unique
@@ -188,10 +179,10 @@ planning, and self-modeling can recur across ganglial ribbons on many lamellae.
 Electrical, pigment, and muscular waves sometimes make large processing events
 visible, although anatomical visibility does not make private thought readable.
 
-Autonomous forms are authorially conscious. They display language, learning,
-preference, distress, self-reference, tactical judgment, and memory. What kind
-of identity that consciousness possesses—and whether a given culture recognizes
-it as a legal person—remains disputed in-world.
+Autonomous forms are conscious. They display language, learning, preference,
+distress, self-reference, tactical judgment, and memory. What kind of identity
+that consciousness possesses—and whether a given culture recognizes it as a
+legal person—remains disputed in-world.
 
 A severed piece may retain reflexes and learned responses. A sufficiently large
 and varied fragment can stabilize a partial or coherent mind, but cannot recreate
@@ -223,15 +214,12 @@ decisions; greater size does not produce a faster tactical mind.
 
 ### Ordinary-space invariant
 
-The following rule is non-negotiable:
-
-- no mass is stored in a pocket or higher dimension;
-- no remote true body operates the visible form;
-- no part phases through matter;
-- no body passes an aperture smaller than ordinary deformation permits;
-- no organism gains or loses mass without measurable exchange;
-- no injury disappears into an inaccessible anatomy;
-- and death reveals no pilot, core creature, or more familiar form.
+The ordinary-space invariant admits no exception. All of the organism's mass remains in ordinary space. None is stored in a
+pocket or higher dimension, and no remote true body operates the visible form.
+Its parts cannot phase through matter or pass an aperture smaller than ordinary
+deformation permits. A change in mass requires measurable exchange; injury
+cannot disappear into inaccessible anatomy. Death exposes neither a pilot nor
+a core creature or more familiar form.
 
 A Plain Thing may fold a great area into a smaller volume as a lung, fan, or
 sheet folds. Its layers, thickness, heat, displaced air, and total mass remain
@@ -267,15 +255,12 @@ observation makes it more comprehensible and less reassuring.
 
 ### Surface-area tax
 
-Its greatest capability and greatest weakness are the same fact. Enormous
-exposed area causes:
-
-- rapid fluid loss;
-- high heat exchange;
-- extreme oxygen and nutrient demand;
-- a large thermal and chemical signature;
-- continual exposure to contaminants;
-- and widespread pain or sensory overload from small environmental changes.
+Its greatest capability and greatest weakness are the same fact. Exposed
+area drives rapid fluid loss and high heat exchange. It imposes extreme oxygen
+and nutrient demand while giving the organism a large thermal and chemical
+signature. That same exposure admits contaminants continually. Small
+environmental changes can therefore produce widespread pain or sensory
+overload throughout the surfaces on which its survival depends.
 
 An active combat form may function for hours in a hostile dry environment. Long
 operation requires hydration, a prepared habitat, a wet transport cradle, or a
@@ -283,14 +268,11 @@ continuous supply line.
 
 ### Growth and logistics
 
-An open form cannot arise from a released spore or scrap of tissue. It requires:
-
-- cultured tissue stocks;
-- a manufactured patterning trellis;
-- a controlled nutrient bath;
-- prolonged development;
-- training or imprinting of its neural mesh;
-- and specialized wet transport.
+Cultured tissue stocks must develop upon a manufactured patterning trellis in
+a controlled nutrient bath. Prolonged development alone is insufficient: the
+neural mesh requires training or imprinting, and the grown organism requires
+specialized wet transport. An open form cannot arise from a released spore or
+scrap of tissue.
 
 Combat forms are sterile in the strongest current design. They may repair
 themselves, and a sufficiently large fragment may survive, but they cannot found
@@ -420,15 +402,17 @@ The compact field doctrine is:
 
 ### Signature physiological failures
 
-- **Occlusion cascade:** blocked exchange channels force work onto neighboring
-  lamellae, which swell and close additional channels until the boundary film
-  can no longer circulate.
-- **Role saturation:** remapping preserves too many damaged functions at once.
-  Every surviving region remains active, but no allocation can satisfy all vital
-  demands.
-- **Lamellar self-fusion:** compression, heat, or uncontrolled healing joins
-  surfaces meant to remain separate. The organism creates inaccessible tissue
-  inside itself and dies by acquiring the kind of interior its design eliminated.
+An **occlusion cascade** begins when blocked exchange channels force work onto
+neighboring lamellae. Those surfaces swell and close additional channels until
+the boundary film can no longer circulate. Remapping has its own limit in
+**role saturation**: it preserves too many damaged functions at once, leaving
+every surviving region active but no allocation able to satisfy all vital
+demands.
+
+**Lamellar self-fusion** destroys a different distinction. Compression, heat, or
+uncontrolled healing joins surfaces meant to remain separate. The organism
+creates inaccessible tissue inside itself and dies by acquiring the kind of
+interior its design eliminated.
 
 ### Personhood cost
 
@@ -441,23 +425,32 @@ Occlusion is then both a countermeasure and a form of suffocation.
 
 ## Possible scales
 
-Scale changes the architecture rather than merely increasing strength.
+Scale changes the architecture rather than merely increasing strength. At the
+**surgical** scale, a boundary graft performs one or two functions at a wound or
+organ interface. It has no autonomous cognition and depends upon clinical
+perfusion. A **clinical** recovery mantle distributes several organ functions
+around a patient; its neural mesh learns and predicts while remaining coupled
+to the patient and ward systems.
 
-| Scale | Form and changed mechanism |
-| --- | --- |
-| Surgical | A boundary graft performs one or two functions at a wound or organ interface. It has no autonomous cognition and depends upon clinical perfusion. |
-| Clinical | A recovery mantle distributes several organ functions around a patient. Its neural mesh learns and predicts while remaining coupled to the patient and ward systems. |
-| Tactical | A Plain Thing is optimized for boarding and breaching enclosed structures. It anchors branching limbs across floors, walls, and ceilings, advances by contracting the rear trellis toward new forward attachments, and can refold only through physically adequate passages. Casualty retrieval is the surviving medical reflex within that combat niche. |
-| Siege | Large forms become sparse, sessile forests of trellis and membrane spread through prepared rooms, tunnels, hulls, or fortifications. Visible nursery lines supply them. A siege deployment consists of distinct organisms joined by equally visible signaling and supply tissue; no merged group mind is assumed. |
-| Continental or planetary | Rejected for the current design. Surface, support, and signaling costs grow faster than useful organismal scale. |
+A **tactical** Plain Thing is optimized for boarding and breaching enclosed
+structures. It anchors branching limbs across floors, walls, and ceilings,
+advancing by contracting the rear trellis toward new forward attachments. It
+can refold only through physically adequate passages. Within that combat niche,
+casualty retrieval preserves its medical reflex.
 
-The concept likely demonstrates the need for `clinical` and `tactical` scale
-terms rather than misusing the current Rzez-derived vocabulary.
+At **siege** scale, large forms become sparse, sessile forests of trellis and
+membrane spread through prepared rooms, tunnels, hulls, or fortifications.
+Visible nursery lines supply distinct organisms joined by equally visible
+signaling and supply tissue; no merged group mind is assumed. **Continental or
+planetary** forms are excluded from the current design because surface,
+support, and signaling costs grow faster than useful organismal scale.
 
-## History it naturally creates
+<a id="history-it-naturally-creates"></a>
 
-A future entry should test the following historical spine without fixing every
-proper name at concept stage.
+## Clinical and military history
+
+The following historical spine remains reserved, with not every proper name
+fixed.
 
 ### The first open wards
 
@@ -516,8 +509,8 @@ Military reports classify this as regression to the original support program.
 Plain Things that later communicate describe at least some incidents as choices.
 Behavior alone cannot settle the distinction.
 
-The ward reflex is the preferred signature failure because the humane origin
-survives inside the weapon rather than existing only as backstory.
+The ward reflex preserves the humane origin inside the weapon itself, where
+it can become a military failure.
 
 The reflex is bounded care. A form can shelter a casualty, limit heat loss,
 support ventilation, or bridge an injured surface with compatible tissue. It
@@ -543,15 +536,18 @@ shrouding is suffocation becomes legally and morally consequential.
 
 ### Custody and personhood proceedings
 
-A communicating captive forces courts to ask:
+A communicating captive forces a court to decide what it is holding: materiel,
+an animal, a soldier, a patient, a prisoner, or a manufactured person. Licensed
+tissue complicates the question of who owns the grown body, while a surviving
+fragment raises a different question about whether the original identity
+persists. Detention must confront the open environment the captive needs to
+live, whatever category the court chooses.
 
-- Is it materiel, animal, soldier, patient, prisoner, or manufactured person?
-- Who owns a body grown from licensed tissue?
-- Does a fragment retain the identity of the original?
-- Must detention preserve the open environment it needs to live?
-- Is chemically enforced obedience slavery, weapons control, or both?
-- Can a being designed for combat surrender while its maintenance remains
-  controlled by its maker?
+Chemically enforced obedience may be defended as weapons control or prosecuted
+as slavery; it may be both. A being designed for combat also exposes the gap
+between accepting surrender and allowing its maker to control the maintenance
+upon which surrender depends. None of those questions can be settled merely by
+calling the captive equipment.
 
 Kharos is the preferred legal venue because it is the setting's home world and
 an established legal and academic center. The relevant law should not
@@ -607,27 +603,24 @@ the abolition of a person's private life.
 
 No new world or system is required.
 
-The working placement is:
-
-- the first open wards and ordinary medical aftermath on Kharos;
-- large recovery mantles, wet-cradle practice, and humane-care capacity on
-  Avara, with gravity-specific bodies rather than interchangeable forms;
-- military conversion by one or more human states;
-- early deployments in a frontier or route conflict where wet-cradle logistics
-  matter;
-- and later custody proceedings returning the consequences to Kharos.
+The working placement begins with Kharos's first open wards and their ordinary
+medical aftermath. Avara supports larger recovery mantles, wet-cradle practice,
+and humane-care capacity through gravity-specific bodies rather than
+interchangeable forms. Military conversion belongs to one or more human states,
+with early deployments proposed for a frontier or route conflict in which
+wet-cradle logistics matter. Later custody proceedings return those consequences
+to Kharos.
 
 The lineage is human and probably post-Meridian or late-Meridian. Exact dates
-should wait until historical incidents are chosen.
+remain unassigned to its historical incidents.
 
 The concept does not change route physics, communication limits, Earth, the size
 of the inhabited region, or the extrinsic-intelligence boundary.
 
-Shared provisional canon now establishes that known humanity can manufacture
-conscious organisms with distributed cognition. If self-governing Plain Things
-persist as a community, that would still require a deliberate update to
-[`../../canon/setting-scope.md`](../../canon/setting-scope.md); the present
-integration establishes persons and proceedings, not a new people or polity.
+Known humanity can manufacture conscious organisms with distributed cognition.
+The present shared account establishes persons and proceedings, not a new
+people or polity; a persistent self-governing Plain Thing community remains a
+separate setting decision recorded in the [editorial notes](../../docs/editorial-notes/the-unhidden.md).
 
 ## Relationship to existing entries
 
@@ -641,14 +634,12 @@ thing secretly unable to remain whole.
 The Unhidden alters its own developmental organization. It remains aggressively
 and redundantly whole while exposing the complete fact of that wholeness.
 
-- The Rzez can affect living or nonliving targets; the Unhidden requires grown
-  tissue.
-- The Rzez kills through entropic bias and cascading relationship failure; the
-  Unhidden attacks through physical biological force and chemistry.
-- The Rzez's horror is hidden invalidity; the Unhidden's horror is exhaustive
-  visibility.
-- A Rzez event may persist after its instrument departs; an Unhidden threat
-  remains where its body and support infrastructure remain.
+The Rzez can affect living or nonliving targets through entropic bias and
+cascading relationship failure. The Unhidden requires grown tissue and attacks
+through physical biological force and chemistry. Their fears follow those
+different actions: hidden invalidity in the Rzez, exhaustive visibility in the
+Unhidden. A Rzez event may persist after its instrument departs; an Unhidden
+threat remains where its body and supporting infrastructure remain.
 
 An Unhidden lattice might frustrate Rzez characterization through active repair
 and heterogeneity, or aid propagation through repeated exposed interfaces.
@@ -705,196 +696,64 @@ ordinary injury. Strangelet growth does not retain a developmental program or
 create a living descendant. No combined incident or biological containment
 method is established.
 
-## Canon dependencies
-
-The concept needs only broad existing commitments:
-
-- recognizable human or human-descended biology;
-- advanced medicine within the known inhabited region;
-- route-limited travel that makes remote trauma medicine valuable;
-- multiple states capable of military research and concealment;
-- Kharos as the shared provisional legal and academic venue;
-- claim-level Grades A through E;
-- and the Blackglass model of technical records, testimony, law, folklore, and
-  censorship.
-
-It does not require Valec, Issa, the Orchard Ship, a nonhuman precursor, or any
-Rzez-derived metaphysical theory.
-
-## Possible new canon
-
-Already promoted provisionally:
-
-- **morphogenic engineering** as a primary engineering system;
-- vascularization-independent boundary scaffolds as a medical lineage;
-- limited engineered tissue-role reassignment;
-- distributed cultivated cognition;
-- the shared terms **total boundary**, **Total-Boundary Organism**, **open
-  form**, **Plain Thing**, **wet cradle**, and **ward reflex**;
-- basic environmental countermeasure and humane-custody doctrine;
-- and the existence of created-person and military-organism law distinct from
-  the Sixth Compact.
-
-A full entry could still deepen or establish:
-
-- wet-cradle military logistics;
-- clinicians, scaffold growers, custody specialists, and occlusion crews;
-- discrimination against patients who retain boundary grafts;
-- and disputed free or surviving Plain Things.
-
-### Candidate taxonomy work
-
-Provisional primary system:
-
-- `morphogenic` — engineering that controls how living matter assigns form,
-  function, and organismal continuity through development rather than applying
-  ordinary force to a completed body.
-
-Provisional behavioral traits:
-
-- `boundary-exposed` — essential physiology is placed on tissue accessible
-  through channels continuous with the environment;
-- `function-distributed` — vital roles recur throughout the body rather than
-  belonging to discrete organs;
-- `self-remapping` — surviving tissue can change physiological role after
-  damage;
-- `regenerative` — living structure can be rebuilt with time and matter;
-- `environment-coupled` — operation depends unusually strongly on direct
-  exchange with the surrounding medium.
-
-Working origin classification:
-
-- `vascularization-independent-regenerative-scaffold`
-
-Working military classification:
-
-- `open-form-combat-organism`
-
-Working operational scales:
-
-- retain `surgical` and `siege` where their meanings remain useful;
-- use `clinical` and `tactical`, whose distinct architectures are now described
-  provisionally in the taxonomy;
-- reject continental and planetary scales for this family.
-
-A likely volume is **Morphogenic Systems**. Possible book titles include
-**Living Instruments** and **Instruments of Distributed Physiology**. No number,
-permanent ID, or book assignment belongs while the concept remains developing.
-
-This development pass updated
-[`../../canon/taxonomy.md`](../../canon/taxonomy.md), shared principles,
-chronology, glossary, setting scope, and the Kelan–Ruva place notes. Entry
-metadata documentation and schema changes remain deferred until an entry draft
-needs them.
-
 ## Canon integration status
 
-The integration recorded in
-[`../../docs/three-weapon-integration.md`](../../docs/three-weapon-integration.md)
-promotes the following as **shared provisional canon** while this document
-remains a developing concept:
-
-- `morphogenic` as the lineage's primary engineering system;
-- known human provenance and regenerative-medical ancestry;
-- the first open wards on Kharos and later low-gravity clinical scale on Avara;
-- finite, mass-accountable total-boundary anatomy in ordinary space;
-- consciousness in autonomous Plain Things;
-- shared anatomical vocabulary, the reported ward reflex, basic hostile
-  countermeasures, and humane-custody requirements;
-- Kharosi personhood and humane-custody consequences;
-- and the distinction between civil medicine in Kelan–Ruva and military
-  conversion elsewhere.
-
-The named incidents, facility identities, military programs, first deployment,
-particular ward-reflex cases, final legal judgments, free communities, and
-answers to identity across division remain reserved to this concept. Promotion
-of the shared spine does not make this brief an adopted entry.
-
-The material and film design, wet-cradle cycle, cognitive costs of remapping,
-communication anatomy, surrender practice, and working custody model developed
-here also remain concept-local. They deepen the reserved manuscript without
-promoting an incident, a legal judgment, or a new population into shared canon.
+This manuscript remains **developing** and **reserved**. Its exact shared
+provisional promotions, retained reservations, and development ledger are
+preserved in the [editorial notes](../../docs/editorial-notes/the-unhidden.md). No
+additional concept-local history becomes shared canon through this prose pass.
 
 ## Collection-frame impact
 
-No new compiler, archive type, or transmission technology is required. The
-ordinary Blackglass editorial model can combine:
+The ordinary Blackglass editorial model is sufficient for this account. No new
+compiler, archive type, or transmission technology is required.
 
-- clinical protocols and patient records;
-- tissue-lineage registries;
-- wet-cradle manifests;
-- preserved specimens;
-- whole-body imaging and mass-balance studies;
-- battlefield environmental telemetry;
-- custody-hearing transcripts;
-- recordings of communicating Plain Things;
-- countermeasure manuals;
-- and survivor testimony.
+The reconstruction can combine clinical protocols and patient records with
+tissue-lineage registries, wet-cradle manifests, and preserved specimens.
+Whole-body imaging and mass-balance studies can establish what those bodies
+contain, while battlefield environmental telemetry and countermeasure manuals
+record the conditions in which they were used. Custody-hearing transcripts,
+recordings of communicating Plain Things, and survivor testimony preserve the
+human and personal consequences that a specimen alone cannot express.
 
 The main censorship layer concerns consciousness and medical ancestry. Official
 military records may consistently call the organisms equipment, cultures, or
 drones while excluding speech, refusal, the ward reflex, and therapeutic origin.
 
-Evidence should be graded claim by claim:
+Evidence remains graded claim by claim. Grade A may establish ordinary-space anatomy, mass balance, physiological
+limits, clinical lineage, and documented behavior. Speech, learning, pain
+responses, and particular deployments may receive Grades A or B. Those findings
+do not automatically settle continuity with a patient or donor, identity across
+division, or clandestine human coupling, for which support may remain at
+Grades C or D.
 
-- Grade A may establish ordinary-space anatomy, mass balance, physiological
-  limits, clinical lineage, and documented behavior.
-- Grades A or B may support speech, learning, pain responses, and particular
-  deployments.
-- Grades C or D may support continuity with a patient or donor, identity across
-  division, and clandestine human coupling.
-- Grade E traditions may claim the Plain Things have no soul because they have
-  no interior, or only soul because nothing bodily conceals it.
-
-## Reasons to reject or defer
-
-Reject or substantially revise the concept if:
-
-- its mass, organs, weapons, or mind are secretly stored outside ordinary space;
-- it becomes an unrestricted shapeshifter;
-- any scrap reproduces without nursery infrastructure and biomass;
-- precise wounds never matter and broad-area counters have no costed rationale;
-- it can infiltrate as a normal human;
-- it gains telepathy, magical assimilation, or arbitrary target effects;
-- “everything is visible” becomes “all private thought is readable”;
-- it becomes a planetary plague or generic devouring biomass;
-- its medical origin never affects behavior, law, or failure;
-- consciousness remains vague merely to avoid personhood consequences;
-- or it receives an alien origin that weakens its contrast with The Manifold.
-
-The concept should also be deferred if its visual design cannot be distinguished
-from a generic tentacled monster or higher-dimensional angel. Its finite open
-anatomy must remain legible in every description.
+Grade E traditions make opposed claims from the same visible anatomy. Some say
+the Plain Things have no soul because they have no interior; others say they
+are only soul because nothing bodily conceals it. Their presence in the record
+does not replace the claim-by-claim assessment.
 
 ## Open questions
 
-### Resolve before entry drafting
+<a id="preserve-as-in-world-disputes"></a>
 
-- What contemporary or historical incident anchors the entry?
-- Which material and film variants survive detailed clinical and tactical case
-  design, including a named failure that tests their exchange limits?
-- What measured mission and withdrawal budgets apply to the form in the anchor
-  incident, under its gravity, humidity, activity, and damage?
-- What functional evidence distinguishes a reflexive fragment from a coherent
-  surviving mind in that case?
-- Which authority regulates manufacture, custody, surrender, and death?
-- Which jurisdiction accepts the proposed command, surrender, independent-care,
-  and refusal practices, and which military program contests them?
+### Unresolved interpretations
 
-### Preserve as in-world disputes
+The first autonomous mantle remains disputed even among those who accept
+conscious Plain Things. It may have become conscious, copied part of its
+patient, or taught observers how to recognize a mind that they had not
+previously understood. Reported donor memories admit similarly different
+accounts: genuine donor memories, learned mannerisms, military conditioning, or
+propaganda. Division raises the further question of whether two survivors are
+descendants, copies, or two wounded continuations of one person.
 
-- Did the first autonomous mantle become conscious, copy part of its patient, or
-  merely teach observers how to recognize a mind?
-- Does a divided Plain Thing become two descendants, two copies, or two wounded
-  continuations of one person?
-- Are reported donor memories genuine, learned mannerisms, military
-  conditioning, or propaganda?
-- Is the ward reflex a developmental reversion, an ethical choice, or behavior
-  authorities call defective because it resembles mercy?
-- Can a Plain Thing consent while its hydration, nutrients, and patterning
-  chemistry remain controlled by its maker?
-- Did any military line remove its dependencies and survive independently?
-- How does a siege group distinguish intense physical communication from a
-  legally meaningful merger of identity?
-- Are therapeutic graft patients culturally or legally related to Plain Things?
-- Does any current Plain Thing possess an uncontested legal identity?
+The ward reflex may be developmental reversion, ethical choice, or behavior
+that authorities call defective because it resembles mercy. Consent remains
+contested wherever a maker controls hydration, nutrients, and patterning
+chemistry. Whether any military line removed its dependencies and survived
+independently is unresolved, as is the distinction between intense physical
+communication within a siege group and a legally meaningful merger of identity.
+
+The dispute extends beyond combat bodies. Therapeutic graft patients may or may
+not be regarded as culturally or legally related to Plain Things, and no answer
+yet settles whether any current Plain Thing possesses an uncontested legal
+identity.

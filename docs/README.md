@@ -2,6 +2,14 @@
 
 These documents describe how the Compendium is organized and maintained.
 
+- [`illustration-plan.md`](illustration-plan.md) plans prioritized astronomical
+  renders, orbital atlases, inhabited scenes, technologies, abstract diagrams,
+  and documentary plates against current canon.
+
+- [`prose-integration-pass.md`](prose-integration-pass.md) records the prose
+  conversion, retained documentary lists, source-to-destination preservation,
+  and linked authorial companions under [`editorial-notes/`](editorial-notes/).
+
 - [`collection-integration-pass.md`](collection-integration-pass.md) records the
   collection-wide continuity and depth review, closes the deferred weapon
   reconciliation, and distinguishes repaired gaps from intentional unknowns.

@@ -59,17 +59,17 @@ lay reading and public recitation while maintaining sealed fragments, trained
 custodians, and defensive concordances. Temple authorities answer that a witness
 kept under obligation is not the same thing as an oracle placed upon an altar.
 
-The practical rules vary, but widely recognized forms include:
+The practical rules vary, but several forms are widely recognized.
 
-- no lone reader for a passage with constructive content;
-- no complete translation key stored beside the technical body it unlocks;
-- no ritual recitation of equations, synchronization counts, or complete
-  geometric sequences;
-- preservation of victims' testimony even when constructive parameters are
-  removed;
-- independent readers assigned to identify theological metaphor, technical
-  instruction, and later interpolation; and
-- refusal to confirm an existential claim through reconstruction.
+A passage with constructive content is not entrusted to a lone reader, and a
+complete translation key is not stored beside the technical body it unlocks.
+Equations, synchronization counts, and complete geometric sequences are excluded
+from ritual recitation. Victims' testimony is preserved even when constructive
+parameters are removed.
+
+Independent readers distinguish theological metaphor, technical instruction,
+and later interpolation. Across these forms of custody, confirmation of an
+existential claim through reconstruction is refused.
 
 These practices are religious obligations rather than proof that Blackglass is
 supernaturally active. They overlap with secular information control because
@@ -133,13 +133,15 @@ borrow from one another.
 
 ## Deliberately unresolved
 
-- when and where the first concordance among Temples was made;
-- how many religious families and jurisdictions currently belong;
-- which Temple inventories are independent witnesses rather than copies of one
-  lost source;
-- whether any Temple possesses a substantially more complete Blackglass
-  recension than it admits;
-- whether the death penalty for the Severed God text was exceptional or common;
-- how Temple custodians are selected, trained, and released from service; and
-- whether any devotional movement began inside a sanctioned custodial order.
+The first concordance among Temples has no fixed place or date, and the present
+number of religious families and jurisdictions is unspecified. Which Temple
+inventories are independent witnesses rather than copies of one lost source
+remains unresolved, as does whether any Temple possesses a substantially more
+complete Blackglass recension than it admits.
 
+The account does not settle whether death sentences for the Severed God text
+were exceptional or common. Selection, training, and release from service of
+Temple custodians remain undescribed. Whether a devotional movement began
+inside a sanctioned custodial order is also an open question.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-institutions-concordant-temples.md).

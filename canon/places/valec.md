@@ -32,9 +32,9 @@ Rzez characterization.
 That efficiency gave ordinary households a reason to trust the same systems
 that later carried failure. Districts shared water, transport, precision parts,
 repair standards, and deep service structures. Standardization was a civil
-achievement before it became a targeting advantage. Valec must not be written
-as a population knowingly choosing one planetary vulnerability after the
-Compact already taught its lesson.
+achievement before it became a targeting advantage. The population did not
+knowingly choose that planetary vulnerability after the Compact had already
+taught its lesson.
 
 ## Destruction
 
@@ -66,9 +66,8 @@ Reaching orbit was not always survival.
 The fewer-than-three-million escape figure refers to people who survived
 departure from Valec, not to a verified count of people who immediately reached
 another star system. The distribution among nearby refuge, onward passage, and
-later diaspora remains unassigned. Any later account specifying it must supply
-transport and shelter capacity rather than granting the catastrophe an
-unlimited emergency fleet.
+later diaspora remains unassigned. Transport and shelter capacity constrained
+those possible histories; the catastrophe had no unlimited emergency fleet.
 
 Surviving departure packets carry variants of **leave what knew the ground**:
 abandon surface-exposed cargo before meeting uncontaminated vessels or habitats.
@@ -90,14 +89,14 @@ not prevent rubble, fluids, or pressure-supported matter from collecting into
 a broadly spherical gravitational body. The disaster destroyed a coherent,
 habitable world and the capacity of sampled material to build enduring
 structures; it did not make a planet's worth of matter refuse gravitational
-attraction. Later writing should distinguish changing topography, settling,
-and orbital debris from material escaping the system entirely.
+attraction. Changing topography, settling, and orbital debris remain distinct
+from material escaping the system entirely.
 
 The survey at Compact Year +23 is a dated observation, not an uninterrupted
 measurement extending to the present recension. Its prohibition survives
 because successful restoration and safe sample transfer have not been
-established. An unanswered present-condition question must not silently become
-either a recovered world or a uniform rate of continuing decay.
+established. The unanswered present-condition question demonstrates neither
+a recovered world nor a uniform rate of continuing decay.
 
 ## Cultural consequences
 
@@ -136,10 +135,13 @@ Blackglass rewards comprehension.
 
 ## Unresolved questions
 
-- Who deployed the planetary array?
-- Is Valec still decaying?
-- Does the site, the material, or an informational pattern carry contamination?
-- Can any large-scale ecosystem or civilization be restored there?
-- Is the rumored Orchard Ship real?
-- Which Valeci Blackglass fragments preserve suppressed testimony, and which
-  were planted later to claim authority over the dead?
+The operator of the planetary array remains unidentified, and whether Valec
+is still decaying is unresolved. Investigators have not settled whether the
+site, the material, or an informational pattern carries contamination, or
+whether a large-scale ecosystem or civilization can ever be restored there.
+
+The Orchard Ship's reality remains a rumor. Among Valeci Blackglass fragments,
+the distinction between suppressed testimony and later material planted to
+claim authority over the dead also remains unresolved.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-places-valec.md).

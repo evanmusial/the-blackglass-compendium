@@ -1,0 +1,38 @@
+# Editorial Companions
+
+These notes preserve author-only material relocated during the [prose integration pass](../prose-integration-pass.md). They retain the source canon and development boundaries; moving a note does not adopt a concept or settle an uncertainty.
+
+The main manuscripts carry the readable lore. These companions retain full original planning, research, and editorial constraints, with links rebased where necessary.
+
+- [The Rzez: Editorial Notes](a-7-01-the-rzez.md)
+- [Editorial notes: The Apsis Discharge](canon-events-apsis-discharge.md)
+- [Editorial notes: Human Arrival in Kelan–Ruva](canon-history-human-arrival-in-kelan-ruva.md)
+- [Editorial notes: Apsis Directorate](canon-institutions-apsis-directorate.md)
+- [Editorial notes: Blackglass Devotional Movements](canon-institutions-blackglass-devotional-movements.md)
+- [Editorial notes: Common Matter Interdict](canon-institutions-common-matter-interdict.md)
+- [Editorial notes: Compact Commission](canon-institutions-compact-commission.md)
+- [Editorial notes: Concordant Temples](canon-institutions-concordant-temples.md)
+- [Editorial notes: First Quarry Houses](canon-institutions-first-quarry-houses.md)
+- [Editorial notes: Houses of the Lower State](canon-institutions-houses-of-the-lower-state.md)
+- [Editorial notes: Kelan–Ruva Concordance Service](canon-institutions-kelan-ruva-concordance-service.md)
+- [Editorial notes: Sixth Compact of Kharos](canon-institutions-sixth-compact-of-kharos.md)
+- [Editorial notes: Olan Vey](canon-people-olan-vey.md)
+- [Editorial notes: Varek Ilyr](canon-people-varek-ilyr.md)
+- [Editorial Notes: Physics Of The Known World](canon-physics-of-the-known-world.md)
+- [Editorial notes: Apsis Range](canon-places-apsis-range.md)
+- [Editorial notes: Avara](canon-places-avara.md)
+- [Editorial notes: Issa](canon-places-issa.md)
+- [Editorial notes: The Kelan–Ruva System](canon-places-kelan-ruva-system.md)
+- [Editorial notes: Kharos](canon-places-kharos.md)
+- [Editorial notes: Odran](canon-places-odran.md)
+- [Editorial notes: Valec](canon-places-valec.md)
+- [Editorial Notes: Setting Scope](canon-setting-scope.md)
+- [Editorial Notes: Spaceflight Economy And Settlement](canon-spaceflight-economy-and-settlement.md)
+- [Editorial Notes: Taxonomy](canon-taxonomy.md)
+- [Editorial notes: The Blackglass Tradition](frame-blackglass-tradition.md)
+- [Editorial notes: Collection Identity and Names](frame-collection-identity.md)
+- [Editorial notes: Compilation and Transmission History](frame-compilation-history.md)
+- [Editorial notes: Editorial Voice and Method](frame-editorial-voice.md)
+- [Editorial notes: Open Collection-Frame Questions](frame-open-questions.md)
+- [The Manifold — Editorial Notes](the-manifold.md)
+- [The Unhidden — Editorial Notes](the-unhidden.md)

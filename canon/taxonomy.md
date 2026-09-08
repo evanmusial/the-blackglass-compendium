@@ -25,16 +25,14 @@ One label cannot adequately describe where an entry is published, how its
 technology works, what form it takes, why it was created, how dangerous it is,
 and how well its history is supported. Those questions belong to separate axes.
 
-The Rzez is therefore filed simultaneously as:
+The Rzez therefore has several simultaneous classifications.
 
-- Volume I, *Entropic Systems*;
-- Book Seven, *Instruments of Separation*;
-- Entry `A-7.01`;
-- a technology family;
-- entropic, propagative, and structure-selective engineering;
-- an originally industrial mineral-separation technology;
-- a proscribed world-terminal military technology;
-- and a system operating at surgical through planetary scales.
+Its publication address is Volume I, *Entropic Systems*, Book Seven,
+*Instruments of Separation*, Entry `A-7.01`. Its scope is a technology family,
+and its engineering is entropic, propagative, and structure-selective. An
+industrial mineral-separation origin coexists with its later classification
+as a proscribed world-terminal military technology, operating from surgical
+through planetary scales.
 
 None of these labels should be made to substitute for the others.
 
@@ -62,12 +60,11 @@ by this project.
 ### Volume
 
 The first four filed volumes establish that a volume groups entries by the
-primary domain or governing mode of engineering:
+primary domain or governing mode of engineering.
 
-- `Volume I: Entropic Systems`, containing the Rzez;
-- `Volume II: Radiant Systems`, containing The Closed Night;
-- `Volume III: Cybernetic Systems`, containing The Agreement;
-- `Volume IV: High-Energy Systems`, containing The Rehearsal.
+`Volume I: Entropic Systems` contains the Rzez, while `Volume II: Radiant
+Systems` contains The Closed Night. The Agreement is filed in `Volume III:
+Cybernetic Systems`, and The Rehearsal in `Volume IV: High-Energy Systems`.
 
 `Morphogenic` and `causal-topological` remain provisional system values because
 The Unhidden and The Manifold require them. Neither has an assigned volume
@@ -154,25 +151,28 @@ because they have distinct physics. A civil technology enters this taxonomy when
 an entry demonstrates a forbidden or otherwise Compendium-worthy manipulation,
 history, and consequence.
 
-The current entry-metadata values demonstrated by manuscripts are:
+The current manuscripts demonstrate four entry-metadata system values.
 
-- `entropic` — engineering that biases a target toward loss of organized or
-  persistent structure rather than overcoming it through ordinary force.
-- `radiative` — engineering that controls permitted electromagnetic transport,
-  return, and escape across an actively maintained boundary.
-- `neurocybernetic` — engineering that couples prediction, error correction,
-  and action across nervous systems and machine controllers.
-- `high-energy` — engineering that transports, times, and converges extreme
-  particle and radiant energy to create a transient local state whose formation,
-  self-gravity, and quench determine the residue.
+The `entropic` system biases a target toward losing organized or persistent
+structure rather than overcoming it through ordinary force. The `radiative`
+system controls permitted electromagnetic transport, return, and escape across
+an actively maintained boundary. The `neurocybernetic` system couples
+prediction, error correction, and action across nervous systems and machine
+controllers.
 
-Shared prose reservations for the developing concepts are:
+The `high-energy` system transports, times, and converges extreme particle and
+radiant energy into a transient local state. Formation, self-gravity, and quench
+determine its residue. These distinctions explain why similarly catastrophic
+consequences do not share a volume merely through their scale.
 
-- `morphogenic` — engineering that controls how living matter assigns form,
-  function, and organismal continuity through development and repair.
-- `causal-topological` — engineering, or an analytically classified phenomenon,
-  that changes whether locally coherent spatial adjacencies and causal sequences
-  can compose one global geometry and history.
+The developing concepts supply two additional prose reservations.
+
+The developing concepts reserve `morphogenic` for engineering that controls the
+assignment of form, function, and organismal continuity through living
+development and repair. They reserve `causal-topological` for engineering, or
+an analytically classified phenomenon, that changes whether locally coherent
+spatial adjacencies and causal sequences can compose one global geometry and
+history.
 
 `Morphogenic` and `causal-topological` guide shared lore but are not yet part of
 the adopted-entry landscape. `Causal-topological` is a human classification of
@@ -184,77 +184,71 @@ a developed concept demonstrates them, and promote them when an entry uses them.
 
 Traits describe how a system acts and may cross volumes or books.
 
-Current Rzez-derived traits:
+The Rzez-derived traits distinguish establishment from later consequence.
 
-- `propagative` — the effect can extend through a target or connected system;
-- `structure-selective` — characterization can prefer particular continuities,
-  materials, interfaces, or load paths;
-- `delayed` — visible failure can occur long after establishment;
-- `self-cascading` — redistribution can continue destruction after the initiating
-  field or emitter is gone;
-- `residual` — affected targets may transmit instability to repairs or attached
-  material.
+For the Rzez, `propagative` means that an effect can extend through a target or
+connected system. Its `structure-selective` characterization can prefer
+particular continuities, materials, interfaces, or load paths. Failure may be `delayed`, becoming visible long after
+establishment. It may also be `self-cascading`, as redistribution continues
+destruction after the initiating field or emitter has gone, and `residual`, as
+affected targets transmit instability to repairs or attached material.
 
 The entry metadata records the two traits explicitly used in its own engineering
 class line. The remaining traits are available for thematic and analytical
 indexes without retroactively rewriting that line.
 
-Unhidden-derived traits:
+The Unhidden-derived traits connect anatomy to dependence.
 
-- `boundary-exposed` — essential physiology is accessible through channels
-  continuous with the surrounding environment;
-- `function-distributed` — vital roles recur throughout the body rather than
-  belonging to discrete organs;
-- `self-remapping` — surviving tissue can change physiological role after
-  damage;
-- `regenerative` — living structure can be rebuilt given sufficient time,
-  matter, and nursery support;
-- `environment-coupled` — operation depends unusually strongly on direct
-  exchange with the surrounding medium.
+The Unhidden's `boundary-exposed` physiology makes essential functions accessible
+through channels continuous with the environment. Its `function-distributed`
+organization repeats vital roles throughout the body rather than assigning them
+to discrete organs. Surviving tissue can be `self-remapping`, changing role
+after damage, and `regenerative`, rebuilding living structure given sufficient
+time, matter, and nursery support. The `environment-coupled` trait records its
+unusually strong dependence on direct exchange with the surrounding medium.
 
-Manifold-derived traits:
+The Manifold-derived traits describe failures of global composition.
 
-- `configuration-exploratory` — establishment samples an unbounded family of
-  possible configurations without producing a human-readable survey of them;
-- `topology-disjunctive` — locally valid adjacencies fail to compose one global
-  spatial chart;
-- `causally-disjunctive` — locally valid event sequences fail to compose one
-  global chronology.
+Manifold establishment is described as `configuration-exploratory`: it samples
+an unbounded family of possible configurations without producing a
+human-readable survey of them. The `topology-disjunctive` trait prevents locally
+valid adjacencies from composing a global spatial chart, while
+`causally-disjunctive` behavior prevents locally valid event sequences from
+composing a global chronology.
 
-Closed-Night-derived traits:
+The Closed Night-derived traits distinguish geometry from energy accounting.
 
-- `boundary-anchored` — the effect depends upon a physically established and
-  maintained enclosure geometry;
-- `nonreciprocal` — transmission through the boundary differs by direction;
-- `spectrum-selective` — closure is engineered across finite frequency bands
-  rather than applying to every possible carrier automatically;
-- `energy-retentive` — prevented radiation remains available as heat or other
-  ordinary energy inside the enclosure rather than disappearing.
+The Closed Night is `boundary-anchored`, depending on a physically established
+and maintained enclosure geometry. Its `nonreciprocal` transmission differs
+by direction, and its `spectrum-selective` closure covers engineered finite
+frequency bands rather than every possible carrier. Its `energy-retentive`
+action keeps prevented radiation available as heat or other ordinary energy
+inside the enclosure rather than making it disappear.
 
-Agreement-derived traits:
+The Agreement-derived traits trace the consequences of reciprocal control.
 
-- `reciprocity-coupled` — establishment requires continuing two-way exchange
-  among participating controllers;
-- `prediction-error-redistributive` — correction burden is returned across the
-  coupled group rather than remaining local to one operator;
-- `variance-suppressing` — independent residuals and actions become
-  progressively costly to maintain;
-- `operator-inclusive` — the same reciprocal architecture can incorporate the
-  people or systems attempting to control it.
+An Agreement is `reciprocity-coupled`, requiring continuing two-way exchange
+among participating controllers. Its `prediction-error-redistributive`
+behavior returns corrective burden across the group rather than leaving it
+local to one operator. It becomes `variance-suppressing` as independent
+residuals and actions grow costly to maintain. The `operator-inclusive` trait
+records that the same reciprocal architecture can incorporate people or systems
+attempting to control it.
 
-Rehearsal-derived traits:
+The Rehearsal-derived traits follow the focal state through formation and loss.
 
-- `convergence-formed` — the extreme state exists only where separately
-  transported counterstreams meet and thermalize;
-- `baryon-loaded` — injected and intercepted baryonic matter materially
-  determines the focal plasma and available strange-matter yield;
-- `near-planck` — the reconstructed effective temperature approaches within two
-  orders of magnitude of the Planck temperature without claiming that a
-  macroscopic volume reaches that state;
-- `quench-dependent` — the cooling path and hadronization transition determine
-  the surviving residue more strongly than peak temperature alone; and
-- `self-gravity-limited` — increasing energy density drives the focus toward
-  trapped-surface formation rather than providing an unlimited hotter setting.
+The Rehearsal is `convergence-formed`: its extreme state exists only where
+separately transported counterstreams meet and thermalize. It is `baryon-loaded`
+because injected and intercepted baryonic matter materially determines the focal plasma
+and available strange-matter yield. Its `near-planck` trait describes a
+reconstructed effective temperature approaching within two orders of magnitude
+of the Planck temperature, without assigning that state to a macroscopic volume.
+
+The `quench-dependent` trait makes the cooling path and hadronization transition
+more decisive for surviving residue than peak temperature alone. It accompanies
+`self-gravity-limited`, which describes how
+increasing energy density drives the focus toward trapped-surface formation
+instead of providing an unlimited hotter setting.
 
 Do not turn `extrinsic`, `unknown`, `uncontrolled`, `world-terminal`, or
 `epoch-denial` into engineering traits. They describe provenance, knowledge,
@@ -291,13 +285,13 @@ suspected military use must not be backfilled as its origin classification.
 phenomenon comes from, not what it was for and not how a repository manuscript
 was sourced.
 
-Current provisional values are:
+The current provisional vocabulary distinguishes two supported origins.
 
-- `known-human-lineage` — the reconstructable lineage is human, without ruling
-  out unknown earlier analogues;
-- `extrinsic-unknown` — the subject lies outside every known human or regional
-  lineage and apparently outside ordinary local spacetime, while creator,
-  operator, home, and purpose remain unresolved.
+The value `known-human-lineage` records a reconstructable human lineage without
+ruling out unknown earlier analogues. The value `extrinsic-unknown` describes a
+subject outside every known human or regional
+lineage and apparently outside ordinary local spacetime, while creator,
+operator, home, and purpose remain unresolved.
 
 The Rzez, The Unhidden, The Closed Night, The Agreement, and The Rehearsal use
 `known-human-lineage`. The Manifold uses `extrinsic-unknown`. The adopted entries
@@ -416,39 +410,10 @@ as metaphysically real.
 
 ## When a variant becomes another entry
 
-Keep a variant inside an existing entry when it shares:
 
-- the governing principle;
-- the central characterization and failure model;
-- the same historical lineage;
-- and consequences best understood as scale or form changes.
-
-Promote a variant to a separate entry when it has at least two of the following:
-
-- a materially different mechanism;
-- independent discovery or engineering lineage;
-- different countermeasures or failure modes;
-- a distinct cultural identity or legal regime;
-- enough historical consequence to require its own reconstruction;
-- or a taxonomy placement that would otherwise be misleading.
-
-This rule keeps the Rzez hand instrument, quarry frame, siege anchor, strategic
-lattice, and planetary array together while leaving room for a true derivative
-technology to separate later.
+The complete criteria for keeping a variant together or assigning another entry remain in the linked [When a variant becomes another entry guidance](../docs/editorial-notes/canon-taxonomy.md).
 
 ## Taxonomy change policy
 
-The taxonomy is expected to change while the collection is young. An explicitly
-integrated developing concept may reserve a prose value before an entry exists,
-provided the concept and integration record preserve that status. Such a
-reservation does not alter the entry metadata contract.
 
-When a change affects entries or metadata:
-
-1. state which real entry or deliberate concept-integration decision forced the
-   change;
-2. update metadata documentation and schema together;
-3. review all affected entries;
-4. preserve stable entry IDs unless there is a compelling reason not to;
-5. document unresolved questions rather than filling the hierarchy with invented
-   placeholders.
+The policy governing changes to these classifications is preserved in the linked [Taxonomy change policy guidance](../docs/editorial-notes/canon-taxonomy.md).

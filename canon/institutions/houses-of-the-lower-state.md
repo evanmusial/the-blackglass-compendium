@@ -56,18 +56,18 @@ that every worshipper understand the underlying model.
 
 ## Shared sacred vocabulary
 
-The Houses use several terms more confidently than physicists do:
+The Houses use several terms more confidently than physicists do.
 
-- **the Proof** — The Rehearsal as artifact and demonstration;
-- **the First Revelation** — the Apsis Discharge;
-- **the Taking** — capture of a catalytic seed by dense matter;
-- **the Flowering** — conversion and daughtering of the first reservoir;
-- **the Succession** — a self-sustaining chain with strangelet reproduction
-  number greater than one;
-- **the Settlement** — the eventual conversion of all matter the chain can
-  reach; and
-- **the Performance** — either the deliberate firing that begins the Succession
-  or the full history of conversion, depending upon the House.
+They call The Rehearsal **the Proof**, as both artifact and demonstration, and
+the Apsis Discharge **the First Revelation**. In their sequence, **the Taking**
+is the capture of a catalytic seed by dense matter. **The Flowering** follows
+as conversion and daughtering of the first reservoir.
+
+**The Succession** names a self-sustaining chain whose strangelet reproduction
+number exceeds one. **The Settlement** names the eventual conversion of all
+matter the chain can reach. **The Performance** varies by House: it can mean
+the deliberate firing that begins the Succession or the full history of
+conversion.
 
 Physicists use *Taking*, *Flowering*, and *Succession* conditionally. The cultic
 *Settlement* is not the technical settlement stage of The Agreement and does
@@ -181,12 +181,15 @@ navigate the routes.
 
 ## Deliberately unresolved
 
-- the identity of the first House and which founding telemetry it possessed;
-- how many Houses remain active in the current era;
-- whether any former Directorate member became an early theologian;
-- which Waiting House observations are scientifically useful despite their
-  interpretation;
-- whether Open Yield has ever crossed from fraudulent relic trade into custody
-  of genuine Apsis hardware; and
-- whether a House would recognize the first credible evidence of Succession or
-  reinterpret any result to preserve belief.
+The identity of the first House and the founding telemetry it possessed remain
+unknown. The current number of active Houses is unspecified, and whether a
+former Directorate member became an early theologian remains an open question.
+
+Some Waiting House observations may be scientifically useful despite their
+interpretation, but which ones is unsettled. Open Yield's possible transition
+from fraudulent relic trade to custody of genuine Apsis hardware is also
+unresolved. Whether a House would recognize the first credible evidence of
+Succession, rather than reinterpret any result to preserve belief, remains
+uncertain.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-institutions-houses-of-the-lower-state.md).

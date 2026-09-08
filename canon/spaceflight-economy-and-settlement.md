@@ -36,56 +36,58 @@ The central decision is:
 
 ## Governing decisions
 
-1. Ordinary ships use reaction mass. Ligatures do not replace surface launch,
-   orbital transfer, or in-system propulsion.
-2. A present route is a reciprocal locality exchange between two constructed
-   shores. No one-sided gate or shipboard drive exists.
-3. Every arrival exchanges with a matched departure. Interstellar traffic must
-   balance invariant mass-energy even when value and population flow do not.
-4. An otherwise unreachable new shore is opened by a slow uncrewed precursor
-   mission, not by a heroic first crew jumping through an unexplored route.
-5. Exploration, occupation, settlement, and a rooted society are different
-   achievements.
-6. Bulk matter is normally sourced inside a stellar system. Interstellar trade
-   concentrates on people, biological diversity, authenticated information,
-   precision goods, rare feedstocks, and emergency supply.
-7. A colony is a relationship of dependency, not a synonym for any offworld
-   community.
-8. A world may contain millions and remain materially dependent. A smaller
-   habitat network may be politically and industrially rooted.
-9. Route access does not make evacuation easy. A world can die faster than its
-   shores can exchange its population.
-10. The known region remains eight to twelve inhabited systems because each
-    additional society costs generations of precursor work, industrial mass,
-    ecological care, migration, and political commitment.
+Ordinary ships use reaction mass, and ligatures leave surface launch, orbital
+transfer, and in-system propulsion to those ships. A present route exchanges
+locality reciprocally between two constructed shores; no one-sided gate or
+shipboard drive exists. Every arrival requires a matched departure, so traffic
+balances invariant mass-energy even when population and commercial value move
+predominantly in one direction.
+
+An otherwise unreachable shore begins with a slow uncrewed precursor, not a
+first crew crossing an unexplored route. Exploration, occupation, settlement,
+and a rooted society are different achievements. The distinction matters more
+than population alone: a world of millions can remain materially dependent,
+while a smaller habitat network can become politically and industrially rooted.
+A colony is specifically a relationship of dependency rather than a name for
+every offworld community.
+
+Bulk matter normally comes from inside a stellar system. People, biological
+diversity, authenticated information, precision goods, rare feedstocks, and
+emergency supplies justify the cost of interstellar trade. That limited
+capacity also bounds escape: a world can die faster than its shores can
+exchange its population. The known region's eight to twelve inhabited systems
+represent generations of precursor work, industrial mass, ecological care,
+migration, and political commitment for every additional society.
 
 ## Working vocabulary
 
-- **Expedition:** a temporary mission whose planned end is departure, relief, or
-  replacement.
-- **Outpost:** a continuously staffed facility without the population or
-  industrial depth required for multigenerational life.
-- **Dependent settlement:** a permanent community with locally born residents
-  that would fail after prolonged route loss.
-- **Continuant settlement:** a multigenerational community able to preserve life,
-  reproduction, education, and government through a serious interruption.
-- **Rooted polity:** a society able to replace its critical systems and train its
-  own successors. Trade enriches it; route loss does not immediately end it.
-- **Colony:** a settlement whose sponsor retains decisive political or economic
-  authority. The word describes power, not distance from Earth or Kharos.
-- **Foundation:** the deliberate creation of a permanent settlement. The term
-  does not claim that the destination was empty, harmless, or morally available.
-- **Shore:** the permitted ligature endpoint volume within a stellar system.
-- **Weighhouse:** the distributed infrastructure that prepares, exchanges, and
-  localizes route carriages.
-- **Carriage:** the closed mass-energy packet exchanged through a ligature.
-- **Weight right:** a contractual claim upon part of a scheduled carriage class.
-- **Mailfall:** the localization and opening of a carriage carrying accumulated
-  messages, records, markets, and orders from another system.
-- **Route-loss horizon:** the time before a settlement loses an indispensable
-  life, medical, industrial, or governmental function after traffic stops.
-- **Replacement depth:** how many generations of tools and components a local
-  industry can reproduce before encountering an imported dependency.
+An **expedition** is temporary, with departure, relief, or replacement as its
+planned end. An **outpost** remains continuously staffed but lacks the
+population or industrial depth for multigenerational life. A **dependent
+settlement** has permanent households and locally born residents yet would fail
+after prolonged route loss. A **continuant settlement** can preserve life,
+reproduction, education, and government through a serious interruption; a
+**rooted polity** can replace its critical systems and train its own successors.
+Trade enriches a rooted society, but route loss does not immediately end it.
+
+A **colony** retains a sponsor with decisive political or economic authority.
+That relationship concerns power rather than distance from Earth or Kharos.
+**Foundation** names the deliberate creation of a permanent settlement without
+claiming that the destination was empty, harmless, or morally available.
+
+The physical route begins at a **shore**, its permitted endpoint volume inside
+a stellar system. A **weighhouse** is the distributed infrastructure that prepares,
+exchanges, and localizes **carriages**, the closed mass-energy packets that
+travel through a ligature. A **weight right** is a contractual claim on part of
+a scheduled carriage class. **Mailfall** occurs when a carriage localizes and
+opens with accumulated messages, records, markets, and orders from another
+system.
+
+Settlements measure their remaining independence through a **route-loss
+horizon**, the time before traffic interruption costs an indispensable life,
+medical, industrial, or governmental function. Their **replacement depth**
+measures how many generations of tools and components local industry can
+reproduce before it reaches an imported dependency.
 
 ## Exploration status
 
@@ -169,14 +171,16 @@ destination system and quarantine.
 Moving common matter upward from a large inhabited world is usually irrational
 when airless moons, asteroids, and orbital industry can provide it more cheaply.
 
-- High-gravity worlds export people, institutions, designs, specialized living
-  products, and high-value manufacture more readily than rock or water.
-- Low-gravity bodies supply propellant, shielding, bulk structure, ballast, and
-  construction mass.
-- Atmospheres support aerobraking and local industry while making clean vacuum
-  launch harder.
-- Route shores favor dynamically quiet, sparsely inhabited regions with room for
-  arrival error, momentum works, ballast yards, and quarantine.
+High-gravity worlds more readily export people, institutions, designs,
+specialized living products, and high-value manufacture than rock or water.
+Low-gravity bodies supply propellant, shielding, bulk structure, ballast, and
+construction mass. An atmosphere assists aerobraking and local industry but
+makes clean vacuum launch harder.
+
+Route shores favor dynamically quiet and sparsely inhabited regions. Arrival
+error needs room, as do momentum works, ballast yards, and quarantine. Those
+requirements give the route city a different geography from the inhabited
+world whose people it serves.
 
 The route city is therefore usually an orbital and deep-space complex rather than
 the capital below it.
@@ -212,15 +216,14 @@ shore does not carry its former government's authority with it.
 
 Telescopes, interferometers, stellar seismology, planetary spectra, gravitational
 survey, and long-baseline locality experiments identify a candidate conjugate
-system. The survey estimates:
+system. These observations support a mission judgment.
 
-- stellar and planetary architecture;
-- volatile, radiation, and debris environments;
-- possible native atmospheres or biospheres;
-- the likely far-shore volume;
-- ligature coupling and expected depth;
-- ordinary sublight travel and braking requirements; and
-- whether any economic or scientific reason justifies proceeding.
+The survey must constrain stellar and planetary architecture alongside volatile,
+radiation, and debris environments. Possible native atmospheres or biospheres
+change the value and risks of approach. Locality work estimates the far-shore
+volume, coupling, and expected route depth, while mission planners account for
+ordinary sublight travel and braking. Economic or scientific purpose must
+justify proceeding once those costs are known.
 
 Most candidates end here. A measurable conjugacy may be too deep, too unstable,
 too hazardous, or attached to a system no sponsor will spend generations opening.
@@ -236,17 +239,20 @@ include a carried fusion stage, magnetic or electric sail, photonic braking,
 staged disposable braking mass, or a deliberately slow approach. A fast seed
 without destination capture is classified as a flyby, not an opening mission.
 
-The seed is not a universal self-replicator. It carries:
+The seed is not a universal self-replicator. Its founding inventory must
+combine industry with the means to keep that industry working.
 
-- several independent power sources;
-- redundant navigation and stellar-capture systems;
-- machine tools and certified precision parts;
-- prospecting, mining, refining, and additive/subtractive fabrication equipment;
-- clocks, reference masses, and locality instruments;
-- fault-isolated control systems;
-- enough stored feedstock to repair the tools that begin local production; and
-- multiple plans for constructing a weighhouse from different destination
-  materials.
+Several independent power sources support redundant navigation and stellar
+capture. Machine tools, certified precision parts, and equipment for
+prospecting, mining, refining, and additive/subtractive fabrication provide the
+first industrial chain. Clocks, reference masses, and locality instruments
+supply its standards, while fault-isolated control systems preserve a way to
+recover from local failure.
+
+Stored feedstock must be sufficient to repair the tools that begin local
+production. Because the destination's materials may defeat one construction
+plan, the seed carries several ways to build a weighhouse from different local
+resources. That prepared flexibility has to arrive with it.
 
 Its machines can bootstrap a bounded industrial chain. They cannot make every
 semiconductor, catalyst, superconductor, clock, or biological system from raw
@@ -317,17 +323,14 @@ The compact formulation is:
 
 ### Stage 7: destination watch
 
-Before people cross, the far system receives and constructs:
+The destination watch prepares a place where a human arrival can survive.
 
-- rescue and quarantine capacity;
-- a larger ballast reserve;
-- independent power and heat paths;
-- system navigation and planetary survey;
-- several years of autonomous stores;
-- shelters outside the weighhouse;
-- ordinary local spacecraft; and
-- an authenticated archive that does not depend upon the founding seed's one
-  control history.
+The destination needs rescue and quarantine capacity, a larger ballast reserve,
+and independent power and heat paths before people cross. System navigation
+and planetary survey accompany several years of autonomous stores, shelters
+outside the weighhouse, and ordinary local spacecraft. Its authenticated
+archive must also have a control history independent of the founding seed.
+These receiving capacities must be delivered or constructed in advance.
 
 ### Stage 8: provisional opening
 
@@ -348,22 +351,21 @@ cooperatively owned.
 
 ## Exploration timescales
 
-The following working authorial ranges describe a **frontier opening**:
+The working ranges for a **frontier opening** distinguish flight from the
+longer work of making a destination viable.
 
-- candidate survey and conjugacy confirmation: **5–25 years**;
-- receiver-seed design and launch: **5–20 years**;
-- ordinary interstellar precursor flight: normally **50–300 years**, depending
-  upon distance, velocity, and braking; roughly thirty years is reserved for an
-  unusually near target and an approximately `0.15c`-class mission with a closed
-  capture plan;
-- far-shore bootstrap: **10–40 years**;
-- independent route proof: **5–20 years**;
-- provisional human opening: usually **one to several centuries** after the
-  candidate became serious;
-- industrial outpost after opening: **10–25 years**;
-- continuant settlement: normally **50–100 years**;
-- rooted polity: normally **100–250 years**;
-- mature system: generally **several centuries**.
+Candidate survey and conjugacy confirmation occupy **5–25 years**, followed by
+**5–20 years** of receiver-seed design and launch. The ordinary interstellar
+flight normally lasts **50–300 years**, depending on distance, velocity, and
+braking. A roughly thirty-year flight is reserved for an unusually near target
+and an approximately `0.15c`-class mission with a closed capture plan.
+
+Far-shore bootstrap then requires **10–40 years**, and independent route proof
+another **5–20 years**. Provisional human opening normally comes **one to several
+centuries** after the candidate became serious. An industrial outpost may
+follow **10–25 years** after opening, but a continuant settlement normally takes
+**50–100 years** and a rooted polity **100–250 years**. A mature system generally
+represents **several centuries** of development.
 
 A cross-link inside an already accessible system may proceed from survey to
 public opening in roughly **5–30 years**. Reopening ranges from a few years for a
@@ -408,13 +410,13 @@ administratively independent carriages.
 
 Every arrival first localizes into an isolated, sacrificial reception cell
 physically separated from the principal weighhouse and inhabited traffic. The
-carriage remains closed and mechanically cold until:
+carriage remains closed and mechanically cold through reception.
 
-- exterior mass, charge, heat, radiation, and motion checks close;
-- remote samplers authenticate atmosphere and exposed material where applicable;
-- active energy stores and actuators are bounded;
-- the manifest is compared with independent shore records; and
-- local quarantine authorizes opening or transfer to a more distant pad.
+Exterior mass, charge, heat, radiation, and motion checks must close before the
+arrival is released. Remote samplers authenticate atmosphere and exposed
+material where applicable, and inspection bounds active energy stores and
+actuators. The manifest is compared with independent shore records. Local
+quarantine then authorizes opening or transfer to a more distant pad.
 
 A compromised far shore can still sacrifice a reception cell or attempt to hide
 dangerous cargo. It cannot casually place one scheduled carriage inside the route
@@ -438,14 +440,13 @@ every few weeks.
 
 ### Throughput
 
-Working ranges, not universal specifications:
+Throughput has working ranges rather than universal specifications.
 
-- an experimental shore conducts a few exchanges per year;
-- a frontier route conducts roughly a dozen to several dozen major exchanges per
-  year;
-- a mature secondary route conducts weekly or near-daily exchanges;
-- a core trunk with several modes may conduct hundreds of major exchanges per
-  year.
+An experimental shore may conduct only a few exchanges per year. A frontier
+route conducts roughly a dozen to several dozen major exchanges in that span,
+while a mature secondary route can support weekly or near-daily exchanges.
+Several modes on a core trunk can raise the total to hundreds of major
+exchanges per year.
 
 Annual traffic ranges from thousands of tonnes on a fragile frontier route to one
 or several million tonnes of **gross exchanged mass**, summed across both
@@ -465,12 +466,10 @@ Kharos's approximately 299-standard-day orbital year or an assigned local civil
 calendar. The eight-day crossing and thirty-six-hour recovery below use those
 same duration units.
 
-A mature ligature has:
-
-- route depth of eight days;
-- four active harmonics;
-- roughly thirty-six hours of recovery after each exchange;
-- and 144 scheduled paired exchanges per accounting year after maintenance margin.
+The mature ligature in this example has a route depth of eight days and four
+active harmonics. Each exchange requires roughly thirty-six hours of recovery,
+leaving 144 scheduled paired exchanges per accounting year after maintenance
+margin.
 
 Four modes with a 9.5-day occupied-and-recovery cycle provide about 154 paired
 cycles before maintenance, so the published 144-cycle schedule fits. The same
@@ -573,30 +572,27 @@ how long a person may be left waiting at the shore.
 
 ## The physical cost of passage
 
-Fuel is only one part of price. The route cost stack includes:
+The price of passage follows the whole journey.
 
-1. surface and orbital lift;
-2. in-system transfer to the shore;
-3. carriage preparation and inspection;
-4. certified weight-class capacity;
-5. counterweight acquisition at the other shore;
-6. sequence-mode occupancy;
-7. endpoint energy and heat rejection;
-8. local momentum and orbital reconciliation;
-9. life support or thermal service;
-10. rescue and quarantine reserves;
-11. insurance and political risk;
-12. time while capital remains inaccessible; and
-13. onward transport after arrival.
+The journey first pays for surface and orbital lift, in-system transfer to the
+shore, and carriage preparation and inspection. Passage itself purchases
+certified weight-class capacity, counterweight acquisition at the other shore,
+and sequence-mode occupancy. Endpoint energy, heat rejection, local momentum,
+and orbital reconciliation remain charges even when the two carriages weigh
+the same.
 
-Cargo is priced along at least six physical axes:
+Life support or thermal service, rescue and quarantine reserves, insurance,
+and political risk add to that physical bill. Capital remains inaccessible
+while the journey takes place, and onward transport must still be paid after
+arrival. Fuel is therefore one cost among thirteen distinct parts of passage.
 
-- invariant mass;
-- volume;
-- internal motion and multipole complexity;
-- heat generated or requiring removal;
-- biological, radiological, chemical, informational, or arcane hazard;
-- and urgency.
+Cargo pricing distinguishes at least six physical axes.
+
+Invariant mass and volume set only part of a cargo's price. Internal motion and
+multipole complexity consume trim authority, while generated heat and heat
+requiring removal consume thermal service. Biological, radiological, chemical,
+informational, and arcane hazards impose different custody costs. Urgency adds
+a sixth physical pricing axis by claiming scarce schedule capacity.
 
 A tiny living culture may cost more than tonnes of inert metal because it needs
 power, custody, atmosphere, thermal control, and quarantine for the entire
@@ -669,32 +665,32 @@ an empty momentum reserve.
 
 ### Principal trade
 
-Interstellar traffic favors value that survives carriage cost:
+Interstellar traffic favors value that survives carriage cost.
 
-- authenticated scientific, legal, historical, and commercial records;
-- trained specialists, migrants, diplomats, pilgrims, students, and refugees;
-- pharmaceuticals, catalysts, and specialized biological products;
-- reproductive diversity, tissue lineages, crop varieties, microbes, and
-  ecological recovery packages;
-- precision optics, sensors, clocks, semiconductors, and quantum devices;
-- certified superconducting elements, reactor components, control hardware, and
-  machine tools;
-- rare isotopes or catalysts unavailable locally;
-- material standards with trusted provenance;
-- art, relics, religious objects, and custody-bearing artifacts;
-- route components that the destination cannot yet reproduce; and
-- emergency medicine, food cultures, or famine relief.
+Authenticated scientific, legal, historical, and commercial records carry value
+that their mass alone cannot explain. Trained specialists, migrants, diplomats,
+pilgrims, students, and refugees cross for similarly different reasons. Their
+passages coexist with trade in pharmaceuticals, catalysts, specialized
+biological products, reproductive diversity, tissue lineages, crop varieties,
+microbes, and ecological recovery packages.
+
+Precision manufacture supplies another important traffic. Optics, sensors,
+clocks, semiconductors, quantum devices, certified superconducting elements,
+reactor components, control hardware, and machine tools may justify importing a
+finished object. Rare isotopes or catalysts unavailable locally and route
+components the destination cannot yet reproduce carry that necessity further.
+
+Provenance can itself be the cargo: trusted material standards, art, relics,
+religious objects, and custody-bearing artifacts are transported for the
+histories attached to them. Emergency medicine, food cultures, and famine relief
+justify passage through immediate need rather than normal commercial return.
 
 ### Normally local goods
 
-- water;
-- atmospheric gases;
-- common structural metal;
-- shielding mass;
-- construction aggregate;
-- ordinary food;
-- bulk reactor fuel; and
-- low-precision finished goods.
+Water and atmospheric gases normally come from within the receiving system, as
+do common structural metal, shielding mass, and construction aggregate.
+Ordinary food, bulk reactor fuel, and low-precision finished goods likewise
+usually belong to local supply chains.
 
 Shipping staple grain, air, or water between stars indicates disaster,
 dependency, blockade, or luxury. A mature settlement finds common mass locally or
@@ -719,13 +715,12 @@ No regional market knows every current fact. A ship may have arrived, failed,
 been quarantined, or been seized while investors elsewhere still trade the old
 manifest.
 
-Contracts therefore record:
+Contracts preserve the stages of that evidentiary delay.
 
-- originating execution time;
-- sequence window;
-- destination localization time;
-- custody and hazard state;
-- and the earliest carriage expected to return authenticated receipt.
+A contract therefore records its originating execution time and sequence window,
+the destination's localization time, and the cargo's custody and hazard state.
+It also names the earliest carriage expected to return an authenticated receipt.
+That final date bounds when a distant party can expect evidence of performance.
 
 Payment commonly remains in escrow until destination evidence returns. Prices,
 currencies, and credit conditions diverge between mailfalls. Interstellar
@@ -751,17 +746,16 @@ disputes; neither a distributed ledger nor a prestigious seal abolishes mailfall
 
 ### Route-opening finance
 
-Opening a shore outlives ordinary commercial patience. Typical instruments
-include:
+Opening a shore outlives ordinary commercial patience, and its financing
+reflects that duration.
 
-- public or dynastic endowments;
-- guild and university prospecting shares;
-- religious or diaspora subscriptions;
-- receiver-seed bonds;
-- route-opening bonds payable after independent route proof;
-- shore construction concessions;
-- foundation bonds backed by future traffic fees; and
-- mutual rescue and quarantine funds.
+Public or dynastic endowments, guild and university prospecting shares, and
+religious or diaspora subscriptions can sustain the earliest work. Receiver-seed
+bonds fund a mission whose return is remote; route-opening bonds become payable
+after independent route proof. Shore construction concessions and foundation
+bonds backed by future traffic fees connect later investment to the service it
+will create. Mutual rescue and quarantine funds maintain obligations that no
+single profitable carriage can discharge.
 
 The first generation commonly pays for an Answer it will never see. Durable
 institutions, not only bold individuals, open the region.
@@ -790,18 +784,18 @@ The two exchanged carriages share one physical event. Each side therefore has a
 material interest in the other's manifest, maintenance, internal motion, and
 hazard classification. A dangerous countercarriage can injure both shores.
 
-Coverage distinguishes:
+Coverage follows the cause of loss.
 
-- refusal;
-- snapback;
-- spill or shorefall;
-- operational de-rating, forecast secular fade, or abrupt anomalous loss;
-- momentum debt;
-- ordinary vessel failure;
-- quarantine;
-- political seizure or blockade;
-- biological contamination;
-- and exposure to a prohibited system.
+Policies distinguish refusal from snapback and from destructive spill or
+shorefall. They also separate operational de-rating, forecast secular fade,
+and abrupt anomalous loss, since those conditions have different evidence and
+predictability. Momentum debt and ordinary vessel failure remain distinct
+causes even after a physically successful exchange.
+
+Quarantine, political seizure or blockade, biological contamination, and
+exposure to a prohibited system receive their own treatment. A policy covering
+one interruption cannot be assumed to cover every other event that leaves the
+same berth empty.
 
 Independent clocks, mass books, hull records, power histories, and shore
 witnesses matter more than repeated copies of one log. General-average rules
@@ -819,16 +813,16 @@ only after independent reciprocal proof.
 
 ### What can be owned
 
-No one owns a conjugacy or the sequence field. Operators can own or govern:
+The distinction between nature and service shapes shore ownership.
 
-- weighhouse stations;
-- ballast and momentum reserves;
-- clocks and calibration infrastructure;
-- current phase and localization tables;
-- carriage hulls;
-- rescue, quarantine, and customs facilities;
-- approach-volume security; and
-- a service concession.
+Ownership and governance attach to weighhouse stations, carriage hulls, and the
+ballast and momentum reserves that let them work. Clocks, calibration
+infrastructure, and current phase and localization tables can also be owned or
+controlled. Rescue, quarantine, and customs facilities can likewise be owned or
+governed, as can approach-volume security. An operator may separately hold a
+service concession.
+The natural conjugacy and the sequence field themselves remain outside those
+claims.
 
 The old saying is:
 
@@ -837,17 +831,15 @@ The old saying is:
 ### Bilateral governance
 
 A passage requires both shores. Major routes therefore develop bilateral shore
-compacts covering:
+compacts that connect physical preparation to reciprocal authority.
 
-- admissible weight classes;
-- hazardous cargo;
-- timetable and sequence tables;
-- customs and personhood;
-- rescue liability;
-- quarantine refusal;
-- military traffic;
-- mail custody;
-- and procedures after one jurisdiction collapses.
+The compacts specify admissible weight classes, hazardous cargo, timetables,
+and sequence tables so that each shore knows what it is preparing to exchange.
+Customs and personhood provisions govern what happens to the arriving burden
+and its occupants. Rescue liability, quarantine refusal, military traffic,
+and mail custody then define obligations during conflict or failure. Procedures
+after a jurisdiction collapses keep those obligations from resting entirely
+upon one government's continued existence.
 
 Neither shore can compel the other to exchange. A monopoly can nevertheless make
 formal equality coercive when one settlement depends upon traffic for survival.
@@ -866,16 +858,14 @@ part of one scheduled carriage, not ownership of a path through nature.
 ### Weight clearinghouses
 
 Every mature route has a bilateral clearing institution, sometimes shared across
-a hub. It:
+a hub.
 
-- matches opposite-direction carriage demand;
-- prices scarce counterflow and unused weight;
-- reserves public emergency ballast;
-- distinguishes gross carriage mass from useful payload;
-- tracks where route mass becomes dispersed into shielding, habitation, cargo,
-  or local industry;
-- carries forward shore-local imbalances between schedules; and
-- settles financial payment separately from the physical mass book.
+The clearing institution matches opposite-direction carriage demand, prices
+scarce counterflow and unused weight, and reserves public emergency ballast.
+It distinguishes gross carriage mass from useful payload and tracks where
+route mass becomes dispersed into shielding, habitation, cargo, or local
+industry. Shore-local imbalances are carried forward between schedules, while
+financial payment is settled separately from the physical mass book.
 
 Ballast is not consumed by a successful exchange. It changes shore and may cease
 to be available because it was sold, built into a habitat, contaminated, or moved
@@ -888,16 +878,17 @@ accounting one.
 
 No single motive explains settlement.
 
-- access to a strategically placed shore;
-- low-gravity industry or rare local feedstock;
-- a habitable or scientifically unique environment;
-- refuge from law, war, caste, debt, religion, or ecological loss;
-- deliberate redundancy of humanity and managed Earth life;
-- military positioning;
-- university, monastic, or archival seclusion;
-- profit from route service;
-- forced relocation or dispossession; and
-- the ordinary desire to build a life elsewhere.
+A strategically placed shore, low-gravity industry, or rare local feedstock can
+attract a foundation. A habitable or scientifically unique environment creates
+other reasons to stay. Some programs seek deliberate redundancy for humanity
+and managed Earth life; others seek military position or profit from route
+service. Universities, monasteries, and archives may value seclusion enough
+to accept its cost.
+
+People also move to escape law, war, caste, debt, religion, or ecological loss.
+Forced relocation and dispossession create settlements whose inhabitants did
+not choose their foundation. Alongside those large motives remains the ordinary
+desire to build a life elsewhere.
 
 Most destinations are not profitable in the first generations. A foundation is
 a long capital sink whose early returns may be science, route option, strategic
@@ -909,17 +900,14 @@ A planet with air and water may be harder to settle than a barren moon. Native
 chemistry, pathogens, toxins, incompatible ecology, gravity, radiation, weather,
 and the moral cost of contamination must be studied before open release.
 
-The normal sequence is:
+The normal sequence establishes evidence before it enlarges exposure.
 
-1. orbital and robotic census;
-2. stand-off sample return;
-3. sealed surface or atmospheric stations;
-4. multi-season biological and geological survey;
-5. independent contamination review;
-6. limited occupied habitats;
-7. local industry and food trials;
-8. resident decision about permanent foundation; and
-9. only then, any controlled environmental integration.
+An orbital and robotic census normally precedes stand-off sample return. Sealed
+surface or atmospheric stations then permit multi-season biological and
+geological survey without presuming open settlement. Independent contamination
+review comes before limited occupied habitats, local industry, and food trials.
+Residents decide whether to establish a permanent foundation only after those
+steps; controlled environmental integration, if any, follows that decision.
 
 Terraforming is never the opening move.
 
@@ -927,25 +915,32 @@ Terraforming is never the opening move.
 
 A credible foundation program delivers a civilization seed rather than a crowd.
 
-Minimum established practice includes:
+Minimum established practice connects several independent forms of survival.
 
-- three physically separable power systems using at least two energy sources;
-- three pressure and life-support districts with independent shutdown;
-- years of atmosphere, water, food, medicine, and cold reserve;
-- local extraction, refining, chemistry, and waste processing;
-- machine tools and additive/subtractive fabrication;
-- semiconductor, optical, clock, and control-system repair stocks;
-- spare radiators, pressure hull, seals, and power conversion;
-- landing, orbital transfer, rescue, and quarantine craft;
-- medical, obstetric, pediatric, dental, and rehabilitation capacity;
-- gamete, embryo, tissue, crop, microbial, and industrial-organism archives;
-- several unrelated food and nutrient pathways;
-- schools and technical apprenticeships;
-- legal, linguistic, scientific, and cultural archives;
-- locally authoritative clocks and navigation;
-- contamination and native-life laboratories;
-- at least one independent means of repairing the far shore; and
-- duplicate constitutional records carried through unrelated control histories.
+Established minimum practice supplies three physically separable power systems
+using at least two energy sources, together with three pressure and life-support
+districts that can shut down independently. Years of atmosphere, water, food,
+medicine, and cold reserve give residents time to recover from interruption.
+Spare radiators, pressure hull, seals, and power conversion keep that reserve
+usable rather than merely nominal.
+
+Local extraction, refining, chemistry, and waste processing support machine
+tools and additive/subtractive fabrication. Semiconductor, optical, clock, and
+control-system repair stocks bridge the dependencies that those tools cannot
+yet reproduce. Landing, orbital transfer, rescue, and quarantine craft connect
+the foundation to its surroundings. Locally authoritative clocks and navigation,
+contamination and native-life laboratories, and at least one independent means
+of repairing the far shore support continued access without surrendering local
+judgment.
+
+The package must provide medical, obstetric, pediatric, dental, and
+rehabilitation care. Gamete, embryo, tissue, crop, microbial, and
+industrial-organism archives accompany several unrelated food and nutrient
+pathways. Schools and technical apprenticeships maintain the people who can
+use them. Legal, linguistic, scientific, and cultural archives preserve more
+than machinery; duplicate constitutional records travel through unrelated
+control histories so that one loss cannot become the only surviving account
+of the society's authority.
 
 A serious foundation moves hundreds of thousands of tonnes over decades. No one
 ship contains the only viable ecology, government, or future generation.
@@ -982,46 +977,41 @@ The following are authoring ranges rather than universal in-world statutes.
 
 ### Expedition
 
-- normally fewer than **1,000** residents;
-- staffed for a mission;
-- no assumption of permanent reproduction;
-- evacuation or relief remains part of the operating plan; and
-- does not count as an inhabited system.
+An expedition normally has fewer than **1,000** residents and is staffed for a
+mission. Permanent reproduction is not presumed, and evacuation or relief
+remains part of its operating plan. Its presence does not count as an inhabited
+system.
 
 ### Dependent settlement
 
-- normally at least **3,000** permanent residents;
-- locally born children;
-- reproductive archives representing tens of thousands of unrelated donors;
-- several independent life-support districts;
-- local water, food, and basic fabrication; but
-- a route-loss horizon still measured in months or a few years.
+A dependent settlement normally has at least **3,000** permanent residents,
+locally born children, and reproductive archives representing tens of thousands
+of unrelated donors. Several independent life-support districts supply local
+water, food, and basic fabrication. Those achievements still leave its
+route-loss horizon measured in months or a few years.
 
 ### Continuant settlement
 
-A system counts as continuously inhabited when it normally has:
+A continuant settlement makes a system count as continuously inhabited.
 
-- at least **10,000** permanent residents;
-- several locally born age cohorts;
-- three geographically and mechanically separable communities;
-- unrelated power, food, and archive systems;
-- locally trained clinicians, engineers, teachers, and operators;
-- at least **five years** of survival under route closure; and
-- no single imported archive or machine whose loss ends reproduction, atmosphere,
-  food, or government.
+The normal threshold is at least **10,000** permanent residents, several locally
+born age cohorts, and three geographically and mechanically separable
+communities. Unrelated power, food, and archive systems support locally trained
+clinicians, engineers, teachers, and operators. The settlement can survive at
+least **five years** of route closure, and no single imported archive or machine
+can end reproduction, atmosphere, food, or government if it is lost.
 
 ### Rooted polity
 
-Usually, though not invariably:
+The usual, though not invariable, pattern for a rooted polity combines roughly
+**100,000 or more** people with the following material and civic capacities.
+It can replace critical power, pressure, medical,
+agricultural, and transport systems locally and educate its own replacement
+specialists. Its route-loss horizon reaches a decade or more.
 
-- population of roughly **100,000 or more**;
-- local replacement of critical power, pressure, medical, agricultural, and
-  transport systems;
-- education of its own replacement specialists;
-- a route-loss horizon of a decade or more;
-- resident control of air, water, labor law, childhood, medicine, and policing;
-- and the ability to negotiate with the shore as a government rather than a work
-  camp.
+Residents control air, water, labor law, childhood, medicine, and policing.
+That authority and material depth let them negotiate with the shore as a
+government rather than as a work camp.
 
 Replacement means **functional survival**, not parity with the core. A rooted
 polity may use robust fission after losing advanced fusion blankets, simpler
@@ -1031,12 +1021,12 @@ technology can descend gracefully without its population dying.
 
 ### Mature system
 
-- multiple settlements, habitats, or inhabited bodies;
-- population in the hundreds of thousands, millions, or more;
-- several ecological, industrial, legal, and cultural traditions;
-- more than one major power and food architecture; and
-- enough replacement depth that route loss causes contraction and hardship
-  rather than immediate civilizational failure.
+A mature system includes multiple settlements, habitats, or inhabited bodies
+and a population in the hundreds of thousands, millions, or more. Several
+ecological, industrial, legal, and cultural traditions coexist with more than
+one major power and food architecture. Its replacement depth makes route loss
+a cause of contraction and hardship rather than immediate civilizational
+failure.
 
 Genetic archives reduce biological bottlenecks. They do not supply parents,
 technicians, constituencies, friendships, languages, or political legitimacy.
@@ -1075,17 +1065,14 @@ departure. These institutions make delay survivable while leaving it painful.
 No foundation imports one simplified “Earth ecosystem.” It carries several
 managed packages with recorded provenance and overlapping functions.
 
-Required functions include:
+Each package must be judged by the functions it can sustain.
 
-- primary food production;
-- decomposition;
-- nitrogen and mineral cycling;
-- fermentation and food processing;
-- pollination or equivalent reproductive support;
-- soil or substrate maintenance;
-- microbial diversity;
-- disease surveillance;
-- and recovery after one organism, archive, or growth facility is lost.
+Primary food production depends upon decomposition, nitrogen and mineral
+cycling, and soil or substrate maintenance. Fermentation and food processing
+turn that production into usable diets, while pollination or an equivalent
+reproductive support keeps the crops available. Microbial diversity and disease
+surveillance contribute to resilience. The packages must also permit recovery
+after one organism, archive, or growth facility is lost.
 
 No colony relies upon one crop, one microbial vat, one pollinator, one protein
 source, or one atmosphere organism. Biological archives travel in unrelated cold
@@ -1129,28 +1116,22 @@ that the principles do not exist.
 
 ## Dependency and exploitation
 
-A settlement may be:
+The different forms of dependency need not align.
 
-- legally independent but unable to replace its reactors;
-- materially resilient but ruled by an external shore company;
-- wealthy in route tolls and poor in food diversity;
-- populous but dependent upon one medical culture;
-- or politically subordinate while possessing the only ballast reserve that
-  keeps its sponsor's route open.
+Legal independence can coexist with an inability to replace reactors, just as
+material resilience can coexist with rule by an external shore company. Route
+tolls can enrich a settlement that remains poor in food diversity. A large
+population may still depend upon one medical culture. Conversely, a politically
+subordinate community may control the only ballast reserve keeping its sponsor's
+route open.
 
-The route-loss horizon must therefore list its shortest clocks separately:
+The route-loss horizon must therefore record its shortest clocks separately.
 
-- atmosphere;
-- water;
-- food and nutrients;
-- heat rejection;
-- medicine;
-- reactor service;
-- fabrication feedstock;
-- skilled labor;
-- reproductive diversity;
-- shore repair; and
-- civil legitimacy.
+Atmosphere, water, food and nutrients, and heat rejection each have a separate
+clock. Medicine, reactor service, fabrication feedstock, and skilled labor have
+others. Reproductive diversity, shore repair, and civil legitimacy also need
+their own route-loss accounting, because failure in one cannot be averaged away
+by a comfortable reserve in another.
 
 The shortest clock, not the average stockpile, defines the emergency.
 
@@ -1158,39 +1139,47 @@ The shortest clock, not the average stockpile, defines the emergency.
 
 ### Route-opening failures
 
-- false or commercially useless conjugacy;
-- receiver seed lost in ordinary space;
-- failed braking;
-- incorrect stellar-wind, dust, or braking-medium estimates;
-- century-scale drift in an autonomous seed's control goals or legal mandate;
-- radiation and aging destroying irreplaceable high-order components;
-- wrong shore volume;
-- insufficient local feedstock;
-- destination chemistry incompatible with the planned bootstrap process;
-- capture, refusal, or repurposing by an already present population;
-- bootstrap industry unable to reproduce one critical component;
-- a home vigil ending before the first surviving Answer window;
-- orphan shore whose sponsor no longer exists;
-- independent Answers that do not agree;
-- operational de-rating or forecast secular fade before investment recovery; and
-- a valid destination whose ecology or politics makes settlement unacceptable.
+A project can fail before its destination is reached. Conjugacy may be false or
+commercially useless, and a receiver seed can be lost in ordinary space or fail
+to brake. Incorrect estimates of stellar wind, dust, or braking medium can
+undo a sound departure. During the century-scale voyage, autonomous control
+goals or the legal mandate can drift, while radiation and aging destroy
+irreplaceable high-order components.
+
+Arrival leaves further failure points. The seed can choose the wrong shore
+volume, find too little feedstock, or encounter chemistry incompatible with
+its planned bootstrap process. A population already present can capture,
+refuse, or repurpose it. Even a functioning bootstrap industry may be unable
+to reproduce one critical component.
+
+The other end can fail too. A home vigil may end before the first surviving
+Answer window. A shore can also be orphaned when its sponsor disappears; these
+are separate failures even when they occur together.
+Independently obtained Answers may disagree. Operational de-rating or forecast
+secular fade can arrive before the investment is recovered. A physically valid
+destination can still remain unacceptable for settlement because of its ecology
+or politics.
 
 ### Settlement failures
 
-- one reactor, pressure spine, fabricator, archive, or food culture becoming
-  indispensable;
-- demographic collapse or loss of replacement skills;
-- reproductive archive corruption;
-- incompatible imported ecologies;
-- chronic micronutrient or microbial failure;
-- insufficient radiators or heat sinks;
-- native toxin or pathogen missed during survey;
-- inability to make the tools needed to repair imported tools;
-- sponsor control of atmosphere, medicine, or departure;
-- route closure before local industry matures;
-- emergency coordination converted into coercive Agreement architecture;
-- continuous utilities creating Rzez propagation paths; and
-- conflict while sponsor instructions remain weeks or months old.
+A settlement becomes brittle when one reactor, pressure spine, fabricator,
+archive, or food culture grows indispensable. Demographic collapse and loss of
+replacement skills can leave working machines without successors; reproductive
+archive corruption can compromise a different part of the future. Incompatible
+imported ecologies, chronic micronutrient or microbial failure, and a native
+toxin or pathogen missed during survey can defeat apparently adequate food
+and medical stocks.
+
+Insufficient radiators or heat sinks impose an immediate physical limit.
+Inability to make the tools needed to repair imported tools imposes a slower
+one, especially if the route closes before local industry matures. Sponsor
+control of atmosphere, medicine, or departure can turn those dependencies into
+political power.
+
+Emergency coordination can become coercive Agreement architecture, and
+continuous utilities can create Rzez propagation paths. Conflict may begin
+while the sponsor's instructions are still weeks or months old. These are
+different routes to failure, even when they leave the same abandoned districts.
 
 Most settlements do not fail in one cinematic event. They postpone births,
 cannibalize machinery, narrow diets, lose schools, abandon districts, sell weight
@@ -1209,30 +1198,27 @@ dead. An orphaned schedule can outlive its government.
 A derelict is not safe because its crew is dead. Initial recovery occurs at
 stand-off pads or sacrificial orbits.
 
-Salvage classifications remain separate:
+Salvage classification follows the suspected hazard.
 
-- biological contamination;
-- radiation;
-- chemical or industrial hazard;
-- suspect Rzez physical propagation;
-- active Agreement control architecture;
-- suspected Manifold incidence or anchor condition;
-- Closed Night anchor hardware;
-- strange-matter or Rehearsal residue;
-- and restricted Blackglass construction knowledge.
+Biological contamination, radiation, and chemical or industrial hazards receive
+separate classifications. Suspect Rzez physical propagation differs from an
+active Agreement control architecture, a suspected Manifold incidence or anchor
+condition, or Closed Night anchor hardware. Strange-matter or Rehearsal residue
+requires its own account, as does restricted Blackglass construction knowledge.
+The classifications cannot be collapsed merely because each restricts salvage.
 
-Mechanism boundaries matter:
+Those distinctions determine what a recovery can safely handle.
 
-- Rzez risk follows exposed physical samples, carriers, tools, and continuous
-  structures, not a received recording.
-- Agreement testimony is inert, while live adaptive feedback architecture may
-  reconstruct capability.
-- A Manifold report is safe to read; a suspected active incidence is a spatial
-  quarantine problem.
-- Closed Night diagrams can be constructive knowledge while an anchor remains
-  physical contraband.
-- Apsis telemetry is evidence until combined with convergence, baryon-bias, and
-  quench capability.
+Rzez risk follows exposed physical samples, carriers, tools, and continuous
+structures rather than a received recording. Agreement testimony is likewise
+inert, although executing a live adaptive feedback architecture can reconstruct
+capability. A Manifold report is safe to read; a suspected active incidence
+requires spatial quarantine.
+
+Closed Night diagrams may convey constructive knowledge while an anchor remains
+physical contraband. Apsis telemetry remains evidence until combined with
+convergence, baryon-bias, and quench capability. Each material or informational
+restriction therefore needs the particular mechanism that makes it relevant.
 
 Salvage requires independent custody, material witnesses, and a cleanup bond.
 Suspect wreckage is never towed directly into an inhabited yard for convenience.
@@ -1248,14 +1234,15 @@ political crime.
 
 A natural ligature cannot be conquered by firing through it.
 
-- Weapons do not cross outside a committed carriage.
-- A hostile arrival needs a participating or compromised opposite shore.
-- Every military carriage sends equal mass in the other direction.
-- A defender can safely refuse before commitment.
-- Closing after commitment risks both carriages and both shores.
-- A ship cannot divert between systems.
-- Alternative weighhouses are immense, slow to build, and limited to known shore
-  volumes.
+Weapons cross only inside a committed carriage. A hostile arrival needs a
+participating or compromised opposite shore and sends equal mass in the other
+direction. A defender can refuse safely before commitment; closing afterward
+risks both carriages and both shores. The ship has no opportunity to divert
+between systems.
+
+Alternative weighhouses offer no quick evasion. They are immense, slow to build,
+and confined to known shore volumes. Their limits make the local means of
+preparing and receiving passage the practical objects of a campaign.
 
 War therefore targets weighhouses, clocks, ballast, tenders, momentum stores,
 arrival volumes, and the local political authority willing to exchange.
@@ -1272,15 +1259,14 @@ medical exchange are treaty questions rather than automatic physical rights.
 
 ### Evacuation
 
-Evacuation requires:
+Evacuation requires a complete receiving and transport chain.
 
-- an operating local shore;
-- a receiving shore willing to send equal counterweight;
-- carriage slots;
-- passenger life support and thermal capacity;
-- local transport from the endangered world;
-- destination housing and quarantine; and
-- enough warning to repeat the exchange.
+An operating local shore must find a receiving shore willing to send equal
+counterweight. Carriage slots then need passenger life support and thermal
+capacity, local transport from the endangered world, and destination housing
+and quarantine. Enough warning must remain to repeat the exchange. Losing
+any one of those capacities can strand people while the natural ligature
+remains intact.
 
 A core route moving hundreds of thousands of people per year cannot evacuate a
 world of billions during a fast catastrophe. Leaders may save specialists,
@@ -1336,29 +1322,29 @@ light-time conditions create the home system's economy.
 
 ## Why only eight to twelve systems remain inhabited
 
-The regional scale follows from cumulative filters:
+The regional scale follows from several cumulative constraints.
 
-1. Usable ligatures are rare.
-   As an authoring constraint, roughly one potentially macroscopic conjugacy
-   survives among every twenty to fifty stellar basins subjected to serious
-   locality survey. Most rooted systems have no unopened candidate.
-2. A candidate still requires a receiver seed to cross ordinary interstellar
-   distance.
-3. Many seeds fail or arrive after their sponsors disappear.
-4. A far shore takes decades to bootstrap and independently prove.
-5. Some valid ligatures are too deep or weak for useful traffic.
-6. Many accessible systems justify science or extraction but not a permanent
-   society.
-7. A serious foundation consumes hundreds of thousands of tonnes, route slots,
-   ecological diversity, specialists, and generations of subsidy.
-8. New settlements compete with existing worlds for migrants and institutional
-   attention.
-9. Some systems become dead, prohibited, quarantined, blockaded, or disconnected.
-10. A mine, observatory, or twelve-person station does not count as an inhabited
-    system.
-11. Route capacity prevents simultaneous unlimited expansion.
-12. Post-Valec civilization distrusts societies whose survival depends upon one
-    continuous supply path.
+Usable ligatures are rare. The authoring constraint allows roughly one
+potentially macroscopic conjugacy among every twenty to fifty stellar basins
+subjected to serious locality survey, and most rooted systems have no unopened
+candidate. Each otherwise inaccessible candidate still needs a receiver seed
+to cross ordinary interstellar distance. Many seeds fail or arrive after their
+sponsors disappear. A successful far shore then takes decades to bootstrap and
+prove independently, while some valid ligatures remain too deep or weak for
+useful traffic.
+
+Access does not establish a society. Many systems justify science or extraction
+without permanent settlement. A serious foundation consumes hundreds of
+thousands of tonnes, route slots, ecological diversity, specialists, and
+generations of subsidy. New settlements compete with existing worlds for
+migrants and institutional attention, and route capacity prevents unlimited
+simultaneous expansion.
+
+Loss also changes the map. Systems become dead, prohibited, quarantined,
+blockaded, or disconnected. A mine, observatory, or twelve-person station does
+not count as an inhabited system. Post-Valec civilization further distrusts
+foundations whose survival depends upon one continuous supply path, placing
+another condition upon the societies it is willing to build.
 
 Humanity may have instrumented or briefly occupied several dozen systems while
 maintaining multigenerational societies in only eight to twelve.
@@ -1376,43 +1362,23 @@ be repaired by placing a flag on the next available planet.
 
 ## Deliberately unresolved
 
-- The exact current count and names of inhabited systems beyond established
-  places.
-- Which present shores were first built by Meridian programs, inherited from an
-  earlier human expansion, or reopened after abandonment.
-- The fate of every receiver seed and orphan shore.
-- Whether any modern candidate is conjugate with the Solar System.
-- The founding carriers' transit mechanism.
-- The total regional population.
-- One universal currency, route authority, commercial code, or colonial law.
-- Whether a nonhuman civilization has ever opened a ligature.
-- The final political boundary between Kharos, the route institutions, and other
-  core systems.
+The exact current count and names of inhabited systems beyond the established
+places remain open, as does total regional population. The histories of modern
+shores still need to distinguish Meridian construction, inherited earlier human
+expansion, and reopening after abandonment. The fates of individual receiver seeds and orphan
+shores remain incompletely known.
+
+Whether a modern candidate is conjugate with the Solar System and how the
+founding carriers traveled remain separate questions. No nonhuman opening of
+a ligature is established. The region also has no assigned universal currency,
+route authority, commercial code, or colonial law, and the final political
+boundary between Kharos, route institutions, and other core systems remains
+unresolved.
 
 These unknowns preserve history and conflict. They do not weaken the physical or
 economic model.
 
 ## Authoring checklist for a new place
 
-Before adding an inhabited system, world, habitat, or shore, answer:
 
-1. How was it first observed?
-2. How did the receiver seed or prior shore arrive?
-3. What does the ligature exchange, how deep is it, and what are its weight
-   classes?
-4. Where are the shore, ballast, momentum, rescue, and quarantine works?
-5. How do ordinary ships reach the inhabited destination from the shore?
-6. Which common mass is local, and which high-value dependency crosses stars?
-7. Who financed opening, and who now owns the scales?
-8. What is the shortest route-loss clock?
-9. What material, living, and civic systems make the community continuant?
-10. Is it an expedition, outpost, colony, continuant settlement, or rooted polity?
-11. What native environment was altered, protected, or misunderstood?
-12. What failed during foundation, and what institution remembers the cost?
-13. What can blockade, quarantine, operational de-rating, secular fade, or
-    anomalous route loss do to it?
-14. Why does this place need to exist instead of reusing one already in canon?
-
-A convincing settlement is not a population number beside a planet. It is a
-chain of physical and human dependencies that has survived long enough to become
-a history.
+The complete place-design questions remain available in the linked [Authoring checklist for a new place guidance](../docs/editorial-notes/canon-spaceflight-economy-and-settlement.md).

@@ -1,0 +1,370 @@
+{
+  "baseline": "fe2bae3ef40352d9b7abc4a0670921192d253938",
+  "files": [
+    {
+      "path": "entries/volume-02/book-04/b-4-01-the-closed-night.md",
+      "before_counts": {
+        "list_blocks": 23,
+        "list_items": 124
+      },
+      "after_counts": {
+        "list_blocks": 3,
+        "list_items": 19
+      },
+      "rewritten_blocks": [
+        {
+          "heading": "The name",
+          "original_line": 177,
+          "original_items_individually_reviewed": 5
+        },
+        {
+          "heading": "What the Closed Night is",
+          "original_line": 199,
+          "original_items_individually_reviewed": 6
+        },
+        {
+          "heading": "Direction-selective return",
+          "original_line": 286,
+          "original_items_individually_reviewed": 4
+        },
+        {
+          "heading": "Wavelength coverage",
+          "original_line": 348,
+          "original_items_individually_reviewed": 5
+        },
+        {
+          "heading": "Thermal progression",
+          "original_line": 409,
+          "original_items_individually_reviewed": 8
+        },
+        {
+          "heading": "The one-way signal condition",
+          "original_line": 462,
+          "original_items_individually_reviewed": 5
+        },
+        {
+          "heading": "Avaran return vanes",
+          "original_line": 504,
+          "original_items_individually_reviewed": 3
+        },
+        {
+          "heading": "The rejected planetary shell",
+          "original_line": 601,
+          "original_items_individually_reviewed": 7
+        },
+        {
+          "heading": "The mercy interpretation",
+          "original_line": 663,
+          "original_items_individually_reviewed": 3
+        },
+        {
+          "heading": "The Calorimeter Deaths",
+          "original_line": 699,
+          "original_items_individually_reviewed": 3
+        },
+        {
+          "heading": "Termination and aftermath",
+          "original_line": 837,
+          "original_items_individually_reviewed": 4
+        },
+        {
+          "heading": "Living occupants",
+          "original_line": 984,
+          "original_items_individually_reviewed": 5
+        },
+        {
+          "heading": "Survey",
+          "original_line": 1010,
+          "original_items_individually_reviewed": 7
+        },
+        {
+          "heading": "Aftermath",
+          "original_line": 1088,
+          "original_items_individually_reviewed": 6
+        },
+        {
+          "heading": "Before closure",
+          "original_line": 1106,
+          "original_items_individually_reviewed": 7
+        },
+        {
+          "heading": "During black state",
+          "original_line": 1125,
+          "original_items_individually_reviewed": 4
+        },
+        {
+          "heading": "The white seam",
+          "original_line": 1389,
+          "original_items_individually_reviewed": 3
+        },
+        {
+          "heading": "Consent and occupied volumes",
+          "original_line": 1618,
+          "original_items_individually_reviewed": 4
+        },
+        {
+          "heading": "Cultural afterlife",
+          "original_line": 1684,
+          "original_items_individually_reviewed": 5
+        },
+        {
+          "heading": "Unresolved questions",
+          "original_line": 1760,
+          "original_items_individually_reviewed": 11
+        }
+      ],
+      "retained_lists": [
+        {
+          "heading": "Editorial note on names, places, and sources",
+          "reason": "The explicit claim-level evidentiary key permits precise cross-reference to the five grades."
+        },
+        {
+          "heading": "Conduct gray release",
+          "reason": "An in-world seven-step rescue procedure whose order and separate operational cautions matter."
+        },
+        {
+          "heading": "The Articles of Open Radiance",
+          "reason": "The enumerated prohibitions preserve the Articles of Open Radiance as identifiable legal categories."
+        }
+      ],
+      "moved_sections": [],
+      "preservation_notes": [
+        "Only documented list replacements and their immediate lead-ins changed, except the recorded Issa editorial paragraph relocation. Reconstructing current text from the committed baseline and those transformations matches exactly.",
+        "YAML front matter, all existing heading strings and order, blockquote lines, and numeric facts outside ordinal list labels and link destinations are unchanged.",
+        "All retained lists match original bytes. All rewritten list items were independently compared against destination prose.",
+        "In-world uncertainties remain unresolved in reader-facing prose; no statuses, mechanisms, incidents, dates, names, or powers were adopted or changed."
+      ],
+      "peer_review_corrections": [
+        "Independent world-agent review restored repeated opportunities for trapped radiation to encounter the opening, avoiding guaranteed repeated encounters.",
+        "Thermal export wording no longer guarantees positive leakage or conductive export.",
+        "Damaged batteries/reactors and weakened seals remain separate hazards without a new specific causal chain.",
+        "Planetary-defense timing explicitly retains abundant opportunity during modest warming."
+      ]
+    },
+    {
+      "path": "entries/volume-03/book-06/c-6-01-the-agreement.md",
+      "before_counts": {
+        "list_blocks": 12,
+        "list_items": 88
+      },
+      "after_counts": {
+        "list_blocks": 2,
+        "list_items": 13
+      },
+      "rewritten_blocks": [
+        {
+          "heading": "What the Agreement is",
+          "original_line": 210,
+          "original_items_individually_reviewed": 5
+        },
+        {
+          "heading": "Reciprocal prediction-error coupling",
+          "original_line": 268,
+          "original_items_individually_reviewed": 9
+        },
+        {
+          "heading": "Reciprocal prediction-error coupling",
+          "original_line": 280,
+          "original_items_individually_reviewed": 10
+        },
+        {
+          "heading": "The consensus vector",
+          "original_line": 349,
+          "original_items_individually_reviewed": 5
+        },
+        {
+          "heading": "Enrollment and access",
+          "original_line": 460,
+          "original_items_individually_reviewed": 7
+        },
+        {
+          "heading": "Establishment sequence",
+          "original_line": 477,
+          "original_items_individually_reviewed": 6
+        },
+        {
+          "heading": "Hard limits",
+          "original_line": 567,
+          "original_items_individually_reviewed": 8
+        },
+        {
+          "heading": "Exploitation",
+          "original_line": 1361,
+          "original_items_individually_reviewed": 4
+        },
+        {
+          "heading": "Detection and forensic evidence",
+          "original_line": 1424,
+          "original_items_individually_reviewed": 9
+        },
+        {
+          "heading": "Unresolved questions",
+          "original_line": 1928,
+          "original_items_individually_reviewed": 12
+        }
+      ],
+      "retained_lists": [
+        {
+          "heading": "Editorial note on names, places, and sources",
+          "reason": "The explicit claim-level evidentiary key permits precise cross-reference to the five grades."
+        },
+        {
+          "heading": "Law, ethics, and prohibition",
+          "reason": "The enumerated prohibitions preserve the Articles of Bodily Dissent as identifiable legal categories."
+        }
+      ],
+      "moved_sections": [],
+      "preservation_notes": [
+        "Only documented list replacements and their immediate lead-ins changed, except the recorded Issa editorial paragraph relocation. Reconstructing current text from the committed baseline and those transformations matches exactly.",
+        "YAML front matter, all existing heading strings and order, blockquote lines, and numeric facts outside ordinal list labels and link destinations are unchanged.",
+        "All retained lists match original bytes. All rewritten list items were independently compared against destination prose.",
+        "In-world uncertainties remain unresolved in reader-facing prose; no statuses, mechanisms, incidents, dates, names, or powers were adopted or changed."
+      ],
+      "peer_review_corrections": [
+        "Independent world-agent review restored the original disjunction altered timing OR force; no requirement for both actuators."
+      ]
+    },
+    {
+      "path": "entries/volume-01/book-07/a-7-01-the-rzez.md",
+      "before_counts": {
+        "list_blocks": 19,
+        "list_items": 110
+      },
+      "after_counts": {
+        "list_blocks": 3,
+        "list_items": 14
+      },
+      "rewritten_blocks": [
+        {
+          "heading": "The name",
+          "original_line": 157,
+          "original_items_individually_reviewed": 5
+        },
+        {
+          "heading": "What the Rzez is",
+          "original_line": 179,
+          "original_items_individually_reviewed": 5
+        },
+        {
+          "heading": "Cohesion graph theory",
+          "original_line": 211,
+          "original_items_individually_reviewed": 5
+        },
+        {
+          "heading": "What instruments actually observe",
+          "original_line": 245,
+          "original_items_individually_reviewed": 8
+        },
+        {
+          "heading": "Structural characterization",
+          "original_line": 278,
+          "original_items_individually_reviewed": 6
+        },
+        {
+          "heading": "The hand instrument",
+          "original_line": 351,
+          "original_items_individually_reviewed": 4
+        },
+        {
+          "heading": "Planetary arrays",
+          "original_line": 410,
+          "original_items_individually_reviewed": 6
+        },
+        {
+          "heading": "Initial anomalies",
+          "original_line": 820,
+          "original_items_individually_reviewed": 6
+        },
+        {
+          "heading": "Three Orchard rumors",
+          "original_line": 1027,
+          "original_items_individually_reviewed": 3
+        },
+        {
+          "heading": "Later Blackglass reception of the older accounts",
+          "original_line": 1037,
+          "original_items_individually_reviewed": 6
+        },
+        {
+          "heading": "Living tissue",
+          "original_line": 1118,
+          "original_items_individually_reviewed": 7
+        },
+        {
+          "heading": "Detection and forensic evidence",
+          "original_line": 1198,
+          "original_items_individually_reviewed": 7
+        },
+        {
+          "heading": "Differential diagnosis among later systems",
+          "original_line": 1255,
+          "original_items_individually_reviewed": 5
+        },
+        {
+          "heading": "The field may propagate through identity",
+          "original_line": 1531,
+          "original_items_individually_reviewed": 4
+        },
+        {
+          "heading": "It may act upon boundaries more readily than substances",
+          "original_line": 1600,
+          "original_items_individually_reviewed": 5
+        },
+        {
+          "heading": "Unresolved questions",
+          "original_line": 1839,
+          "original_items_individually_reviewed": 14
+        }
+      ],
+      "retained_lists": [
+        {
+          "heading": "Editorial note on names, places, and sources",
+          "reason": "The explicit claim-level evidentiary key permits precise cross-reference to the five grades."
+        },
+        {
+          "heading": "The three-witness protocol",
+          "reason": "Three named forensic witnesses are separately defined because the subsequent laboratory procedure depends on their different functions."
+        },
+        {
+          "heading": "Law, ethics, and prohibition",
+          "reason": "The enumerated prohibitions preserve the Sixth Compact restrictions as distinct legal categories."
+        }
+      ],
+      "moved_sections": [
+        {
+          "heading": "The broken moon of Issa",
+          "destination": "docs/editorial-notes/a-7-01-the-rzez.md"
+        }
+      ],
+      "preservation_notes": [
+        "Only documented list replacements and their immediate lead-ins changed, except the recorded Issa editorial paragraph relocation. Reconstructing current text from the committed baseline and those transformations matches exactly.",
+        "YAML front matter, all existing heading strings and order, blockquote lines, and numeric facts outside ordinal list labels and link destinations are unchanged.",
+        "All retained lists match original bytes. All rewritten list items were independently compared against destination prose.",
+        "In-world uncertainties remain unresolved in reader-facing prose; no statuses, mechanisms, incidents, dates, names, or powers were adopted or changed."
+      ],
+      "peer_review_corrections": [
+        "Independent world-agent review restored the Manifold invariant leaves local observations exact, rather than weakening it to can leave."
+      ]
+    },
+    {
+      "path": "docs/editorial-notes/a-7-01-the-rzez.md",
+      "retained_lists": [],
+      "moved_sections": [],
+      "preservation_notes": [
+        "New note retains the complete original mixed Issa paragraph verbatim, including the unassigned authorial radius, mass, density, and orbit. The entry retains its scientific caveat and links to this reservation."
+      ]
+    }
+  ],
+  "read_files": [
+    "entries/volume-02/book-04/b-4-01-the-closed-night.md",
+    "entries/volume-03/book-06/c-6-01-the-agreement.md",
+    "entries/volume-01/book-07/a-7-01-the-rzez.md",
+    "frame/editorial-voice.md",
+    "docs/authoring-workflow.md",
+    "docs/editorial-notes/a-7-01-the-rzez.md"
+  ],
+  "item_review": "Every rewritten original list item was independently reread beside its destination after drafting. Names, scientific conditions, evidence qualifiers, uncertainties, exceptions, and quotations were compared explicitly.",
+  "audit_manifest": "social-original-lists.json",
+  "rewrite_manifest": "social-replacements.json",
+  "exemplar_sha256": "facbfa211443a253e057ef51343d5087a2b24df10d15e242fc26b7a9152c58a4"
+}

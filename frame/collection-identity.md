@@ -17,16 +17,15 @@ source_entries:
 technical and historical corpus.
 
 **The Blackglass Compendium** is the unofficial name of the particular later
-recension represented by this project: a reconstructed, expanded, and probably
+recension represented here: a reconstructed, expanded, and probably
 unauthorized body of entries containing material omitted from safer or
 officially sanctioned versions of the Codex.
 
-The terms are related but not interchangeable:
+The terms are related but not interchangeable.
 
-- **Codex** refers to the larger work, tradition, or institutional corpus.
-- **Compendium** refers to this assembled edition or textual lineage.
-- **Blackglass** marks the recension's disputed provenance and forbidden
-  reputation.
+**Codex** refers to the larger work, tradition, or institutional corpus.
+**Compendium** identifies this assembled edition or textual lineage, while
+**Blackglass** marks the recension's disputed provenance and forbidden reputation.
 
 This distinction allows each entry to retain the heading *The Codex of Arcane
 Engineering* while the collection containing those entries is titled *The
@@ -69,13 +68,14 @@ unresolved.
 
 ## Naming rules
 
-- Use *The Codex of Arcane Engineering* for the formal in-world corpus and entry
-  masthead.
-- Use *The Blackglass Compendium* for the project and this particular recension.
-- Do not call every source fragment “blackglass.”
-- Do not define blackglass as one universal magical substance or treat every
-  dark archival material as part of the textual lineage.
-- An official character may deny that the Blackglass recension exists while
-  still recognizing the Codex.
-- “Where Blackglass goes, trouble follows” is an established cultural axiom, not
-  authorial proof that the collection is conscious or supernatural.
+The formal corpus and entry masthead bear the name *The Codex of Arcane
+Engineering*. This particular recension is *The Blackglass Compendium*. An
+official may recognize the Codex while denying that the Blackglass recension
+exists.
+
+Neither every source fragment nor every dark archival material belongs to the
+Blackglass lineage, and blackglass is not one universal magical substance.
+“Where Blackglass goes, trouble follows” is a cultural axiom, not proof that
+the collection is conscious or supernatural.
+
+The original editorial reservations are retained in the [companion note](../docs/editorial-notes/frame-collection-identity.md).

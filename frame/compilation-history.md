@@ -15,24 +15,22 @@ source_entries:
 
 The Codex is not one manual written by one omniscient author. It is a layered
 technical-historical corpus assembled across many centuries and probably
-millennia from:
+millennia.
 
-- surviving engineering fragments;
-- confiscated calculations and field manuals;
-- industrial records;
-- court proceedings and regulatory findings;
-- military reports;
-- physical and forensic surveys;
-- survivor testimony;
-- religious texts and outlawed doctrine;
-- folklore, songs, and regional memory;
-- and later scholarly commentary.
+Surviving engineering fragments, confiscated calculations and field manuals,
+and industrial records provide technical histories. Court proceedings,
+regulatory findings, and military reports record how institutions encountered
+and judged them. Physical and forensic surveys sit alongside survivor testimony.
+
+Religious texts and outlawed doctrine preserve other interpretations, as do
+folklore, songs, and regional memory. Later scholarly commentary adds another
+layer to these accumulated sources.
 
 The oldest recoverable layers are already translations. The original language,
 medium, order, and archivists cannot be reconstructed. Hundreds of later
 recensions branch and recombine across dead languages and changing archival
 technologies. The lineage is older than every surviving state and current
-institution, but no hidden authorial date fixes its beginning.
+institution, but its beginning remains undated.
 
 The present Blackglass recension is later than the earliest Codex layers and
 later than the post-Compact events it records. Because the Rzez entry includes
@@ -44,16 +42,13 @@ lineage, not to every paragraph sharing one date.
 ## Why the corpus exists despite prohibition
 
 The Sixth Compact creates an unavoidable contradiction. It forbids reconstruction
-and instruction, yet governments and investigators still need enough knowledge
-to:
+and instruction, yet governments and investigators still need defensive,
+forensic, and legal knowledge.
 
-- detect exposure;
-- distinguish attack from accident or fraud;
-- isolate contaminated structures;
-- prosecute possession and deployment;
-- develop countermeasures;
-- assess alleged surviving instruments;
-- and preserve testimony from destroyed worlds.
+They must be able to detect exposure, distinguish attack from accident or fraud,
+and isolate contaminated structures. Prosecution of possession and deployment
+requires knowledge too, as do developing countermeasures and assessing alleged
+surviving instruments. The corpus also preserves testimony from destroyed worlds.
 
 Tightly controlled technical reference collections arose inside Compact
 institutions for defensive, forensic, and legal use, but they did not begin the
@@ -137,22 +132,18 @@ The reader appears to possess access to the Blackglass recension, not necessaril
 to the official complete Codex.
 
 The legality, medium, location, and circumstances of that access remain
-unresolved. The text should not repeatedly address the reader as a named person
-or assume a specific device until the frame is intentionally narrowed.
+unresolved. The represented reader has no fixed name or specific device.
 
 ## Limits on using the compilation as a plot device
 
-- Missing information must have a reason, but the reason need not always be
-  censorship; records can also be destroyed, contradictory, inaccessible, or
-  never created.
-- “The archive was corrupted” should not become a universal excuse for
-  inconsistency.
-- Editors may be mistaken or politically constrained, but should demonstrate a
-  recognizable method.
-- The Compendium should reveal forbidden knowledge without becoming a complete
-  construction manual for every instrument inside the fiction.
-- A widespread fragment should retain a material history, evidence grade, and
-  alternative explanations; ubiquity is not permission to make any desired text
-  appear anywhere.
-- Landscape correspondences may deepen uncertainty but must not silently prove
-  that all weapons share one origin or mechanism.
+Missing information can reflect censorship, destruction, contradiction,
+inaccessibility, or records never created. The editors' recognizable method
+persists despite their mistakes and political constraints. Forbidden knowledge
+is disclosed without supplying a complete construction manual for every
+instrument.
+
+A widespread fragment still carries a material history, an evidence grade, and
+alternative explanations. Landscape correspondences deepen uncertainty without
+proving a shared origin or mechanism for all weapons.
+
+The original editorial reservations are retained in the [companion note](../docs/editorial-notes/frame-compilation-history.md).

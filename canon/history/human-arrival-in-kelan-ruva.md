@@ -21,15 +21,13 @@ deliberate settlement effort involving people, reproductive material, food
 ecologies, microorganisms, fabrication systems, medical knowledge, and
 infrastructure intended to outlive the vehicles that carried them.
 
-That is established authorial canon. It does not mean that every detail is
-equally demonstrable to a present-day historian. The Compendium's distinction
-between authorial truth and in-world evidence is especially important here.
-People in the setting possess overwhelming evidence that humanity and its
-managed ecology came from another biosphere. They possess strong evidence that
-the remembered cradle was Earth in the Solar System. They do not possess a
-complete passenger manifest, a trustworthy departure chronology, a recoverable
-transit method, or an observation that converts the old astronomical epoch into
-a numbered Earth civil year.
+Not every detail of that history is equally demonstrable to a present-day
+historian. Overwhelming evidence places humanity and its managed ecology in
+another ancestral biosphere, and strong evidence identifies the remembered
+cradle as Earth in the Solar System. Present historians possess no complete
+passenger manifest, trustworthy departure chronology, recoverable transit
+method, or observation converting the old astronomical epoch into a numbered
+Earth civil year.
 
 The long period beginning with the first uncrewed survey objects and encompassing
 the inhabited arrival assemblages, First Shelter, Heavy Descent, and emergence
@@ -38,9 +36,8 @@ Interval**. The last generally accepted arrival assemblage is one of its closing
 anchors rather than its sole endpoint. The interval occurred at least several
 millennia before the Meridian Age. Its internal sequence is recoverable in broad
 and sometimes fine detail, but its first and last years cannot be stated exactly
-even in local terms. No true Common Era, Gregorian, or other Earth-calendar year
-exists behind the text as a fact known only to an omniscient editor. The missing
-correlation is a permanent part of the setting.
+even in local terms. No recovered Common Era, Gregorian, or other Earth-calendar year
+correlates that sequence with a numbered Earth civil date.
 
 The simplest customary statement is:
 
@@ -53,35 +50,31 @@ The more formal scholarly version is:
 
 ## Established core
 
-Future histories may add detail without contradicting the following facts:
+The settlement sequence has a firm core despite the gaps in its chronology.
 
-1. Human beings are descendants of Earth life.
-2. The terrestrial biological package entered Kelan–Ruva abruptly on geological
-   timescales. No local hominin ancestry precedes it.
-3. Settlement was planned rather than an accidental landing by one disabled
-   craft.
-4. Uncrewed survey machinery entered the system before the oldest accepted
-   human occupation.
-5. More than one materially distinct inhabited arrival assemblage reached the
-   system.
-6. Avara contains the oldest accepted continuously occupied human site in
-   Kelan–Ruva and was inhabited before Kharos.
-7. Kharos was settled through a prolonged sequence of surveys, sealed stations,
-   difficult surface residence, and multigenerational expansion. There was no
-   single instantaneous founding of the present home world.
-8. The original arrival structures were used as infrastructure and feedstock.
-   Their disappearance is principally the result of ordinary settlement,
-   conversion, repair, and decay rather than one convenient archive-destroying
-   catastrophe.
-9. Contact with Earth ended before the beginning of a continuous shared local
-   chronology.
-10. Present scholars can identify Sol's astronomical direction and reconstruct
-    old observations from the Solar viewpoint, subject to ordinary uncertainty
-    and light-travel delay. No known navigable route reaches Earth.
-11. The physical mechanism, duration, and subjective experience of the founding
-    passage remain unknown. No current route is proven to use the same method.
-12. Earth's condition when the settlers left, their reason for leaving, and
-    Earth's subsequent fate remain unresolved.
+Human beings descend from Earth life. The terrestrial biological package
+entered Kelan–Ruva abruptly on geological timescales, with no local hominin
+ancestry preceding it. Settlement was planned rather than the accidental
+landing of one disabled craft. Uncrewed survey machinery entered the system
+before the oldest accepted human occupation, and more than one materially
+distinct inhabited arrival assemblage subsequently reached it.
+
+Avara contains the oldest accepted continuously occupied human site in
+Kelan–Ruva and was inhabited before Kharos. Kharos was settled through prolonged
+surveys, sealed stations, difficult surface residence, and multigenerational
+expansion, without a single instantaneous founding of the present home world.
+The original arrival structures became infrastructure and feedstock. Ordinary
+settlement, conversion, repair, and decay principally account for their
+disappearance, rather than one convenient archive-destroying catastrophe.
+
+Contact with Earth ended before a continuous shared local chronology began.
+Present scholars can identify Sol's astronomical direction and reconstruct old
+observations from the Solar viewpoint, subject to ordinary uncertainty and
+light-travel delay, but no known navigable route reaches Earth. The founding
+passage's physical mechanism, duration, and subjective experience remain
+unknown, and no current route is proven to use the same method. Earth's
+condition when the settlers left, their reason for leaving, and its subsequent
+fate remain unresolved.
 
 The Founding Interval predates the documented human development of the five
 known-human engineering lineages presently central to the Compendium and the
@@ -173,8 +166,8 @@ the observations and which depend on a disputed label or correction.
 The reconstructed Solar direction is an astronomical result, not a transport
 map. No present route terminus is identified with it. Optical observation also
 shows a past state because light requires time to cross the intervening space.
-Current canon does not assign the distance from Kelan–Ruva to Sol, the resolving
-power of any particular observatory, or what may presently be visible of Earth.
+This account supplies neither the distance from Kelan–Ruva to Sol, the resolving
+power of a particular observatory, nor what may presently be visible of Earth.
 
 ### The name Earth
 
@@ -197,54 +190,55 @@ Historical grades attach to claims, not to this history as a whole.
 ### Grade A
 
 Physical remains, independent technical records, and credible contemporary
-evidence support the following:
+evidence support this grade.
 
-- humans and their managed biological community are not native to Kelan–Ruva;
-- the incoming organisms share one older terrestrial evolutionary history;
-- uncrewed survey objects precede accepted human occupation;
-- settlement cargo was selected for long-term habitation rather than short
-  visitation;
-- Avara's First Shelter stratum predates permanent Kharosi settlement;
-- distinct arrival assemblages introduced differing construction practices and
-  additional biological material;
-- and the broad survey, orbital refuge, Avaran occupation, Kharosi descent, and
-  later expansion sequence is real.
+Humans and their managed biological community are not native to Kelan–Ruva;
+the incoming organisms share one older terrestrial evolutionary history.
+Uncrewed survey objects precede accepted human occupation, and settlement cargo
+was selected for long-term habitation rather than short visitation.
+
+Avara's First Shelter stratum predates permanent Kharosi settlement. Distinct
+arrival assemblages introduced differing construction practices and additional
+biological material. The broad sequence of survey, orbital refuge, Avaran
+occupation, Kharosi descent, and later expansion is real.
 
 ### Grade B
 
-Strong documentary and technical evidence, with incomplete or inaccessible
-material remains, supports the following:
+Strong documentary and technical evidence supports these claims, although
+material remains are incomplete or inaccessible.
 
-- the ancestral biosphere was Earth in the Solar System;
-- the old navigation viewpoint was Sol;
-- the inhabited assemblages were elements of a deliberate migration program or
-  several related programs;
-- at least some founders understood themselves to have departed Earth rather
-  than merely inheriting Earth records in another colony;
-- and later assemblages reached an existing Kelan–Ruva settlement rather than
-  forming unrelated settlements rediscovered afterward.
+The ancestral biosphere was Earth in the Solar System, and the old navigation
+viewpoint was Sol. The inhabited assemblages were elements of a deliberate
+migration program or several related programs. At least some founders
+understood themselves to have departed Earth rather than merely inheriting
+Earth records in another colony.
+
+Later assemblages reached an existing Kelan–Ruva settlement. They did not form
+unrelated settlements that were rediscovered afterward.
 
 ### Grade C
 
-Multiple traditions agree while material interpretation remains incomplete:
+Multiple traditions agree at this grade while material interpretation remains
+incomplete.
 
-- all major assemblages belonged to one distributed convoy;
-- the first inhabited assemblage traveled directly from Earth without an
-  intermediate settlement;
-- particular surface ruins correspond to named settlements in founding songs;
-- and one of the major calendar-crosswalk families preserves the correct order
-  of Earth departures.
+They support the claims that all major assemblages belonged to one distributed
+convoy and that the first inhabited assemblage traveled directly from Earth
+without an intermediate settlement. They also associate particular surface
+ruins with named settlements in founding songs and suggest that one major
+calendar-crosswalk family preserves the correct order of Earth departures.
 
 ### Grade D
 
-Single substantial sources or clusters of dependent sources support claims that:
+Single substantial sources or clusters of dependent sources support these claims.
 
-- the migration fled a specific war, ecological emergency, persecution, or
-  predicted astronomical disaster;
-- a founding government promised to reopen the route;
-- route records or calendar keys were deliberately destroyed;
-- one late assemblage was refused landing and forced to negotiate at Avara;
-- or an intermediate colony still exists outside the known route network.
+One claim holds that the migration fled a specific war, ecological emergency,
+persecution, or predicted astronomical disaster. Others hold that a founding
+government promised to reopen the route, or that route records or calendar keys
+were deliberately destroyed.
+
+Accounts at this grade also describe one late assemblage being refused landing
+and forced to negotiate at Avara, or propose that an intermediate colony still
+exists outside the known route network.
 
 ### Grade E
 
@@ -285,7 +279,7 @@ The elapsed interval between the Far Survey and the first people remains
 uncertain. Internal counters cannot be translated directly, and exposure-age
 estimates depend on shielding histories. It may have been measured in years or
 decades by the surveyors' proper time. Longer interpretations remain possible.
-The canon requires only that the survey preceded accepted human occupation.
+The supported sequence requires only that the survey preceded accepted human occupation.
 
 ### The carrier assemblages
 
@@ -348,9 +342,8 @@ increasingly occupied an environment that already existed.
 
 Whether Avara possessed an independent biosphere before people arrived remains
 unresolved. Some early assay fragments are consistent with local biochemical
-activity; others can be explained by contamination or nonliving chemistry. The
-human-arrival history must not decide that question by casually calling Avara
-sterile or naturally Earthlike.
+activity; others can be explained by contamination or nonliving chemistry.
+Neither sterility nor a naturally Earthlike environment follows from that record.
 
 The first settlement drew directly on orbital structures. Pressure vessels
 became water stores. Shielding became walls. Landing frames became cranes and
@@ -566,11 +559,11 @@ state the present Earth year?
 
 The question conflates three different quantities.
 
-1. A **physical interval** measures elapsed proper time or a defined dynamical
-   time between observations.
-2. An **astronomical epoch** describes the physical configuration of stars,
-   pulsars, planets, and reference systems at an observation.
-3. A **civil date** assigns a culturally defined label to an interval or epoch.
+A **physical interval** measures elapsed proper time or a defined dynamical time
+between observations. An **astronomical epoch** describes the physical
+configuration of stars, pulsars, planets, and reference systems at an
+observation. A **civil date** does something different: it assigns a culturally
+defined label to an interval or epoch.
 
 The first two can be reconstructed without the third. A civil year number is not
 a naturally occurring property of the sky. Gregorian year one, a religious era,
@@ -624,14 +617,15 @@ calendar its source organization displayed.
 
 ### The missing crosswalk
 
-No accepted artifact contains, in one independently authenticated chain:
+No accepted artifact supplies the entire bridge in one independently
+authenticated chain.
 
-- an unambiguous Earth civil calendar and era;
-- a complete numbered date under that calendar;
-- a uniquely recoverable celestial state or physical time coordinate;
-- the observation's location and clock convention;
-- and a defensible conversion from that physical state to the time convention
-  under which the claimed present or historical date is being reported.
+Such a chain would identify an unambiguous Earth civil calendar and era,
+provide a complete numbered date under that calendar, and tie it to a uniquely
+recoverable celestial state or physical time coordinate. It would also preserve
+the observation's location and clock convention, together with a defensible
+conversion from that physical state to the time convention under which the
+claimed present or historical date is being reported.
 
 Records normally contain one side of the bridge. Navigation catalogs carry a
 physical epoch in machine form but have lost the manifest defining the epoch
@@ -742,10 +736,10 @@ their different modern calculations.
 No crosswalk claim may presently exceed Grade C. A proposal does not become
 Grade A by adding decimal places.
 
-Compendium chronology should use the Founding Interval, stratigraphic sequence,
+The chronology accordingly uses the Founding Interval, stratigraphic sequence,
 local physical durations, named historical eras, and Compact-relative dates
-where appropriate. It should not place a speculative Common Era year in
-parentheses as though that were harmless convenience.
+where appropriate. A speculative Common Era year in parentheses would suggest
+a correlation the evidence does not supply.
 
 ## Competing settlement models
 
@@ -840,11 +834,10 @@ distinction is ordinary, not a technical correction recited only by scholars.
 People may be fully Kharosi while acknowledging that the human lineage began on
 Earth and first survived locally on Avara.
 
-This allows the setting to hold three truths at once:
+Three truths therefore coexist.
 
-- Earth is the ancestral cradle;
-- Avara is the first durable human shelter in Kelan–Ruva;
-- and Kharos is the principal present home world.
+Earth is the ancestral cradle. Avara is the first durable human shelter in
+Kelan–Ruva, while Kharos is the principal present home world.
 
 None cancels the others.
 
@@ -1008,25 +1001,26 @@ preserves several unresolved transformations.
 
 ## Consequences for the realistic system
 
-The settlement history should remain accountable to the physical architecture
-of Kelan–Ruva.
+The settlement history is bound to the physical architecture of Kelan–Ruva.
 
-- The binary was recognized and measured before inhabited arrival. Its
-  16.65-day inertial orbit is not a historical surprise or a source of magical
-  seasons; the locally observed presentation cycle is approximately 17.63 days.
-- Avara was chosen first for low-gravity access, water, volatiles, assembly, and
-  refuge. Its atmosphere was managed, not conjured rapidly from vacuum.
-- Kharos's approximately 1.54 g gravity imposed genuine medical and industrial
-  costs. Culture did not simply ignore it.
-- The outer belts and giant planets supplied survey baselines, volatiles,
-  feedstock, and navigation infrastructure before they supported any extensive
-  permanent population.
-- Odran became valuable later as an airless, separated reference environment;
-  it was not the easiest first home for a biologically vulnerable population.
-- The close binary and circumbinary planets do not prevent precise astronomy.
-  They require a barycentric ephemeris and careful local clock definitions.
-- The ability to determine local orbital phases to extraordinary precision does
-  not recover a missing Earth civil epoch.
+The binary was recognized and measured before inhabited arrival. Its 16.65-day
+inertial orbit is neither a historical surprise nor a source of magical seasons;
+the locally observed presentation cycle is approximately 17.63 days. The close
+binary and circumbinary planets do not prevent precise astronomy, but they do
+require a barycentric ephemeris and careful local clock definitions.
+Extraordinary precision in local orbital phases cannot recover a missing Earth
+civil epoch.
+
+Avara was chosen first for low-gravity access, water, volatiles, assembly, and
+refuge. Its atmosphere was managed, not conjured rapidly from vacuum. Kharos's
+approximately 1.54 g gravity imposed genuine medical and industrial costs that
+culture did not simply ignore. Odran later became valuable as an airless,
+separated reference environment; it was not the easiest first home for a
+biologically vulnerable population.
+
+The outer belts and giant planets supplied survey baselines, volatiles,
+feedstock, and navigation infrastructure before they supported any extensive
+permanent population.
 
 The natural system existed for billions of years before humanity. Human history
 occupies a thin recent layer within it. Naming, settlement, atmospheric
@@ -1035,45 +1029,17 @@ planets, moons, belts, or basic dynamics.
 
 ## Hard boundaries
 
-Future work must preserve the following unresolved matters unless a deliberate
-canon revision replaces this history:
-
-- Do not assign a numbered Earth departure, arrival, or present year.
-- Do not provide a secret authorial conversion to Common Era, Gregorian, Julian,
-  or another terrestrial civil calendar.
-- Do not establish the journey's duration from either an Earth or passenger
-  perspective.
-- Do not choose suspended animation, generation travel, relativistic flight,
-  gates, corridors, engineered space, living ships, or another transit method.
-- Do not identify present interstellar routes as descendants of the founding
-  passage without a separate setting decision.
-- Do not connect the arrival to the Manifold merely because the route is lost.
-- Do not establish Earth's survival, destruction, habitability, political
-  condition, or knowledge of Kelan–Ruva.
-- Do not establish one motive for migration.
-- Do not fix the total number, names, sponsors, or complete passenger counts of
-  the carrier assemblages.
-- Do not require every assemblage to have departed directly from Earth.
-- Do not make Kelan–Ruva humanity's first extrasolar settlement unless later
-  regional history earns that claim.
-- Do not make Kharos the cradle of humanity or Avara a Kharosi colony.
-- Do not turn Avara from vacuum into a breathable world on an implausibly short
-  founding timescale.
-- Do not settle whether Avara possessed an independent biosphere.
-- Do not settle whether Kharos possessed a prehuman biosphere.
-- Do not invent a single genetic adaptation that makes Kharosi gravity
-  effortless.
-- Do not grant political priority, purity, or superior personhood to descendants
-  of an alleged first carrier.
-- Do not treat an exact date as strong merely because its arithmetic is precise.
-
-What is established should remain emotionally firm. Human beings came from
-Earth. They carried a whole living inheritance rather than an abstract genome.
-They surveyed Kelan–Ruva, made their first durable shelter on Avara, accepted the
-cost of settling heavy Kharos, received later arrivals, dismantled their vehicles
-to build a civilization, and lost the ability to speak to the old home.
+Human beings came from Earth. They carried a whole living inheritance rather
+than an abstract genome. They surveyed Kelan–Ruva, made their first durable
+shelter on Avara, accepted the cost of settling heavy Kharos, received later
+arrivals, dismantled their vehicles to build a civilization, and lost the ability
+to speak to the old home.
 
 They know where their ancestral sky was observed. They can measure how the stars
-have moved. They can reconstruct intervals, sequence ruins, and expose false
-precision. What they cannot recover is the one social bridge that would let them
-say what Earth called the year.
+have moved, reconstruct intervals, sequence ruins, and expose false precision.
+What they cannot recover is the social bridge that would let them say what
+Earth called the year. The passage, the carriers' complete identities and
+passenger histories, the reason for migration, Earth's fate, and the possible
+prehuman biospheres remain unresolved.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-history-human-arrival-in-kelan-ruva.md).

@@ -30,15 +30,13 @@ invented to explain the site.
 The range was built around a sparse focal volume selected for its low dust
 density, long clear lines of sight, and distance from planets, habitats, and
 compact stellar remnants. Its principal structures were distributed rather
-than collected into one station:
+than collected into one station.
 
-- outer power stores and timing platforms;
-- long-baseline projectors and diagnostic stations;
-- the terminal **convergence crown**, whose projectors defined the final firing
-  geometry;
-- removable target and **baryon-bias** packages near the focus; and
-- remote witness instruments placed outside the crown's expected debris and
-  radiation cones.
+Outer power stores and timing platforms supported long-baseline projectors
+and diagnostic stations. The terminal **convergence crown** defined the final
+firing geometry, with removable target and **baryon-bias** packages near the
+focus. Remote witness instruments stood outside the crown's expected debris
+and radiation cones.
 
 No one projector could produce the claimed focal condition. Each carried a
 finite, destructive but comprehensible pulse. The extreme state existed only
@@ -116,11 +114,13 @@ is carrying a seed or firing component.
 
 ## Deliberately unresolved
 
-- the name and astronomy of the containing system;
-- the complete dimensions and original number of crown stations;
-- the number of people present on removable platforms during the Discharge;
-- which surviving structures are genuine projectors rather than decoys or
-  ordinary diagnostics;
-- whether any material fragment escaped the expanded interdiction volume; and
-- whether the authorities withholding the range map retain enough information
-  to reconstruct the instrument they prohibit.
+The containing system's name and astronomy, the crown's complete dimensions,
+and its original station count remain undisclosed. So does the number of people
+on removable platforms during the Discharge. Surviving structures cannot all be
+identified as genuine projectors rather than decoys or ordinary diagnostics.
+
+Whether any material fragment escaped the expanded interdiction volume remains
+unresolved. The authorities withholding the range map may or may not retain
+enough information to reconstruct the instrument they prohibit.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-places-apsis-range.md).

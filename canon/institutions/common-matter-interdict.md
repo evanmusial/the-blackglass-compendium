@@ -159,10 +159,13 @@ Its central legal judgment is therefore severe but finite:
 
 ## Deliberately unresolved
 
-- the full list of original signatories;
-- which jurisdictions recognize the architectural-capacity test;
-- who may authorize remote entry into Apsis;
-- what evidentiary threshold triggers candidate-fragment quarantine;
-- whether any state retains a classified defensive firing model; and
-- how courts remedy wrongful quarantine when the suspected fragment proves
-  ordinary.
+The full list of original signatories and the jurisdictions recognizing the
+architectural-capacity test remain unspecified. So do the authority that may
+permit remote entry into Apsis and the evidentiary threshold that triggers
+candidate-fragment quarantine.
+
+Whether any state retains a classified defensive firing model remains open.
+How courts remedy wrongful quarantine when a suspected fragment proves ordinary
+is likewise unresolved.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-institutions-common-matter-interdict.md).

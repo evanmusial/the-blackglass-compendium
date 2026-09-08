@@ -55,19 +55,21 @@ with local stimuli, clocks, and recording paths outside ordinary reciprocal
 control networks. Their deliberate ability to disagree is part of the service,
 not calibration error to be optimized away.
 
-Its duties include:
+Its duties begin with independent measurement and the preservation of its
+conditions.
 
-- maintaining separated time standards and known-path ranging baselines;
-- preserving independent Origin Sky reductions and the provenance of every
-  assumed reference epoch, time scale, and calendar transform;
-- receiving exterior sensor records from suspected rupture sites;
-- assembling concordance bundles without harmonizing away incompatible facts;
-- advising rescue and quarantine authorities on single-chart operations;
-- preserving every authenticated casualty or survivor chronology;
-- testing suspiciously identical records for shared latency, residual error, and
-  concealed reciprocal carriers;
-- and distinguishing suspected Manifold signatures from instrument fault,
-  propaganda, route disturbance, Rzez damage, or Agreement contamination.
+The Service maintains separated time standards and known-path ranging
+baselines. It preserves independent Origin Sky reductions together with the
+provenance of every assumed reference epoch, time scale, and calendar transform.
+Exterior sensor records from suspected rupture sites become concordance bundles
+whose incompatible facts are retained rather than harmonized away.
+
+That work supports advice to rescue and quarantine authorities on single-chart
+operations and preservation of every authenticated casualty or survivor
+chronology. Suspiciously identical records are tested for shared latency,
+residual error, and concealed reciprocal carriers. The Service distinguishes
+suspected Manifold signatures from instrument fault, propaganda, route
+disturbance, Rzez damage, and Agreement contamination.
 
 ## Comparing records across distance
 
@@ -118,8 +120,10 @@ which inheritance, sovereignty, or arrival priority may depend.
 
 ## Deliberately unresolved
 
-- when the Service acquired its present form;
-- whether it is a treaty body, federation of observatories, or emergency compact;
-- which authority may order the optical backbone disconnected;
-- how its findings are admitted in courts beyond Kharos;
-- and how many external stations participate in a full concordance bundle.
+The Service's acquisition of its present form is undated. Whether it is a treaty
+body, a federation of observatories, or an emergency compact remains unresolved.
+The account does not fix which authority may order the optical backbone
+disconnected, how its findings are admitted in courts beyond Kharos, or how many
+external stations participate in a full concordance bundle.
+
+The original editorial reservations are retained in the [companion note](../../docs/editorial-notes/canon-institutions-kelan-ruva-concordance-service.md).

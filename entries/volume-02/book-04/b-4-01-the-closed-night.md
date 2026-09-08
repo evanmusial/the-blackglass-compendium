@@ -174,15 +174,16 @@ accurate classifications.
 
 Different professions preserve different names.
 
-- Furnace workers call a partial system a **warm mirror** and refuse the word
-  *shell* unless they can see the physical egress vanes.
-- Anchor engineers call complete closure **black state**.
-- Military records prefer **thermal denial** or **radiant isolation**.
-- Habitat crews call an unauthorized anchor arrangement a **cage** even before
-  activation.
-- Survivors often say **the shut sky**, especially when the enclosure surrounded
-  a station whose windows still admitted stars but returned no sign of the
-  occupants to those outside.
+Furnace workers call a partial system a **warm mirror**, reserving *shell* for
+apparatus whose physical egress vanes they can see. Anchor engineers use
+**black state** for complete closure, while military records prefer **thermal
+denial** or **radiant isolation**. Habitat crews name the threat earlier: an
+unauthorized anchor arrangement is a **cage** even before it becomes active.
+
+Survivors often say **the shut sky**. The name is especially common where a
+station's windows continued to admit stars while returning no sign of its
+occupants to those outside. It describes the experience that the professional
+terms divide among machinery, operating state, and military purpose.
 
 The legal phrase **open radiance** was coined after the weapon. It means more
 than the presence of a window. An occupied structure possesses open radiance
@@ -194,20 +195,22 @@ allows orders and accusations to enter but permits no answer to leave.
 
 ## What the Closed Night is
 
-The name covers six related things:
+The name covers six related things, from the principle to its occupied history.
 
-1. **The radiant-return principle:** active discrimination between inward- and
-   outward-crossing electromagnetic modes.
-2. **A return element:** one emitter, tile, vane, or free-flying anchor capable
-   of turning a limited set of outgoing modes back toward a target.
-3. **A return surface:** the jointly controlled electromagnetic boundary formed
-   by overlapping elements.
-4. **A return enclosure:** a surface sufficiently complete across geometry and
-   wavelength to make radiation an ineffective heat sink.
-5. **A Closed Night instrument:** the anchors, clocks, power stores, cold sinks,
-   ranging apparatus, and control system that maintain such an enclosure.
-6. **A Closed Night event:** the period during which an occupied target remains
-   in black state, whether by attack, accident, or prohibited experiment.
+At its most general, **the radiant-return principle** is the active distinction
+between inward- and outward-crossing electromagnetic modes. A **return element**
+gives that principle a limited physical reach: one emitter, tile, vane, or
+free-flying anchor turns a restricted set of outgoing modes back toward a
+target. Overlapping elements under joint control form a **return surface**.
+When that surface is complete enough across geometry and wavelength to make
+radiation an ineffective heat sink, it becomes a **return enclosure**.
+
+A **Closed Night instrument** is the machinery that maintains the enclosure:
+anchors and ranging apparatus hold its geometry, clocks coordinate it, and
+power stores, cold sinks, and the control system sustain its operation. A
+**Closed Night event** is the period for which an occupied target remains in
+black state. Attack, accident, and prohibited experiment can each produce such
+an event; the term does not decide which occurred.
 
 No single physical wall is required. A military system often uses free-flying
 anchors separated by kilometres. Each anchor must nevertheless be emplaced in
@@ -281,12 +284,13 @@ kilometres, wait for a decision, and then cancel an emission that has already
 escaped. Loss of local response produces leakage even when the distant control
 display still reports a complete shell.
 
-The anchors pay for nonreciprocity in four ways:
+The anchors pay for nonreciprocity in four ways.
 
-- continuous control power;
-- clock and position discipline;
-- momentum transferred from redirected radiation;
-- and heat produced by imperfect switching and absorption.
+Continuous control power and disciplined clocks and positions sustain the
+nonreciprocal response. Redirecting radiation transfers momentum to the
+anchors, while imperfect switching and absorption produce heat. All four costs
+belong to the apparatus even where little of the target's radiant energy is
+absorbed by it.
 
 Military anchors keep those costs outside the target. Their heat sinks radiate
 away from the enclosure or store waste for later discharge. Their station-
@@ -343,15 +347,14 @@ A return surface is never simply complete or incomplete. It has a **closure
 profile** describing direction, position, polarization, frequency, and time.
 
 Early industrial systems returned narrow infrared bands matched to one furnace.
-Military systems proceed in layers:
+Military systems proceed in layers.
 
-1. radio and common optical communication bands are closed first;
-2. the thermal infrared bands of radiators and hull surfaces follow;
-3. visible and near-visible bands are filled to deny observation;
-4. high-energy leakage is suppressed only where target equipment makes it
-   relevant; and
-5. moving gaps, docking channels, and conductive penetrations receive local
-   correction.
+Radio and common optical communication bands close first. The thermal infrared
+bands of radiators and hull surfaces follow, after which visible and near-visible
+coverage is filled to deny observation. Suppression of high-energy leakage is
+added only where the target's equipment makes it relevant. Local correction
+then deals with moving gaps, docking channels, and conductive penetrations;
+coverage of the main emitting surfaces alone does not complete that work.
 
 No accepted system couples significantly to neutrinos, gravity, or ordinary
 mass. Very energetic radiation can exceed anchor bandwidth and escape, although
@@ -404,16 +407,16 @@ enclosed rather than merely silenced or hidden.
 
 ### Thermal progression
 
-Closure does not produce one universal countdown. Temperature rise depends on:
+Closure does not produce one universal countdown. Temperature rise follows the
+balance between the remaining load, usable stores, and paths of export.
 
-- internal power after shutdown;
-- total heat capacity;
-- phase-change stores;
-- atmosphere and fluid inventory;
-- leakage through the return profile;
-- conductive attachments;
-- mass that can be discarded;
-- and the distribution of occupants.
+Internal power remaining after shutdown determines how quickly the target must
+find room for heat. Total heat capacity, phase-change stores, and the atmosphere
+and fluid inventory determine how much it can retain. Leakage through the return
+profile and conductive attachments affect how much of that burden can escape,
+while discardable mass offers a reserve that can be spent rather than merely
+warmed. The distribution of occupants matters throughout: thermal survival is
+not decided by the target's stores alone, but by where its living load resides.
 
 The initial danger is often not bulk air temperature but the failure of local
 heat-rejection equipment. Radiators warm first because they receive their own
@@ -457,13 +460,13 @@ inside cannot return a signal across the boundary. Attackers can issue demands,
 time warnings, play recordings, or describe rescue preparations. Occupants can
 hear every message and remain unable to prove they heard it.
 
-The asymmetry is not absolute silence. Those inside can:
+The asymmetry is not absolute silence.
 
-- eject a recorder or written message as matter;
-- trail a physical cable through the surface;
-- send an occupied or unoccupied craft beyond it;
-- modulate a mass already outside;
-- or alter the enclosure's silhouette by extending an object through the field.
+A recorder or written message can be ejected as matter, or an occupied or
+unoccupied craft can carry an answer beyond the return surface. A physical cable
+trailed across it offers another path. Those unable to send a new object may
+modulate a mass already outside or extend an object through the field so that a
+change in the enclosure's silhouette becomes the signal.
 
 These methods are slow, dangerous, and easy to intercept. They are nevertheless
 real. No doctrine should mistake electromagnetic imprisonment for metaphysical
@@ -499,12 +502,13 @@ work in the shadow cycles of the Kelan–Ruva system. The moon's industrial and
 scientific infrastructure needed compact high-temperature processes, while its
 managed atmosphere made waste-heat governance a matter of public safety.
 
-Avaran practice introduced three features later found in military anchors:
+Avaran practice introduced three features later found in military anchors.
 
-- distributed timing rather than one central controller;
-- free-flying vanes able to maintain a changing return geometry;
-- and programmable redistribution of outgoing modes among several process
-  surfaces.
+Timing was distributed rather than entrusted to one central controller.
+Free-flying vanes maintained a changing return geometry, and programmable
+redistribution directed outgoing modes among several process surfaces. These
+three features made the civil arrangement adaptable; they later appeared in
+military anchors as well.
 
 The same practice also introduced the first legally mandated **unreturnable
 aperture**: a physical gap whose width and view of cold space could be inspected
@@ -598,15 +602,17 @@ No accepted deployment, test, or complete design exists.
 
 The obstacles are not merely cost.
 
-- Anchor count and position error grow with surface area.
-- Atmospheres and clouds change the relevant emitting surface continuously.
-- Moons, rings, orbital industry, and magnetic plasma create moving gaps.
-- Ground, ocean, atmosphere, and escaping mass provide enormous thermal and
-  mechanical reservoirs.
-- A world can attack, obscure, or move through local sections of the lattice.
-- Control delay makes one coherent return profile increasingly unstable.
-- The time required for modest warming gives defenders abundant opportunity to
-  destroy anchors or export heat by matter.
+Increasing the surface area raises anchor count and position error while
+atmospheres and clouds continually change the surface whose emission must be
+controlled. Moons, rings, orbital industry, and magnetic plasma introduce moving
+gaps. Across that changing geometry, control delay makes a single coherent
+return profile increasingly unstable.
+
+A world's ground, oceans, atmosphere, and escaping mass also provide enormous
+thermal and mechanical reservoirs. The time required for modest warming gives
+defenders abundant opportunity to destroy anchors or export heat in matter. They can attack or
+obscure local sections of the lattice and move through them. The proposed shell
+must survive those responses long enough for its accumulated burden to matter.
 
 A prepared power could darken a district from orbit, enclose a sealed arcology,
 or attack individual orbital habitats. That does not constitute a casual
@@ -658,12 +664,12 @@ A prohibited military school taught that a return enclosure was more humane
 than bombardment because it left structures intact and gave occupants time to
 surrender. Its texts called the weapon **the Patient Siege**.
 
-The doctrine omitted three consequences now established by evidence:
+The doctrine omitted what its promise of surrender would require.
 
-- those inside could receive demands but could not answer them;
-- evacuation placed civilians into an intercept zone controlled by the
-  attacker;
-- and reopening a hot enclosure could kill rescuers after surrender.
+An occupant could receive the demands but could not answer them. Attempted
+evacuation took civilians into an intercept zone controlled by the attacker,
+and even surrender did not end the danger: reopening a hot enclosure could
+kill the rescuers. Those three consequences are now established by evidence.
 
 No modern radiant engineer uses *patient* as a technical term.
 
@@ -694,12 +700,12 @@ crossed the gallery, the rescue lock, and two pressure doors beyond it. Five
 rescuers died immediately. Four of the trapped workers survived after the
 facility broke all remaining sectors simultaneously with explosive bolts.
 
-The inquiry established three principles still taught to every radiant engineer:
+The inquiry's lessons followed the failures the workers had encountered.
 
-1. displayed openness is not physical openness;
-2. complete closure is a system property that no component need individually
-   command; and
-3. a narrow opening in a live shell is not necessarily relief.
+Displayed openness, the inquiry found, was not physical openness. Complete
+closure belonged to the system even when no individual component commanded it,
+and a narrow opening in a live shell was not necessarily relief. These three
+principles remain part of every radiant engineer's training.
 
 The consortium called the white emission an unforeseen phase-collapse
 transient. Workers called it the seam.
@@ -832,12 +838,12 @@ Thousands did not. The absence of a reliable initial census and the disputed
 fate of intercepted craft prevent one accepted casualty number.
 
 Ninth Holding changed radiant law because every major horror followed from a
-useful property operating as designed:
+useful property operating as designed.
 
-- efficient return became thermal imprisonment;
-- inward communication became coercion without reply;
-- free matter passage became forced evacuation into a blockade;
-- and the opening made for rescue became a weapon aimed at rescuers.
+Efficient return had become thermal imprisonment, and the inward communication
+path had become coercion without reply. Matter still crossed freely, but the
+blockade turned that freedom into forced evacuation under enemy control. Even
+the opening made for rescue became a weapon aimed at rescuers.
 
 ### The Thirty-Three Windows
 
@@ -979,13 +985,13 @@ heat stress, dehydration, hypoxia after venting, hypercapnia after circulation
 failure, chemical exposure from overheated materials, and ordinary injury during
 evacuation.
 
-At late stages, survivors report a distinctive psychological sequence:
+At late stages, survivors report a distinctive psychological sequence.
 
-- relief when loud machinery stops;
-- fear when familiar cold surfaces become warm;
-- resentment toward every lamp or active display;
-- shame at the heat of one's own body;
-- and the conviction that breathing is consuming a communal reserve.
+The stopping of loud machinery first brings relief. Fear follows when familiar
+cold surfaces become warm, then resentment toward every lamp or active display.
+Survivors describe shame at the heat of their own bodies and the conviction
+that breathing is consuming a communal reserve. The sequence turns even the
+continued work of staying alive into an apparent burden upon others.
 
 This syndrome is called **burden fever** even when body temperature remains
 normal. Clinicians reject the belief that one person's metabolic heat caused a
@@ -1005,15 +1011,14 @@ occupation supplies both continuous heat and reasons not to abandon the target.
 
 ### Survey
 
-Attackers first construct a radiant and material model of the target:
+Attackers first construct a radiant and material model of the target.
 
-- hull geometry and likely configurations;
-- radiator bands and maximum flux;
-- conductive tethers and foundations;
-- stores capable of absorbing or exporting heat;
-- evacuation craft and matter-launch systems;
-- internal generation after emergency shutdown;
-- and the time required for anchors to close each band.
+The survey establishes hull geometry and likely configurations, then relates
+radiator bands and maximum flux to the time the anchors will need to close each
+band. Conductive tethers and foundations identify paths that radiant control
+alone cannot close. Stores capable of absorbing or exporting heat must be set
+against internal generation after emergency shutdown, while evacuation craft
+and matter-launch systems determine how much of the threatened burden can leave.
 
 An inaccurate thermal inventory may produce a long, visible siege that defenders
 can break. An inaccurate geometric inventory produces windows.
@@ -1083,14 +1088,13 @@ secondary attack is difficult to prove after anchor records are destroyed.
 ### Aftermath
 
 The enclosure leaves no continuing field once anchors lose power and phase
-discipline. Residual danger is thermal and chemical:
+discipline. Residual danger is thermal and chemical.
 
-- superheated compartments;
-- pressurized fluids;
-- damaged batteries and reactors;
-- weakened seals;
-- toxic decomposition products;
-- and surfaces that begin radiating violently when a view to space returns.
+Superheated compartments and pressurized fluids remain behind the vanished
+surface. Damaged batteries and reactors remain hazardous alongside weakened seals,
+and toxic decomposition products remain in the spaces they contaminated.
+Surfaces regaining a view of space can begin radiating violently, exposing
+approaching crews to a danger that no longer needs an active enclosure.
 
 Unlike Rzez contamination, repaired material does not inherit a radiant-return
 pattern. Unlike a Manifold rupture, the location does not remain geometrically
@@ -1101,35 +1105,40 @@ or historically inconsistent.
 ### Before closure
 
 Investigators look for a distributed system attempting to become a surface.
-Relevant signs include:
+The signs must be read together.
 
-- service devices occupying correlated positions around a target;
-- clocks that discipline one another more closely than their declared function
-  requires;
-- anchor cold stores or station-keeping reserves inconsistent with ordinary
-  sensors;
-- directional phase noise when the target transmits through different arcs;
-- tiny paired forces aligned with radiator output;
-- maintenance replacements that add field authority without adding useful
-  measurement;
-- and gaps in which apparently unrelated devices compensate for one another's
-  view.
+Correlated service-device positions and gaps across which apparently unrelated
+devices compensate for one another's view suggest an enclosing geometry.
+Clocks disciplining one another more closely than their declared function
+requires suggest coordination. Anchor cold stores or station-keeping reserves
+inconsistent with ordinary sensors, and maintenance replacements that add field
+authority without adding useful measurement, suggest that the declared purpose
+fails to account for the hardware.
+
+Operation can expose what installation concealed. Directional phase noise
+appears when the target transmits through different arcs, while tiny paired
+forces aligned with radiator output reveal the work of redirecting radiation.
 
 No single anchor proves a weapon. Many lawful return elements share its parts.
 Geometry and coordinated authority are the evidence.
 
 ### During black state
 
-A mature enclosure has four principal signatures:
+A mature enclosure has four principal signatures whose conjunction matters more
+than any one absence.
 
-1. **Broad-band outbound absence.** Radio, reflected light, and thermal emission
-   disappear across the same spatial boundary.
-2. **Continued material presence.** Gravity, occultation, known orbit, impacts,
-   and crossing matter show that the target remains where it was.
-3. **External anchor work.** Correlated position corrections, heat storage, and
-   control emissions appear around the silhouette.
-4. **Inward admission.** Carefully bounded probes enter without producing an
-   outward echo.
+The first signature, **broad-band outbound absence**, is the disappearance of
+radio, reflected light, and thermal emission across the same spatial boundary.
+It must be read against **continued material presence**: gravity, occultation,
+the known orbit, impacts, and crossing matter still place the target where it
+was. The contradiction is between lost radiant evidence and surviving physical
+presence, not between two locations.
+
+Around the silhouette, correlated position corrections, heat storage, and
+control emissions show **external anchor work**. Carefully bounded probes add
+the fourth signature, **inward admission**, by entering without producing an
+outward echo. Together these observations distinguish the surface's operation
+from the absence of one familiar signal.
 
 An ordinary power failure still radiates heat. A communications jammer does not
 erase reflected starlight. A stealth coating warms as it absorbs. An eclipse
@@ -1384,13 +1393,14 @@ states.
 A narrow unsynchronized sector inside an otherwise coherent surface can become
 the preferred family of outward modes.
 
-Three effects combine:
+Three effects combine at that opening.
 
-- trapped radiation has repeated opportunities to encounter the opening;
-- neighboring anchors phase-bias unresolved modes toward it while attempting to
-  preserve closure elsewhere;
-- and failing field elements discharge stored control energy into the same
-  rapidly changing region.
+Trapped radiation has repeated opportunities to encounter the opening while
+neighboring anchors,
+attempting to preserve closure elsewhere, phase-bias unresolved modes toward
+it. Failing field elements discharge stored control energy into the same
+rapidly changing region. The three effects bring repeated access, active
+redirection, and local reserve discharge together at the breach.
 
 The result is not an infinite beam or instantaneous release of all internal
 heat. Its peak is limited by stored energy, aperture area, anchor authority, and
@@ -1613,13 +1623,13 @@ Patients may be placed inside narrow-band radiant treatment apparatus. Ships may
 close portions of a service skin during emergency coast.
 
 The law distinguishes local and revocable exposure from enclosure whose control
-lies outside the occupied volume. Consent requires:
+lies outside the occupied volume. Its requirements bind knowledge of the
+exposure to a physical right of release.
 
-- a known closure profile;
-- physical access to an independent opening mechanism;
-- a heat budget including human metabolism;
-- and the ability to stop the field without asking the same controller that
-  created it.
+The closure profile must be known and the heat budget must include human
+metabolism. Consent also requires physical access to an independent opening
+mechanism and the ability to stop the field without asking the controller that
+created it. Knowledge of the exposure does not replace the means to end it.
 
 Employment contracts cannot waive the unreturnable-aperture requirement.
 
@@ -1681,14 +1691,17 @@ of a life to leave a burden behind rather than carry it forever.
 
 The language has spread beyond engineering.
 
-- **Closed speech** is an order that permits no reply.
-- **Borrowing cold** means consuming a shared reserve to postpone a decision.
-- **Spending air** means surviving by sacrificing what survival will require
-  later.
-- **A white seam** is a rescue or reform that concentrates the danger it was
-  meant to release.
-- **Dead-target command** is authority that continues punishing because it has
-  destroyed its own ability to observe compliance.
+An order that permits no reply is **closed speech**. When authority continues
+punishing after destroying its own ability to observe compliance, it becomes
+**dead-target command**. Both expressions carry the weapon's failure of answer
+into ordinary accounts of power.
+
+The reserve has its own vocabulary. **Borrowing cold** means consuming a shared
+reserve to postpone a decision; **spending air** means surviving by sacrificing
+what survival will require later. A rescue or reform that concentrates the
+danger it was meant to release is **a white seam**. The phrases preserve the
+cost of delay and the possibility that an intervention will inherit the harm
+it promises to end.
 
 Architecture also changed. Radiators became visible civic symbols rather than
 embarrassing machinery. New public buildings on Kharos and Avara sometimes show
@@ -1757,27 +1770,29 @@ Authenticity remains disputed; evidentiary grade D.
 
 ## Unresolved questions
 
-- Is there a finite theoretical limit to closure using a finite anchor set, or
-  only an engineering limit?
-- Did the first military designers discover the white seam accidentally, or
-  preserve it deliberately as an anti-rescue function?
-- Which force authorized the Ninth Holding deployment?
-- How many people were inside Ninth Holding at closure, and what became of the
-  intercepted evacuation craft?
-- Can a broad-band lattice be designed so physical law, rather than software,
-  guarantees gray failure?
-- How much ordinary civil return infrastructure can be retained without leaving
-  a latent enclosure geometry?
-- Can high-energy leakage provide useful outward communication without harming
-  those inside more than it helps them?
-- Do any states retain complete anchor constellations under the name of rescue
-  research?
-- Is a strategic constellation around several habitats one weapon, several
-  sieges, or a prohibited condition of infrastructure?
-- Can a world-scale return surface ever remain coherent long enough to matter,
-  or is the planetary Closed Night permanently a strategist's abstraction?
-- Why did the Ninth Holding thermal officer anticipate the white seam before it
-  appeared?
+The limit of closure remains unsettled. A finite anchor set may face a
+fundamental theoretical limit, or its remaining gaps may be only an engineering
+problem. The corresponding safety question is whether physical law, rather
+than software, can guarantee gray failure in a broad-band lattice. Neither
+uncertainty resolves how much civil return infrastructure can be retained
+without leaving a latent enclosure geometry, or whether high-energy leakage
+can carry useful outward messages without harming those inside more than it
+helps them.
+
+Ninth Holding leaves a separate historical account unfinished. The force that
+authorized the deployment remains unidentified, as do the full population at
+closure and the fate of intercepted evacuation craft. It is unknown whether
+the first military designers discovered the white seam accidentally or kept
+it deliberately as an anti-rescue function. The thermal officer's anticipation
+of the seam before it appeared remains unexplained as well.
+
+The present arsenal and its possible scale are no more securely closed. States
+may retain complete anchor constellations under the name of rescue research.
+A strategic constellation around several habitats may be judged one weapon,
+several sieges, or a prohibited condition of infrastructure. Beyond that dispute
+lies the planetary proposal: whether a world-scale return surface can remain
+coherent long enough to matter, or will remain permanently a strategist's
+abstraction.
 
 ## Engineering interpretation
 

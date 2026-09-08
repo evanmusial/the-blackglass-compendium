@@ -58,15 +58,15 @@ performed where operational control is stronger than explanatory closure and
 where the missing explanation materially affects risk.
 
 The route weighmaster, cohesion forensicist, morphogenic clinician, and Apsis
-historian therefore ask different questions:
+historian therefore distinguish several questions.
 
-1. **Was the effect observed independently?**
-2. **Were the variables that predict it characterized?**
-3. **Can the initiating condition be prepared on demand?**
-4. **Can the outcome be selected rather than merely provoked?**
-5. **Can the effect be scaled without changing its mechanism?**
-6. **Can it be governed without making ordinary life depend upon an unbounded
-   hazard?**
+Their inquiry begins with independent observation and the characterization of
+variables that predict the effect. It then turns to preparation: can the
+initiating condition be made on demand, and can an operator select an outcome
+rather than merely provoke one? Successful control raises a further question
+about scale, because enlarging the apparatus may change its mechanism. Finally,
+governance must ask whether ordinary life can depend upon the capability without
+also depending upon an unbounded hazard.
 
 No later claim follows automatically from an earlier one. One occurrence is not
 a mechanism. Preparation is not control. Control at one scale is not control at
@@ -111,18 +111,17 @@ Ordinary technology does not create matter, energy, momentum, or usable work fro
 nothing. Storage, transport, conversion, and concentration can be spectacular;
 the invoice remains physical.
 
-- Reactors consume fuel and reject heat.
-- Radiant-return systems reduce one loss path and increase the burden upon
-  another.
-- A route exchanges two conserved carriages and requires endpoint work to
-  localize them into useful local frames.
-- A morphogenic body consumes biomass, gases, water, nutrients, time, and nursery
-  capacity.
-- A high-energy focus receives transported energy; it does not make temperature
-  at a distance for free.
-- Rzez collapse is paid largely by stress, gravity, pressure, heat, vibration,
-  and the target's own stored energy after the accessible state paths have been
-  changed.
+Reactors consume fuel and reject heat. Radiant-return systems reduce one loss
+path only by increasing the burden on another, while a high-energy focus must
+receive the transported energy that makes its temperature possible. A route
+likewise exchanges two conserved carriages and requires endpoint work to
+localize them into useful local frames.
+
+Living engineering has its own account. A morphogenic body consumes biomass,
+gases, water, nutrients, time, and nursery capacity. Rzez collapse draws much of
+its destructive force from stress, gravity, pressure, heat, vibration, and the
+target's stored energy after the accessible state paths have been changed.
+These different accounts remain physical even where their mechanisms differ.
 
 ### Entropy is not an aesthetic rule
 
@@ -174,21 +173,23 @@ the ways an instrument can alter or join the system it measures.
 
 The known world has not solved everything that was open in 2026.
 
-- It has no complete, experimentally closed theory of the Planck regime.
-- It characterizes additional particles and dark-sector behavior beyond the
-  twenty-first-century model but does not use dark matter as fuel, structure, or
-  reaction mass.
-- Cosmic acceleration is measured with extraordinary precision but provides no
-  local engineering handle and no reservoir of extractable vacuum energy.
-- Neutrino astronomy and tomography are mature; neutrinos remain inefficient
-  carriers for power or routine communication.
-- Dense and strange phases of matter can be produced and studied under bounded
-  conditions. Stable catalytic strange matter is not ordinary material science.
-- Consciousness has operational and legal markers but no universally accepted
-  reduction that turns a recording into a person.
-- Locality binding and the sequence field are measured through routes, but their
-  ultimate cosmological origin remains unknown.
-- No theory explains why the Manifold and its associated presence exist.
+It has no complete, experimentally closed theory of the Planck regime. Additional
+particles and dark-sector behavior can be characterized beyond the
+twenty-first-century model, but dark matter supplies neither fuel nor structure
+nor reaction mass. Extraordinary precision in measuring cosmic acceleration
+has likewise yielded no local engineering handle or reservoir of extractable
+vacuum energy.
+
+Neutrino astronomy and tomography are mature even though neutrinos remain
+inefficient carriers for power and routine communication. Dense and strange
+phases of matter can be produced and studied under bounded conditions; stable
+catalytic strange matter remains outside ordinary material science.
+
+Consciousness has operational and legal markers without a universally accepted
+reduction that turns a recording into a person. Routes permit measurement of
+locality binding and the sequence field without explaining their ultimate
+cosmological origin. No theory explains why the Manifold or its associated
+presence exists. In each case, observation has outrun a different explanation.
 
 Advanced civilization is not omniscient civilization. A discovery is kept only
 when it changes a story, an institution, an engineering constraint, or a human
@@ -200,18 +201,17 @@ cost.
 
 No single source powers the known region.
 
-- **Solar collection** dominates hot inner-system industry, orbital yards, and
-  places with abundant area and predictable light.
-- **Fission** remains valuable at isolated facilities because fuel is compact,
-  equipment is robust, and output is not conditional upon local sunlight or a
-  complex fusion supply chain.
-- **Fusion** is mature civil infrastructure. Large magnetic and pulsed systems
-  power cities, yards, and high-demand industries. They remain neutron, blanket,
-  magnet, fuel-cycle, maintenance, and radiator problems rather than miniature
-  stars in boxes.
-- **Stored chemical and thermal energy** remains indispensable for vehicles,
-  emergencies, and facilities whose safe shutdown matters more than peak
-  efficiency.
+**Solar collection** dominates hot inner-system industry, orbital yards, and
+places with abundant area and predictable light. Isolated facilities often
+prefer **fission**, whose compact fuel and robust equipment provide output
+without dependable sunlight or a complex fusion supply chain.
+
+**Fusion** is mature civil infrastructure: large magnetic and pulsed systems
+power cities, yards, and high-demand industries. Their operators still manage
+neutrons, blankets, magnets, fuel cycles, maintenance, and radiators. The
+familiar description of a miniature star in a box conceals that industrial
+work. **Stored chemical and thermal energy** remains indispensable for vehicles,
+emergencies, and facilities that value safe shutdown above peak efficiency.
 
 Station-scale fusion plants commonly produce hundreds of megawatts to several
 gigawatts of usable output. Larger complexes exist, but their magnets, blankets,
@@ -340,9 +340,9 @@ order permit an off-diagonal locality coupling.
 The simplest engineering basis contains two complete paired assignments, not one
 carriage at two independent positions:
 
-- `|12>` means carriage `C1` is supported at shore `A` while matched carriage
-  `C2` is supported at shore `B`;
-- `|21>` means `C2` is supported at `A` while `C1` is supported at `B`.
+In the assignment `|12>`, carriage `C1` is supported at shore `A` and its matched
+carriage `C2` at shore `B`. The assignment `|21>` exchanges those supports:
+`C2` is at `A`, and `C1` is at `B`.
 
 Those assignments form the avoided crossing:
 
@@ -376,14 +376,13 @@ admission rules by driving one matrix element differently.
 A ligature is a pair property of whole stellar basins, not a beam aimed at chosen
 coordinates.
 
-- Most nearby systems have no useful coupling.
-- A more distant system may be more strongly conjugate than a nearer one.
-- A system normally possesses only a few viable ligatures.
-- Machinery can stabilize and broaden an existing mode but cannot manufacture a
-  missing stellar pair.
-- Artificial masses are far too small to create a new basin.
-- Two points inside one system are not independent locality states, so ligatures
-  provide no in-system shortcut.
+Most nearby systems have no useful coupling, while a more distant system may be
+more strongly conjugate than a nearer one. A system normally possesses only a
+few viable ligatures. Machinery can stabilize and broaden an existing mode;
+it cannot manufacture a missing stellar pair, and artificial masses are far
+too small to create a new basin. Two points within one system do not constitute
+independent locality states at all, which prevents the same machinery from
+providing an in-system shortcut.
 
 The known region is therefore a sparse, historically opened graph rather than an
 any-to-any travel volume.
@@ -405,13 +404,14 @@ contains one closed carriage support at each basin. A one-carriage matrix elemen
 is exactly zero. The ligature may exchange which carriage occupies each support;
 it cannot add or remove an occupied support.
 
-Every passage requires:
+Every passage requires a prepared pair.
 
-- one carriage at each shore;
-- matched invariant mass-energy totals;
-- matched exterior charge and low-order stress-energy multipoles;
-- endpoint capacity to normalize and localize into local orbital frames;
-- and schedules committed before the crossing begins.
+A passage places one carriage at each shore and matches their invariant
+mass-energy totals, exterior charge, and low-order stress-energy multipoles.
+Each endpoint must have the capacity to normalize and localize its carriage
+into the local orbital frame. The two schedules must also be committed before
+the crossing begins; a balanced physical account cannot replace preparation
+at the other shore.
 
 The true selection rule applies to the complete **route-visible boundary state**:
 total invariant energy, conserved charges, locality occupancy, and every exterior
@@ -449,18 +449,19 @@ The physically permitted endpoint region is a **shore**. Its active infrastructu
 is a **weighhouse**, usually distributed through several separated orbital
 stations rather than contained in one gate.
 
-A complete shore needs:
+The weighhouse joins several kinds of infrastructure.
 
-- isolated carriage volumes;
-- adjustable ballast banks;
-- reference masses and exterior multipole shapers;
-- independent sequence clocks;
-- energy stores and heat sinks;
-- momentum sinks and local orbital-localization machinery;
-- long-baseline system ranging;
-- autonomous completion reserves;
-- traffic, rescue, customs, and quarantine facilities; and
-- enough ordinary spacecraft to move arrivals away from the shore.
+Isolated carriage volumes sit beside adjustable ballast banks, reference masses,
+and exterior multipole shapers. Independent sequence clocks and long-baseline
+system ranging establish the conditions under which those volumes can operate.
+Energy stores, heat sinks, momentum sinks, and local orbital-localization
+machinery supply the work, while autonomous completion reserves allow a
+committed exchange to finish without continued ordinary direction.
+
+A complete shore must also support traffic control, rescue, customs, and
+quarantine. It needs enough ordinary spacecraft to move arrivals away from the
+shore. A technically closing exchange without those receiving services does
+not constitute a complete operating weighhouse.
 
 Destroying one control room may halt a scheduled crossing. Replacing a complete
 shore takes years. Alternative weighhouses can reach one ligature only inside a
@@ -599,13 +600,12 @@ at the other.
 
 Ordinary records and every high-bandwidth message cross inside a committed
 carriage. A small **letter carriage** can carry urgent data faster than the next
-passenger or freight schedule, but it still needs:
+passenger or freight schedule.
 
-- a matched countercarriage;
-- a complete mode cycle;
-- both shores' precommitted operation;
-- the route's full crossing time; and
-- localization before its record can be read.
+That urgency changes its place in the schedule, not the requirements of passage.
+The letter needs a matched countercarriage and a complete mode cycle under both
+shores' precommitted operation. It occupies the route for the full crossing time,
+and its record can be read only after localization.
 
 There is no partial-progress signal. Before the route-depth decision time, remote
 readiness, detuning, cargo, equipment loss, or operator choice cannot change any
@@ -679,43 +679,46 @@ erase experienced duration or make century-long stasis routine.
 
 ### Failure modes
 
-- **Refusal:** A shore declines sequence lock. Both carriages remain local, and
-  the other shore learns the outcome only at the normal route-depth decision
-  time.
-- **Misweighing:** The invariant totals or multipoles do not close. Trim systems
-  absorb small differences; large ones prevent commitment.
-- **Snapback:** Early loss of drive returns both carriages to their original
-  shores with mechanical and thermal stress.
-- **Spill:** An overfast sweep or unstable internal mass plan leaves the supported
-  mode, producing radiation, impulse, heat, and material loss at one or both
-  shores.
-- **Shorefall:** Completion becomes incoherent across the two permitted shores.
-  The ledger closes, but the carriages may arrive as plasma or fragments. Unitary
-  normalization and conserved global charges permit only the original total
-  carriage support. Shorefall can partition or destroy it; duplication is
-  physically excluded.
-- **Momentum debt:** Exchange succeeds but the destination frame is wrong. A
-  saturated weighhouse can receive the carriage on a destructive trajectory.
-- **Thermal overrun:** The closed carriage exceeds its heat budget before
-  localization.
-- **Carriage chatter:** Sloshing fluids, rotating machinery, active weapons,
-  adaptive structures, or unsecured cargo change the exterior multipoles faster
-  than trim systems can compensate.
-- **Mode crowding:** Two exchanges attempt one harmonic and interfere.
-- **False shore selection:** Corrupted phase tables at a hub commit a carriage to
-  the wrong valid ligature only if that shore has a precommitted matched
-  countercarriage. It cannot appear at an arbitrary coordinate.
-- **Operational de-rating:** Aging equipment, heat limits, damaged clocks, lost
-  ballast, or inadequate phase tables reduce certified mass or increase depth on
-  human timescales without changing the natural conjugacy.
-- **Secular route fade:** Stellar and sequence evolution weaken the natural
-  coupling over centuries or millennia. Safe mass shrinks and route depth grows
-  before traffic ends.
-- **Abrupt anomalous loss:** A well-characterized coupling disappears faster than
-  secular models allow. Such a loss is rare evidence requiring investigation,
-  not routine actuarial weather.
-- **Dead shore:** The ligature remains physically possible but one weighhouse no
-  longer exists.
+The earliest failures leave the paired burden local. In **refusal**, a shore
+declines sequence lock; both carriages remain local and the other shore learns
+the outcome only at the normal route-depth decision time. **Misweighing** occurs
+when invariant totals or multipoles do not close. Trim absorbs small differences,
+while larger differences prevent commitment. Early loss of drive can instead
+produce **snapback**, returning both carriages to their original shores with
+mechanical and thermal stress.
+
+More destructive failures leave the supported mode. An overfast sweep or an
+unstable internal mass plan can cause **spill**, with radiation, impulse, heat,
+and material loss at one or both shores. In **shorefall**, completion becomes
+incoherent across the two permitted shores. The ledger still closes, but the
+carriages may arrive as plasma or fragments. Unitary normalization and conserved
+global charges allow only the original total carriage support: shorefall can
+partition or destroy it, and cannot duplicate it.
+
+Successful exchange can still end badly. **Momentum debt** means that the
+destination frame is wrong and a saturated weighhouse can receive the carriage
+on a destructive trajectory. **Thermal overrun** means that the closed carriage
+exceeds its heat budget before localization. Internal preparation matters just
+as much: sloshing fluids, rotating machinery, active weapons, adaptive
+structures, and unsecured cargo can change exterior multipoles faster than trim
+can compensate, producing **carriage chatter**.
+
+Scheduling and selection have their own failures. **Mode crowding** occurs when
+two exchanges attempt one harmonic and interfere. Corrupted hub phase tables
+can cause **false shore selection**, but only by committing the carriage to
+another valid ligature whose far shore already has a precommitted matched
+countercarriage. It cannot appear at an arbitrary coordinate.
+
+Operators distinguish their equipment's decline from changes in nature.
+**Operational de-rating** follows aging equipment, heat limits, damaged clocks,
+lost ballast, or inadequate phase tables; certified mass falls or depth grows
+on human timescales while natural conjugacy remains unchanged. **Secular route
+fade** instead reflects stellar and sequence evolution over centuries or
+millennia. The coupling weakens, safe mass shrinks, and route depth grows before
+traffic ends. **Abrupt anomalous loss** is rarer: a well-characterized coupling
+disappears faster than secular models allow. It demands investigation rather
+than treatment as routine actuarial weather. A **dead shore**, finally, leaves
+the ligature physically possible but without one of its weighhouses.
 
 Every failure has one mass-energy history. Ligature transit never duplicates a
 person, exports infinite resources, creates two authentic arrival histories, or
@@ -737,32 +740,33 @@ internal causal history has ever been observed in a successful passage.
 Ligature transit is ordinary established infrastructure and not a seventh
 forbidden system.
 
-- It does not invalidate cohesion or propagate through material continuity.
-- It transports finite living bodies without morphogenic remapping.
-- It preserves two named shores, one global state evolution, and one causal
-  history. It is not Manifold nonconvergence.
-- Its sealed carriage retains heat by ordinary isolation, not radiant return.
-- Its synchronized machinery follows a precommitted schedule; it does not couple
-  prediction error through people.
-- It creates no near-Planck state and no exotic material residue.
+It neither invalidates cohesion nor propagates through material continuity.
+Finite living bodies travel without morphogenic remapping. Two named shores,
+one global state evolution, and one causal history distinguish an exchange
+from Manifold nonconvergence.
+
+The carriage's retained heat follows ordinary isolation rather than radiant
+return. Its synchronized machinery executes a precommitted schedule without
+coupling prediction error through people. Neither a near-Planck state nor an
+exotic material residue is created by the passage.
 
 ## Materials and fabrication
 
 Future materials are excellent rather than invulnerable.
 
-- High-performance steels, light alloys, ceramics, metallic glasses, fiber and
-  gradient composites, carbon-rich coatings, and active thermal surfaces are
-  common.
-- Practically cooled superconductors support fusion magnets, motors, storage,
-  transmission, and sensors. Ambient-condition superconductivity is not a
-  universal commodity.
-- Self-healing seals, polymers, coatings, and matrices repair bounded damage.
-  They do not regrow missing pressure hulls.
-- Micromachines and nanostructures are ordinary inside factories, catalysts,
-  diagnostics, and medicine. Free-ranging universal assemblers are absent.
-- Fabricators consume certified feedstock, tooling, energy, calibration, and
-  time. They cannot reproduce every semiconductor, reactor blanket, optical
-  standard, biological catalyst, or route component from raw dirt.
+High-performance steels, light alloys, ceramics, metallic glasses, fiber and
+gradient composites, carbon-rich coatings, and active thermal surfaces are
+common. Practically cooled superconductors serve fusion magnets, motors,
+storage, transmission, and sensors; ambient-condition superconductivity has
+not become a universal commodity.
+
+Self-healing seals, polymers, coatings, and matrices repair bounded damage, but
+they do not regrow missing pressure hulls. Micromachines and nanostructures are
+ordinary within factories, catalysts, diagnostics, and medicine, while
+free-ranging universal assemblers remain absent. Fabricators need certified
+feedstock, tooling, energy, calibration, and time. Raw dirt cannot supply an
+arbitrary semiconductor, reactor blanket, optical standard, biological
+catalyst, or route component merely because its design is available.
 
 Post-Valec construction favors visible seams, heterogeneous layers, sacrificial
 joints, independent foundations, removable carriers, local stores, and material
@@ -794,17 +798,16 @@ an implementation detail.
 
 Known-world sensors are precise but never omniscient.
 
-- Coherent optical links provide enormous in-system throughput at unavoidable
-  light-time.
-- Radio remains valuable for acquisition, emergency broadcast, bad weather, and
-  low-complexity fallbacks.
-- Navigation combines stellar and pulsar references, inertial systems, laser
-  ranging, and locally maintained clocks.
-- Large installations perform deep radar tomography, neutrino observation,
-  gravitational sensing, calorimetry, and long-baseline interferometry.
-- Medical and industrial systems can infer preparation, stress, composition, and
-  physiology. They cannot read arbitrary private semantic thought or see through
-  unlimited mass.
+Coherent optical links provide enormous in-system throughput at unavoidable
+light-time. Radio retains its value for acquisition, emergency broadcast, bad
+weather, and low-complexity fallbacks. Navigation combines stellar and pulsar
+references with inertial systems, laser ranging, and locally maintained clocks.
+
+Large installations carry out deep radar tomography, neutrino observation,
+gravitational sensing, calorimetry, and long-baseline interferometry. Medical
+and industrial systems can infer preparation, stress, composition, and
+physiology. That precision provides neither arbitrary access to private
+semantic thought nor sight through unlimited mass.
 
 Quantum correlations support measurement and cryptographic practice but do not
 carry messages. Between systems, communication travels by ligature carriage or
@@ -857,44 +860,30 @@ conscious descendants are persons under dispute, not ordinary clinical tools.
 
 ## Capabilities that are not established
 
-Unless a later adopted entry deliberately earns them, the setting has no:
+These boundaries remain in force unless a later adopted entry deliberately
+establishes and integrates a new capability.
 
-- reactionless thrust;
-- gravity shielding or artificial gravity fields;
-- inertial dampers;
-- arbitrary point-to-point teleportation;
-- route without a conjugate shore and matched countercarriage;
-- instantaneous or unscheduled high-bandwidth faster-than-light communication;
-- time travel or selectable prophecy;
-- force shield detached from matter, fields, power, and heat;
-- matter replicator or universal autonomous nanotechnology;
-- bulk antimatter economy;
-- macroscopic negative-energy reservoir;
-- traversable wormhole or controllable warp metric;
-- vacuum-energy extraction;
-- perfect stealth while a high-power spacecraft operates;
-- omniscient scanner;
-- semantic mind reader;
-- reliable mind uploading, resurrection, or copied legal continuity;
-- perfect closed ecology;
-- quick planetary terraforming;
-- complete quantum gravity;
-- controllable Manifold;
-- or shared hidden force that explains all six forbidden systems.
+Ordinary propulsion still supplies no reactionless thrust, gravity shielding,
+artificial gravity fields, or inertial dampers. Travel has no arbitrary
+point-to-point teleportation and no route without a conjugate shore and matched
+countercarriage. Neither instantaneous nor unscheduled high-bandwidth
+faster-than-light communication is available; time travel and selectable
+prophecy remain outside established capability.
+
+There is no force shield detached from matter, fields, power, and heat, no matter
+replicator, and no universal autonomous nanotechnology. The energy economy
+contains no bulk antimatter economy, macroscopic negative-energy reservoir,
+traversable wormhole, controllable warp metric, or vacuum-energy extraction.
+A high-power spacecraft cannot operate with perfect stealth.
+
+Measurement supplies no omniscient scanner or semantic mind reader. Medicine
+supplies no reliable mind uploading, resurrection, or copied legal continuity.
+Habitats and environmental engineering supply neither perfect closed ecology
+nor quick planetary terraforming. The theoretical account still lacks complete
+quantum gravity, a controllable Manifold, and a shared hidden force explaining
+all six forbidden systems.
 
 ## Authoring rule
 
-Every future technology should state:
 
-1. its ordinary scientific foothold;
-2. the exact discovery that the known world added;
-3. what people can observe, prepare, control, and scale;
-4. its mass-energy, momentum, heat, information, and time account;
-5. its required infrastructure and human labor;
-6. its characteristic failure and countermeasure;
-7. its civil ancestor or reason no such ancestor exists;
-8. what remains disputed in-world; and
-9. which convenient capability it explicitly does not provide.
-
-The world becomes coherent not by explaining every mystery, but by refusing to
-let any mystery erase its own consequences.
+The complete authoring requirements are retained in the linked [Authoring rule guidance](../docs/editorial-notes/canon-physics-of-the-known-world.md).
