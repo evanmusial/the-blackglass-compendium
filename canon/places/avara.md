@@ -65,12 +65,29 @@ system's formation. It is continuously measured and replenished by present
 infrastructure. Avara is genuinely habitable, but its habitability is a managed
 public achievement rather than invisible background.
 
+Management operates on several timescales. Upper-atmosphere escape, weathering,
+ocean exchange, biological uptake, and industrial withdrawals belong to an
+inventory measured across the moon. Local contamination, a failed scrubber, or a
+sealed ward losing pressure belongs to an emergency measured in minutes or
+hours. Switching off one atmospheric plant does not empty the open sky. Nor can
+restoring that plant instantly reverse a change to the whole atmospheric
+inventory. The exact gas composition and replacement rate remain undesigned.
+
+Low surface gravity alone does not determine atmospheric lifetime. Avara's
+approximately 5.3-kilometre-per-second escape speed, upper-atmosphere temperature,
+gas species, radiation history, and replenishment all matter. The adopted
+secondary atmosphere is a historical condition, not a deduction that every
+small temperate world must lose its nitrogen and oxygen on a human timescale.
+
 ## Fixed sky and long day
 
 Tidal locking divides Avara into two permanent geographic relationships with
-Kharos. From the near hemisphere, Kharos remains fixed in the sky and appears
-approximately 1.46 degrees across. It changes phase during the long solar day but
-does not rise or set. From the far hemisphere, the planet is never visible.
+Kharos. From most of the near hemisphere, Kharos remains nearly fixed in the sky
+and appears approximately 1.46 degrees across. It changes phase during the long
+solar day but does not ordinarily rise or set. From the interior of the far
+hemisphere, the planet is never visible. Libration and terrain complicate the
+narrow limb zone; "near side" is not a promise of uninterrupted contact from
+every surface site.
 
 The difference is practical before it is symbolic. Near-side sites can maintain
 direct optical paths to Kharos when weather and local terrain permit. Far-side
@@ -93,6 +110,14 @@ energy before dusk. Industrial heat stores, water reserves, and weather services
 are sized for long transitions rather than a short nightly interruption.
 Facilities that cannot survive one dark interval without continuous remote
 direction are not treated as locally complete.
+
+People retain shorter artificial waking and sleeping schedules through the
+long exterior day. Clinics, schools, food cultures, and rotating industrial
+shifts need not wait twenty days for night. Blackout shutters and timed indoor
+lighting separate human and crop rhythms from the sky, while exterior work
+still follows the actual thermal and weather cycle. A clock's lighting program
+therefore belongs in an agricultural or clinical record alongside the local
+solar phase.
 
 The stars themselves retain the system's asymmetry. Kelan dominates illumination;
 Ruva produces a smaller red contribution and a weaker second shadow. The paired
@@ -161,6 +186,15 @@ post-Valec pattern accepts inefficiency in exchange for preventing one Rzez
 event, false alarm, or emergency severance from turning a continuous utility
 network into a world-wide transmission path.
 
+An atmospheric district is a service and custody area, not a partition of the
+unconfined atmosphere. Valves can isolate pipes, pressure buildings, nursery
+volumes, and refuge stores; they cannot stop wind or ocean circulation at a
+property line. District plans pair physically separable machinery with forecasts
+of airborne and waterborne spread. When the open environment becomes unsafe,
+people retreat to sealed capacity whose air, food, cooling, and waste budgets
+have already been counted. That capacity is finite and is never assumed to
+equal the entire moon's population without a demonstrated provision.
+
 The segmentation is a later hardening of older managed-habitat practice, not the
 beginning of Avaran interdependence. Long before Valec, air and water accounts
 already required local measurement and reserve. After Valec, the same systems
@@ -181,6 +215,33 @@ in the living and civic ledgers of colonization: no founding package is treated 
 complete merely because it contains machinery and embryos. The exact ligature
 shore locations remain unassigned; bulk ballast and momentum works belong near
 those later-selected volumes rather than automatically on Avara.
+
+## Living inventories and the unsettled surface
+
+Avaran food production mixes maintained growing environments with whatever open
+land and water have passed local suitability review. A seed repository cannot
+replace a failed harvest immediately. It also needs viable growing space,
+nutrients, compatible microbes, labor, and time before the next edible yield.
+Recovery stores therefore distinguish calories available now from organisms
+capable of rebuilding future production. Ecological packages exported to new
+settlements carry cultivation histories and quarantine records as well as names
+and genomes.
+
+Sparse settlement does not make the surrounding world disposable. Catchments,
+coasts, and gas exchange connect an installation to places where no one lives.
+Industrial discharge is evaluated at the receiving environment as well as the
+outlet, and abandoned facilities retain obligations for stored chemicals and
+living cultures. This practice follows First Shelter's dependence on a viable
+common environment without resolving whether any prehuman Avaran biosphere
+survived beside the introduced terrestrial lineages.
+
+The recurring political conflict concerns who bears the reserve. A yard can
+profit by keeping only enough food and air for normal operation while expecting
+a neighboring settlement to absorb its workers after failure. Settlements can
+exclude those same workers from the decisions that price the risk. Custody and
+opening contracts therefore name the receiving refuge, the funded reserve, and
+the people entitled to use it. A promise of sanctuary is tested against beds,
+pressure volume, water, and continuing care.
 
 ## Boundary medicine
 

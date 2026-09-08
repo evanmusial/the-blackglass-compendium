@@ -131,6 +131,38 @@ anatomy extending outside ordinary three-dimensional space.
 The recursive branching terminates at the cellular scale. Its surface area is
 immense but finite. Its mass and displaced volume remain measurable.
 
+### Tissue depth, film, and structural material
+
+The working material design uses a collagen-rich composite trellis with
+mineralized load paths, flexible unmineralized hinges, and replaceable porous
+supports grown in the nursery. Load-bearing thickness is not living tissue
+thickness. Thick mineralized members can contain mostly structural matrix;
+their maintaining cells occupy thin sheaths and channels near the exposed
+medium. Living lamellae remain within a short diffusion distance of replenished
+fluid. A wide sail of tissue is possible where a solid block of the same mass
+would suffocate at its center.
+
+The boundary film is buffered water containing salts, carrier proteins, mucins,
+and locally released nutrients. It is held in patterned grooves rather than
+spread as one freely draining sheet. Exchange cells maintain selective membranes
+between that external medium and the organism's cellular interiors. **Open**
+does not mean that every cell has lost its skin or that bath chemistry can be
+ignored. Plain water can be osmotically injurious; a dirty maintenance bath can
+injure more tissue than a localized wound.
+
+Cilia and local pumps refresh those grooves. In air, a thin exposed film admits
+oxygen while repeated transport paths distribute substrate over nearby tissue.
+Flooding every fold is not automatically helpful: a stagnant bath can be rich
+in nutrients and depleted of oxygen. Clinical cradles control flow as well as
+composition. The gain from exposed area lasts only while fresh medium can reach
+it and waste can leave.
+
+Trellis growth and film renewal make the body dependent upon ordinary feedstock.
+Calcium-rich material does not become a load-bearing limb on contact. It must
+be dissolved, processed, patterned, and laid down by living tissue. Military
+procurement therefore carries separate accounts for immediately usable food,
+structural repair stock, and nursery patterning material.
+
 ### Functional distribution and remapping
 
 Most lamellae are not permanently assigned to one organ role. Tissue can change
@@ -166,6 +198,28 @@ and varied fragment can stabilize a partial or coherent mind, but cannot recreat
 missing pattern architecture or develop into a complete combat form without a
 manufactured nursery catalyst. Regrowth still requires ordinary biomass, energy,
 time, and suitable infrastructure.
+
+Remapping also has a cognitive cost. Mature ganglial tissue cannot be freely
+converted into respiratory film while retaining every memory formerly supported
+there. The organism normally protects learned neural regions and draws emergency
+capacity from less specialized tissue. Severe injury can force a choice between
+keeping more of its mind and sustaining enough exchange to remain alive. A form
+that survives may lose a skill, recognition, or part of its autobiography.
+
+There is no universal minimum fragment measured only in kilograms. A surviving
+piece needs a viable mixture of exchange tissue, transport grooves, structural
+support, and enough mutually connected neural ribbons to maintain an integrated
+history. Scattered reflexive scraps do not collectively remain one remote mind.
+Custody teams keep viable fragments separate and label their pre-division
+connections; they do not join pieces merely to make an identity dispute easier
+to administer. Whether two coherent survivors are descendants or continuations
+remains a legal and philosophical question.
+
+The same signal delays bound adult scale. Fast local reflexes can secure a
+slipping attachment before the whole body revises its posture. Distant regions
+coordinate through finite-speed nerves, chemical gradients, and visible contact
+signals. A siege forest therefore needs local control regions and slow shared
+decisions; greater size does not produce a faster tactical mind.
 
 ### Ordinary-space invariant
 
@@ -243,6 +297,45 @@ themselves, and a sufficiently large fragment may survive, but they cannot found
 a wild population without nursery infrastructure and patterning materials. This
 prevents the family from becoming an effortless biological apocalypse.
 
+### The wet-cradle cycle
+
+A wet cradle is a traveling intensive-care environment. It supports the packed
+trellis without compressing adjacent lamellae together, circulates aerated film,
+removes waste, filters shed material, and rejects metabolic heat. A packed form
+still has thickness and open flow channels. Tight folding reduces movement and
+available exchange, so the body rests at low activity while circulation does
+work it would otherwise perform itself.
+
+Before deployment, nursery crews inspect damaged hinges, clear obstructed
+grooves, compare local oxygen and waste measurements, restore water and nutrient
+reserves, and let the organism unfold against a representative load. Avaran
+growth does not certify Kharosi deployment. Higher gravity changes attachment
+loads, drainage, film retention, and the cost of lifting every branch; a form
+must be conditioned or rebuilt for the destination.
+
+The mission limit is the earliest exhaustion of usable water, nutrient reserve,
+oxygen-exchange capacity, or heat margin under the measured environment. The
+budget includes withdrawal and casualty carriage, not merely the advance. A
+cool humid corridor can support hours that a hot dry breach cannot. Damage
+shortens that interval because shedding a fouled lamella also loses water,
+transport paths, and reserve tissue. Tactical forms can slow, rest, and request
+support; they cannot spend the same margin twice by calling it regeneration.
+
+During ligature passage, the cradle and its organism travel inside one closed
+carriage. The cradle's pumps and the body's metabolism become retained heat.
+Cold stores, water, films, repair stock, and the entire cradle enter the mass
+book before commitment. No external bath, radiator, or remotely supplied
+maintenance stream follows the carriage through transit. This makes transport
+of an adult far more expensive than transport of its dormant tissue stocks;
+the stocks, however, are neither a trained soldier nor a copy of that soldier's
+mind.
+
+After a mission, crews record which tissue was lost and what contacted it before
+recirculating the bath. They cannot return a dirty combat form directly to an
+occupied recovery ward merely because both descend from the same medicine.
+Sterility prevents a wild reproductive population. It does not prevent the body
+from carrying ordinary pathogens or its secretions from harming a patient.
+
 ### No armor without cost
 
 Conventional armor obstructs respiration, transport, sensing, and cooling.
@@ -291,6 +384,20 @@ reflex, or surrenders according to its training and judgment.
 Some military lineages use nutrient dependence, patterning chemistry, or cradle
 access as coercive recall mechanisms. None is a central kill switch, and their
 use strengthens rather than resolves the personhood problem.
+
+A workable field order has an issuer, an objective, an expiry condition, and a
+route by which the organism can acknowledge or contest it. Recognition marks
+are evidence about a target, not authorization to attack every bearer. A lost
+credential does not make the last command eternal. Clinical and custody
+protocols preserve a plain surrender vocabulary, including cessation of
+advance, release of held people, and a request for supervised wet support.
+That vocabulary can be taught without exposing military recognition keys.
+
+Speech need not depend upon a hidden lung and larynx. Some forms drive exposed
+vibrating membranes with local air currents; others use pigment panels, contact
+patterns, or an ordinary transducer attached to several neural sites. A damaged
+voice apparatus can therefore silence an intact mind. Intake teams offer more
+than one communication surface before recording refusal or noncomprehension.
 
 ### Environmental counters
 
@@ -412,6 +519,19 @@ Behavior alone cannot settle the distinction.
 The ward reflex is the preferred signature failure because the humane origin
 survives inside the weapon rather than existing only as backstory.
 
+The reflex is bounded care. A form can shelter a casualty, limit heat loss,
+support ventilation, or bridge an injured surface with compatible tissue. It
+cannot infer every blood group, detoxify every poison, or replace missing blood
+from its own biomass without preparation. Its cultivated enzymes and immune
+products can injure a stranger. Contact support therefore begins with the
+clinical matching and barriers the body still carries; severe damage can leave
+it able to recognize a need it lacks the capacity to meet.
+
+This gives the surviving medical impulse a harder consequence than automatic
+mercy. A form that uses its remaining exchange margin on a wounded enemy can
+make its own return impossible. The choice, when supported by a communicating
+survivor's account, belongs in the record beside the tactical failure.
+
 ### The first shrouding
 
 Defenders discover that firefighting foam, adhesive blankets, or fine inert
@@ -442,6 +562,46 @@ the setting while preserving the Compact's Rzez-specific history.
 The technology also creates nursery crews, tissue-lineage registries, occlusion
 teams, counterfeit tissue claims, veterans who insist a Plain Thing saved them,
 and therapeutic patients stigmatized for retaining visible boundary grafts.
+
+### Working custody and ordinary life
+
+The candidate legal model assigns immediate care to the receiving authority
+while manufacture, military conduct, and disputed ownership remain separate
+proceedings. A manufacturer can supply necessary film specifications without
+gaining the right to command the captive. Custodians retain an independent
+reserve of the ordinary maintenance materials needed to keep surrender from
+becoming a delayed execution. This operational arrangement remains reserved;
+the names of the authorities and final judgments have not been fixed.
+
+Humane containment uses a traversable trellis enclosure with protected service
+access, appropriate humidity, separate waste handling, and enough room to unfold
+the necessary exchange surfaces. Restraint attaches to designated load-bearing
+nodes and limits reach without pressing the breathing lamellae together.
+Transport requires an accessible observation window and a communication surface.
+A sealed box that contains the organism while its film stagnates is a killing
+device even if its door can later be opened.
+
+Clothing becomes a disagreement about visibility and dignity. Heavy coverings
+occlude physiology, but a loose screened room, a ventilated privacy frame, and
+the right to close a camera accomplish privacy without covering the body.
+Medical access to exposed anatomy is not public permission to inspect it.
+Therapeutic graft patients have a related grievance when insurers, employers,
+or strangers treat their visible care as evidence of a military lineage.
+
+The proposed daily record belongs partly to the person: preferred name,
+communication habits, tolerable contact sites, signs of distress, tasks it
+accepts, and tissue it does not consent to surrender for study. Tissue genealogy
+remains useful for infection control and provenance. It cannot by itself answer
+who is entitled to choose what happens to the living body.
+
+A candidate ward note captures the conflict without resolving its law:
+
+> *The prisoner asked for the screen. The engineer said nothing could be hidden
+> by it. The nurse closed the camera anyway.*
+
+The note is reserved manuscript material, not an authenticated historical
+incident. Its purpose is to keep anatomical disclosure from silently becoming
+the abolition of a person's private life.
 
 ## Setting placement
 
@@ -534,6 +694,16 @@ characterization, and low latency. No such cross-system incident is canon. The
 Articles of Bodily Dissent protect existing persons from coerced coupling;
 created-person and humane-custody law answer different questions about how a
 person came to exist and may be held.
+
+### The Rehearsal
+
+[`The Rehearsal`](../../entries/volume-04/book-01/d-1-01-the-rehearsal.md)
+concentrates transported energy and may leave catalytic strange matter. An open
+form has no privileged resistance: its water, trellis, and tissue remain
+baryonic matter, and prompt radiation destroys exposed physiology through
+ordinary injury. Strangelet growth does not retain a developmental program or
+create a living descendant. No combined incident or biological containment
+method is established.
 
 ## Canon dependencies
 
@@ -640,6 +810,11 @@ particular ward-reflex cases, final legal judgments, free communities, and
 answers to identity across division remain reserved to this concept. Promotion
 of the shared spine does not make this brief an adopted entry.
 
+The material and film design, wet-cradle cycle, cognitive costs of remapping,
+communication anatomy, surrender practice, and working custody model developed
+here also remain concept-local. They deepen the reserved manuscript without
+promoting an incident, a legal judgment, or a new population into shared canon.
+
 ## Collection-frame impact
 
 No new compiler, archive type, or transmission technology is required. The
@@ -696,13 +871,15 @@ anatomy must remain legible in every description.
 ### Resolve before entry drafting
 
 - What contemporary or historical incident anchors the entry?
-- What ordinary materials form the trellis and boundary film?
-- What preparation does a tactical form require immediately before deployment?
-- What minimum fragment can sustain a coherent mind?
-- How long can one operate away from a wet cradle?
+- Which material and film variants survive detailed clinical and tactical case
+  design, including a named failure that tests their exchange limits?
+- What measured mission and withdrawal budgets apply to the form in the anchor
+  incident, under its gravity, humidity, activity, and damage?
+- What functional evidence distinguishes a reflexive fragment from a coherent
+  surviving mind in that case?
 - Which authority regulates manufacture, custody, surrender, and death?
-- What exact command authentication, rules of engagement, recall doctrine, and
-  legal right of refusal govern a conscious open form?
+- Which jurisdiction accepts the proposed command, surrender, independent-care,
+  and refusal practices, and which military program contests them?
 
 ### Preserve as in-world disputes
 

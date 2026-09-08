@@ -2,6 +2,10 @@
 
 These documents describe how the Compendium is organized and maintained.
 
+- [`collection-integration-pass.md`](collection-integration-pass.md) records the
+  collection-wide continuity and depth review, closes the deferred weapon
+  reconciliation, and distinguishes repaired gaps from intentional unknowns.
+
 - [`repository-structure.md`](repository-structure.md) defines the role and
   authority of every top-level directory.
 - [`authoring-workflow.md`](authoring-workflow.md) describes the lifecycle from

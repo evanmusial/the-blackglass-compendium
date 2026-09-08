@@ -69,6 +69,30 @@ Its duties include:
 - and distinguishing suspected Manifold signatures from instrument fault,
   propaganda, route disturbance, Rzez damage, or Agreement contamination.
 
+## Comparing records across distance
+
+Each bundle distinguishes event time, acquisition time, transmission or carriage
+time, and the time at which a receiving analyst made a finding. Local clocks
+need not display the same numbers. Their offsets, rates, calibration histories,
+and stated uncertainty must be recoverable. Independent standards are permitted
+to agree with one physical chronology; deliberate variance does not mean
+deliberate inaccuracy.
+
+In-system optical reports arrive after ordinary light-time. Interstellar bundles
+normally arrive in physical ligature carriages, possibly after quarantine or a
+missed schedule. The Service can compare independent evidence of a remote event
+without observing that event in a shared present. An old authenticated report
+cannot certify that an exclusion rim, local government, or rescue corridor is
+still in the state it records.
+
+Disagreement is investigated before it is elevated. Common software, clock
+discipline, copied survey tables, sensor saturation, mistaken frame transforms,
+and shared custody can explain apparently extraordinary records. Conversely,
+matching raw noise cannot be inferred from identical rounded status summaries.
+The Service asks for traces upstream of adaptive correction and preserves
+ordinary alternatives beside any rupture or Agreement finding. Its authority
+depends upon retaining a way to discover that it was wrong.
+
 ## Authority boundary
 
 The Service is not a Manifold operator, weapons command, universal court, or

@@ -96,6 +96,41 @@ politically altered version when that distinction matters. The recurring
 margin functions and the anonymous Prior Hands are established; the identity
 and dates of particular hands remain open.
 
+## Provisional transmission practice
+
+The following practice explains how distributed evidence can become one
+recension without assigning its editors a location or identity. It remains a
+working extension of the frame.
+
+Across star systems, substantial records travel as cargo through the available
+route network. Within a system they can move by ordinary light-limited links.
+An arriving dossier may therefore contain testimony collected long before the
+annotation receiving it. Its account retains the incident's reported date, the
+source's recording date where known, and the receiving editor's access horizon.
+A recent filing mark does not make the underlying incident recent, and the same
+rumor arriving by two routes does not become two witnesses.
+
+Different branches of the recension can be honestly out of date in different
+ways. A frontier copy may possess a primary fragment absent from a core archive
+while lacking the later retraction of a familiar commentary. Corrections travel
+with the citation they alter and preserve the superseded claim when people
+acted upon it. They do not overwrite every distant copy at once. Apparent
+contradictions are first checked against copying descent and arrival order
+before editors infer fraud, impossible chronology, or a responsive book.
+
+Record authentication also has a finite history. A surviving signature proves
+little if the verifying key's custody is unknown; identical copies prove common
+content without proving an independent observation. Material examination,
+contemporary quotations, independent local records, and documented recopying
+can support one another. No indefinite cipher, perfect medium, or unnamed
+central archive guarantees truth across the lineage's whole age.
+
+This reconstruction fixes no particular device in the reader's hands. The
+represented prose may assemble passages available at different places and times
+without proving that anyone held every source object or every constructive key
+together. Its most recent securely dated event supplies a lower bound for that
+passage's editorial layer, not an exact publication date for the whole tradition.
+
 ## Reader position
 
 The reader appears to possess access to the Blackglass recension, not necessarily

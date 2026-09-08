@@ -486,10 +486,15 @@ visibility alone does not prove the target is safe.
 
 ### White seam
 
-A narrow unreturned aperture in an otherwise mature radiant-return enclosure.
-The surviving anchors can concentrate a large share of available outward modes
-through that aperture. The seam creates no energy; it makes one breach inherit
-the egress burden denied everywhere else.
+A concentrated radiant release through a narrow unreturned aperture in an
+otherwise mature radiant-return enclosure; an ordinary small leak is not
+automatically a white seam.
+The surviving anchors may redirect available outward modes through that
+aperture, subject to their finite active work and transport capacity. Thermal
+energy stored in matter must still reach a radiating surface or leave in matter;
+it is not all instantly available as trapped light. The seam creates no energy
+or unbounded passive brightness. It makes one breach bear a dangerous share of
+the available egress burden.
 
 ## Neurocybernetic and autonomy terms
 
@@ -564,8 +569,11 @@ suitable baryonic matter, grows, and produces viable daughter seeds. A
 **supercritical Succession** sustains an effective surviving reproduction greater
 than one across capture paths that percolate through accessible baryonic
 reservoirs. Reproduction greater than one without that connected capture network
-can still remain local. The term does not imply faster-than-light travel, vacuum
-decay, or conversion of nonbaryonic existence.
+can still remain local. Even a supercritical connected process can lose its
+founding lineage, miss particular reservoirs, or terminate as conditions change.
+Conversion of a whole claimed region requires continued successful access across
+it. The term does not imply faster-than-light travel, vacuum decay, or conversion
+of nonbaryonic existence.
 
 ## Operational and forensic terms
 

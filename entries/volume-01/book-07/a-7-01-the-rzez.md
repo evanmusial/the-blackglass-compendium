@@ -898,6 +898,15 @@ The seismic record is stranger. Stations first reported broader arrival windows,
 
 Crustal loss of mechanical continuity is a strong inference. Separation into mantle convection domains, the path by which the array reached them, and the claim that every major failure belonged to one synchronized propagation front remain models. The instruments observed a world cease to answer as one body. They did not observe the field equation that caused it.
 
+The inherited phrase *the magnetic field fragmented* also requires restraint.
+The surviving stations recorded a changing exterior magnetic pattern amid
+ionized ejecta, altered currents, lost instruments, and massive deformation.
+They did not watch a field split into independently conserved pieces. A
+conducting liquid core does not depend upon solid joints in the way a bridge
+does, and no record establishes the immediate destruction of its dynamo. The
+relative contributions of external plasma, changing conductivity, and deeper
+core response remain unresolved.
+
 #### The Valec soil surveys
 
 Twenty-three years later, investigators found that surviving fragments contained chemically ordinary matter.
@@ -915,6 +924,28 @@ Metal could be smelted but not forged reliably. Stone could be compressed but no
 The commission concluded:
 
 > *Valec was not reduced to debris. It was reduced to matter incapable of becoming a world again.*
+
+#### What remains of a world
+
+Later gravimetric readings do not describe gravitational unbinding. Valec keeps
+its mass, orbit, pressure gradients, and ability to pull loose material inward.
+Granular material can pack and carry compressive load through transient
+contacts while failing to hold a mountain, pressure vessel, deep foundation, or
+durable tensile member. At sufficient depth, pressure and flowing matter still
+support a roughly planetary body. Gravity has not forgotten Valec.
+
+The soil commission's conclusion concerns the observed failure to restore
+durable large structures. It does not mean every grain refuses all contact,
+that loose matter levitates, or that the planet ceased to be an astronomical
+world. The distinction leaves the catastrophe intact: matter can remain tightly
+bound to a planet without providing the stable ground, compartments, ecology,
+and repair on which an inhabited world depends.
+
+Neither the surveys nor the failed shelter establish a universal purification
+temperature. Smelting changed the metal but did not independently isolate the
+furnace, tooling, site, and later fabrication path from the suspected condition.
+The continuing inability to rebuild is established more strongly than any claim
+about which microscopic memory survived the furnace.
 
 ### The broken moon of Issa
 
@@ -1295,6 +1326,28 @@ Buildings are abandoned.
 
 The defense can resemble the attack.
 
+#### The interval after the cut
+
+An isolation order begins a second operation. Engineers must trace what still
+crosses the declared gap: reinforcement hidden beneath a road, wet sediment in
+a drained culvert, a borrowed lifting frame, a temporary hose, an exposed
+vehicle, or a repair crew's shared tooling. Severing the visible connection can
+leave its material bypass intact. A plan marked as disconnected is therefore
+read against a physical walkdown conducted from the unaffected side.
+
+The receiving district also needs enough water, power, medical capacity, and
+shelter to survive the separation. Sectional works keep those stores local and
+mark the point at which isolation itself will cause casualties. The decision is
+revisited against that depletion record, not against the convenience of leaving
+an alarming district permanently off the map.
+
+Reoccupation has no universal waiting period. A clean independent structure can
+be certified for a stated load and use; the condemned substrate beneath it
+cannot be declared cured because enough anniversaries have passed. Where a new
+crossing is necessary, its materials, handling equipment, foundations, and
+retirement conditions acquire their own custody record. The old span's apparent
+survival is never its replacement's load test.
+
 ### False-alarm exploitation
 
 Because isolation is destructive, adversaries often fabricate Rzez evidence.
@@ -1610,6 +1663,20 @@ A survivor wrote:
 
 Clinical schools disagree over whether continuity dread is a trauma disorder, a rational response to entropic threat, a neurological effect of low-level exposure, or a culturally mediated combination of all three.
 
+Later clinics separate structural assessment from the patient's obligation to
+keep checking. A named engineering custodian holds the current material finding;
+the patient receives an intelligible account of what was tested, what remains
+uncertain, and which new signs warrant another inspection. Repeating the same
+safe test every night cannot prove permanent safety and can turn care into the
+ritual that keeps dread alive.
+
+Valeci survivor practitioners object equally to dismissal and indefinite
+experimental custody. A person's ancestry or fear is not an exposure path.
+An actual material concern is recorded with its physical evidence and handling
+conditions, while pain, disability, grief, and ordinary illness remain reasons
+to provide care. An uncertain mechanism must not become an excuse to leave
+every need uncertain.
+
 ## Law, ethics, and prohibition
 
 The Sixth Compact prohibits more than construction.
@@ -1638,6 +1705,26 @@ The Compact’s preamble states:
 A persistent legal problem concerns incomplete knowledge. A researcher may rediscover a prohibited principle without knowing its lineage. Several mathematicians have been prosecuted for equations they claimed were purely abstract.
 
 The Compact courts answer that dangerous truth does not become safe because it was independently found.
+
+### Reading the prohibition and the instrument census
+
+The header's **no confirmed surviving examples** records the Commission's
+acceptance of complete historical Rzez instruments. It is not a census of every
+surviving cavity, focusing fragment, sonograph, licensed civil apparatus, or
+object represented as a weapon. An inactive relic and a functioning instrument
+are different claims, each requiring evidence.
+
+Likewise, an industrial tolerance is a restriction upon a specified apparatus,
+task, material history, and supervising authority. It is not one safe field
+dose applicable to every target. Permitted separation work and defensive
+diagnostics must demonstrate their bounded operation without supplying the
+propagative architecture, complete equations, or synchronization capability
+prohibited by the Compact. Legal permission for a narrow class does not prove
+that a currently operating member or a complete surviving Rzez has been found.
+
+The uncompromising older summary and the later licensing practice therefore
+describe different legal levels. Neither permits a quarry to call an
+uncharacterized emitter harmless merely because its intended target is ore.
 
 ### Capability assembled from fragments
 

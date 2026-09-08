@@ -63,6 +63,31 @@ different problems. Institute publications are expected to state which meaning
 they use; failure to do so is both a scholarly fault and a recurring political
 accusation.
 
+## Teaching and material accountability
+
+In the present tradition, a continuity specialist is trained to produce a
+**counterfile** alongside an explanatory account: the raw observation, its
+custody chain, ordinary failure explanations, and the result that would make the
+preferred interpretation less credible. A student who explains every possible
+result has not supplied a useful model. Different schools dispute theories
+while sharing that requirement.
+
+Training uses bounded lawful apparatus, inert controls, separated archives, and
+historical cases. Rzez work does not gain permission for a complete propagation
+simulation by being called philosophy; an Agreement exercise does not gain
+permission to remove a pupil's right of release by being called practical
+education. Restricted holdings preserve enough material for defensive inference
+while separating the constructive combinations their own scholars might be
+tempted to complete.
+
+Testimony also names its patron. An insurer financing a fracture study, a shore
+operator supplying clocks, or a manufacturer granting access to deployed models
+can shape which evidence becomes available without falsifying a single reading.
+Independent review therefore asks who paid for the work, who could withhold
+records, and whether a second school can test the conclusion with a genuinely
+different acquisition history. The Institute tradition offers expertise; it
+does not make expertise disinterested by declaration.
+
 ## Blackglass scholarship
 
 Schools in the Institute tradition contribute philology, material dating,

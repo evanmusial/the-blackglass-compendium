@@ -42,6 +42,29 @@ memory of touching the surface.
 The prohibition applies to the moon. The accessibility and habitation of the
 wider Issa system remain undesigned.
 
+Remote survey keeps separate ledgers for the visible shape, the inferred
+interior, the motion of the moon, and the returned expedition's condition.
+An irregular radar echo is tested against observing geometry and the gas
+giant's plasma environment before it becomes an internal void. Libration and
+tidal measurements constrain whole-body response without resolving individual
+grains. Agreement among those methods narrows an inversion; it does not turn
+the preferred microscopic account into direct sight.
+
+The failed expeditions justify stand-off procedure without proving what happened
+at the surface. Crew memory is compared with ranging, propulsion use, exposure
+records, and the physical history of the returned hull. Missing memory neither
+establishes contact nor proves its absence, and the narrative resemblance to an
+Agreement or Manifold incident does not import either mechanism. The unexplained
+leaf likewise remains a separate custody problem rather than a replacement for
+navigation evidence.
+
+Neither a drone nor an expendable sampler automatically makes a landing safe.
+A vehicle can bridge a prohibited material boundary, scatter surface material,
+or return a contaminated object even if nobody rides aboard. A remote
+observation mandate therefore distinguishes noncontact measurement from
+sample-making, impact, tethering, and recovery. The existing prohibition does
+not require a new expedition to prove its own necessity.
+
 ## Blackglass correspondence
 
 Issa's inner moon is the best-known **exterior witness** in current Blackglass

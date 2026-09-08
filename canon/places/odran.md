@@ -45,8 +45,10 @@ The broader evidence and calendar limits are recorded in the
 
 ## Fixed sky and thermal geography
 
-Kharos is fixed over Odran's near hemisphere and never visible from the far
-hemisphere. Its disk is approximately 4.75 degrees across, nearly ten times the
+Kharos remains nearly fixed over most of Odran's near hemisphere and is never
+visible from the far hemisphere's interior. Libration, terrain, and the finite
+planetary disk complicate visibility near the limb. Its disk is approximately
+4.75 degrees across, nearly ten times the
 apparent width of Kelan. It changes phase across Odran's 6.51-day solar cycle,
 brightening near-side darkness when illuminated and producing deep, predictable
 eclipse tracks during favorable alignments.
@@ -73,6 +75,21 @@ calibration and surface orientation precisely because it is unequal. Odran's
 vacuum and stable horizons let instruments separate the stars' motions from
 Kharos's own barycentric motion more cleanly than weather-bound observations on
 the planet.
+
+Vacuum is not cleanliness or mechanical stillness. Surface dust can charge,
+adhere to exposed equipment, foul seals, and change a radiator's thermal
+performance. Landers and mass drivers add ejecta, vibration, and exhaust that
+can spoil observations far from their operator. Precision sites therefore have
+quiet operating intervals, protected sightlines, stand-off landing areas, and
+clean transfer enclosures. A sample that has crossed a dusty apron does not
+retain a clean custody history merely because no air touched it.
+
+Rock beneath a vault also carries ordinary elastic disturbance and conducts
+heat. Separate pads deny shared foundations and utility paths; they do not
+become separate celestial bodies. Remote explosive work, impacts, or a badly
+scheduled launch can disturb several clocks at once through ordinary physical
+causes. Concordance records retain those common disturbances so that an
+unmodeled industrial event is not promoted to a Manifold or Agreement claim.
 
 ## Founding interval and economic development
 
@@ -174,6 +191,14 @@ path to reconstruction; it does not make the holdings harmless or prove that
 information itself propagates like a Rzez field.
 
 ## Biological limits
+
+Crewed pads remain maintained habitats with food, water, breathable gas,
+radiation shelter, waste treatment, and a medical evacuation plan. Vacuum
+processing exports useful material but does not feed the workers or replace
+trace nutrients. Long isolation stores include parts and consumables whose
+loss would stop recycling; a nominally closed loop still needs measured makeup
+and periodic repair. No archive's independence is complete if its sole trained
+maintainer is stranded at a different pad.
 
 Odran can store sealed nonconscious tissue lineages and dry components used by
 boundary-medicine facilities. It is not a routine prison for conscious Plain

@@ -442,8 +442,8 @@ strangelet descendant remain limited by ordinary local propagation. A physical
 seed could be displaced spacelike only by being carried as matter inside a
 committed ligature carriage, with paired shores and counterweight. That is
 transport of contraband through infrastructure, not intrinsic faster-than-light
-infection. A distant unassisted conversion may still precede the arrival of its
-light or particles.
+infection. A distant unassisted conversion may occur long before an observer
+receives its light or particles.
 
 ## Political scale
 

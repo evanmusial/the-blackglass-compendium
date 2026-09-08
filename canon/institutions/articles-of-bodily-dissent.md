@@ -65,6 +65,35 @@ Facilities may rotate the duty because long isolation has psychological and
 professional costs. They may not replace physical independence with a software
 process running on the same coupled control substrate.
 
+Independence does not require the keeper to receive no information. A one-way
+raw feed can report the operation while fixed controls transmit a stop. The
+prohibited return is an adaptive influence that makes the keeper part of the
+error economy being judged. Ordinary light-time delay, disagreement in opinion,
+or a second screen on the same adaptive workstation does not establish that
+separation by itself.
+
+## Consent during failure
+
+A lawful disconnect removes corrective authority from the person's body while
+fixed brakes, supports, or reserve machinery make the load safe where possible.
+It need not drop the load or remove a patient's ventilation. Equipment that can
+release a participant only by killing a patient has failed the civil design
+standard before anyone exercises refusal.
+
+Narrow emergency authority can connect an unconscious patient's support or guide
+a child through a pressure loss when ordinary consent is unavailable. It must
+remain bounded by the immediate physical task, retain an exterior independent
+stop, and be recorded for later review. Fear, refusal, testimony, and bodily
+difference cannot be relabeled as task error. The child-assault provision
+concerns variance punishment, not necessary breathing assistance.
+
+After deep coercion, rapid disconnection can itself injure survivors. Temporary
+retention of a destabilizing false-quorum model is therefore permitted solely
+inside recorded decoupling care when abrupt deletion would worsen injury. It
+does not authorize training against that model, reuse in another patient, or
+continued coercion for convenience. The retained model is neither the absent
+person nor evidence that the person consented to its use.
+
 ## Evidence and rehabilitation
 
 Courts applying the Articles examine covariance before content. Identical words
@@ -77,6 +106,26 @@ safe disagreement, independent timing, asymmetric tasks, and unsynchronized
 social contact. Placing several survivors into synchronized care too early can
 reenact conditioned convergence after the original carrier has been removed.
 That recurrence is learned injury, not active coupling or contagion.
+
+A survivor may refuse examination through speech, marks, movement, an advocate,
+or a later appointment. Courts do not demand a deliberately contrary performance
+as proof of competence. The same caution applies to a private-perturbation test:
+nonresponse can follow exhaustion, disability, unfamiliar language, or fear and
+does not alone establish an active lattice.
+
+## Control records and accountability
+
+Inspection preserves the deployed weights, retained profiles, enrollment and
+abort logs, update provenance, actuator authority, and raw traces from before
+adaptive correction. A compliant source listing is not evidence that the
+deployed controller used those settings. Signing a relief packet proves which
+credential authorized it, not whether that credential's named owner knew its
+contents or still controlled the key.
+
+The operating safety decision and later attribution can consequently have
+different confidence. A carrier may be isolated on strong physical evidence
+while its sponsor remains unidentified. Survivors' bodies and medical profiles
+are not reusable state property merely because their responses prove the case.
 
 ## Jurisdictional boundary
 

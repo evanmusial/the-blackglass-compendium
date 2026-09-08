@@ -53,6 +53,13 @@ light, and radio in an order determined by the failing anchor geometry.
 The release produces the principal surviving thermal reconstruction and gives
 later doctrine its warning that renewed visibility does not prove safe egress.
 
+The earlier white seam is an active concentration event involving the remaining
+lattice, hot machinery, and failing anchor reserves. It is not the instantaneous
+escape of the entire habitat's stored heat through a pinhole. During gray
+release, hot radiators cool while their escaping flux can heat nearby structures
+and rescue equipment. The distinction explains both the danger of a narrow
+powered breach and the possibility of broad, controlled recovery.
+
 ## Shared consequence
 
 Ninth Holding leads directly to the initial Articles of Open Radiance in Compact

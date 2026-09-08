@@ -70,7 +70,7 @@ themes:
 **Known operational scales:** Industrial, siege, strategic<br>
 **Present legal status:** Complete return enclosure of an occupied volume prohibited under the Articles of Open Radiance<br>
 **Confirmed surviving complete military systems:** None in declared lawful custody<br>
-**Confirmed surviving civil return systems:** Numerous; within signatory jurisdictions, declared lawful systems must remain physically incomplete<br>
+**Confirmed surviving civil return systems:** Numerous; within signatory jurisdictions, ordinary civil installations must remain physically incomplete; small-source research has a separate restricted exception<br>
 **Confirmed hostile closures:** Four<br>
 **Disputed hostile closures:** Between nine and twenty-six<br>
 **Confirmed planetary deployments:** None<br>
@@ -84,9 +84,10 @@ themes:
 This entry reconstructs a family of radiant-return technologies from furnace
 records, vacuum-industry manuals, anchor telemetry, siege proceedings, survivor
 accounts, thermal autopsies, insurer archives, and the later case law of Kharos,
-Avara, and Odran. It uses **radiance** in its engineering sense: energy carried
-by electromagnetic emission. The word does not imply holiness, visibility to
-the human eye, or any special relationship to stellar light.
+Avara, and Odran. It uses **radiant** for energy carried by electromagnetic
+emission and **radiance** for power per projected emitting area and solid angle.
+Neither implies holiness, visibility to the human eye, or any special
+relationship to stellar light.
 
 The common name is potentially misleading. A closed target is not immediately
 dark on its interior. Lamps continue to shine. Displays remain legible. Heat can
@@ -271,6 +272,15 @@ a photon along its incident path. They can redistribute it diffusely across the
 interior, send it toward a selected absorber, or preserve enough coherence to
 return a communication band toward its source equipment.
 
+This is a material engineering discovery, not an ability of an ordinary beam to
+reflect another beam in empty space. A return patch requires a maintained local
+field structure with the appropriate driven response. Anchors establish and
+service those structures; remote processors update their geometry. The patch
+acts locally on a crossing wave. It does not send the wave's description across
+kilometres, wait for a decision, and then cancel an emission that has already
+escaped. Loss of local response produces leakage even when the distant control
+display still reports a complete shell.
+
 The anchors pay for nonreciprocity in four ways:
 
 - continuous control power;
@@ -287,6 +297,14 @@ The target's trapped energy is not normally carried through the anchors. Most of
 it remains radiation, is absorbed by internal surfaces, and becomes heat again.
 The lattice controls direction. It does not need to swallow the furnace.
 
+That distinction does not exempt the complete apparatus from entropy accounting.
+An inward-admitting shell cannot sort arbitrary thermal radiation into a hotter
+target indefinitely at negligible expense. Drive work, frequency conversion,
+noise, and waste exported by the anchors close the account. Bias and cooling
+requirements rise when the commanded profile would otherwise drive heat against
+its ordinary gradient. A powered demonstration of directional return is not a
+passive thermal diode from which an unlimited engine can be built.
+
 ### The closed energy account
 
 The simplest useful ledger for an enclosed target is:
@@ -300,6 +318,12 @@ the anchors. Leakage is radiation that the surface fails to return. Matter
 export includes hot coolant, atmosphere, ballast, bodies, vehicles, and any
 other mass crossing outward with enthalpy. Conducted export requires a physical
 bridge crossing the boundary to an external sink.
+
+Here **production** means conversion of stored fuel, charge, motion, or other
+available energy into the thermal account. In a ledger that already includes
+those stores in total internal energy, they are transfers rather than new
+inputs. Counting both a battery's discharge and the eventual heat of its
+computer as separate sources would count the same energy twice.
 
 Every well-documented Closed Night closes this account within the limits of its
 instrumentation. Missing energy has been found as hotter structure, phase change,
@@ -349,7 +373,9 @@ then placed so their fields overlap beyond likely motion, docking activity,
 radiator extension, and the passage of small craft. A closure around a simple
 station may use dozens of major anchors and thousands of subordinate elements.
 A closure around a bunker may require buried or surface-mounted elements around
-its conductive foundations as well as its visible walls.
+its exposed cavities as well as its visible walls. Rock, pipes, and foundations
+still conduct through the radiant boundary; burying an anchor beside them does
+not close their material heat paths.
 
 The preparation is physically expensive. Anchors must be delivered. Their
 positions must be ranged. Their clocks must be compared. Power and cold stores
@@ -405,6 +431,22 @@ necessarily exhausted.
 
 Human metabolism is modest compared with an active reactor. It becomes decisive
 after everything else has been shut down.
+
+Thermal officers distinguish **inventory** from **accessible capacity**. A cold
+water tank contributes little to an overheating infirmary if its pump has
+stopped or the only connecting valve lies behind a fire. The usable margin is
+the heat that can reach stores before their local temperature limits are crossed,
+not the heat capacity of every tonne named on a station's mass book.
+
+A rough survival estimate divides accessible sensible and latent capacity by
+net retained power. It is revised compartment by compartment as valves fail,
+people move, stores saturate, or matter escapes. A single temperature curve for
+the entire habitat can predict a comfortable average while a sealed ward dies.
+
+This also limits the weapon. If leakage and material export can equal the
+remaining input at a survivable temperature, the target approaches an imperfect
+equilibrium. It need not continue warming forever. A successful siege denies
+that balance or exhausts the expendable stores sustaining it.
 
 ### The one-way signal condition
 
@@ -532,6 +574,21 @@ next.
 Strategic Closed Night doctrine therefore attacks a network through a sequence
 of bounded ordinary sieges. It is infrastructure warfare, not a field that
 spreads by itself.
+
+At a ligature shore, the decisive targets are the local weighhouse, tender docks,
+carriage cooling berths, and personnel who prepare matched exchanges. A return
+cage does not extend through a ligature or place anchors inside a carriage during
+passage. A carriage already committed follows its closed transit history; one
+still awaiting normalization may become too hot to certify before a departure
+window arrives.
+
+Interstellar relief is therefore not an emergency radiocall away. A letter
+carriage needs a matching exchange and the route's full depth, followed by local
+delivery. Hours-long rescues depend upon forces and stores already in the
+affected system. A distant shore may receive the warning together with the
+first casualty lists. This is why radiant protection appears in shore-service
+contracts as reserved local heat and rescue capacity, not merely promised aid
+from the other end of a route.
 
 ### The rejected planetary shell
 
@@ -712,8 +769,10 @@ the habitat's stored heat, but the act became notorious: people inside watched
 rescue beams sweep the windows and understood that the rescuers could not see
 them waving.
 
-The final thermal officer's packet was sealed during the eighth hour. Its most
-quoted passage gives this entry its epigraph.
+The thermal officer continued a packet whose eighth-hour entry became widely
+quoted. It remained open through the twentieth hour before being sealed and
+ejected in a ballast drum. The epigraph combines its eighth- and twelfth-hour
+observations; it is not evidence that the later words existed at hour eight.
 
 #### Hours twelve through twenty
 
@@ -750,8 +809,9 @@ The rescue craft that created it was cut open by heat and ablation. The docking
 spine ignited on its sunward side despite the absence of an external flame. For
 thirty-two seconds the seam was the brightest object in local space.
 
-Energy reconstruction found no excess source. The emission consisted of stored
-internal radiance, rapidly heated boundary structure, anchor reserve discharge,
+Energy reconstruction found no excess source. The emission consisted of
+radiation from hot internal equipment, rapidly heated boundary structure,
+anchor reserve discharge,
 and the final output of several converters that failed during the transient.
 The horror lay in concentration, not creation.
 
@@ -761,8 +821,10 @@ The remaining anchors lost synchronization after coordinated impacts from
 inside and outside. Closure decayed over most of the surface rather than through
 one aperture. Investigators later named this survivable mode **gray release**.
 
-Radiation emerged as a broad, prolonged glow. The habitat's exterior heated
-rapidly as internal surfaces regained a view of cold space. Rescue was delayed
+Radiation emerged as a broad, prolonged glow. Hot radiator surfaces began
+cooling as their view of cold space returned; nearby cold structure was heated
+by the escaping flux, and uneven contraction opened damaged joints. Rescue was
+delayed
 until local flux fell below suit limits.
 
 Thousands survived through evacuation, mass cooling, and gray release.
@@ -1335,6 +1397,22 @@ heat. Its peak is limited by stored energy, aperture area, anchor authority, and
 the duration of coherence. Those limits remain sufficient to ablate rescue
 craft, ignite structure, and kill anyone aligned with the breach.
 
+Most stored heat resides in matter, not in a reservoir of freely circulating
+photons. Material must radiate, conduct to an emitting surface, or be driven into
+a hotter state before that heat can leave. A passive opening in a uniformly warm
+cavity emits according to the temperature, area, and available directions of
+its sources. Making the opening narrower cannot raise their brightness without
+limit or convert comfortable-temperature infrared into a white cutting beam.
+
+The documented white seams therefore require the remaining active lattice,
+exposed high-temperature machinery, and failing energy stores. A seam brighter
+than passive thermal emission demands a corresponding active-work term and an
+entropy exit in the anchor account. Simply disconnecting every drive does not
+produce that concentrated state, although ordinary hot surfaces can remain
+dangerous. Investigators distinguish an active seam from a small harmless leak
+by its spectrum, directional flux, and surviving anchor work rather than by the
+size of the opening alone.
+
 White-seam energy accounts include the target, the field elements, and the
 anchor reserves. Analyses that count only cavity radiation falsely conclude
 that the seam created energy.
@@ -1471,9 +1549,10 @@ The danger is that containment and siege share the same geometry. A shell built
 to keep radiation in can keep life and its waste heat in as well. Emergency
 entry creates seam risk. Monitoring becomes one-way unless carried by matter.
 
-The Articles permit narrow-band unoccupied containment only with permanent
-physical egress, independent heat accounting, and no capacity for full-spectrum
-closure.
+Ordinary containment licenses permit narrow-band unoccupied apparatus only with
+permanent physical egress, independent heat accounting, and no capacity for
+full-spectrum closure. The separate small-source research exception described
+below is not a license for an occupiable containment chamber.
 
 ### The alleged planetary winter
 
@@ -1498,8 +1577,8 @@ procedures do not merge the two mandates.
 The Articles prohibit:
 
 - intentional complete return enclosure of an occupied volume;
-- anchor placement capable of achieving such enclosure without declared
-  consent and independent inspection;
+- undeclared or uninspected anchor placement that can progressively deny an
+  occupied volume its certified thermal egress;
 - control systems able to close every thermal egress path by one command;
 - one-way surrender demands without a verified response channel;
 - return lattices designed to concentrate release through a breach;
@@ -1519,8 +1598,10 @@ inhabited station is not viable merely because it possesses power, air, water,
 and pressure. It must be able to discard waste.
 
 Several jurisdictions treat deliberate denial of all heat rejection as related
-to suffocation or poisoning rather than ordinary blockade. Others classify it
-as a siege method whose legality depends on evacuation and surrender access.
+to suffocation or poisoning rather than ordinary blockade. Some jurisdictions
+outside the Articles classify it as a siege method whose legality depends on
+evacuation and surrender access. That dispute does not create an occupied-shell
+exception within signatory law.
 
 The dispute remains active where return systems are dual-use and where a target
 can physically leave.
@@ -1549,8 +1630,12 @@ completion, and release. Every such study can improve a weapon.
 
 The Articles permit incomplete test geometries, unoccupied calorimeters, and
 distributed gray-release trials. Full enclosure research is restricted to
-small nonliving sources with hard energy limits and mechanically destructive
-failsafes.
+small nonliving sources inside nonoccupiable apparatus, with hard energy limits,
+independent exterior shielding, and mechanically destructive failsafes. These
+sealed research cells are a narrow exception to ordinary civil incompleteness.
+No person may enter the active boundary, and inspection occurs only after
+physical disassembly prevents reclosure. Consent cannot turn an occupied full
+shell into a lawful experiment.
 
 Critics argue that the restrictions leave lawful rescue teams behind military
 designers. Supporters answer that Ninth Holding itself was assembled from

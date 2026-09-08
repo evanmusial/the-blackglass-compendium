@@ -1,5 +1,12 @@
 # Kelan–Ruva Natural and Human History Integration
 
+> **Subsequent integration:** The [collection-wide review](collection-integration-pass.md)
+> clarifies atmospheric versus utility timescales, gravity and settlement
+> consequences, and the Earth-correlation evidence boundary. A securely dated
+> astronomical witness could anchor a civil epoch without a complete carrier
+> transit reconstruction; the surviving corpus contains no such authenticated
+> bridge. The original adoption's physical model and intentional unknowns remain.
+
 ## Purpose
 
 This record documents the expansion of the physically modeled Kelan–Ruva home
@@ -278,7 +285,7 @@ exposition scene:
   infrastructure foundational rather than shameful.
 - “Earth year” can name a reconstructed duration without naming the current
   Earth calendar year.
-- No priority of arrival gives carrier descent no hereditary political rank.
+- Priority of arrival gives carrier descent no hereditary political rank.
 - Calendar neutrality prevents speculative crosswalks from determining legal
   age, inheritance, title, sovereignty, or treaty order.
 - Carrier artifacts and biological archives are treated as common human

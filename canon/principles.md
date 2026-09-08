@@ -274,6 +274,12 @@ Inside one path or sequence, familiar physical law may remain intact. The
 contradiction appears only when valid paths, measurements, or histories are
 compared and no single geometry or chronology can contain them all.
 
+Ordinary curvature, unequal proper times, rotating reference frames, and
+path-dependent parallel transport must first be modeled. Different readings
+along different paths are not by themselves a Manifold signature. The claim is
+that no ordinary account closes the independently measured differences within
+their uncertainty, not that ordinary space is flat or every clock must agree.
+
 ### Boundedness can contain non-finite description
 
 A rupture has a finite exterior envelope and finite local matter and energy. Its
@@ -413,10 +419,15 @@ overcome or avoid ordinary charge barriers, catalytic in suitable matter, and
 capable of producing more viable daughter seeds than the chain loses. Sustained
 effective reproduction greater than one is necessary but not sufficient: capture
 paths must also percolate through an accessible network of dense baryonic
-reservoirs. When both conditions hold, later conversion can become operationally
-irreversible across that network. These conditions are an explicit fictional
-extension of unresolved strange-matter physics, not a claim about real colliders
-or known matter.
+reservoirs. Those conditions permit a surviving, spreading lineage; they do not
+guarantee survival from one seed or conversion of every connected reservoir.
+Correlated losses, inaccessible capture trajectories, exhausted feedstock, and
+the changing network can stop branches. Exhaustive conversion additionally
+requires continued successful access throughout the claimed region before those
+opportunities end. An established spreading conversion may nevertheless become
+operationally irreversible because no intervention can reach all its surviving
+branches. These are explicit fictional extensions of unresolved strange-matter
+physics, not claims about real colliders or known matter.
 
 ### The causal future is not the whole cosmos
 

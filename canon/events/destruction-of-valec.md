@@ -19,6 +19,13 @@ through the four-month Gray Season, and culminates in loss of continental,
 crustal, and mantle continuity. Valec does not explode; its organized systems
 lose the ability to remain a world.
 
+That phrase concerns enduring geography, load-bearing structure, and habitability.
+Valec's matter does not lose gravity. Much remains in a gravitationally bound,
+granular or pressure-supported mass, with a dispersed debris component. Continued
+failure of bonded structures prevents restoration of the former world; it does
+not require every grain to repel every other grain or remain suspended against
+the planet's gravity.
+
 Recognizable geography disappears over eleven days. Fewer than three million of
 approximately 6.2 billion inhabitants escape, and some evacuation craft later
 fail after carrying exposed material.

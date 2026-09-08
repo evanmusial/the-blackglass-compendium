@@ -19,6 +19,40 @@ Rendered or generated appearance is presentation material. The Markdown canon re
 - Output: RGB PNG on a black background
 - Scale warning included in the image: body portraits and spacing are not to scale
 
+## Subsequent integration check
+
+The collection integration pass visually rechecked the native render against
+the current Markdown model. The chart contains the correct two stars, six
+planets in orbital order, and the Odran–Avara inset; the displayed names,
+distances, periods, radii, masses, temperatures, and gravity labels continue to
+match the adopted rounded authorial values. No image alteration was needed.
+
+The table's days mean standard 86,400-second days and its years mean 365.25 such
+days. The 299-day Kharosi orbit is not the definition of a chart year or Compact
+Year. The moon labels' kilometre dimensions are diameters followed by mean
+planet-to-moon center separations, not altitudes above Kharos's surface. Moon
+periods are sidereal orbital periods; Avara's solar day is approximately 41.8
+standard days, and Odran's is approximately 6.51.
+
+The stellar pair's 16.65-day label is likewise inertial. Its presentation from
+Kharos repeats in approximately 17.63 days when calculated from the adopted
+rounded periods. Recalculation directly from rounded masses and separations
+gives about 17.635 days; that last-digit difference is within the model's
+rounding, not a second binary cycle. The image does not depict a dated eclipse,
+an exact sky, or literal orbital spacing.
+
+Analytical checks recover approximately 1.80 million kilometres for Kharos's
+planet-only Hill radius, 0.361 Hill radii for Avara's orbital distance, and 4.23
+mutual Hill radii between the moons. These are useful consistency checks, not a
+multibillion-year stability integration. The illustration establishes neither
+that stability nor the moons' unknown formation and tidal history.
+
+The planetary surface textures, atmospheric colors, cloud distribution, and
+ring angles remain illustrative. In particular, the image is not evidence for
+an indigenous biosphere, fixed continents, a safe Talran surface, or an
+unmaintained Avaran atmosphere. Its 4K copy remains a resampled delivery asset,
+not a separately generated higher-detail source.
+
 ## Final generation prompt
 
 ~~~text

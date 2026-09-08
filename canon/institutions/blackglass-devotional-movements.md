@@ -179,6 +179,14 @@ actual engineers to disguise procurement as eccentric religion.
 The reverse error is equally serious. The fact that a sequence is sung, carved,
 or prayed does not make it technically inert.
 
+The material path must nevertheless be shown. A chant may teach a reconstructable
+sequence or be transcribed into a controller prepared to interpret it. A carved
+diagram may guide an apparatus or identify where a prohibited artifact lies.
+Sound and ink do not acquire a universal activating power because believers
+call them sacred. Courts and custodians distinguish a symbolic performance, a
+transfer of constructive knowledge, and an actual operation of machinery;
+fear of the first cannot substitute for evidence of the latter two.
+
 ## Deliberately unresolved
 
 - which movement is oldest and whether any predates the current Blackglass

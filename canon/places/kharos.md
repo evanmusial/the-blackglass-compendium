@@ -153,6 +153,49 @@ No human biological adaptation to Kharosi gravity is presently fixed. People may
 depend upon training, medicine, assistive structures, inherited physiology, or a
 mixture that later entries must establish deliberately.
 
+That uncertainty is not a claim that every human body can become surface-fit.
+Long residence at Avaran gravity, age, injury, and individual physiology produce
+different tolerances. Some people conduct Kharosi business from orbital or lunar
+facilities or remain dependent on powered support. A court's authority to hear a
+person does not make a surface summons medically reasonable. Remote testimony,
+accessible records, and clinically supported travel are consequently parts of
+public access rather than exceptional favors.
+
+High gravity does not supply an unexplained atmosphere or a uniform climate.
+Pressure depends upon the gas inventory, and habitable temperature depends upon
+its composition and circulation as well as stellar flux. Surface workers are
+qualified against local pressure, chemistry, heat, and load together. A
+"Kharos-rated" vehicle or medical form states operating conditions; it is not a
+certificate for every elevation, coast, or season on the planet.
+
+## Food, land, and the cost of independence
+
+Kharos's large inhabited market rests upon terrestrial food lineages carried
+through the Founding Interval. Open-air work became possible before every local
+substrate or water source had become safe for cultivation. Growing areas therefore
+retain tested substrates, controlled nutrient additions, selected symbionts,
+and quarantine histories. A local plantlike form, if later established in canon,
+must not become human food merely because it resembles a familiar crop. Nor
+would incompatible biochemistry prevent it from being toxic, disrupting a
+watershed, or changing the chemistry of an introduced field.
+
+Agricultural resilience depends upon diversity whose failures do not all share
+one cause. Different crop stocks, cultivation methods, reserve foods, and
+processing sites matter more than several warehouses holding copies of one
+vulnerable harvest. Post-Valec reconstruction extended the same lesson to
+transport and irrigation: disconnected utilities provide little security if
+every district still depends upon one intake, one seed source, or one freight
+depot. A district may survive a local interruption while remaining dependent
+upon regional trade over a longer interval.
+
+Heavy-world farming and construction both reward machinery, and both create
+leverage over people who cannot move loads or reach services without it. Access
+to maintained lifts, field equipment, repair stock, and transport becomes a
+recurring labor and municipal dispute. The old ideal of self-reliant settlement
+is measured against the actual ownership of support systems. The Heavy Descent
+is invoked on both sides: as proof of perseverance, and as proof that nobody
+founded the home world unaided.
+
 ## The paired-sun sky
 
 Kelan and Ruva are not equal suns. Kelan supplies approximately ninety-eight

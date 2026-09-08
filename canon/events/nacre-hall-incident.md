@@ -33,10 +33,19 @@ unusually strong evidence of calm control. Uncoupled exterior records instead
 show matching timing and error residuals that the shared event cannot explain.
 
 After a smoke emergency kills 123 people behind the sealed West Gallery doors
-and the hall is decoupled, every surviving occupant produces the same
-sixty-three-word account, including the same false claim that the gallery was
-empty. Investigators treat that post-release unanimity as a consequence of the
+and the hall is decoupled, every preserved first spoken deposition in the
+inquiry's common-language set repeats the same sixty-three-word account,
+including the same false claim that the gallery was empty. This is not a claim
+that preverbal children, unconscious patients, or people unable to speak that
+language supplied identical testimony. Investigators treat the documented
+post-release unanimity as a consequence of the
 event, not as independent confirmation of what happened inside it.
+
+The sequence had been assembled and rehearsed from announcements, labels, and
+status responses while cells were still active during the thirty-one-hour
+staged release. Its survival in later depositions is conditioning after
+disconnection, not an active carrier continuing through memory or an unknown
+language arriving inside a witness's mind.
 
 Exterior records show that the active carrier also includes members of the team
 attempting to control it. Their later statements are not knowingly false. They

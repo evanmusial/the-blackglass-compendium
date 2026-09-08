@@ -35,6 +35,13 @@ physically coherent. They do not imply that every in-world source uses the same
 units or possesses perfect ephemerides. Exact orbital phases and minor bodies
 remain available for later design.
 
+Astronomical table days are standard 86,400-second days; table years are
+365.25 of those days. They are authorial units, not a Kharosi solar day, Kharosi
+orbital year, or definition of the Compact Calendar. Satellite orbital radii
+are mean center-to-center separations. Recomputing one rounded value from
+another may shift the final displayed digit; none supplies an exact dated
+ephemeris.
+
 The natural system predates humanity by billions of years. Its much later
 [human history](../history/human-arrival-in-kelan-ruva.md) begins with uncrewed
 survey, continues through First Shelter on Avara and the Heavy Descent to
@@ -121,12 +128,28 @@ planetary system. It lost almost all primordial volatiles and has no substantial
 atmosphere. Its exposed refractory crust supports automated extraction, solar
 collection, and shielded service stations rather than conventional settlement.
 
+Extraction is organized around power collection, protected feedstock handling,
+and the transport cost of moving product out of the inner system. Sun-facing
+collectors and cool working enclosures need different orientations; a plentiful
+energy supply does not remove the need for shaded radiators and thermal breaks.
+Crews arrive for bounded service campaigns whose return propellant, shelter, and
+consumables are present before work begins. Edras is useful because machinery
+can exploit conditions under which ordinary daily residence is expensive.
+
 ### Talra
 
 Talra is a warm sub-Neptune with a deep hydrogen-helium envelope over a
 volatile-rich interior. Its radius and low bulk density rule out an accessible
 solid surface. Research and industry occupy orbital platforms and limited
 high-altitude aerostats; the deeper atmosphere becomes rapidly hotter and denser.
+
+An aerostat here is a demanding industrial vehicle. Breathable air is heavier
+than the surrounding hydrogen-helium mixture and does not provide useful lift.
+Hot low-density lifting gas, very light structure, finite payload, and active
+station-keeping must support any occupied platform. Atmospheric sampling and
+processing proceed through expendable lower probes and maintained upper
+equipment; "descending to the surface" is not a rescue option. Orbital stores
+and retrieval capacity remain part of the installation's survival account.
 
 ### Kharos
 
@@ -145,6 +168,14 @@ world with extensive surface ice, a modest atmosphere, and plausible buried brin
 or water reservoirs. It may support extraction and research, but current canon
 does not give it an open-air biosphere or a large permanent population.
 
+Its practical attraction is accessible cold material near the inhabited inner
+system, not presumed fertility. Extraction plans separate measured ice from
+inferred deep liquid and account for excavation, heating, chemical separation,
+and the transport needed to make either inventory useful. Protected samples
+are studied before warming or mixing destroys their original state. Any claimed
+biology must survive contamination controls; a suggestive organic assay does
+not authorize an open settlement or establish a second ancestry for humanity.
+
 ### Vaskor
 
 Vaskor formed beyond the system's snow line and retained a conventional gas-giant
@@ -153,12 +184,27 @@ satellites, and leading and trailing Trojan populations. The giant shapes the
 outer edge and resonant gaps of the Serrin Belt. Its satellites remain unnamed
 until an entry needs one.
 
+Resource operations distinguish a moon or small-body store from material deep
+in the giant's gravity well. Possession of hydrogen in a spectrum is not cheap
+propellant delivered to orbit. Radiation, plasma, dust, eclipse geometry, and
+orbital transfer must be surveyed before a yard or crewed station is placed.
+No named moon inherits habitability or safe access merely because the giant
+carries a large satellite family.
+
 ### Istra
 
 Istra is a cold ice giant with a hydrogen-helium atmosphere enriched in heavier
 volatiles. It has narrow rings and a modest satellite system. Sparse scientific,
 navigational, and resource infrastructure is plausible; no large population is
 currently assigned.
+
+The long communications delay gives local maintainers authority over instrument
+survival, propellant expenditure, and safe shutdown. A remote order arrives with
+an issue time and an expiry condition, since the machinery or environment may
+have changed during transmission. Weak solar power makes fission, stored energy,
+or suitably scaled collectors more important than an imagined supply of free
+cold. Scientific interest and resource inventory alone do not supply the people,
+replacement components, and return capacity of a permanent settlement.
 
 ## The system-wide physical gradient
 
@@ -176,7 +222,9 @@ equipment therefore occupies different physical worlds as it moves outward:
   weaker and local autonomy more valuable.
 - **Istra and the Ravel Reach** favor volatile storage, cryogenic science, and
   long-baseline observation. Heat is a scarce input for many processes, while
-  disposing of waste heat is easier than in the inner system.
+  reduced stellar loading helps exposed radiators reject waste heat. Once
+  sunlight is a minor load, radiator temperature, area, emissivity, and view of
+  space set the capacity; greater distance does not provide unlimited cooling.
 - **The Far Cloud** is a reservoir inferred from comet dynamics rather than a
   completely surveyed frontier. At that distance, weak sunlight and
   communication delay dominate ordinary operations.
@@ -216,10 +264,13 @@ values: Kelan and Ruva wander around the mean noon under the 17.63-day stellar
 synodic cycle, so neither moon experiences one perfectly repeating single-sun
 day.
 
-Avara's low gravity, approximately 0.46 g, makes an untouched primordial
-atmosphere implausible over the full age of the system. Its current breathable
-atmosphere is secondary: later outgassing and volatile delivery rebuilt it after
-the stars' active youth, and present infrastructure monitors and replenishes it.
+Avara's low gravity, approximately 0.46 g, and exposure during the stars' active
+youth make atmospheric history consequential. Its current breathable atmosphere
+is adopted as secondary: later outgassing and volatile delivery rebuilt it after
+that early loss, and present infrastructure monitors and replenishes it. Gravity
+alone does not fix the loss rate; gas species, upper-atmosphere temperature, and
+radiative and particle exposure matter. Maintenance of the global inventory is
+distinct from the rapid failure of an individual sealed habitat.
 Oceans and a substantial atmosphere redistribute heat across its long day. This
 makes Avara genuinely habitable in the current era without making it a pristine
 second Earth.
@@ -241,7 +292,9 @@ cluster into seasons remains open.
 Kharos spans approximately 4.75 degrees in Odran's sky and 1.46 degrees in
 Avara's. It remains in nearly one place above each moon's Kharos-facing
 hemisphere, moving only through libration, while changing phase over the moon's
-solar day. The far hemispheres never see it. Binary-star eclipses by Kharos can
+solar day. The interiors of the far hemispheres never see it; near the limb,
+libration, terrain, and the finite planetary disk affect visibility.
+Binary-star eclipses by Kharos can
 be deep and prolonged, but the two stars are often too widely separated for the
 planet to cover both at once.
 
@@ -486,6 +539,24 @@ The authoring model uses current empirical and theoretical constraints:
 - and the formation history follows
   [simulations of circumbinary planet formation and migration](https://arxiv.org/abs/2303.09899)
   toward the binary-cleared disk cavity.
+
+Operational details follow ordinary science as well: NASA's
+[atmospheric overview](https://science.nasa.gov/learn/basics-of-space-flight/chapter1-2/)
+relates gas retention to mass, temperature, composition, and history rather than
+surface gravity alone; its
+[lunar dust work](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-technology-helps-guard-against-lunar-dust/)
+grounds Odran's seal and transfer-contamination problems; and demonstrated
+[partial water-loop closure](https://www.nasa.gov/missions/station/iss-research/nasa-achieves-water-recovery-milestone-on-international-space-station/)
+is a foothold for maintained habitats with makeup stores, not proof that a
+settlement can recycle every resource indefinitely. These references inform the
+fictional operating model without supplying measurements of the invented worlds.
+
+NASA's [thermal-control treatment](https://www.nasa.gov/smallsat-institute/sst-soa/thermal-control/)
+supports separating stellar loading from radiator capacity. A
+[Jovian atmospheric-platform study](https://ntrs.nasa.gov/api/citations/20190001543/downloads/20190001543.pdf)
+provides a foothold for difficult buoyancy in hydrogen-rich atmospheres, not
+evidence for an existing habitable Talran station. The occupied aerostats remain
+future engineering within the fictional setting.
 
 This is a scientifically informed provisional architecture, not a completed
 numerical integration. Future changes should preserve the stated margins or

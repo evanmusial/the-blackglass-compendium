@@ -1,5 +1,12 @@
 # Known-World Physics and Expansion Integration Record
 
+> **Subsequent reconciliation:** The author's later collection-wide integration
+> request authorizes revision of the six manuscripts against this baseline.
+> [The collection integration record](collection-integration-pass.md) closes the
+> deferred review below, corrects the Ligature analogy and timetable accounting,
+> and records the retained boundaries. The original adoption's no-entry-edit
+> scope remains historical process evidence rather than a current prohibition.
+
 ## Purpose
 
 This record documents the author's direct adoption of:

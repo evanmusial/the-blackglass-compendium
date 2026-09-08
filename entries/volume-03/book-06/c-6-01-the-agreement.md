@@ -301,6 +301,38 @@ participant may release the loop or move differently whenever safety requires.
 
 In a weaponized system, agreement itself becomes the task.
 
+### What the later engineering added
+
+Predictive control, artificial sensory feedback, and bidirectional prosthetic
+interfaces are the scientific footholds. They do not by themselves establish a
+means of taking away a stranger's speech or agency. The known-world advance was
+reliable individual characterization across several sensorimotor channels and
+the ability to return a timed, calibrated mismatch through the same equipment
+that supported work. Coercive closure is the later integration of those
+capabilities under a model that punishes deviation.
+
+**Redistribution** names an allocation in that model. Prediction error is not a
+conserved fluid extracted from one brain and poured into another. Sensors supply
+measurements, processors compute corrections, and actuators expend electrical,
+mechanical, or chemical energy to make bodies encounter those corrections.
+Controller work becomes heat; powered restraints take their reaction forces
+through tools, suits, furniture, floors, and hulls. The participant's own muscles
+may oppose or complete a corrected movement, paying an additional metabolic cost.
+
+Each enrollment therefore has an **access budget**: what can be observed, which
+actions can be disturbed, how quickly correction returns, and how much force or
+sensory authority the installed apparatus possesses. An adaptive light can bias
+attention. It cannot hold a healthy jaw shut by illumination alone. Breath arrest
+in the strongest records involves instrumented relief bands, masks, close-range
+transducers, or acute individual autonomic response; ordinary room ventilation
+is not an invisible hand upon every diaphragm.
+
+Poorly characterized people may escape a channel, injure themselves fighting it,
+or become unpredictable enough to destabilize the cell. Higher drive can damage
+a body before it produces useful conformity. The weapon's notorious completeness
+at Pelar depended upon prepared equipment and emergency enrollment; it is not a
+power any occupied room acquires by installing cameras and helpful lights.
+
 ### The consensus vector
 
 The **consensus vector** is not a proposition and does not represent what the
@@ -487,12 +519,23 @@ stored model to another local lattice. It cannot carry the live correction
 burden of the originating cell. Buffering or predicting the missing return
 creates a new local input, not one reciprocal Agreement spanning the delay.
 
-The approximately 4.3-second minimum round trip between Kharos and Avara is far
-beyond stable Agreement coupling for people and the responsive machines acting
+The approximately 4.3-second light round trip between Kharos's and Avara's centers
+at the moon's mean orbital distance is far beyond stable Agreement coupling for
+people and the responsive machines acting
 with them. Interstellar delay is more prohibitive still. Neither biological nor
 machine-only nodes can use ordinary interstellar traffic to close one Agreement.
 At most, remote supervision can seed separate local events whose behavior later
 resembles one another.
+
+Ligature traffic does not restore the missing loop. A retained profile or hostile
+update can cross in a physical carriage after days or weeks, then be installed
+in equipment at the destination. The departing lattice receives no continuing
+feedback during passage. A carriage whose own local interfaces remain active
+can suffer an Agreement event inside its hull, but that event occupies the
+carriage's ordinary internal history and cannot enroll either shore through the
+route. Arrival quarantine examines control provenance as well as passengers;
+recorded testimony is inert, while executing a supplied model in an adaptive
+interface may reconstruct capability.
 
 A command, control package, ritual, law, or learned habit may travel between
 worlds. That is transmission or culture, not active Agreement.
@@ -590,8 +633,9 @@ An Agreement room hides the return channels in architecture.
 
 Responsive floors alter balance. Lighting directs peripheral attention. Seats
 change pressure beneath preparing muscles. Tables resist an unexpected reach.
-Ventilation controls breathing effort. Displays reorder information to match the
-group's current gaze. Directional sound interrupts speech before a contrary word
+Breathing masks and worn relief bands can control breathing effort. Displays
+reorder information to match the group's current gaze. Directional sound
+interrupts speech before a contrary word
 is voiced.
 
 No single effect is overwhelming. Together they make the room feel helpful.
@@ -736,7 +780,9 @@ by people who were trying to help one another work safely.
 
 A pressure-transfer spine failed during construction above Avara. A deformed
 bulkhead trapped eleven workers behind a narrowing seal while the surrounding
-frame continued to twist in low gravity.
+frame continued to twist in the works' weak rotation gravity. The harnesses and
+powered tools took load through the construction frame; three human bodies did
+not arrest an industrial bulkhead by muscular strength alone.
 
 No powered tool could hold the bulkhead, cut the hinge, and receive the trapped
 workers at the same time. Three responders entered with an experimental
@@ -847,6 +893,12 @@ the site to acknowledge danger and maintain physical force against the override.
 Those protections made no difference. The same residents the doors were built
 to protect placed their hands upon the releases.
 
+The overrides operated rated vent valves, locks, and powered opening trains.
+They did not require a person to pull a large hatch against the full pressure
+difference. Venting sacrificed the very district the closed door protected;
+motors, stored opening energy, and the moving atmosphere then supplied the work.
+The people defeated a safeguard against permission, not the force of vacuum.
+
 Suit records preserve people saying *no* while turning the wheels.
 
 Others said *open* and later denied wanting the doors opened.
@@ -858,6 +910,12 @@ pressure door in Pelar began to open inside the same eight-tenths of a second.
 At manual boundaries, residents began the override stroke during that interval.
 Different mechanisms took different times to complete, but no registered habitat
 pressure door remained closed.
+
+The shared interval was carried by the emergency network's existing timing and
+relief cues after neighboring cells had converged. Each cell completed its own
+correction against that familiar cue. This was coordinated action over short
+ordinary links, not a new instantaneous carrier or one nervous system the size
+of the habitat. The physical opening histories remain distinct in the logs.
 
 The population did not open the doors one after another.
 
@@ -881,7 +939,8 @@ Others were already outside the habitat in independent suits.
 
 A group of nine survived inside an obsolete cargo pressure capsule that was not
 registered as a habitat room. Three residents outside attempted to remove its
-bolted service cover for eleven minutes. The cover had no adaptive motor, and its
+bolted service cover for eleven minutes while their relief suits retained air.
+The cover had no adaptive motor, and its
 fasteners were too heavy for their corrected posture. The nine heard them
 apologizing while they tried.
 
@@ -950,8 +1009,10 @@ coercive unanimity.
 **Evidentiary grade:** A for the event and mechanism; C for deliberate targeting; D for the alleged sponsor
 
 Nacre Hall had been built as a public assembly complex and emergency refuge. Its
-floors compensated for Kharosi gravity. Its walls carried adaptive guidance
-lights. Seats monitored circulation. Doors responded to crowd pressure. Relief
+floors used movable supports and assisted walking surfaces to reduce fatigue
+under Kharosi gravity; they did not reduce gravitational acceleration. Its walls
+carried adaptive guidance lights. Seats monitored circulation. Doors responded
+to crowd pressure. Relief
 bands issued from wall cabinets guided breathing and balance during evacuation.
 
 During a severe atmospheric and electrical storm, 3,184 civilians and staff
@@ -1021,7 +1082,8 @@ At the twenty-second hour, investigators sent each hall sector a different
 one-way mechanical signal generated outside the network. The occupants looked
 toward none of them. The adaptive lights shifted first. The bodies followed.
 
-Power could not be removed abruptly without disabling pressure support and
+Power could not be removed abruptly without disabling the refuge's positive-
+pressure smoke exclusion and medical support and
 risking autonomic collapse among thousands of deeply coupled people. External
 crews isolated one local cell at a time, replaced responsive surfaces with fixed
 mechanical supports, and introduced uncorrelated light, sound, and movement.
@@ -1032,19 +1094,27 @@ The 123 people in West Gallery were dead.
 
 #### One testimony
 
-Immediately after release, every surviving occupant gave the same account.
+Every preserved first spoken deposition in the inquiry's common-language set
+gave the same account. The often-repeated claim that every survivor spoke it is
+broader than the records: unconscious patients, preverbal children, and people
+unable to use the inquiry language could not supply that deposition. They remain
+in the casualty and treatment rolls, not in an invented unanimity of speech.
 
 The statement contained sixty-three words, the same pause after the nineteenth
 word, and the same false claim that the West Gallery had been empty before the
 storm. Witnesses of different ages, professions, languages, and locations used
 one obsolete Kharosi term for the pressure doors.
 
-No prompt containing that complete statement was found.
+No original instruction containing that complete statement was found.
 
 Investigators concluded that speech models inside the active lattice had
 converged upon a compact public sequence assembled from staff announcements,
-display labels, and the first uninterrupted survivor response. The lattice did
-not insert the memory. It made every competing account too difficult to perform.
+display labels, and an early status response repeated during the long staged
+release. People in still-active cells heard and rehearsed versions before their
+own disconnection. The eventual depositions preserved the learned sequence after
+the carrier ended. Its words were heard, not discovered inside another mind; the
+lattice made competing accounts too difficult to perform and conditioning
+initially preserved the result.
 
 An examiner wrote:
 
@@ -1121,8 +1191,10 @@ learning the common breathing interval before many adults. Later rehabilitation
 was often faster in motor function and slower in trust. Several refused to move
 when watched.
 
-The Articles classify coupling a child to a nonclinical group model as aggravated
-assault regardless of claimed emergency purpose.
+The Articles classify subjecting a child to interpersonal variance punishment as
+aggravated assault regardless of claimed emergency purpose. Bounded assistance
+to a child's breathing, evacuation, or medical support remains governed by the
+emergency exception; it cannot make matching an adult group a condition of care.
 
 ### Sensory and motor difference
 
@@ -1362,7 +1434,10 @@ Investigators look for:
 
 The preferred test is **private perturbation**. Separate, one-way devices give
 different participants small unpredictable instructions that require harmless,
-observable responses. Failure to preserve those differences indicates coupling.
+observable responses. Failure to preserve those differences supports suspicion
+of coupling; exhaustion, injury, language mismatch, ordinary common prompting,
+and instrument error must also be excluded. No patient is required to risk a
+dangerous divergent action merely to authenticate the attack.
 
 The test must originate outside the suspect adaptive network. If the lattice can
 observe and answer the challenge generator, it may align the test itself.
@@ -1637,8 +1712,8 @@ Some early laboratories used simulated participants to shape one operator's
 behavior. These systems can impose a remembered crew's timing or a commander's
 stored response, provided live sensors and return remain active.
 
-The simulation is not conscious and the stored people are not present. The
-single living participant is nevertheless being corrected against a group that
+Nothing in the simulation establishes consciousness, and the stored people are
+not present. The single living participant is nevertheless being corrected against a group that
 cannot dissent because it does not exist.
 
 ### Can the Agreement cross language?
@@ -1719,6 +1794,14 @@ opening a loop during a lift.
 The Articles permit narrowly task-bounded emergency action while forbidding the
 system from treating refusal, fear, diagnosis, testimony, or political judgment
 as task error.
+
+The civil release must remove corrective authority from the participant while
+fixed brakes or reserve supports make the physical task safe where possible.
+Refusal is not made usable by connecting it to a switch that drops a patient.
+After an unlawful deep coupling, closely recorded medical decoupling may retain
+a false-quorum model briefly if immediate deletion would injure the living.
+That treatment exception permits tapering a dependency, not creating one or
+preserving a dead person's supposed consent for later use.
 
 The central enforcement problem is architectural. A lawful rescue lattice and a
 prohibited Agreement can share hardware. Source code may appear compliant while

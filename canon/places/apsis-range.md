@@ -59,6 +59,17 @@ the limit of that argument. Isolation reduced the immediate casualty field. It
 did not answer whether an unknown long-lived fragment could leave the range or
 whether a remote experiment could impose risk upon matter far outside it.
 
+The range was empty by selection, not supplied from nothing. Construction crews,
+power stores, feedstock, cooling hardware, and diagnostics reached it through
+ordinary cargo movement after whatever interstellar passage their origins
+required. The containing system's shore geography remains withheld. The final
+firing could be synchronized from locally validated trajectories and clocks;
+it did not require remote command to cross an interplanetary baseline without
+light-time. A later light-speed abort signal could not overtake the radiation
+already in flight. Disabling a projector did not recall its launched particles
+either; interception would require separate hardware, a reachable trajectory,
+and time remaining before convergence.
+
 ## Condition after the Discharge
 
 The Compact Year +271 firing consumed the prepared baryon sleeve, most terminal
@@ -73,6 +84,14 @@ surviving crown geometry. Remote instruments watch for energetic debris,
 unusual charge-to-mass tracks, and unauthorized power synchronization. Their
 silence is evidence that nothing was detected within their sensitivity; it is
 not proof that no strangelet escaped.
+
+The interdiction is an operating volume, not a wall that catches everything
+leaving it. Exclusion prevents another vessel from entering, salvaging, or
+carrying material onward where enforcement reaches. Tracking restricts possible
+trajectories according to each instrument's view and sensitivity. Neither
+procedure promises to intercept every neutral, dim, small, or already distant
+fragment. Receiver quarantine and distributed searches therefore remain relevant
+even if no vessel has violated the current approach perimeter.
 
 The site is dangerous for ordinary reasons—stored energy, damaged projectors,
 radiation, high-velocity debris, and possibly exotic baryonic matter. No

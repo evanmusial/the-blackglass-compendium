@@ -57,6 +57,25 @@ is disputed. The accepted reconstruction distinguishes three claims:
 The uncertainty concerns responsibility and intent, not whether human engineers
 built the array.
 
+## Procurement and divided knowledge
+
+The program was not materially invisible. Power storage, projector manufacture,
+terminal delivery, radiators, timing standards, and range exclusion required
+ordinary shipments, skilled maintenance, and a sustained claim upon industrial
+capacity. Its concealed element was the final combination and purpose. A
+contractor could know the tolerances of a projector without receiving the whole
+firing geometry; a public power ledger could establish extraordinary consumption
+without identifying the authority that selected the open-quench solution.
+
+This division explains both the survival and the limits of the archive. Workshop
+records can independently authenticate hardware, and staff families can document
+an employment and death, while neither can reconstruct the complete instrument.
+The post-Apsis inquiry therefore does not distribute guilt equally among every
+supplier. It asks what each office could know, what it was obliged to question,
+and who possessed the authority to combine the separated systems. Compartmented
+knowledge is evidence about responsibility, not proof that responsibility had
+nowhere to reside.
+
 ## The Directorate's safety argument
 
 Directorate reviews treated microscopic focus, range isolation, and the

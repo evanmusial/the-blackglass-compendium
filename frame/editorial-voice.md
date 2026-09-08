@@ -43,6 +43,12 @@ existential claim.
 
 ### Competing explanations
 
+The editors distinguish an intentional unresolved matter from an absent
+explanation. If a source cannot identify an operator, origin, or exact date, the
+entry should still explain the material history, observable consequence, and
+reason the inference stops. A question mark does not substitute for the
+engineering or social life surrounding the question.
+
 Technical, legal, religious, cultural, and survivor interpretations can coexist.
 The editors state which explanation is dominant and why, while retaining
 minority theories that account for unresolved evidence.

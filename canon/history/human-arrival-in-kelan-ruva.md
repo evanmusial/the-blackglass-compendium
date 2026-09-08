@@ -361,6 +361,44 @@ Avara's antiquity has political consequence. It was the first durable human
 home in Kelan–Ruva, not a later Kharosi colony. Present uncertainty about its
 formal sovereignty cannot erase the settlement sequence.
 
+### Establishing a living inheritance
+
+The arrival horizon records imported organisms; it does not show that a full
+terrestrial ecosystem functioned immediately. Closed growing rooms, food vats,
+stored meals, selected soil communities, waste processors, and later outdoor
+cultivation provided overlapping but incomplete forms of support. A store could
+contain a crop lineage without possessing the right microbial partners,
+nutrients, growing conditions, or trained cultivators to produce food from it.
+The distance between biological possession and reliable sustenance helps
+explain why ecological archives remained working institutions instead of
+becoming founding relics.
+
+Local minerals and water supplied elements, not ready-made terrestrial soil or
+food. Processing had to remove harmful compounds and return trace nutrients
+lost in waste streams, inaccessible deposits, or exports. Large imports and
+local extraction supplemented recycling; the founders did not close every
+material loop perfectly. Oxygen production required an energy and chemical
+account, and a successful first harvest did not prove stability across disease,
+equipment failure, or the long Avaran dark interval.
+
+Expansion also changed the evidence it was trying to understand. Terrestrial
+microorganisms escaped sealed systems, spread with people and equipment, and
+entered older deposits. Later investigators distinguish a dated geological
+context from a modern organism found inside it. Possible prehuman life remains
+unresolved because contamination, abiotic chemistry, and incomplete preservation
+can fit important portions of the record. The uncertainty does not imply that
+alien organisms, if they existed, were either compatible with human bodies or
+incapable of harming them through toxins and ecological disruption.
+
+The surviving human inheritance includes instruction and care. Adults had to
+teach cultivation, repair, childbirth, language, and collective decisions to
+children born after the carriers became settlements. Stored reproductive
+material widened ancestry; it supplied neither parents nor a functioning
+community by itself. Different carrier traditions persisted partly because
+they solved ordinary work in different ways. That inheritance gives the later
+material, living, and civic settlement ledgers a historical basis without
+claiming their modern terminology existed in First Shelter.
+
 ### Surveying the heavy world
 
 Kharos was the obvious long-term prize and the more difficult immediate home. It
@@ -592,7 +630,8 @@ No accepted artifact contains, in one independently authenticated chain:
 - a complete numbered date under that calendar;
 - a uniquely recoverable celestial state or physical time coordinate;
 - the observation's location and clock convention;
-- and the transformations connecting that record through transit to local time.
+- and a defensible conversion from that physical state to the time convention
+  under which the claimed present or historical date is being reported.
 
 Records normally contain one side of the bridge. Navigation catalogs carry a
 physical epoch in machine form but have lost the manifest defining the epoch
@@ -607,6 +646,14 @@ connection to the carrier in whose archive it was found. A pulsar table and
 civil timestamp occur in one restored file, but both descend from the same
 post-arrival conversion whose source epoch is missing. Exactness is not
 independence.
+
+A complete founding flight log is not necessary for every possible solution.
+An independently authenticated civil date tied to a uniquely recoverable Solar
+observation could anchor an Earth calendar under an explicitly stated modern
+time convention even if the founders' transit remained unknown. No accepted
+example survives. The missing bridge is documentary; scholars do not use the
+unknown passage as a physical theorem that a calendar can never be recovered.
+Canon preserves the loss of that bridge, not an error in astronomy.
 
 ### How ordinary computation lost the bridge
 
@@ -643,6 +690,14 @@ worldline or route transformation, an experienced proper duration does not
 specify which Earth-coordinate event should be considered simultaneous with
 arrival. This is ordinary relativistic and archival caution; it does not imply
 time travel or reversed causality.
+
+This last ambiguity applies especially to claims about what a particular
+passenger experienced and which departure belongs to which arrival. Modern
+astronomers may choose a reference frame and publish an extrapolated Solar epoch
+in that convention without possessing those passenger worldlines. They still
+cannot attach the lost civil year number. A received view of Earth would also
+describe its retarded, light-delayed state; calling that Earth's simultaneous
+present condition would require a separate, stated convention.
 
 ### Why historical astronomy does not close the gap
 

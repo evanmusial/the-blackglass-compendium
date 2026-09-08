@@ -42,6 +42,13 @@ at manual boundaries begin their override strokes during that interval.
 Different mechanisms finish later, but no registered habitat pressure door
 remains closed.
 
+The near-simultaneous starts use the emergency network's ordinary shared timing
+cues after local cells converge. Manual overrides vent and unlatch pressure
+boundaries through rated mechanisms; residents do not overpower full pressure
+differentials with their hands. Independent capsules and craft are outside the
+registered habitat pressure system, which explains the surviving sealed refuges
+without inventing a door the same inventory says was opened.
+
 The supported logs show that many participants retained private alarm and made
 brief, unsuccessful divergent movements. The event is therefore not evidence of
 a shared mind, unanimous belief, or voluntary mass death. It demonstrates

@@ -1,5 +1,12 @@
 # The Rehearsal Integration Record
 
+> **Subsequent integration:** The [collection-wide pass](collection-integration-pass.md)
+> tightens the survival and coverage conditions of Succession: supercritical
+> daughtering and a connected capture network permit spread but do not guarantee
+> survival or conversion of every reservoir. Exhaustive coverage additionally
+> requires sustained successful access before conditions change. The entry and
+> shared canon now make this distinction; the adoption history below is retained.
+
 ## Purpose
 
 This record documents the direct authorial adoption of The Rehearsal, its filing

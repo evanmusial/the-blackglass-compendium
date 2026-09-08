@@ -148,6 +148,10 @@ infrastructure without implying that the subjects share one physics. See the
 
 ## Start here
 
+The [collection integration record](docs/collection-integration-pass.md) documents
+the reconciliation of all current manuscripts with shared physics, histories,
+institutions, and frame lore, including the deliberate mysteries that remain.
+
 - Read [`docs/repository-structure.md`](docs/repository-structure.md) before
   adding or moving files.
 - Read [`docs/authoring-workflow.md`](docs/authoring-workflow.md) before drafting

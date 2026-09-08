@@ -91,6 +91,30 @@ the unknowns that make moving or striking it dangerous. Authorities must record
 what they cannot establish rather than translating uncertainty into a safe-
 handling fiction.
 
+Custody is legal responsibility for the observation perimeter, records, and
+decisions; it need not mean physical possession of a specimen. This distinction
+allows an authority to accept a report and establish stand-off observation
+without requiring the finder to capture the very object whose behavior is
+unknown. Candidate notices identify the uncertain track, last constrained
+position and velocity, observation age, and alternative ordinary explanations.
+They are revised when the search volume grows or independent evidence improves.
+
+No interdict office receives an instantaneous regional picture. Within a system,
+warnings travel at ordinary light-time. Beyond it, notices travel in physical
+carriages and arrive with a stated age. Shores can refuse suspect cargo before
+commitment; they cannot recall a committed exchange by sending a late warning.
+A refusal order must include the proposed material path and relief arrangements,
+not merely the word *Apsis*. Candidate material is not made safe by placing it in
+a closed carriage, and a lawful evidence carriage carries the records of the
+candidate rather than the candidate itself.
+
+When an anomaly proves ordinary, applying jurisdictions preserve the original
+evidence and publish the corrected classification through the same routes as
+the warning. Local courts decide compensation, wrongful concealment, and salvage
+claims separately. Exoneration cannot restore a missed season of supply; the
+cost of precaution is part of the case rather than proof that precaution was
+unnecessary.
+
 ## Belief, speech, and the Lower State
 
 The Interdict regulates conduct, custody, and weapon architecture. It does not

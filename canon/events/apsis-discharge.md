@@ -92,23 +92,35 @@ conditions were all met.
    survives the prompt field and becomes embedded in dense baryonic matter.
 2. **Flowering:** conversion of a dense reservoir produces enough energy and
    material rearrangement to eject viable daughter strangelets.
-3. **Succession:** each converted reservoir seeds, on average, more than one new
-   conversion. The strangelet reproduction number `R_s` has exceeded one.
-4. **Settlement:** ordinary baryonic reservoirs in the chain's future light cone
-   are progressively replaced by lower-state matter.
+3. **Succession:** viable daughters seed further reservoirs. A sustained
+   strangelet reproduction number `R_s > 1`, after transport and capture losses,
+   permits a growing chain; a finite seed population can still die out.
+4. **Settlement:** the stronger proposed limit in which the surviving chain
+   repeatedly reaches and converts every reservoir in its accessible network
+   before fuel, access, or viable daughtering ends.
 
 **Daughtering** is a fragmentation and conversion process, not reproduction by
 a living organism and not creation of mass. Every daughter consists of baryons
 injected by the weapon or converted from encountered matter.
 
-If a catalytic stability island exists, if daughtering remains viable, if
-`R_s > 1` remains sustained after losses, and if viable capture paths form a
-percolating network of accessible reservoirs, the large-scale conclusion is no
-longer a matter of blast radius. Conversion becomes asymptotically unavoidable
-throughout ordinary baryonic matter connected through that future-causal
-network. It does not outrun light, convert photons or dark matter, extract
+If a catalytic stability island exists, if daughtering remains viable, and if
+viable capture paths form a connected network of reservoirs, the threat is no
+longer a matter of blast radius. `R_s > 1` describes the possibility of sustained
+spread, not a guarantee that the first seed survives or every reachable reservoir
+is eventually taken. Repeated access, finite fuel, correlated daughter losses,
+reservoir depletion, and paths lost to cosmic expansion must also be accounted
+for. Settlement remains a conditional limiting model, not a consequence proved
+by a reproduction number alone. Unassisted spread does not outrun light, convert photons or dark matter, extract
 matter from black holes, alter the vacuum, or reach regions permanently outside
 its cosmological horizon. Its timescale may be stellar or cosmological.
+
+A ligature would transport a candidate only as physical carriage cargo through
+a participating pair of shores. No accepted event demonstrates such transport.
+Artificial carriage delivery could outrun the ordinary-light arrival of an
+unassisted seed while still increasing sequence; it would be a separate act of
+contamination, not a strangelet acquiring route control or crossing an idle
+ligature. This is one reason candidate custody is a route-law concern before
+any Taking is observed.
 
 The conditional argument is stronger than the evidence that nature satisfies
 its premises. No accepted observation establishes Taking, Flowering, or

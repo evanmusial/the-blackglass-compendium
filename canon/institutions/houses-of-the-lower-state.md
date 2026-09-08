@@ -158,12 +158,26 @@ produce `R_s > 1`, whether Apsis released a viable seed, or whether any present
 astronomical anomaly marks a Taking. Their certainty is the point at which they
 depart from the evidence.
 
+Even a measured reproduction number above one would not prove the Settlement.
+A finite lineage can die out, daughter losses can be correlated, and a growing
+chain may exhaust or lose access to reservoirs before it reaches every place
+named in a House's cosmology. Investigators distinguish belief in a possible
+lower state, evidence of one conversion, evidence of a surviving chain, and the
+much stronger claim of exhaustive eventual coverage. Devotional copies commonly
+erase those distinctions while retaining the numerical symbol.
+
 Even under their preferred physical model, the Settlement is neither
-instantaneous nor literally universal. Strangelets follow causal paths and can
+instantaneous nor literally universal. Unassisted strangelets follow ordinary causal paths and can
 convert only accessible baryonic matter. Photons, dark matter, vacuum, matter
 inside inaccessible black holes, and regions beyond a permanent cosmological
 horizon do not become strangelets. Many Houses preserve the phrase *entire
 universe* because liturgy is not a boundary condition.
+
+Sending a suspected seed through a ligature would instead be deliberate cargo
+transport through matched shores, still ordered by sequence. No House has
+demonstrated it. Open Yield's interest in carriage custody and shore access is
+therefore a procurement concern, not evidence that the lower state knows how to
+navigate the routes.
 
 ## Deliberately unresolved
 

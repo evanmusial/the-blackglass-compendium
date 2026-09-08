@@ -51,6 +51,34 @@ Civil heat-recovery shells remain lawful only when they are physically
 incomplete and their return bands, power source, failure state, locally
 revocable bypass, and egress capacity can be inspected independently.
 
+Small-source research has a distinct exception: nonliving sources inside
+nonoccupiable apparatus with hard energy limits, independent exterior shielding,
+and mechanically destructive failsafes. Physical disassembly must prevent
+reclosure before inspection. This permits a sealed calibration experiment
+without permitting a sealed inhabited chamber; consent does not waive the latter
+prohibition.
+
+## What an egress inspection establishes
+
+A visible gap is insufficient if no inhabited heat loop can reach it. Inspectors
+trace heat from occupied districts through pumps, valves, stores, and emitting
+surfaces to cold space or another adequate external sink. They record the heat
+load the path can actually carry after a local failure, the power it requires,
+and who can close each part. A reserve radiator connected through the same
+failed pump as the main radiator is not an independent egress path.
+
+The certificate belongs to an arrangement, not permanently to a device. Adding
+a dock, moving a service skin, installing another company's inspection vanes,
+or changing a control contract can invalidate it. Mutual interference among
+otherwise lawful operators is a recurring source of disputes: each may preserve
+its own aperture while the combined geometry covers both.
+
+Responsibility follows control and capacity. Owners finance ordinary upkeep;
+operators document profile changes; residents retain the local bypass; and an
+inspector with a separate acquisition path verifies the claim. Signatories
+disagree over penalties and compensation, but none can establish compliance
+merely by showing that occupants signed a lease acknowledging heat risk.
+
 ## Rescue authority
 
 Once hostile closure is credibly established, rescue authorities may destroy
@@ -63,6 +91,12 @@ can become the only available radiative exit and expose rescuers to the target's
 accumulated thermal burden. Opening a path is therefore not automatically a safe
 act, and illuminating or probing an enclosure can add energy to the population
 being rescued.
+
+The duty distinguishes ordinary aperture emission from active concentration by
+surviving anchors and failing stores. It does not presume that all heat becomes
+light at once or that every small breach is a white seam. Rescue records preserve
+the assumptions used because a reasonable broad-release decision can still
+damage property without constituting negligent enclosure.
 
 ## Relationship to managed environments
 

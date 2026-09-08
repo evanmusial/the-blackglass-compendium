@@ -138,6 +138,15 @@ Every three or four adopted entries, perform a collection-level review. This is
 where the taxonomy should be corrected if real entries reveal that it is too
 coarse, too rigid, or conceptually wrong.
 
+The [collection integration record](collection-integration-pass.md) supplies the
+current review baseline. Check depth by following consequences, not counting
+words: someone must prepare the apparatus, maintain its supporting environment,
+pay its ordinary costs, survive or fail to survive its breakdown, and leave the
+evidence the editors claim to possess. A short registry note may point to that
+treatment elsewhere; a full manuscript must not outsource its decisive causal
+step to an unexplained name. Keep source-era calendar labels distinct from the
+declared units in engineering calculations.
+
 ## Stage 6: Adoption
 
 An adopted entry is one the collection may safely cite. Adoption requires:

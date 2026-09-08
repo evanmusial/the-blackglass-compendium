@@ -670,6 +670,14 @@ selected or authenticated in advance without becoming part of the rupture.
 Tachyonic behavior therefore does not provide controllable instantaneous
 communication.
 
+The exterior still has ordinary causal order and, where independently
+calibrated, ligature sequence time. A route clock carried into a rupture is a
+finite instrument in one chart; its former sequence calibration does not give
+that chart authority over every other chart. A discrepancy cannot be used to
+schedule a carriage before its permitted exterior commitment or to open a new
+shore. Route records can bound when outsiders received a release without
+repairing the incompatible histories contained in the released evidence.
+
 ### Locally survivable, globally lethal
 
 A rupture is not always an immediate killing field. People may survive for long
@@ -841,9 +849,12 @@ set of synchronized observations rather than visible walls.
 During exploration before egress-complete lock, a person may walk toward a
 continuously visible exterior beacon while every local range decreases and still
 never arrive. The beacon is not a mirage; exterior instruments may confirm that
-it exists and is emitting. If the inbound view remains predictable after lock,
-the case is not egress-complete. The earlier failure lies in composing the
-traveler's local progress with the exterior separation.
+it exists and is emitting. An inbound view alone does not supply an outward
+path: boundary exile can be asymmetric. A demonstrated outbound signal under an
+interior sender's control would suspend the egress-complete finding. Nor does
+one received view establish that the next inbound path will remain available.
+The earlier failure lies in composing the traveler's local progress with the
+exterior separation.
 
 In vacuum, free fall and line-of-sight ranging remove many mundane explanations.
 They do not guarantee escape. A probe can expend finite propellant along one
@@ -970,8 +981,11 @@ If one-way supply is possible, sending material inward remains an ethical rather
 than merely technical decision. A package may sustain an occupied chart, arrive
 after the people it was meant to save, enter a different refuge, or enlarge the
 set of infrastructure implicated in the rupture. No supply plan is described as
-relief until receipt is confirmed within the intended local history. One
-successful delivery does not make the crossing repeatable; the next attempt may
+confirmed relief until receipt is evidenced within the intended local history.
+Such evidence may survive before full lock or emerge after release. During an
+egress-complete interval, exterior authorities cannot obtain a sender-confirmed
+receipt from the captive chart and must record the act as attempted provision.
+One successful delivery does not make the crossing repeatable; the next attempt may
 close the aperture, capture the delivery system, move the rim, or reach another
 chart.
 
@@ -990,6 +1004,20 @@ One externally coherent aftermath eventually exists. It may contain records of
 other locally coherent outcomes that did not emerge. Reconciliation doctrine
 protects those records because destroying them would make the aftermath easier
 to narrate and less true.
+
+Reopening is a staged certification. Observers first establish an ordinary
+exterior inventory and a rim that no longer shifts. Limited uncrewed crossings
+then test several formerly implicated apertures and traversal orders without
+reconnecting the site's old service network. Separated instruments compare raw
+records after each cycle. Longer incidents and wider prior excursions require
+longer observation; an inherited fixed number of quiet hours is not evidence
+that a different rupture has resolved.
+
+The certificate names the tested paths, observation interval, restored service
+limits, and conditions for renewed closure. It does not certify every imaginable
+interior route for all future time. A site can return to limited custody while
+remaining unfit for occupation, and a returned person need not remain detained
+until the building can be inhabited.
 
 ### Permanent quarantine
 
@@ -1035,10 +1063,13 @@ every interior attempt to reach the mapped boundary fails.
 
 ### Closed-path and order tests
 
-The characteristic metric finding is not one strange distance but
-**order-dependent holonomy**. Survey packages traverse the same authenticated
-local segments in different orders. Each segment length and acceleration history
-is plausible. The closed result depends upon the traversal word.
+The characteristic metric finding is not one strange distance but an
+**unexplained failure of path composition**, sometimes abbreviated as
+order-dependent holonomy. Ordinary curved spacetime already makes parallel
+transport path-dependent, and rotations need not commute. Neither fact is a
+Manifold signature. Survey packages compare the same authenticated local
+segments under recorded motion and curvature; the anomaly is the residual that
+no one ordinary geometry can absorb while preserving those measurements.
 
 Investigators aggregate pre-existing facility traffic, pre-lock operations,
 exterior observations, and the smallest ethically justified set of uncrewed
@@ -1052,8 +1083,12 @@ are sampled in another order. Repetition produces recursive residuals rather
 than one stable offset.
 
 Clock evidence is analogous. Each oscillator can meet its calibration and age
-monotonically. Pairwise comparisons nevertheless form a directed cycle for which
-no assignment of corrections produces one acyclic chronology.
+monotonically. Rotation, gravitational redshift, changing signal delay, and
+different synchronization conventions can make naive pairwise offsets fail to
+close in ordinary spacetime. Investigators therefore retain actual emission,
+reception, and custody events with uncertainty bounds. The candidate anomaly is
+a directed cycle of authenticated causal dependencies that survives those
+corrections, not disagreement about distant simultaneity.
 
 ### Material identity
 
@@ -1681,6 +1716,49 @@ One supported history of death cannot be used to seize an estate.
 The status is costly and administratively untidy. That is its purpose. A clean
 ledger obtained by erasing one authenticated life is treated as a second injury.
 
+An unclosed estate still has a finite value. Competing authenticated claims do
+not multiply the money, land, or pension that exists outside. Interim trustees
+fund dependents under reviewable priority rules, record what has been paid,
+and preserve contested remainder interests. Support arising from public rescue
+or employment obligations is accounted separately. Otherwise an authority could
+claim that honoring every history requires impossible duplicate payment and use
+that impossibility to honor none.
+
+Long absence also cannot leave every public office, marriage, or child's care
+frozen. Courts can authorize succession to a function or a new arrangement of
+care without pretending to have learned an unobserved death. Such decisions
+govern the people who must continue living outside. They do not close the
+interior casualty record.
+
+### Keeping the outside staffed
+
+Permanent quarantine is a maintained institution, not an eternal unattended
+warning light. Exterior platforms consume propellant, shielding, replacement
+clocks, power, thermal capacity, and the attention of people trained to preserve
+unwelcome disagreement. Rimkeepers rotate through separately supplied berths
+beyond the greatest excursion. A relief crew inherits a measured reference
+network before its predecessor departs; no single tender, depot, or calendar
+change may temporarily become the only outside.
+
+The proposed funding model separates the local custody duty, liabilities of
+operators where established, and contributions from jurisdictions that depend
+upon the threatened junction. Talren's lost Survey House cannot be the sole
+debtor paying for its own quarantine. With mailfall delays, an exterior office
+must hold enough stores and local authority to survive a missed budget cycle
+without extending an infrastructure connection toward the rim.
+
+Families are offered access to replicated exterior records and memorial sites
+away from the exclusion. They are not required to travel into a frontier supply
+chain to keep a name on the roll. Private vigils near an aperture remain one of
+the hardest enforcement problems: a person can mistake the survival of an old
+wall for the continued existence of a door through which a relative might hear.
+
+The most common proposed duty record is modest: the receiving instruments were
+working, the exterior references remained independent, no crossing was
+confirmed, and the next watch accepted the same obligations. The wording gives
+successor staff something finite they can honestly promise without declaring
+that silence has become an answer.
+
 ### Returned persons and contradictory identity
 
 Meret survivors were called substitutes, late versions, or people from the
@@ -2175,6 +2253,11 @@ recursion**, **egress-complete**, **deadfold**, **boundary exile**, **orphan
 exit**, Talren, Meret, Exterior Measure, and the Common Outside Convention are
 not silently promoted by appearing in this manuscript.
 
+The later development of staged release certification, attempted inward relief,
+finite estate administration, and funded rimkeeper succession has the same
+reserved status. These practices supply a workable human response, not evidence
+that Talren released or that its captives established contact.
+
 A full entry may still promote, revise, or reject:
 
 - evidentiary thresholds and incident-specific timing for the establishment
@@ -2297,9 +2380,8 @@ reconcile it.
   than opportunistic interference with a naturally occurring manifestation?
 - What physical preparation lets humans bias the approximate envelope without
   implying genuine aim or repeatable control?
-- How long must repeated reciprocal crossings and a stable exterior mass-energy
-  ledger persist before release is accepted, and how should that threshold vary
-  with spatial and temporal scale?
+- What observation intervals and service limits do the proposed staged release
+  certificates adopt for each named case's scale and prior boundary excursions?
 - Can every mature rupture become egress-complete, or is closed recursion one
   architecture among several terminal forms?
 - How long can one locally coherent refuge persist?

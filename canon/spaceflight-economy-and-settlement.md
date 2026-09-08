@@ -459,14 +459,23 @@ making planetary evacuation physically impossible on the timescale of an attack.
 
 ### One worked core-trunk year
 
-The following is an authoring example, not a universal carriage standard.
+The following is an authoring example, not a universal carriage standard. Its
+accounting year is **365.25 standard days**, each of **86,400 seconds**; it is not
+Kharos's approximately 299-standard-day orbital year or an assigned local civil
+calendar. The eight-day crossing and thirty-six-hour recovery below use those
+same duration units.
 
 A mature ligature has:
 
 - route depth of eight days;
 - four active harmonics;
 - roughly thirty-six hours of recovery after each exchange;
-- and 144 scheduled paired exchanges in one local year after maintenance margin.
+- and 144 scheduled paired exchanges per accounting year after maintenance margin.
+
+Four modes with a 9.5-day occupied-and-recovery cycle provide about 154 paired
+cycles before maintenance, so the published 144-cycle schedule fits. The same
+plant cannot advertise 144 cycles per Kharosi orbital year: it would have room
+for only about 126 even before maintenance.
 
 Its schedule contains:
 
@@ -478,9 +487,10 @@ Its schedule contains:
 | Foundation | 16 | 25,000 tonnes | 800,000 tonnes |
 
 The total is approximately **1.86 million tonnes of gross exchanged mass**. If
-common and foundation weights average roughly sixty percent useful payload, the
-route moves about 900,000 tonnes of useful freight across both directions, plus
-mail and approximately 38,000 passengers at 300 people per passenger carriage.
+common and foundation weights average sixty percent useful payload, the route
+moves **960,000 tonnes of useful freight** across both directions, plus mail and
+**38,400 passenger passages** at 300 people per passenger carriage. Return
+travelers count twice; this is capacity, not a net migration figure.
 
 The passenger mass is dominated by survival rather than seating. At an austere
 one kilowatt of metabolic and life-support heat per person, 300 travelers produce
@@ -505,6 +515,29 @@ arrival produces a **mailfall**: many communities receive weeks of news, prices,
 judgments, deaths, births, and orders at once. Markets and governments do not
 share one continuously updated interstellar present.
 
+### Changing a timetable without a live conversation
+
+A working timetable is a finite lease on specified sequence windows, weight
+classes, and paired boundary preparations. Its version and expiry travel with
+ordinary records. New schedules are proposed and acknowledged through earlier
+carriages and take effect only beyond an agreed change horizon. Until both
+operators hold the required receipts, each prepares the existing schedule or
+refuses; a unilateral amendment cannot create a valid differently matched
+exchange. Startup Answers use the seed's prearranged table instead.
+
+This procedure does not give either shore instantaneous knowledge that the other
+received the last receipt. It makes uncertainty fail toward lost traffic rather
+than an improvised occupied crossing. Expired or disputed windows stay empty.
+Emergency capacity therefore has to be reserved beforehand: a hospital cannot
+invent a matched urgent passage by announcing a need into an idle ligature.
+Persistent failure calls for ordinary-light contact, an available circuit through
+other systems, or renewed attempts under a surviving common recovery calendar.
+
+The institution that keeps an old timetable is consequently maintaining a
+physical possibility. Destroying its archive can strand intact machines. Courts
+treat a lost schedule, a repudiated contract, and a destroyed shore as different
+events even when each first appears as the same missed mailfall.
+
 ### Route stillness
 
 Carriages lock tanks, cargo, rotating equipment, weapons, and large adaptive
@@ -512,6 +545,31 @@ structures before commitment. Passenger motion is permitted within a compensated
 interior, but every moving mass consumes trim authority. High-motion cargo, large
 animals, unstable fluids, and active machinery pay a higher service cost because
 they increase chatter and spill risk.
+
+### Passenger care inside a closed weight
+
+Stillness rules bound mass movement; they do not require people to remain
+motionless. Certified interiors provide compensated walking areas, restraint and
+transfer equipment, toilets, accessible berths, and room to reach a fallen
+traveler. A manifest that balances only while every passenger behaves perfectly
+is an unsafe mass plan. Childcare, rehabilitation, sleep, private conversation,
+and ordinary disagreement continue during passage.
+
+Medical reserves include an isolated treatment space, drugs and oxygen for
+plausible emergencies, internal waste storage, and authority to spend thermal
+margin on a patient. A person who dies remains aboard until localization;
+bereavement care and bodily custody occupy real volume. Birth does not create
+unbooked mass, but obstetric work can sharply increase heat, motion, and service
+demand. Carriage certification must account for those demands without pretending
+that a change in head count violates conservation.
+
+Passenger operators sell a supported journey. Some historically priced needed
+care as freight complexity, excluding disabled or chronically ill travelers
+while advertising empty berths. Core common-carrier practice instead requires
+published accommodation capacity and reviewable medical deferrals. Specialized
+care can still consume scarce slots; a right to travel cannot make a deep route
+thermally safe. The recurring dispute is who pays for the required carriage and
+how long a person may be left waiting at the shore.
 
 ## The physical cost of passage
 
@@ -673,6 +731,23 @@ Payment commonly remains in escrow until destination evidence returns. Prices,
 currencies, and credit conditions diverge between mailfalls. Interstellar
 arbitrage carries route depth, schedule, and political risk rather than occurring
 instantaneously.
+
+### What a receipt can prove
+
+Authenticity and truth are separate assets. A valid signature proves custody of
+a signing authority; it does not establish an uncontaminated sensor, an honest
+manifest, a surviving destination, or independent observations. Physical records
+therefore carry their source history as well as their cryptographic seals.
+Copying a hundred signed packets from one compromised controller creates no
+additional witness.
+
+A weight right names its issuing registry, route, class, window, and transfer
+history. Resale is final only at the authoritative registry under that route's
+rules. A trader cannot settle the same right simultaneously in two isolated
+markets by presenting duplicate authentic copies. Distant purchasers may buy a
+conditional claim pending the next receipt, knowingly bearing that delay. Lost
+keys, rival successor governments, and a seized registry still generate real
+disputes; neither a distributed ledger nor a prestigious seal abolishes mailfall.
 
 ### Route-opening finance
 
@@ -966,6 +1041,35 @@ technology can descend gracefully without its population dying.
 Genetic archives reduce biological bottlenecks. They do not supply parents,
 technicians, constituencies, friendships, languages, or political legitimacy.
 
+## Everyday continuity and the cost of redundancy
+
+The three ledgers shape household life. A child's apprenticeship commonly crosses
+pressure districts so that the next generation does not inherit one irreplaceable
+teacher or one unexamined control tradition. Keeping a spare agricultural line
+alive requires growers who use and renew it, not merely seeds locked behind an
+official seal. A second clinic needs current practice, consumables, and staff;
+an empty room with a medical sign provides little replacement depth.
+
+Separation also costs time and labor. Independent districts duplicate kitchens,
+stores, pumps, inspection, and night shifts. Residents argue over the expense of
+maintaining a reserve that has not been needed in their lifetime. Poorer
+districts may quietly share the controller or nutrient plant that their charters
+say is independent. Inspectors must trace actual dependencies, including who can
+refuse an unsafe order, rather than count doors and generators.
+
+Ordinary cross-district festivals, visiting teachers, shared art, and family
+meals remain possible. Independence means the capacity to disconnect safely;
+permanent social isolation would itself erode the civic ledger. During a drill,
+the decisive observation is often whether a separated district can feed its
+children and care for its sick after the invited visitors have gone home.
+
+Mailfall creates another household rhythm. Messages name the date of writing,
+the last news their sender knew, and any decision already taken locally. A
+reply may congratulate a birth and arrive after a death. Family representatives
+hold bounded authority to act before distant consent can return; arrangements
+for guardianship, burial, medical costs, and inheritance are negotiated before
+departure. These institutions make delay survivable while leaving it painful.
+
 ## Ecology and biological custody
 
 No foundation imports one simplified “Earth ecosystem.” It carries several
@@ -1258,6 +1362,14 @@ The regional scale follows from cumulative filters:
 
 Humanity may have instrumented or briefly occupied several dozen systems while
 maintaining multigenerational societies in only eight to twelve.
+
+The range describes the present historical region, not a universal carrying
+capacity derived from conjugacy alone. A complete population and opening model
+would also need dated launches, failed foundations, migration, births, and lost
+routes. Those histories remain only partly recovered. The constraints explain
+why a small region is credible and expensive to enlarge; they do not prove that
+humanity could never inhabit a thirteenth system or that every past census had
+the same size.
 
 An inhabited system is therefore a historical achievement. Losing Valec cannot
 be repaired by placing a flag on the next available planet.

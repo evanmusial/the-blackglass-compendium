@@ -283,6 +283,41 @@ make it safe. Enough defensive knowledge can imply the attack it defends
 against, and enough explanation can show a gifted reader where the editors have
 cut.
 
+## Provisional custody distinctions
+
+Later custody practice distinguishes recognition aids from constructive
+collations. A recognition aid may show an exterior mark, a failure signature,
+an emergency action, and the provenance needed to judge them while withholding
+the geometry or parameter that completes an instrument. The missing component
+is identified as missing. A deliberately uncorrected technical unit is not
+quietly reused as a trustworthy clinical dose, evacuation interval, or ordinary
+engineering tolerance. Preserving the historical danger of a text must not
+manufacture an unrelated danger in the defensive instructions attached to it.
+
+These are provisional practices, not evidence for one universal Blackglass law.
+The difficult cases concern inference: a safe warning can become constructive
+when joined to a local machine inventory or another archive's diagram. Custody
+review therefore asks what the intended reader and equipment already possess,
+not only whether the new paragraph contains a complete design by itself. The
+rule can be abused to restrict harmless scholarship, and survivor accounts
+preserve those abuses alongside successful containment.
+
+Automatic translation does not remove this problem. An ordinary nonconscious
+system may still combine divided records, normalize omitted units, or produce
+a simulation usable for construction. A machine does not have to suffer
+comprehension for its output to create capability. Conversely, an inert file
+does not become a live Agreement carrier, a Rzez field, or a Manifold rupture
+merely because a machine indexes it. Any constitutive exposure must acquire the
+actual feedback, apparatus, and local conditions required by that system.
+
+Custodial independence therefore includes people and computation as well as
+walls. Several pads using one remote translator that receives every fragment
+have reunited the archive even if no physical carrier crosses between them.
+The practical alternative preserves bounded queries, separate working
+collections, independent review, and records of the material actually combined.
+It reduces an opportunity for completion without proving that every future
+inference has been prevented.
+
 ## Refusal to read
 
 Most people who recognize an authenticated Blackglass mark do not proceed to the

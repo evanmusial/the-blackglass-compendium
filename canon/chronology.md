@@ -36,6 +36,14 @@ Kharos's 299-day orbital period is an astronomical fact. It is not yet
 established as the length of a Compact Calendar year. Do not convert orbital
 periods into Compact-relative dates until the calendar itself is designed.
 
+Numerical engineering examples use declared duration units. Unless a calculation
+states otherwise, a standard day is 86,400 seconds and an accounting year is
+365.25 such days. These are authorial comparison units, not a restoration of an
+Earth civil epoch. Narrative Compact years retain their source calendar;
+Kharosi orbital years, biological ages, route schedules, and historical era
+labels must not silently substitute for one another. Quoted incident hours
+retain their recorded clock basis unless a reconstruction supplies a conversion.
+
 Humanity's terrestrial origin does not supply an absolute Earth date. Historical
 work distinguishes three questions that older popular accounts often collapse:
 
@@ -104,7 +112,7 @@ reserved as its secret origin.
 | Compact Year -12 | The Calorimeter Deaths become the first accepted lethal full radiant closure and first documented white seam. | A | Odran reconstruction later makes the energy and momentum ledger decisive. |
 | Compact Year 0 | Valec is destroyed in the only universally accepted planetary Rzez deployment. | A | The attack culminates over eleven days after a four-month Gray Season. |
 | Compact Year 0 and after | The Sixth Compact of Kharos is created. | Established consequence of Valec in the entry | Prohibits high-risk Rzez engineering and related knowledge. |
-| Compact Year +23 | Valec soil surveys confirm chemically ordinary matter unable to sustain large persistent structures. | A | Basis for the conclusion that Valec cannot become a world again. |
+| Compact Year +23 | Valec soil surveys confirm chemically ordinary matter unable to sustain large persistent structures. | A | Basis for the conclusion that a coherent habitable world cannot be restored; gravity and pressure-supported aggregation persist. This survey is not continuous present-era monitoring. |
 | Compact Year +61 | The Closed Night at Ninth Holding becomes the defining hostile radiant enclosure. | A | More than eighteen thousand people are likely to have been inside; its route location remains redacted. |
 | Compact Year +64 | The initial Articles of Open Radiance are adopted. | Established consequence of Ninth Holding | Thermal egress becomes a protected life-support interest. |
 | Compact Year +81 | The Thirty-Three Windows defeat a hostile closure at an undisclosed airless logistics site. | B for the failed closure | Establishes motion and matter-wake defense. |

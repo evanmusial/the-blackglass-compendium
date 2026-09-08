@@ -169,15 +169,19 @@ cannot be excluded is that some droplets entered a narrow stability island in
 which strange quark matter was stable at zero pressure, could incorporate
 ordinary nuclei, and divided into viable daughters as it grew.
 
-That stability island is the Rehearsal's one indispensable departure from
-established physics. The array did not create energy, baryon number, distance,
-or time. Daughtering did not multiply matter. It divided converted matter into
+That stability island, including a formation path able to reach it, is the
+Rehearsal's indispensable particle-physics departure. The means of preparing
+near-Planck kernels are themselves a remote engineering extrapolation, not a
+capability demonstrated by ordinary accelerator science. The array did not
+create energy, baryon number, distance, or time. Daughtering did not multiply
+matter. It divided converted matter into
 more catalytic interfaces. If the island exists, if at least one suitable seed
 survived the open quench, if it reached enough ordinary matter to begin growth,
 and if each converted reservoir released more viable daughters than the larger
-environment destroyed or lost, the chain entered **the Succession**. The number
-of independent seed trials made at Apsis was large enough that, under those
-conditions, extinction of every lineage would become negligible.
+environment destroyed or lost, the chain entered **the Succession**. Apsis
+supplied an immense possible number of independent seed trials. Under favorable
+survival and independence conditions, extinction of every lineage could become
+negligible; neither condition can be measured from the gross yield alone.
 
 The terminal claim is precise even when common speech is not. The Succession
 can convert ordinary baryonic matter in its future causal domain. It does not
@@ -521,6 +525,22 @@ dividing phase whose daughters evaporate cannot cross an interplanetary void. A
 phase that is favored only at neutron-star pressure does not convert ordinary
 planets at zero pressure.
 
+The charge condition applies to the whole encounter. Capturing a positive
+nucleus changes the droplet's charge, temperature, and surrounding leptonic
+population. A dangerous lineage must restore its permissive surface state
+through the same accounted capture, emission, and equilibration processes before
+electrostatic repulsion or heating stops further growth. Daughters must inherit
+that capacity, not merely the parent's composition. A neutral grain is not
+automatically a neutral catalytic surface, and an initially negative seed is not
+an inexhaustible store of negative charge.
+
+Nor does favorable bulk binding prove favorable division. Forming additional
+surfaces costs energy. The postulated island requires charge, surface, and
+surrounding-particle contributions that favor particular finite daughter sizes
+while leaving each daughter stable outside its parent environment. These are
+separate requirements of the fictional phase; no ordinary observation of
+strangeness establishes them together.
+
 The Directorate did not know the boundaries of the island. Its strategy was
 statistical: produce many independent droplets across many quench histories,
 charges, baryon numbers, angular momenta, and cooling rates. The desired output
@@ -574,8 +594,9 @@ Technical and popular accounts divide the terminal chain into four stages.
 ### The Taking
 
 A viable catalytic seed is slowed within a sufficient column of ordinary matter
-and begins incorporating nuclei. In neutron-rich degenerate matter the absence
-of a nuclear Coulomb barrier makes growth easiest. In ordinary matter the
+and begins incorporating nuclei. In regions containing unbound neutrons,
+neutron capture avoids the nuclear Coulomb barrier and can make growth easier.
+Degeneracy alone does not remove that barrier. In ordinary matter the
 setting's postulated neutral or negative surface state is essential.
 
 Conversion releases binding energy and heats the surrounding material. If the
@@ -608,15 +629,19 @@ reservoir on average. Directorate descendants expressed the threshold as
 
 > `R_s = N_d f_v f_e P_c`,
 
-where `N_d` is the number of daughters made available for export, `f_v` the
-fraction that remain viable, `f_e` the fraction that escape the parent
-reservoir, and `P_c` the probability that an escaping daughter is eventually
-captured by another usable baryonic reservoir.
+where `N_d` is the number of daughters produced in an exportable state, `f_v` the
+fraction that remain viable, `f_e` the fraction of those that escape the parent
+reservoir, and `P_c` the conditional probability that an escaped viable daughter
+is captured by, and successfully starts conversion of, another usable baryonic
+reservoir. The conditional definitions matter: capture, survival, and successful
+Taking cannot each be assumed merely because a particle crossed a detector.
 
 The factors are not universal constants. They depend upon the daughter spectrum,
 charge, magnetic fields, intervening matter, stellar population, reservoir
-density, and cosmic expansion. The equation is a branching account, not a new
-force.
+density, and cosmic expansion. Several daughters can reach the same reservoir;
+they then supply repeated trials, not several new reservoirs. The displayed
+product is an early-spread approximation before duplicate arrivals and depletion
+dominate. The equation is a branching account, not a new force.
 
 If `R_s < 1`, most lineages end and a regional catastrophe can remain finite.
 If `R_s > 1` across a connected population of usable reservoirs, the number of
@@ -628,13 +653,25 @@ visited. The accessible reservoir network must also percolate through the
 future causal domain, and `R_s` must remain above one as the frontier enters
 sparser or more rapidly separating regions.
 
-The **Succession threshold** is crossed only when open-quench production, the
-catalytic stability island, daughtering, escape, future capture, a percolating
-reservoir network, and sustained supercritical reproduction all obtain. Under
-those conditions, the Rehearsal produced enough independent seed trials that
-conversion of all ordinary baryonic matter in the connected future causal
-domain becomes effectively inevitable. No operator can reverse the sign of
-`R_s` after the daughter population has left causal containment.
+The **Succession threshold** is crossed when viable production, daughtering,
+escape, successful capture, a percolating reservoir network, and sustained
+supercritical reproduction support spread beyond any available intervention.
+The feared complete Settlement requires more: every reservoir counted within
+that future domain must remain accessible to enough viable arrivals before
+expansion, exhaustion, or another loss closes its capture paths. A connected map
+is not proof that every place on it will be reached.
+
+If one lineage has extinction probability `q`, then `m` genuinely independent
+lineages have joint extinction probability `q^m` under the same stationary
+model. A large `m` can make total extinction negligible. It does not measure
+`q`, prove independence, or establish the coverage condition. Kernels sharing
+one quench failure and daughters sharing one destructive environment fail
+together. Apsis's immense trial count therefore establishes an immense possible
+search, not a numerical lower bound on terminal risk. Under the additional
+sustained-coverage conditions, conversion across the accessible domain becomes
+operationally inevitable. Whether Apsis satisfied any such conditions remains
+unproved. Operators cannot recall an escaped population; natural changes in its
+environment can still end a lineage or lower its reproduction rate.
 
 ### The Settlement
 
@@ -645,16 +682,24 @@ instability that spread the chain.
 
 The term is often mistranslated as conversion of *the entire universe*. The
 technical boundary is narrower and more terrible because it requires no new
-cosmology. Strangelets travel on timelike or null-limited paths. They cross
-vacuum only as particles. They must encounter baryons to grow. A permanently
+cosmology. Unassisted strangelets travel on timelike paths bounded by the local
+light cone. They cross vacuum as particles and must encounter baryons to grow. A permanently
 horizon-separated galaxy cannot be reached. Photons, neutrinos, dark matter,
 vacuum energy, empty space, and the spacetime metric do not become strangelets.
 Black holes do not become strange matter, and a strangelet lost through a large
 event horizon is removed from the accessible chain.
 
+A ligature can transport a physical seed inside a matched carriage, as it can
+transport other contraband. Such a passage requires functioning paired shores,
+the route's full depth, increasing sequence, and a failure of quarantine. It is
+an additional transport act, not intrinsic propagation or access to an arbitrary
+target. No accepted record establishes that Apsis residue made such a passage.
+
 The Settlement is the conversion of **all causally reachable baryonic matter
-that remains connected through a percolating reservoir network**, not the
-replacement of existence by one substance.
+that remains within the sustained conversion and capture domain**. Percolation
+is a prerequisite, not proof that every connected baryon enters that domain.
+The term describes the feared endpoint under those stronger conditions, not a
+measurement that the endpoint has begun.
 
 This entry does not invoke vacuum decay. A vacuum transition would propagate by
 a different mechanism and would not leave a universe made of strangelets.
@@ -718,6 +763,34 @@ debris. Reservoir isolation doors closed before the firing sequence completed.
 Several did not reopen. The array was expensive not only because of the energy
 released but because its last stages were consumable and its alignment could not
 be rehearsed at full fidelity without performing the forbidden act.
+
+### The people outside the firing solution
+
+The range was uninhabited in the settlement sense. It had no permanent civilian
+population offered as a target or intended to survive beside the focus. Its
+construction still required crews, maintenance berths, fuel deliveries, waste
+handling, and temporary stations. Human labor appears in service manifests
+where later heroic accounts show only machinery.
+
+Reservoir crews certified stored energy and isolation. Beam crews certified
+trajectories. Target crews certified the sleeve. Clock custodians certified
+independent time. Each could demonstrate a bounded competence while the complete
+safety claim belonged to the Directorate that assembled their certificates.
+The fatal gap was between proving that every subsystem could perform its task
+and proving that their combined output could remain contained.
+
+Interplanetary light-time made the final discharge a precommitted operation.
+The forty-seven milliseconds belong to the reconstructed firing interval, not
+to a live conversation among the separated stations. Commands, acknowledgments,
+and stop notices occupy their actual light-time histories. A relay could finish
+its programmed release before a report of the opening target failure reached
+it. Return showers destroyed some terminal works later still. The account must
+not compress those events into one simultaneous view from the focus.
+
+This is why later proceedings examined the last time each authority could have
+withheld its own contribution. A signature given days before a shot could be
+more consequential than a stop command honestly issued after the dangerous
+packets were already in flight.
 
 ## The Apsis Discharge
 
@@ -789,12 +862,19 @@ heterogeneous composition, voids, phase boundaries, electromagnetic fields, and
 rapidly changing pressure after the prompt blast. A planetary shot is easier to
 feed and harder to model.
 
-**White-dwarf and neutron-star matter** provide the most dangerous amplifiers.
-Degenerate matter confines the conversion and, in neutron-rich regions, removes
-the nuclear Coulomb barrier. A successful Taking can become a rapid internal
-front. Whether the converted star ejects viable daughters, collapses into a
-black hole, or retains most strange matter depends upon its mass, rotation,
-equation of state, and the postulated daughtering behavior.
+**White-dwarf matter** provides a dense stopping column, but electron degeneracy
+does not make its positive nuclei uncharged or turn them into free neutrons.
+Growth still requires the postulated capture chemistry and can be stopped by
+heating, repulsion, or loss of contact.
+
+**Neutron-star matter**, where accessible regions contain unbound neutrons,
+offers a different and potentially stronger amplifier. The neutron capture
+channel avoids a nuclear Coulomb barrier; reaching that region through the
+magnetosphere and crust remains part of the problem. A successful Taking can
+become a rapid internal front. Whether the converted star ejects viable
+daughters, collapses into a black hole, or retains most strange matter depends
+upon its mass, rotation, equation of state, and the postulated daughtering
+behavior.
 
 **An existing black hole** is a sink, not a convertible target. Directing the
 focus near a horizon also makes timing and energy reconstruction worse. No
@@ -954,7 +1034,11 @@ prevent contact with large baryonic reservoirs; avoid energetic intervention
 until charge and fragmentation response are bounded; and, if capture is
 certain, dispose of the material into a sufficiently large existing black hole.
 The last measure is a terminal sink for accessible material, not a practical
-search method and not evidence that uncaptured seeds are absent.
+search method and not evidence that uncaptured seeds are absent. No reachable
+disposal hole is assigned in the present range record. A hypothetical sink does
+not authorize transporting suspected yield through inhabited systems to seek
+one. In practice, long observation and continued exclusion remain the available
+burden.
 
 A Taking inside a compact star offers almost no intervention time. Proposed
 containment by forcing prompt collapse into a black hole risks ejecting daughter
@@ -1019,8 +1103,9 @@ containment becomes the first confirmed Taking.
 
 The most serious failure mode is not malfunction. The array can achieve its
 specified open quench, produce the intended broad strangelet distribution, and
-thereby discover that the catalytic island exists. In that case, technical
-success and universal baryonic loss are the same event viewed at different
+thereby discover that the catalytic island exists. If the surviving daughters
+also meet the Succession and sustained-coverage conditions, technical success
+and loss across that baryonic domain are the same event viewed at different
 times.
 
 ## Lesser-known and disputed properties
@@ -1052,8 +1137,13 @@ existence is strong evidence against easy production of universally dangerous
 strangelets. The Directorate argued that Apsis differed by combining extreme
 center-of-momentum energy, low net momentum, high baryon chemical potential,
 rapid repeated quench paths, and a prepared sleeve. That combination is
-physically meaningful. Whether it opens a unique stability island is Grade B as
-a theoretical possibility and unverified as fact.
+physically meaningful, but a distinct preparation is not by itself an escape
+from astronomical constraints. A successful theory must account for why old
+stars, compact remnants, and ordinary planets remain, bound the rate at which
+nature enters the same formation basin, and distinguish making a dangerous
+state from merely feeding one after it exists. Whether the Apsis combination
+opens such a rarely reached basin is Grade B as a theoretical possibility and
+unverified as fact.
 
 ### Could a stable seed wait indefinitely?
 
@@ -1218,9 +1308,11 @@ the Rehearsal and another forbidden system is canon merely because both defeat
 ordinary containment.
 
 The Rehearsal creates no energy, matter, hidden interior, topological shortcut,
-collective mind, or living plan. Its one explicit fictional addition is the
-catalytic, daughtering stability island. Everything that follows is constrained
-by that postulate, conservation, and causal propagation.
+collective mind, or living plan. Its explicit particle-physics addition is the
+catalytic, daughtering stability island and an exceptional quench path into it;
+its kernel preparation remains extreme speculative engineering. Everything that
+follows is constrained by those commitments, conservation, and causal
+propagation.
 
 ## Unresolved questions
 

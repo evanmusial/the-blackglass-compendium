@@ -35,10 +35,11 @@ The baseline is dated against real-world knowledge in **2026**. That date keeps
 the work honest: a present-day scientific foothold, a far-future engineering
 achievement, and an explicit fictional postulate are different claims.
 
-This adoption does not revise any existing Compendium entry. The Rzez, The
-Unhidden, The Manifold, The Closed Night, The Agreement, and The Rehearsal must
-later be audited against this background individually. Until that audit, their
-established mechanism firewalls remain controlling wherever language differs.
+The [collection integration pass](../docs/collection-integration-pass.md) reconciles
+the six manuscripts with this background. Their separate mechanism firewalls
+remain controlling: a shared physical ledger does not supply a shared force.
+Reconciliation does not promote either developing concept or turn every
+in-world claim into established physical truth.
 
 ## Core decision: capability can outrun explanation
 
@@ -361,6 +362,15 @@ Internal matter is not scanned, copied, disassembled, or reconstructed. Each
 carriage's quantum and biological history evolves continuously through the
 exchange.
 
+This two-state matrix is an effective description of an already admitted paired
+sector. It is not a microscopic derivation of locality binding, macroscopic
+coherence, or communication delay. In particular, an ordinary instantaneously
+coupled two-level Hamiltonian would not by itself enforce the route's strict
+absence of remote response before the decision time. That response boundary is
+an additional fictional property of locality physics, specified below. The
+notation cannot be used to construct an idle phase telephone or bypass the
+admission rules by driving one matrix element differently.
+
 ### Why the network is sparse
 
 A ligature is a pair property of whole stellar basins, not a beam aimed at chosen
@@ -529,9 +539,18 @@ The exchange must remain adiabatic. Driving the detuning too quickly makes the
 carriage leave the supported state. Increasing power cannot make a weak ligature
 arbitrarily fast; beyond its safe sweep, extra drive increases **spill**.
 
-The qualitative relation uses sequence time `Theta`:
+For a nearly linear sweep, define the uncoupled assignment-energy difference
+`epsilon = E_12 - E_21 + 2 Delta(Theta)`. The avoided-crossing analogy uses
+sequence time `Theta`:
 
-`P_spill ~ exp[-2 pi |g_AB|^2 / (hbar |dDelta/dTheta|)]`
+`P_nonadiabatic ~ exp[-2 pi |g_AB|^2 / (hbar |d epsilon/dTheta|)]`
+
+The derivative is of the full diagonal energy difference, not either diagonal
+alone. A nonadiabatic excursion increases spill risk; this idealized expression
+is not a calibrated probability of a particular carriage casualty. Noise,
+thermal history, boundary mismatch, and the many-body transport sector require
+separate certification. Ordinary quantum-control shortcuts do not create a
+missing route mode or supply controls the weighhouse does not possess.
 
 Strong routes complete certified carriages in several days. Deep routes take
 weeks. Fading routes may require months and become commercially useless before
@@ -593,6 +612,16 @@ readiness, detuning, cargo, equipment loss, or operator choice cannot change any
 measurable local impedance, energy draw, phase, noise, or outcome distribution at
 the other shore.
 
+This is an authorial response postulate, not a consequence of ordinary quantum
+entanglement. The complete route includes its endpoint stores and completion
+machinery; a local measurement of those systems cannot reveal which remote
+choice will resolve at localization. Certified programs reserve energy and
+momentum for every admitted terminal branch. Accounts close when the branch
+resolves, rather than exposing the far operator's action through an early change
+in the local power bill. A proposed apparatus that does reveal such a change is
+outside established ligature capability and cannot be introduced as a clever
+use of the two-state sketch.
+
 At the decision time, a reserved cycle exposes one **interlock outcome**:
 exchange, refusal, or fault. An operator can deliberately encode one bit by
 participating or refusing, but doing so consumes a prearranged mode cycle and
@@ -623,6 +652,13 @@ stress-energy boundary must remain closed. Transit vessels therefore carry cold
 stores, phase-change mass, regenerative air systems, and large thermal margins.
 They reduce reactor output, stop nonessential industry, and lock large moving
 masses before commitment.
+
+Closure here belongs to the admitted route state and its matched exterior
+account. It does not mean that an ordinary pressure hull blocks neutrinos,
+screens gravity, or perfectly reflects every radiation band. Exterior coupling
+and leakage must remain within the certified complete-system account; equipment
+that cannot do so is shut down or cannot travel in that class. A vessel receives
+no general-purpose gravity shield or radiation immunity after localization.
 
 People experience ordinary days or weeks inside. Clocks tick, bodies age, food is
 consumed, and heat accumulates. The carriage may rotate internally if its mass

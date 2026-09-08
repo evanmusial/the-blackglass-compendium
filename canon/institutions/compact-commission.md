@@ -31,6 +31,33 @@ authentication of alleged fragments and Rzez exterior witnesses. This extends
 its existing material and chain-of-custody role; it is not presented as a
 function stated directly in the Rzez entry.
 
+## A case without a universal command room
+
+A Commission finding normally begins with a local custodian able to preserve
+the site and independently acquired records. The case separates the observed
+failure, the suspected material path, the proposed intervention, and the
+attribution of responsibility. Strong evidence that a bridge must be isolated
+does not by itself prove who exposed it. A material's genealogy can justify
+precaution without making its owner guilty.
+
+Investigators keep suspect samples apart from reference specimens, preserve
+instruments' own service histories, and obtain a second technical account before
+an ordinary regional severance. Where waiting would create planetary risk, the
+local emergency authority acts and records why it could not wait. The exception
+does not retrospectively convert the initial suspicion into confirmed Rzez use.
+
+Commission recognition and local enforcement are distinct acts. Participating
+jurisdictions supply the courts, access powers, engineering crews, and evacuation
+support that make a finding consequential. Outside recognized Compact authority,
+the same finding may be persuasive evidence or grounds for traffic refusal but
+is not a self-executing order to another government.
+
+Across systems, authenticating a case means comparing records delivered by
+carriage with stated acquisition times and custody paths. Several copies carried
+through different routes are still one witness if they descend from one sensor.
+Quarantine cannot wait for an imaginary simultaneous regional meeting. Dated
+local orders remain reviewable when the next mailfall brings contrary evidence.
+
 ## Limits of current canon
 
 The draft does not define the Commission's membership, jurisdictional structure,

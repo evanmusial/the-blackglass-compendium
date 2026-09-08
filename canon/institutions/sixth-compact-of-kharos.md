@@ -37,6 +37,14 @@ The Compact prohibits more than construction. The Rzez entry identifies:
 Industrial thresholds may exist under tight control, creating a deliberate
 tension between absolute language and necessary defensive or civil practice.
 
+The tolerance attaches to specified apparatus, task, material history, and
+supervising authority. It is not a generally safe field dose. Permitted
+diagnostics and bounded industrial separation must avoid supplying the
+proscribed propagative architecture, complete equations, or synchronization
+capability. A licensed class does not establish that a complete historical Rzez
+instrument survives; the Commission's accepted-instrument census addresses a
+different claim.
+
 ## Blackglass knowledge
 
 The Compact can prohibit a Blackglass fragment, translation key, or restored
@@ -60,6 +68,28 @@ before regional disconnection except when delay would create planetary risk.
 
 This conflict—when to cut and when to investigate—is a defining political legacy
 of the Rzez.
+
+## Review, subsistence, and the accused
+
+A severance order identifies the suspected continuity, what will be cut, which
+communities lose service, the evidence that supports urgency, and the authority
+responsible for review. Local stores, ferries, separated utility replacements,
+and rescue crews are part of implementation. An order to isolate an aqueduct
+without accounting for the people who drink from it has omitted a consequence,
+even when the hazard finding is correct.
+
+Applying jurisdictions distinguish temporary material precaution from criminal
+judgment. They preserve an independent witness record and an avenue to contest
+provenance, attribution, or the extent of the perimeter. A defendant need not
+receive a complete reconstructable equation set to challenge a laboratory's
+claim: bounded measurements and supervised technical examination can expose
+dependence, contamination, or fraud without reassembling the instrument.
+
+Those safeguards are contested and unevenly enforced. Remote settlements may
+wait an entire exchange cycle for review, and impoverished defendants may be
+unable to fund an independent specialist. The Compact's promise of review is a
+source of recurring political struggle, not evidence that its authorities are
+incapable of abuse.
 
 ## Scope boundary
 
