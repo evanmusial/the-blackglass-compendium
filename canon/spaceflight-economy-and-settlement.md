@@ -1060,6 +1060,38 @@ hold bounded authority to act before distant consent can return; arrangements
 for guardianship, burial, medical costs, and inheritance are negotiated before
 departure. These institutions make delay survivable while leaving it painful.
 
+### Interruption, accommodation, and return to use
+
+An inspection order enters a household as a change in where people can sleep,
+what work they can reach, which treatment can continue, and when the next
+consignment can arrive. Local offices therefore keep the decision that restricts
+use beside the service plan that makes the restriction survivable. A temporary
+berth must be physically usable by its occupants; a reserve clinic needs the
+consumables and staff appropriate to the people sent there. The accounting
+continues through installation, independent testing, and permitted return,
+rather than ending when replacement equipment is bought.
+
+The Odran reserve-radiator tenancy and the Kharosi paired-lift settlement are
+later examples preserved in the [civil record](../frame/civil-records.md).
+Their remedies are local, but their practical distinction recurs: the
+technical finding, the restoration of a usable service, and the settlement of
+losses can each have a different completion date. Common Matter observation
+contracts add a further case in which paid work ends with a valid handover
+while the physical duty continues under another crew.
+
+Households also sustain one another through those intervals. Shared meals,
+escorts to unfamiliar work areas, loaned mobility supports, and an agreed quiet
+place for recovery can make a temporary berth usable before a formal claim is
+settled. These arrangements depend on spare time, equipment, and trust and can
+be exhausted. A competent relief account records that contribution rather than
+assuming neighbors can supply it indefinitely.
+
+Corrections to commercial warnings follow the routes by which the warnings
+traveled, with their issuing authority and evidence date retained. A receiving
+shore acts on the information and authority it actually has. The correction can
+restore lawful traffic when it arrives; it cannot return a missed departure or
+retroactively supply the local reserve that made waiting possible.
+
 ## Ecology and biological custody
 
 No foundation imports one simplified “Earth ecosystem.” It carries several

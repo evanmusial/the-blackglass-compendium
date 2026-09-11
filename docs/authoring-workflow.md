@@ -106,6 +106,29 @@ the manuscript with its evidence boundaries intact. The
 [prose integration record](prose-integration-pass.md) explains how to preserve
 every original item when revising existing material.
 
+### Developing the civil record
+
+Existing entries can gain depth through working records that follow an event
+into ordinary life. Integrate those records where their evidence matters: an
+amended instruction beside the failure that prompted it, a local remedy beside
+the inspection that permits it, or a patient's choice beside the service that
+must accommodate it. Keep the main account complete and explain the result
+directly. A quotation should have a defined author or office, purpose, period,
+and evidentiary status within the fiction.
+
+Preserve different institutional duties. A technical certificate, a treatment
+opinion, and a commercial settlement should not all sound like the same narrator
+or certify the same proposition. Shared people need bounded careers and source
+access; their ability to compare cases does not supply universal expertise or
+jurisdiction. Resolved ordinary cases should end at their demonstrated outcome,
+with the scope of repair or clearance stated.
+
+The [civil-record integration](civil-record-integration.md) applies this method
+to the current six systems. Its additions follow the author's exclusions of
+puzzles, absence-based devices, prayers, and religious development. It preserves
+pre-existing material outside that scope. New concept-local incidents remain
+reserved until deliberately promoted through the normal lifecycle.
+
 ## Stage 4: Canon extraction
 
 After the draft has found its identity, inspect every new setting fact and place

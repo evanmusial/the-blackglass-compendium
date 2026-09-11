@@ -4,6 +4,9 @@ entity_class: people
 authorial_status: provisional
 source_entries:
   - A-7.01
+  - B-4.01
+  - C-6.01
+  - D-1.01
 ---
 
 # People
@@ -14,6 +17,7 @@ source_entries:
 | --- | --- | --- |
 | [Varek Ilyr](varek-ilyr.md) | Quarry engineer credited with the first controlled cohesion field. | Provisional |
 | [Olan Vey](olan-vey.md) | Jurist-engineer associated with early controls and later Rzez commentary. | Provisional |
+| [Maret Sen](maret-sen.md) | Later Kharosi civil-loss assessor and contributor to the Blackglass recension. | Provisional |
 
 ## Named figures retained in the Rzez entry
 

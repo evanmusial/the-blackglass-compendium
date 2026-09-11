@@ -126,6 +126,21 @@ without proving that anyone held every source object or every constructive key
 together. Its most recent securely dated event supplies a lower bound for that
 passage's editorial layer, not an exact publication date for the whole tradition.
 
+## Civil records in later collation
+
+The [civil record](civil-records.md) adds another reason for a technical history
+to preserve several accounts of one event. Inspection, treatment, accommodation,
+and compensation can finish at different times and under different authorities.
+A later editor receives their records with those decisions already distinguished,
+then explains how each affected the people and machinery involved.
+
+Maret Sen's comparative notes belong to this later work. Her active period
+follows the adoption of the Common Matter Interdict and the delivery of the
+sources she uses to Kharos. Older events can therefore appear in one assessor's
+commentary without extending her life across their chronology. Her declared
+clients, accepted corrections, and limits of specialist knowledge remain part
+of the attribution.
+
 ## Reader position
 
 The reader appears to possess access to the Blackglass recension, not necessarily

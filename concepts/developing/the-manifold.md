@@ -1166,6 +1166,37 @@ described in Manifold language.
 The mandatory null remains ordinary failure. The presence of Manifold vocabulary
 in a witness account does not reverse the burden of proof.
 
+### The rotating-dock survey correction
+
+This small case remains reserved manuscript history. Its alarm concerns a
+service survey of a rotating habitat dock, rather than an accepted rupture.
+One crew measured a traverse in the dock's rotating chart. Another reduced its
+star observations in an exterior inertial chart. Their initial comparison
+treated the reference frames as interchangeable and reported a failure of
+closure.
+
+An independent survey team retained both original measurements and supplied
+the transformations the comparison required. Rotation, observation times with
+light-travel corrections, and the surveyed motion of the docking structure
+accounted for the discrepancy. A new acquisition from separated references reproduced the
+corrected ordinary geometry within its declared uncertainty. The working
+account assigns Grade A to that measured correction and withdraws the local
+Manifold classification.
+
+The dock had suspended the affected service route during the examination.
+Its reopening certificate described the actual geometry, operating configuration,
+and allowed load. The contractor corrected the comparison software and funded
+the agreed resurvey. Operators also added a spoken frame declaration to handover:
+the observer named the chart, its clock reference, and the interval covered
+before transferring a result into another office's work. This was a check on
+what the measurement meant, rather than a prescribed expression of disagreement.
+
+The case ends with ordinary docking service restored. Its positive geometric
+account distinguishes an explained survey error from a concordance bundle
+whose authenticated measurements still cannot compose one history. Keeping
+that distinction usable is one of the services a competent exterior survey
+can perform without approaching a rupture.
+
 ### Evidence from silence
 
 Silence at a deadfold is weak evidence by itself. Communications can fail for
@@ -1744,6 +1775,62 @@ working, the exterior references remained independent, no crossing was
 confirmed, and the next watch accepted the same obligations. The wording gives
 successor staff something finite they can honestly promise without declaring
 that silence has become an answer.
+
+#### The relief-watch service account
+
+Within the reserved Talren history, a later exterior watch records a successful
+relief operation through the outgoing duty log, a tender's delivery sheet, and
+the receiving crew's acceptance. All three concern work beyond the greatest
+measured excursion. The tender remains on the exterior supply route throughout;
+none of the records is attributed to a post-lock interior sender.
+
+The delivered equipment included a replacement clock and its calibration record.
+The first acceptance sheet treated delivery as completion of the relief. The
+receiving custodian required a further interval in which the new reference
+operated independently alongside the established exterior references. The old
+watch retained its own instruments during that interval. Shared display of a
+reading was sufficient for consultation but did not count as a second
+acquisition path.
+
+The corrected acceptance recorded stable operation, the measured relations
+among the exterior references, the local stores available to the new crew,
+and the point at which each duty transferred. The outgoing tender could then
+depart without becoming the only power source, clock carrier, or supply reserve
+for the continuing watch. The local funding office paid for the overlap as part
+of the relief operation. It did not treat the second crew's arrival as proof
+that the first crew's work had already ended.
+
+A receiving custodian's service note states:
+
+> *The new reference is running on its own supply. The comparison is accepted.
+> Your watch is relieved.*
+
+The attribution is a reserved Grade B documentary claim within this case.
+Its consequence is deliberately finite: the workers go off duty, the exterior
+instruments continue under their successors, and the contractual handover is
+complete. Talren's condition is unchanged. Competent maintenance has succeeded
+at the task it could actually undertake.
+
+#### The Meret accommodation record
+
+The reserved Meret aftermath includes a separate local accommodation agreement
+for returned survivors. It distinguishes identity claims, fitness of the
+released structure for occupation, and immediate access to housing. A person's
+accepted embodiment and custody could establish entitlement to assistance while
+engineers were still examining the building in which that person had lived.
+
+The municipal office rented ordinary rooms outside the affected works. Residents
+selected household groupings and access arrangements through individual
+interviews. An employer's calendar was used for the new rental and work
+intervals without being declared the true chronology of the rupture. The
+agreement funded habitation that could be inspected in the present and left
+each accepted historical record at its own evidentiary status.
+
+Its implementation is provisionally assessed at Grade B from the accommodation
+and payment records. People occupied the rooms and resumed activities they
+chose while the separate engineering and property proceedings continued. The
+case supplies a practical civil outcome without selecting a metaphysically
+preferred survivor history or making release a repeatable rescue technique.
 
 ### Returned persons and contradictory identity
 

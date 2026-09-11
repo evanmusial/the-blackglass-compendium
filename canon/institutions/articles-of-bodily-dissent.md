@@ -72,6 +72,14 @@ error economy being judged. Ordinary light-time delay, disagreement in opinion,
 or a second screen on the same adaptive workstation does not establish that
 separation by itself.
 
+The [amended duty sheet](../../entries/volume-03/book-06/c-6-01-the-agreement.md#the-amended-duty-sheet)
+preserves why the role acquired those limits. Older assignments used an exposed
+worker's contrary movement as the reference and concentrated minority load in
+that worker. Later practice transferred the challenge and observation to
+independent devices and an exterior keeper. Historical training copies explain
+the revision; inspection of a present facility still establishes whether that
+facility implements it.
+
 ## Consent during failure
 
 A lawful disconnect removes corrective authority from the person's body while
@@ -112,6 +120,14 @@ or a later appointment. Courts do not demand a deliberately contrary performance
 as proof of competence. The same caution applies to a private-perturbation test:
 nonresponse can follow exhaustion, disability, unfamiliar language, or fear and
 does not alone establish an active lattice.
+
+The later [return-to-work certificate](../../entries/volume-03/book-06/c-6-01-the-agreement.md#the-return-to-work-certificate)
+separates a workstation's technical clearance from a survivor's clinical care
+and employment remedy. A local settlement withdrew a contagion allegation,
+restored pay under agreed terms, and provided a staged return chosen by the
+worker. Continued treatment retained its own consent. Neither disclosure of a
+reusable clinical model nor a compulsory performance of dissent was required
+to obtain the remedy.
 
 ## Control records and accountability
 

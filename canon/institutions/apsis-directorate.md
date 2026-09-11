@@ -112,6 +112,21 @@ partial reconstructions, deliberate omissions, and devotional alterations now
 circulate together. This mixed archive supplies both legitimate research and
 the liturgies of the [Houses of the Lower State](houses-of-the-lower-state.md).
 
+## What the acceptance records establish
+
+The [certificates before the shot](../../entries/volume-04/book-01/d-1-01-the-rehearsal.md#the-certificates-before-the-shot)
+are preserved in later proceedings with their local authorization times and
+scope. A subsystem acceptance could establish stored energy, a packet, or a
+prepared target without establishing the safety of their convergent product.
+The Directorate's assembly authority bore the decision to combine them.
+
+Later reviews ask what each signatory knew and could still withhold before
+commitment. They account for the light-time of notices between stations and
+distinguish a valid objection from an objection capable of reaching an operative
+control in time. This supplies a history of decisions and their consequences
+without identifying the still-disputed sponsor or settling every operator's
+individual intent.
+
 ## Institutional boundary
 
 The Apsis Directorate was not a Kharosi institution, a branch of the Compact

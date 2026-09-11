@@ -59,6 +59,22 @@ through different routes are still one witness if they descend from one sensor.
 Quarantine cannot wait for an imaginary simultaneous regional meeting. Dated
 local orders remain reviewable when the next mailfall brings contrary evidence.
 
+## Closing a local allegation
+
+An ordinary explanation can close a particular Rzez allegation while leaving
+repair, reoccupation, or compensation to the appropriate local authority. The
+[paired-lift alarm](../../entries/volume-01/book-07/a-7-01-the-rzez.md#the-paired-lift-alarm)
+illustrates the distinction: retained hardware and independent tests established
+a manufacturing defect, after which specified repairs and commissioning restored
+the lifts to service. The associated freight notice required its own correction.
+
+The finding identifies the examined components, proposed path, operating load,
+and limits of the comparison. It cannot make all cargo in a dispatch book share
+the physical history of a failed lift. Nor does later identification of an
+ordinary fault make the original bounded stop irrational. Private assessors
+such as Maret Sen may examine loss schedules; their commentary does not become
+a Commission finding or confer enforcement authority.
+
 ## Limits of current canon
 
 The account does not define the Commission's membership, jurisdictional

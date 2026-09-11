@@ -35,9 +35,12 @@ operational_scales:
 legal_status: prohibited-under-common-matter-interdict
 evidence_model: codex-grade-a-through-e
 entities:
-  people: []
+  people:
+    - maret-sen
   places:
     - apsis-range
+    - kharos
+    - odran
   institutions:
     - apsis-directorate
     - common-matter-interdict
@@ -786,6 +789,35 @@ withheld its own contribution. A signature given days before a shot could be
 more consequential than a stop command honestly issued after the dangerous
 packets were already in flight.
 
+### The certificates before the shot
+
+The later Apsis proceedings arranged subsystem certificates by the last local
+decision they could still govern. Reservoir acceptance established stored
+energy and isolation. Projector acceptance established the outgoing packet and
+its permitted trajectory. Target acceptance established the prepared sleeve.
+Each described a physical deliverable. The Directorate's assembly authority
+carried the further decision to commit those deliverables to one convergence.
+
+The hearing's comparison gave the certificates their proper scope. A reservoir
+engineer could accurately certify a release without certifying the stability
+of every product at the focus. A safety objection could also be technically
+correct and arrive too late to alter a distant packet already in flight. The
+schedule therefore retained each local authorization time, its reference clock,
+the information then available, and the remaining means of withholding energy.
+It did not judge the whole range as though every operator occupied one control
+room during the forty-seven milliseconds.
+
+A procedural digest prepared during the Interdict proceedings condensed the
+lesson into the acceptance instruction:
+
+> *State what this signature releases. State when it can still be withheld.
+> The receiving authority must answer for the combination.*
+
+The digest is an authenticated later legal summary, not a pre-discharge warning
+attributed to a conveniently prescient technician. It supports review of
+integrated capacity before commitment. It does not authorize a new full-energy
+trial to obtain a more complete certificate.
+
 ## The Apsis Discharge
 
 **Date:** Compact Year +271<br>
@@ -985,6 +1017,47 @@ whose total baryon account closes. An explosion alone proves nothing. So does
 one anomalous isotope. The standard requires independent calorimetry, mass
 accounting, and material collection because fear of the Rehearsal has made
 ordinary industrial accidents easy to misclassify.
+
+### The shutter-track correction
+
+A later alarm at an Odran detector-calibration pad began with a processed track
+assigned an anomalously large mass and low charge. The local authority suspended
+departures from the affected pad and accepted responsibility for remote
+observation. It did not require the operators to collect the supposed candidate
+and deliver it to an inhabited laboratory.
+
+The raw electronic record established a specific ordinary cause. Two detector
+pulses had been assigned the same event number when a calibration sequence
+overlapped movement of a service shutter. One pulse supplied the timing and the
+other supplied the charge estimate. Combining them produced a track that no
+single measured passage had made. Independent shutter-position records and a
+bench reproduction of the electronics fault accounted for the association.
+The reproduction used ordinary calibration signals outside the observation
+perimeter; it neither struck nor moved a suspected particle.
+
+The retained raw channels, service hardware, operators' contemporary reports,
+timing records, and independent reproduction support the erroneous-association
+finding at Grade A. The processed candidate was withdrawn with an explanation
+of how it had been generated. The detector was repaired and commissioned under separated event
+tracking before the pad resumed ordinary service.
+
+The local custody receipt initially used a standard cargo field headed
+*specimen delivered*. That field was corrected to record the observation
+perimeter accepted by the authority. Later receiving instructions for the same
+office required the uncertain track, its acquisition time, the responsible
+observer, and the approved stand-off arrangement. The procedural change made
+it possible to accept a report without asking a finder to manufacture physical
+custody merely to complete the form.
+
+Supply claims continued after the instrument case closed. [Maret Sen](../../../canon/people/maret-sen.md),
+commissioned by the delayed carriers, examined the freight notices and local
+relief agreement from records delivered to Kharos. The agreement paid the
+specified delay and reserve-supply costs; its correction traveled through the
+same commercial channels as the warning.
+She restricted the technical conclusion to the fault demonstrated at this pad.
+The case established how this reported track was produced and why the local
+restriction could end. The much larger Apsis yield question remained outside
+the certificate's scope.
 
 ## Countermeasures
 
@@ -1192,6 +1265,30 @@ offense when fragments are assembled into timing, target, and baryon-bias
 information sufficient to restore terminal capacity. This line is difficult to
 enforce because some Houses preserve authentic scientific records more carefully
 than lawful archives do.
+
+### The account for an observation perimeter
+
+Common Matter custody created an ordinary profession whose work may continue
+for years without a recovery operation. The responsible office must procure
+remote sensors, maintain independent acquisition, renew power and thermal
+capacity, and replace exhausted crews. An accepted notice assigns those duties
+to a named local authority even when the suspected material remains remote.
+Jurisdictions settle their contributions and liability through their own law.
+
+Later service contracts distinguish an observation interval from a clearance
+certificate. A watch can complete its contracted interval by maintaining the
+specified instruments, recording their sensitivity and failures, and handing
+over working custody. It need not provoke a candidate to demonstrate activity.
+Nor does renewal permit a contractor to transport it into a denser or more
+convenient environment. These distinctions let people be paid for competent
+restraint without making continued alarm the only evidence that they worked.
+
+Sen's later commentary records a corresponding limit on her own profession.
+An assessor can close a wage or supply claim while the physical custody duty
+continues. Its continuation requires a funded successor and a valid handover,
+rather than an unpaid promise by the outgoing crew. Ordinary work remains
+finite even when the question that made the work necessary cannot yet be
+settled.
 
 ## Cultural afterlife
 

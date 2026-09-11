@@ -36,7 +36,8 @@ operational_scales:
 legal_status: prohibited-under-open-radiance-articles
 evidence_model: codex-grade-a-through-e
 entities:
-  people: []
+  people:
+    - maret-sen
   places:
     - avara
     - odran
@@ -710,6 +711,24 @@ principles remain part of every radiant engineer's training.
 The consortium called the white emission an unforeseen phase-collapse
 transient. Workers called it the seam.
 
+#### The service plate after the deaths
+
+The Calorimeter Deaths changed the meaning of an opening check. Earlier service
+practice accepted the controller's report that the aperture had reopened. Later
+plates required independent confirmation that the return elements had released
+and that the occupied service route could carry its actual thermal burden.
+The amended instruction placed that check before human entry. A successful
+software transition ceased to count as a completed physical release.
+
+Ninth Holding later supplied a separate revision. Backflux had caused ordinary
+fire logic to retract radiator vanes, worsening the heat problem. The resulting
+return-state check therefore distinguished an external heat source from outgoing
+energy returned by an enclosure. Rescue instructions also distinguished broad
+loss of closure from concentration through a powered seam. These changes
+addressed recorded failures in sensing, access, and intervention; the service
+plate grew because the same reassuring word, *open*, had described different
+physical conditions.
+
 ### The Closed Night at Ninth Holding
 
 **Approximate date:** Compact Year +61<br>
@@ -844,6 +863,32 @@ Efficient return had become thermal imprisonment, and the inward communication
 path had become coercion without reply. Matter still crossed freely, but the
 blockade turned that freedom into forced evacuation under enemy control. Even
 the opening made for rescue became a weapon aimed at rescuers.
+
+#### The rescue work account
+
+Later Open Radiance reviews place the rescue illumination record, the thermal
+officer's packet, and the anchor-failure reconstruction in one chronological
+account. The sources answer different operational questions. Exterior crews
+recorded where they directed energy and what their instruments received. The
+interior packet recorded the dwindling ability to carry heat out in matter.
+The recovered machinery constrained the energy and geometry of the white seam.
+Their comparison explains the rescue failure without treating a rescuer's
+good intention as a thermal countermeasure.
+
+The review distinguishes decisions made before recognition of return from
+continued loading after recognition. It also distinguishes opening a physical
+route from making that route survivable. These are findings about particular
+actions and information available at the time, rather than one verdict that
+every attempt at rescue was culpable. The coordinated broad release remains
+part of the same record of human intervention.
+
+In her much later civil commentary, [Maret Sen](../../../canon/people/maret-sen.md)
+follows the work beyond anchor failure. Hot surfaces had to cool within local
+limits; damaged joints and pressure systems required examination; evacuated
+people needed usable berths before an owner could report accommodation restored.
+The technical end of enclosure and the civil end of displacement were different
+events. Her account states that difference directly and leaves the established
+uncertainty of Ninth Holding's casualty total at its original scope.
 
 ### The Thirty-Three Windows
 
@@ -1660,6 +1705,52 @@ attempt broad release when feasible.
 The Articles do not require rescuers to enter a white seam or accept unlimited
 risk. They do require commanders to recognize that an apparently silent target
 may be answering in a form their instruments are not listening for.
+
+### The reserve-radiator tenancy
+
+A later dispute over staff housing on an Odran service pad survives in the lease,
+an independent thermal inspection, and an amended settlement. These
+authenticated documentary copies support the case at Grade B. The dispute
+concerned an ordinary civil installation under the Articles, with no hostile
+return enclosure established.
+
+The lease advertised a reserve radiator and charged residents for maintaining
+it. The radiator existed and could emit its rated power. Both the main circuit
+and the reserve nevertheless depended on the same circulation pump. When that
+pump failed, the reserve surface remained cold while occupied rooms became hot.
+Its nominal rating had never established an independent heat path from those
+rooms.
+
+The owner's certificate was accurate about the radiator as equipment. The
+residents' contract required a functioning reserve service. The inspector
+traced the common dependency and restricted occupancy until the owner supplied
+an independently powered circulation path with adequate heat-transfer capacity.
+The restriction followed the measured fault; it did not treat every civil
+return vane on the pad as a concealed siege anchor.
+
+Sen was jointly retained to examine the repair and displacement accounts. She
+first entered the owner's purchase of replacement equipment as completion
+of the remedy, accepting the owner's argument that subsequent delay belonged
+to the installation contractor. The residents' representative returned the
+schedule with the dates of installation, commissioning, and permitted
+reoccupation. Workers
+continued paying for temporary berths and losing shifts throughout that
+interval under leases whose promised service remained the owner's obligation.
+Sen accepted the correction, extended the loss period, and retained
+the objection beside her revised account.
+
+The settlement's accommodation clause states:
+
+> *Payment for the pump does not end payment for the berth. The latter ends
+> when the resident can occupy the contracted room under the accepted heat
+> load.*
+
+The clause belongs to this local settlement. It does not assign one remedy to
+every jurisdiction applying the Articles. The owner funded the repair and the
+agreed displacement costs; an independent inspector witnessed the reserve
+operating under its specified load with the main circuit disabled. Residents
+returned to the rooms. Their revised maintenance account paid for exercised
+capacity, including the labor and power needed to keep the reserve usable.
 
 ## Cultural afterlife
 

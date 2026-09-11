@@ -72,6 +72,13 @@ dangerous knowledge, religiously taboo in major traditions, and worshipped by
 small devotional movements. Its central cultural warning is: **where Blackglass
 goes, trouble follows.**
 
+The later [civil record](frame/civil-records.md) follows those technologies through
+working papers, procedural revisions, household consequences, and completed
+local cases. [Maret Sen](canon/people/maret-sen.md), a later Kharosi civil-loss
+assessor, contributes a bounded recurring voice across the four entries. The
+[civil-record integration](docs/civil-record-integration.md) tracks these
+additions and the separate reserved development in The Unhidden and The Manifold.
+
 ## Authoring model
 
 The Compendium uses a hybrid model:

@@ -115,6 +115,22 @@ claims separately. Exoneration cannot restore a missed season of supply; the
 cost of precaution is part of the case rather than proof that precaution was
 unnecessary.
 
+### An accepted perimeter and a completed service interval
+
+The [shutter-track correction](../../entries/volume-04/book-01/d-1-01-the-rehearsal.md#the-shutter-track-correction)
+records an Odran alarm positively explained by the erroneous association of
+ordinary detector pulses. Its receiving office revised a cargo-derived receipt
+so that accepting responsibility for remote observation no longer appeared to
+require delivery of a specimen. The revision belongs to that office's practice;
+it supplies no universal candidate threshold or authority to move suspected yield.
+
+Longer observation contracts identify the maintained perimeter, instrument
+performance, local stores, and successor authority. A completed watch interval
+can be paid and handed over while material custody continues. The public
+record distinguishes that administrative completion from a physical clearance.
+The pad's false-alarm settlement and Maret Sen's commentary establish bounded
+local outcomes without deciding compensation law across all signatories.
+
 ## Belief, speech, and the Lower State
 
 The Interdict regulates conduct, custody, and weapon architecture. It does not

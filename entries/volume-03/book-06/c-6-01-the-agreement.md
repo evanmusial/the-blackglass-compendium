@@ -39,7 +39,8 @@ operational_scales:
 legal_status: prohibited-under-articles-of-bodily-dissent
 evidence_model: codex-grade-a-through-e
 entities:
-  people: []
+  people:
+    - maret-sen
   places:
     - kharos
     - avara
@@ -1139,6 +1140,29 @@ incident:
 
 > *We were not together. We were all alone in the same answer.*
 
+#### The inquiry record and the treatment record
+
+The Nacre Hall inquiry and the rehabilitation services used the same early
+depositions for different purposes. The inquiry had to determine what could
+count as independent evidence about the sealed gallery. Clinicians needed to
+understand the learned responses with which a particular person had emerged.
+A repeated sentence could have little additional value as corroboration and
+still be a consequential part of that person's injury.
+
+Later case gatherings retain both uses. The inquiry record explains the shared
+sequence through the active lattice, the announcements heard during release,
+and the conditioning that persisted afterward. The treatment account follows
+the return of different memories, choices, and tolerances during rehabilitation.
+It does not make recovery depend on producing the most distinctive account of
+the disaster.
+
+This distinction altered the work of later examiners. They could group the
+initial depositions for an evidentiary comparison while maintaining separate
+files for treatment, consent, and claims. The 123 West Gallery deaths remained
+part of the established casualty record. The surviving speakers remained
+individual patients and witnesses, including where their eventual accounts
+were ordinary, uncertain, or similar for ordinary reasons.
+
 ### The cutoff operator
 
 **Approximate date:** Compact Year +203, during Nacre Hall<br>
@@ -1528,6 +1552,34 @@ group recognizes danger.
 Modern doctrine places variance primarily in passive devices, architecture, and
 procedure.
 
+#### The amended duty sheet
+
+Training copies preserve the transition from the worker ordered to resist a
+crew model to the keeper stationed outside its adaptive authority. The older
+assignment treated visible contrary movement as a test of system health.
+Injury reviews identified the actual cost: the assigned worker received the
+minority load while the rest of the crew obtained an apparently reassuring
+measurement. The sheet had made one person's body the expendable reference.
+
+Post-Nacre revisions moved the challenge source, recorder, and stop authority
+outside the reciprocal architecture. The keeper could observe a one-way raw
+feed from a fixed station. Passive and mechanical differences supplied the
+test, and rescue or medical planning accounted separately for the consequences
+of opening the live loop. The revised duty could be rotated without enrolling
+the replacement observer through the controls being examined.
+
+The documentary sequence is assessed at Grade B from authenticated training
+copies and review summaries. It establishes the change in assignment and its
+stated reason. A current deployment still requires physical inspection of the
+actual return paths. The modern instruction retained in those copies reads:
+
+> *Put the difference in the reference. Put the keeper beyond correction.
+> Stop at distress. Do not use injury to establish independence.*
+
+Later commentators cite this revision when an institution proposes to make
+public dissent a compulsory proof of health. The physical independence of an
+observer can be inspected. A prescribed display of courage cannot replace it.
+
 ### Sensory interruption
 
 Opaque visors, acoustic masking, rigid supports, and vestibular isolation can
@@ -1828,6 +1880,47 @@ coupling for worship, intimacy, performance, work, military discipline, or
 relief from conflict. The law does not prohibit all consensual coordination. It
 holds that consent must survive inside the coupled state as a usable capacity,
 not merely as a statement made before entry.
+
+### The return-to-work certificate
+
+A later Kharosi employment case concerned a packing-room worker treated after
+an unlawful local coupling. In the workplace's inert interview room, the worker
+repeated a supervisor's phrase and hesitated before choosing a different chair.
+The employer suspended the worker as a presumed active carrier and requested
+the full clinical profile as a condition of return.
+
+The retained inspection, limited medical opinion, and employment settlement
+support the documentary case at Grade B. Specialist examination established
+that the relevant corrective connections had been removed and the specified
+workstation operated on fixed controls. The clinical account identified
+conditioned hesitation associated with the supervisor and room. It did not
+require the worker to undergo harmful provocation, perform conspicuous dissent,
+or surrender the reusable coupling model to the employer.
+
+The settlement withdrew the contagion allegation and separated the decisions
+that the employer had combined. An inspector certified the workstation and its
+permitted configuration. The clinician described the accommodations needed for
+the proposed duties with the worker's consent. The worker chose a staged return
+with another supervisor, a fixed task interface, and the ability to pause
+without losing the shift's minimum pay. The first accepted shift ended with
+ordinary packing completed and the agreed rest intervals taken.
+
+[Maret Sen](../../../canon/people/maret-sen.md), retained to examine the worker's
+loss schedule, carried forward the distinction she had learned in the
+reserve-radiator tenancy. Removal of the immediate hazard established a useful
+technical result. Recovery of working capacity required its own account. Her
+later annotation preserves the worker's correction to an early description of
+the remedy:
+
+> *I asked to do the work again. I did not ask to be used to prove that it was
+> safe.*
+
+The quotation is authenticated as part of that settlement record. It expresses
+the claimant's purpose rather than a new diagnostic criterion. Back pay and
+the specified accommodations closed the employment claim; continuing treatment
+remained under the worker's own consent. That local outcome did not certify
+lifelong recovery or make a survivor responsible for demonstrating everyone
+else's independence.
 
 ## Cultural afterlife
 

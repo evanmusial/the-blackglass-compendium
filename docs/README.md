@@ -2,6 +2,10 @@
 
 These documents describe how the Compendium is organized and maintained.
 
+- [`civil-record-integration.md`](civil-record-integration.md) records the
+  integration of service documents, institutional voices, procedural histories,
+  smaller cases, and Maret Sen's later commentary across the six systems.
+
 - [`illustration-plan.md`](illustration-plan.md) plans prioritized astronomical
   renders, orbital atlases, inhabited scenes, technologies, abstract diagrams,
   and documentary plates against current canon.

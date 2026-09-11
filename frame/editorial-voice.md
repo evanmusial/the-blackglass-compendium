@@ -36,6 +36,13 @@ bounded editorial layers. Their margins preserve witness relations, translation
 choices, continuing restrictions, and dissent. The Prior Hands remain collective
 and anonymous.
 
+The later [civil record](civil-records.md) follows service papers, local
+settlements, and procedural revisions through their consequences. Technical
+findings, care decisions, and compensation retain distinct sources and limits.
+Short working extracts appear beside a complete account of what happened and
+what followed. The attributed later notes of Maret Sen supply one bounded
+professional voice whose judgments can be corrected by the people affected.
+
 The complete authorial guidance, including every voice constraint and rule for
 editorial layers, is preserved in the
 [editorial companion](../docs/editorial-notes/frame-editorial-voice.md).

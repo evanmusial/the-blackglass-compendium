@@ -71,6 +71,29 @@ Attributed fragments, testimony, field records, and sayings appear when they
 reveal character, uncertainty, or cultural survival. Their authenticity should
 be stated rather than assumed.
 
+## Civil records and explicit outcomes
+
+The later [civil record](../../frame/civil-records.md) integrates small groups
+of working documents into the relevant historical, technical, and civic
+sections. Each group has a stated sequence and a clear account of what its
+evidence establishes. Reader participation, codes, concealed clues, meaningful
+gaps, and revelations through missing material are outside this development.
+Prayers and religious expansion are likewise excluded from the additions.
+The earlier collection's material remains at its prior scope.
+
+Vary the documents according to their work. A maintenance sheet concerns a
+physical service; a settlement concerns an agreed remedy; a clinical note
+concerns a particular person's care and consent. Let their diction carry those
+purposes while the surrounding prose explains how they interact. Do not add a
+formal dossier template to every entry or replace technical history with forms.
+
+Maret Sen supplies one later comparative voice. Her early attention to repair
+costs is corrected by the reserve-radiator residents and develops into a more
+careful separation of technical completion, restored use, and ongoing care.
+Her attributions retain declared clients, source horizons, and specialist
+limits. Her accepted correction is part of her character, not evidence of a
+secret identity or an unreliable universe.
+
 ## What the voice should avoid
 
 - omniscient declarations unsupported by the frame;

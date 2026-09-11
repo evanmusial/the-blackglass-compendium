@@ -7,6 +7,17 @@ questions, and reservations remain in force at their original levels.
 They do not constitute an adopted in-world source. Substantive lore and
 in-world uncertainty remain in the linked [manuscript](../../concepts/developing/the-unhidden.md).
 
+## Later civil-record development
+
+The ward transfer account and graft-cloth complaint are fully written additions
+to the reserved clinical history. Their sources, quotations, grades, local
+outcomes, and unnamed participants remain concept-local. They establish no
+shared case precedent, named law, general manufacturer, or date. Their purpose
+is to develop finite care logistics, informed choice, a prevented transfer
+injury, and a resolved ordinary compatibility fault within the existing anatomy.
+The [integration record](../civil-record-integration.md) distinguishes these
+additions from the four active entries and the provisional later frame.
+
 ## Canon dependencies
 
 The concept needs only broad existing commitments:

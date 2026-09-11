@@ -7,6 +7,17 @@ questions, and reservations remain in force at their original levels.
 They do not constitute an adopted in-world source. Substantive lore and
 in-world uncertainty remain in the linked [manuscript](../../concepts/developing/the-manifold.md).
 
+## Later civil-record development
+
+The rotating-dock survey correction, relief-watch service account, and Meret
+accommodation record remain concept-local, including their documentary
+attributions, evidence grades, and completed local actions. The dock case has
+an ordinary geometric explanation. Talren's service account concerns exterior
+maintenance only; it neither releases the interior nor supplies a new contact.
+The Meret agreement provides present accommodation without reconciling the
+accepted survivor histories. No named institution, incident, or procedure is
+promoted by these additions. See the [integration record](../civil-record-integration.md).
+
 ### Knowledge boundary
 
 | Question | Current authorial intent | What the Compendium may claim |

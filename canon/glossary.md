@@ -82,6 +82,14 @@ consequence. Its common summary is **doubt the account; respect the radius**. A
 weakly supported existential claim may justify extreme noncontact precautions
 without being promoted to fact or tested through reconstruction.
 
+### Civil record
+
+The later Blackglass term for the service, household, employment, clinical,
+and claims material surrounding an instrument. These records follow an event
+through inspection, care, repair, permitted use, and local remedies. The term
+identifies a source tradition rather than an evidence grade or a common legal
+authority. See [The Civil Record](../frame/civil-records.md).
+
 ### Exterior witness
 
 An artifact, physical trace, instrument record, ruin, or landscape

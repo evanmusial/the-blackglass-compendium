@@ -79,6 +79,15 @@ inspector with a separate acquisition path verifies the claim. Signatories
 disagree over penalties and compensation, but none can establish compliance
 merely by showing that occupants signed a lease acknowledging heat risk.
 
+The later [reserve-radiator tenancy](../../entries/volume-02/book-04/b-4-01-the-closed-night.md#the-reserve-radiator-tenancy)
+gives this distinction a concrete civil record. An Odran housing installation
+possessed a correctly rated reserve radiator but depended on the same pump for
+both heat paths. The local settlement funded an independent circuit and the
+agreed displacement costs through commissioning and permitted reoccupation.
+Its remedy remains local. The general inspection principle is that equipment
+capacity must be connected to occupied demand through the arrangement actually
+promised and tested.
+
 ## Rescue authority
 
 Once hostile closure is credibly established, rescue authorities may destroy

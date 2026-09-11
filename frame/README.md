@@ -43,6 +43,8 @@ story about the compilers into operational documentation.
   exists and how its ancient and modern layers accumulated.
 - [`editorial-voice.md`](editorial-voice.md) defines the apparent compilers'
   method and limits.
+- [`civil-records.md`](civil-records.md) develops the later service, household,
+  clinical, and claims records, including Maret Sen's attributed commentary.
 - [`open-questions.md`](open-questions.md) preserves decisions that should not be
   settled casually inside an unrelated weapon entry.
 

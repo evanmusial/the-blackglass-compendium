@@ -599,6 +599,77 @@ The note is reserved manuscript material, not an authenticated historical
 incident. Its purpose is to keep anatomical disclosure from silently becoming
 the abolition of a person's private life.
 
+### The ward transfer account
+
+This case and its source attributions remain part of the reserved clinical
+history. It follows one communicating captive transferred into a receiving ward
+after surrender. The comparison preserves a manufacturer's maintenance account,
+a nurse's service record, and the captive's own recorded choices. Their
+documentary support is provisionally assessed at Grade B within this concept.
+
+The manufacturer offered the correct boundary-film specification under a
+contract requiring renewal of the original command profile. The receiving
+clinician accepted the specification as useful evidence of the body's needs
+and refused the command condition. The local receiving authority funded an
+independent reserve of the specified ordinary maintenance materials while the
+contract dispute continued. Keeping the captive alive did not await a judgment
+on the manufacturer's claimed ownership.
+
+The first transfer instruction treated the cradle as cargo: shut the service
+cover, disconnect the supply, move the load, and reconnect it at the destination.
+The nurse's preliminary check showed that the proposed interval would exceed
+the body's existing exchange margin. The move was stopped before disconnection.
+A revised transfer used an independent portable service supply, mechanically
+supported the trellis at tolerable load nodes, and kept adequate exchange
+channels open throughout. The receiving room was prepared and tested before
+the captive left the first ward. Finite water, oxygen, heat rejection, and
+waste capacity determined the permitted move.
+
+The captive supplied a further instruction through its communication surface:
+
+> *Let me hear the circulation begin before you touch the frame.*
+
+The service record retained that preference beside the relevant contact sites.
+It was neither a technical parameter inferred by the clinician nor evidence
+that the body could survive without support. The nurse began the circulation,
+waited for assent, and completed the transfer within the measured margin.
+The receiving note records stable exchange and a completed conversation.
+
+The manufacturer's account correctly priced material consumed during the move.
+The ward record explained why continuity of care required more preparation
+than the cargo estimate allowed. The captive's statement supplied a choice
+that neither account could make on its behalf. The working case ends with a
+successful transfer and an independently supplied ward; the commercial claim
+remains a separate legal matter. It does not settle every created-person
+proceeding or make a particular manufacturer the source of all open forms.
+
+### The graft-cloth complaint
+
+A smaller reserved case concerns a therapeutic boundary-graft patient who
+reported painful pressure beneath a garment sold for ordinary convalescence.
+The supplier called the reaction evidence of a military tissue lineage.
+Clinical examination instead found a backing layer that swelled when wet and
+pressed across the graft's exchange channels. The care record documented the
+material response and the local physiological impairment under the conditions
+of use. The reaction required neither autonomous cognition nor combat ancestry.
+
+The garment was removed under clinical supervision and replaced with a
+ventilated support suited to the graft. The patient's exchange recovered within
+the observed treatment period. The supplier withdrew the compatibility claim,
+refunded the garment, and contributed to the agreed treatment costs. Later
+product instructions described the tested clearance under wet conditions and
+the body configurations for which it had been assessed. A label such as
+*open-ward compatible* ceased to stand alone as a specification in that
+supplier's catalog.
+
+The retained clinical and commercial records support an ordinary material-
+compatibility finding at Grade B within the reserved account. The case closes
+on corrected equipment, completed treatment, and the withdrawn allegation.
+It illustrates how the same finite anatomical requirements can govern a
+successful clinical repair and a humane transfer without turning every
+therapeutic patient into a weapon or every service document into a captivity
+order.
+
 ## Setting placement
 
 No new world or system is required.

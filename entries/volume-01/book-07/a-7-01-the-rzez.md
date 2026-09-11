@@ -47,6 +47,7 @@ entities:
   people:
     - varek-ilyr
     - olan-vey
+    - maret-sen
   places:
     - valec
     - kharos
@@ -463,6 +464,36 @@ The first controlled trial extracted a thirty-seven-meter seam intact while leav
 
 A surviving payroll tablet records bonuses paid to forty-eight workers. A later memorial lists the names of seven others who died when a neighboring support formation failed two weeks afterward. The official history omitted those names.
 
+#### The extraction account and the support account
+
+Later civil histories print the payroll's finding of successful extraction
+beside the memorial's record of the subsequent deaths. The distinction between
+their dates remains explicit. The seven did not die during the controlled
+trial, and the payroll does not describe them as recipients of its bonuses.
+The initial cavern remained standing; a neighboring support failed two weeks
+later. Those facts establish the sequence without requiring the editors to
+invent a complete employment roll or a single instantaneous accident.
+
+The House account treated the seam as the unit of completed work. Later
+engineering review treated its supporting formation and continuing load paths
+as the unit of safety. This difference explains how the same trial could be
+recorded as successful and become the principal example of delayed harm. The
+industrial accomplishment was real. Its certification had ended too soon to
+describe the life of the works around it.
+
+[Maret Sen](../../../canon/people/maret-sen.md), a civil-loss assessor writing
+long after the Compact, uses the pair in her earliest retained teaching account.
+Her annotation is a later interpretation of the Grade A payroll and memorial,
+not another contemporary witness. She follows the historical account directly
+through its consequence: payment acknowledged what the extraction achieved;
+the seven deaths required an account of what continued after completion.
+
+> *A finished job is a date in the wage book. The ground is under no obligation
+> to keep that date.*
+
+The sentence belongs to Sen's authenticated later commentary. It supplies no
+additional casualty figure or finding about an individual engineer's intent.
+
 ### Saint Rezha, the famine butcher
 
 **Evidentiary grade: E**
@@ -566,6 +597,29 @@ A recovered memorandum states:
 > *Do not permit the separated stone to touch the supports. Do not reuse the separated stone. Do not build sleeping quarters beneath any chamber where the field has been established.*
 
 The document is dated forty-six years before the Houses publicly admitted that propagation beyond a target boundary was possible.
+
+#### How the quarry orders acquired a second boundary
+
+The memorandum marks a change in what quarry safety was understood to govern.
+An extraction instruction could specify the desired seam and certify the
+opening left behind. The retained isolation order also governed where separated
+stone went, what it could touch, and where workers slept. The material's next
+use had entered the operating procedure.
+
+Later Compact training compares that historical order with the three-witness
+protocol and the physical walkdown required after a cut. The comparison is
+retrospective; the Houses did not possess the later Compact's forensic standard.
+The successive practices address different failures. Restricting reuse reduces
+opportunities for physical propagation. Separating reference specimens prevents
+the examination from creating its own suspected material path. Inspecting the
+finished disconnection checks whether a temporary service or repair has bridged
+it again. Each step names work that someone must perform and record.
+
+The old sleeping-quarters prohibition also imposed a practical obligation that
+later accounts make explicit: displaced crews still required shelter within
+reach of their work. Modern procedure attaches receiving capacity to an
+isolation order. A safe boundary whose far side cannot sustain its residents
+is an incomplete response even when the cut itself is sound.
 
 #### Shift sayings and withheld casualties
 
@@ -1424,6 +1478,45 @@ Because isolation is destructive, adversaries often fabricate Rzez evidence.
 The Sixth Compact therefore requires independent confirmation before regional disconnection, except where delay would create planetary risk.
 
 The argument over when to cut and when to investigate remains one of the central political dilemmas of the post-Valec world.
+
+#### The paired-lift alarm
+
+**Period:** Later Compact practice, during Maret Sen's working career<br>
+**Place:** A municipal freight yard on Kharos<br>
+**Finding:** Ordinary manufacturing damage; local Rzez allegation closed
+
+Two lifting frames developed splitting resonance peaks and changing load
+responses during the same inspection cycle. The yard stopped both lifts and
+moved their loads onto separately rated supports. The initial record called
+for a bounded mechanical investigation, while a commercial refusal notice
+described every consignment in the yard as exposed. Traders began refusing
+cargo whose only connection to the lifts was an entry in the same dispatch book.
+
+Independent examination traced the failures to pins from one incorrectly
+heat-treated batch. The retained pins, manufacturing records, inspecting crews'
+accounts, and independent material and load measurements support the finding
+at Grade A. Damage twins reproduced the measured progression under the recorded
+loading, and the pin fractures followed the batch's documented material defect.
+The investigation closed the local Rzez allegation on that positive account of
+the damage.
+
+The repair certificate covered replacement pins, the examined frame members,
+and the specified lifting duties. It did not certify unrelated cargo by
+association. Yard inspectors released consignments through their ordinary
+handling histories, corrected the commercial notice, and circulated the
+correction to its original recipients. The lifts returned to their rated work
+after independent inspection and commissioning.
+
+The documentary settlement assigned the supplier's defective parts to the
+supplier and the yard's overbroad freight notice to the yard. Sen, retained by
+the affected carriers, recorded wage interruption and temporary handling costs
+separately from the replacement bill. That settlement was local, rather than a
+new compensation article of the Sixth Compact. The stop had protected workers;
+its commercial extension had imposed avoidable losses. Both conclusions stand.
+
+The account ends with resumed lifting, corrected freight records, and the
+settlement's payments. Its inclusion preserves a completed ordinary repair
+within a history whose most famous failures could never be repaired.
 
 ### The post-Valec built environment
 
