@@ -7,6 +7,7 @@ decision_basis:
   - kelan-ruva-natural-and-human-history-expansion
   - physical-world-adoption
   - known-world-spaceflight-and-expansion
+  - solar-name-inversion
 ---
 
 # Human Arrival in Kelan–Ruva
@@ -182,6 +183,58 @@ departing population, one language's term elevated by later translators, or a
 technical endonym selected for historical convenience. That linguistic dispute
 does not reopen the biological conclusion. The Compendium may call the cradle
 Earth without asserting that every founder did.
+
+### Sol and the supposed system name
+
+Sol itself is not an anonymous or forgotten star. The Origin Sky converges on
+its astronomical viewpoint, the Solar diagrams preserve its planetary
+architecture, and several independent linguistic traditions support *Sol* as
+the common scholarly rendering. Present historians can identify the ancestral
+stellar system without knowing a route to it or Earth's present condition.
+
+The phrase **Solar System** is the Compendium's ordinary common translation for
+that system. Most contemporary cultures nevertheless assume that the ancestral
+system once possessed an independent proper name of the kind now assigned to
+every inhabited stellar basin. Because no such name survives in a securely
+authenticated field, popular histories call it lost. Scholarly candidates have
+been proposed from words for the Sun, local skies, political territories,
+catalog headings, and damaged departure programs, but none can be shown to name
+the entire system in the expected modern sense.
+
+The authorial truth turns that expectation backward. Historical Earth never had
+one universally recognized independent proper name for the whole stellar system.
+The English expression *Solar System* was descriptive and derived from the Sun;
+*Sol* identified the star. Different languages and cultures carried many names
+for the Sun, Earth, the Moon, the planets, the sky, and the human places among
+them, but no missing universal system-name string waits to be recovered.
+
+Real losses remain substantial. The surviving record does not preserve every
+departure community's preferred names, a complete multilingual planetary and
+minor-body gazetteer, the full identities and locations of departure sites and
+orbital facilities, the identities of all migration programs, or the political
+and civil geography surrounding departure. Some fragments retain names whose
+referents can no longer be fixed; other bodies and places survive only as
+diagram positions, catalog numbers, translations, or later paraphrases.
+
+The belief persists without requiring one coordinated fraud. Modern registries
+expect every inhabited system to have an independent canonical name, so a blank
+field looks like damage rather than historical category error. Translation makes
+*Solar System* resemble a generic description or editorial placeholder. Genuine
+loss elsewhere in the founding record makes one more missing name plausible, and
+no fragment can conclusively prove that no culture ever supplied one.
+
+The belief also has uses. Candidate names support descent claims, schools of
+translation, archival budgets, commemorations, and rival accounts of who carried
+humanity away. Some institutions preserve the ambiguity because accepting one
+candidate would privilege one linguistic lineage; others avoid declaring that
+the sought name never existed because doing so would discredit generations of
+scholarship and public memory. A few custodians may understand the category error
+and still retain the conventional missing-name field as a politically neutral
+refusal to let any one claimant own the cradle.
+
+Present historians therefore cannot conclusively demonstrate the authorial
+answer. A future fragment may recover another authentic Solar name without
+supplying the one canonical proper system name that modern scholarship expects.
 
 ## Evidence ladder
 

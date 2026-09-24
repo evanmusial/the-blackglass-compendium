@@ -10,6 +10,10 @@ These documents describe how the Compendium is organized and maintained.
   renders, orbital atlases, inhabited scenes, technologies, abstract diagrams,
   and documentary plates against current canon.
 
+- [`celestial-nomenclature.md`](celestial-nomenclature.md) is the author-facing
+  design ledger for system and body naming, source-language research, restricted
+  names and worlds, and repository-wide rename migrations.
+
 - [`prose-integration-pass.md`](prose-integration-pass.md) records the prose
   conversion, retained documentary lists, source-to-destination preservation,
   and linked authorial companions under [`editorial-notes/`](editorial-notes/).

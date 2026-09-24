@@ -22,6 +22,14 @@ canon revision replaces this history:
 - Do not connect the arrival to the Manifold merely because the route is lost.
 - Do not establish Earth's survival, destruction, habitability, political
   condition, or knowledge of Kelan–Ruva.
+- Do not make Sol itself unknown. Its astronomical identity and direction are
+  supported even though no known route reaches it.
+- Do not invent a hidden universal proper name for the Solar System. Present
+  cultures believe such a name was lost; authorially, historical Earth had no
+  single independent system name of the modern regional kind.
+- Do not turn that inversion into complete Solar amnesia. Particular languages,
+  catalogs, body and place names, settlements, programs, and social histories
+  can genuinely be lost or fragmentary.
 - Do not establish one motive for migration.
 - Do not fix the total number, names, sponsors, or complete passenger counts of
   the carrier assemblages.
@@ -82,6 +90,39 @@ map. No present route terminus is identified with it. Optical observation also
 shows a past state because light requires time to cross the intervening space.
 Current canon does not assign the distance from Kelan–Ruva to Sol, the resolving
 power of any particular observatory, or what may presently be visible of Earth.
+
+## Solar-name inversion
+
+Present regional practice gives each inhabited stellar system an independent
+proper name. Historians project that convention backward and generally believe
+that Sol's system once had an equivalent name whose field has disappeared from
+the surviving record. Candidate reconstructions can be sincere, technically
+argued, and culturally important without being correct.
+
+The authorial answer is that there was no single lost name to find. *Solar
+System* was a descriptive English expression derived from the Sun, while *Sol*
+named the star; other languages and cultures used their own Solar vocabulary.
+This is an authorial historical irony, not a secret word possessed by another
+archive or a puzzle whose eventual solution is predetermined.
+
+Most people perpetuating the belief are not lying. Modern catalog structures
+make an empty system-name field look damaged, translation makes *Solar System*
+look like a placeholder, and genuine losses elsewhere make the inference
+reasonable. Institutions may also benefit from candidate-name scholarship,
+descent claims, commemorative practice, and funded archival searches.
+
+Some custodians can knowingly preserve the ambiguity without sharing one
+conspiracy. Refusing to endorse or reject a candidate prevents one language,
+carrier lineage, polity, or descendant community from claiming ownership of the
+human cradle. Others protect institutional reputation or inherited public
+memory. Their conduct can range from cautious neutrality through motivated
+silence to deliberate falsehood and should be attributed case by case.
+
+The absence of one universal system name does not preserve every Solar name or
+fact. Future work may decide which planetary, lunar, minor-body, geographic,
+institutional, settlement, habitat, catalog, and program names survive. It must
+retain enough loss to make the founders' social world fragmentary without
+weakening the established identification of Earth and Sol.
 
 ## Prehuman biosphere qualification
 

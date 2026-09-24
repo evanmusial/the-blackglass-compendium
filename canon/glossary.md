@@ -63,7 +63,9 @@ mean any undertaking whose real cost begins after nominal arrival.
 The surviving family of Solar-vicinity star catalogues, navigation solutions,
 planetary diagrams, and later reconstructions used to study human departure.
 Origin Sky records preserve astronomical states of the old sky; they do not by
-themselves identify the civil calendar year in which a state was recorded.
+themselves identify the civil calendar year in which a state was recorded. They
+identify Sol without establishing the independent proper system name that many
+present cultures incorrectly assume has been lost.
 
 ## Collection and information-hazard terms
 

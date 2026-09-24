@@ -20,6 +20,7 @@ decision_basis:
   - blackglass-tradition-canonization
   - physical-world-adoption
   - known-world-spaceflight-and-expansion
+  - solar-name-inversion
 ---
 
 # Provisional Interstellar Setting Scope
@@ -313,6 +314,22 @@ precedes it. Independent biological lineages share terrestrial ancestry.
 Fragments preserve a recognizably Solar planetary arrangement, a sky catalogue
 made from the Solar vicinity, and cognates of *Earth* and *Terra*. The combined
 case is stronger than any surviving account of the migration itself.
+
+Sol is therefore known as an astronomical object and ancestral viewpoint. The
+phrase *Solar System* is the collection's common descriptive translation, not a
+separate recovered proper name for the whole system. Present cultures commonly
+assume that such a proper name once existed and was lost because their own
+stellar registries assign independent names to inhabited systems. Authorially,
+that assumption is false: historical Earth had no single universal system name
+of that kind. What has genuinely been lost includes parts of Earth's
+multilingual Solar nomenclature, catalogs, settlements, institutions, migration
+programs, and departure-era geography.
+
+The mistaken belief persists partly because modern records encode the absent
+name as a damaged field, genuine surrounding losses make that interpretation
+credible, and proposed names carry lineage, institutional, and political value.
+Some custodians also prefer an unresolved ancestral name to a settlement that
+would privilege one recovered language or descendant tradition over another.
 
 The distinction future authors must preserve is between **knowing the epoch**
 and **naming the year**. Astrometry, proper motion, pulsar records, isotope

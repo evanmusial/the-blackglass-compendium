@@ -48,6 +48,9 @@ The new decision is narrower than a complete origin story:
    securely ordered Meridian events.
 8. Physical intervals and astronomical epochs are recoverable in principle and
    often in practice. A unique numbered Earth civil year is not.
+9. Sol and its planetary architecture are identifiable. Present cultures believe
+   its independent proper system name was lost, but authorially no single
+   universal name of that kind existed.
 
 The reason for departure, exact passenger and carrier counts, direct versus
 intermediate routes, passage mechanism, experienced duration, Earth's present
@@ -222,13 +225,14 @@ its modern standards and concordance institutions.
 ## The Earth-correlation boundary
 
 The user-facing premise is not that people have forgotten astronomy. The setting
-keeps three different things separate:
+keeps four different things separate:
 
 | Question | Recoverability |
 | --- | --- |
 | How much physical time separates two declared events? | Often recoverable within stated scientific uncertainty. |
 | What did the sky look like in a defined frame at an observation? | Recoverable from astrometry, proper motion, radial velocity, pulsar behavior, and old catalog residuals. |
 | What numbered civil year did an Earth society call that epoch? | Not uniquely recoverable from the surviving chain of records. |
+| What was the Solar System's independent proper name? | Present cultures generally believe it was lost. Authorially, no single universal name of the expected modern kind existed. |
 
 The missing datum is conventional and archival. A civil year number is not
 written into stellar motion. Surviving navigation records preserve vectors,
@@ -253,6 +257,19 @@ No hidden Common Era date should appear in authorial notes. In-world scholars
 may construct mutually incompatible crosswalk families, but no current proposal
 exceeds Grade C and none may decide citizenship, ownership, inheritance, or
 arrival priority.
+
+The same boundary applies to Solar nomenclature. Sol is a known astronomical
+identity, not an unnamed origin star. *Solar System* is a common descriptive
+translation. Competing claims for a lost proper system name misread the absence
+through a modern naming convention, even though particular Solar-language names,
+catalogs, places, settlements, programs, and histories are genuinely incomplete.
+
+The belief survives because an empty modern registry field resembles data loss,
+because authentic surrounding losses make that reading plausible, and because
+candidate names carry political and institutional value. Most adherents are
+sincere. Some custodians knowingly preserve uncertainty to prevent one language,
+carrier lineage, or descendant community from converting a candidate name into
+privileged ownership of the human cradle.
 
 ## Evidence and interpretation
 
@@ -328,6 +345,11 @@ selected a concealed Earth year.
 
 - No numbered Earth departure, arrival, or present year.
 - No selected Earth calendar as the secret correct crosswalk.
+- No hidden universal proper name for the Solar System. The durable in-world
+  belief that one was lost is authorially mistaken.
+- No complete Solar gazetteer or departure-era social map; the absence of one
+  universal system name must not become a claim that no Solar names or facts were
+  lost.
 - No fixed journey duration or passenger-experience model.
 - No fixed founding transit mechanism and no automatic identification with
   present routes or The Manifold.
