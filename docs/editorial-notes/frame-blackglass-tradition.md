@@ -5,7 +5,7 @@ The source metadata and lifecycle status remain unchanged. Original guidance,
 research references, and reservations are preserved below; relative links are
 rebased to this companion location.
 
-## Boundaries that remain unresolved
+## Boundaries that remain unresolved in the current collection
 
 The following questions are intentionally not answered:
 
@@ -14,7 +14,9 @@ The following questions are intentionally not answered:
 - whether the Prior Hands were human, contemporary with one another, or aware of
   the later Codex tradition;
 - whether the name began with a material, a redaction practice, a mirror
-  metaphor, or a convergence of all three;
+  metaphor, or a convergence of all three; the concealed authorial answer is
+  retained in the [collection-identity companion](frame-collection-identity.md)
+  for revelation only in a future collection;
 - whether a complete recension has ever existed;
 - whether the scattered-leaf and proximate-medium patterns have one cause;
 - whether any page found in open space was placed for a particular discoverer;
